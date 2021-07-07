@@ -3,7 +3,7 @@
 
 copyright:
   years: 2016, 2021
-lastupdated: "2021-06-29"
+lastupdated: "2021-07-07"
 
 keywords: console, platform overview, overview, data center, security, compliance 
 
@@ -70,16 +70,19 @@ For more information, see the [best practices for setting up an enterprise](/doc
 ## {{site.data.keyword.Bluemix_notm}} catalog
 {: #catalog}
 
-{{site.data.keyword.Bluemix_notm}} provides a full-stack, public cloud platform with various products in the catalog, including options for compute, storage, networking, end-to-end developer solutions for app development, testing and deployment, security management services, traditional and open source databases, and cloud-native services. You can find all of these services on the Services tab in the catalog. The lifecycle and operations of these services are the responsibility of {{site.data.keyword.IBM_notm}}.
+{{site.data.keyword.Bluemix_notm}} provides a full-stack, public cloud platform with various products in the catalog, including options for compute, storage, networking, end-to-end developer solutions for app development, testing and deployment, security management services, traditional and open source databases, and cloud-native services. You can find all of these services on the Services page in the catalog. The lifecycle and operations of these services are the responsibility of {{site.data.keyword.IBM_notm}}.
 
-The Software tab includes a growing catalog of software products, including [Cloud Paks](https://www.youtube.com/watch?v=DzFhhSR8SSs){: external}, [starter kits](/docs/apps?topic=apps-starter-kits), [Helm charts](https://www.ibm.com/cloud/blog/announcements/bitnami-application-catalog-now-available-within-ibm-cloud){: external}, [Operators](https://www.ibm.com/cloud/blog/announcements/onboard-your-operator-in-the-ibm-cloud-catalog-in-days){: external}, and [virtual server images](https://www.ibm.com/cloud/blog/announcements/onboard-virtual-server-images-in-days-by-using-terraform-in-the-ibm-cloud-catalog){: external}. Even though you're responsible for the lifecycle management, deployment, and configuration of these software products on your own compute resources, you can take advantage of a simplified installation process to get up and running quickly.
+The Software page includes a growing catalog of software products, including [Cloud Paks](https://www.youtube.com/watch?v=DzFhhSR8SSs){: external}, [starter kits](/docs/apps?topic=apps-starter-kits), [Helm charts](https://www.ibm.com/cloud/blog/announcements/bitnami-application-catalog-now-available-within-ibm-cloud){: external}, [Operators](https://www.ibm.com/cloud/blog/announcements/onboard-your-operator-in-the-ibm-cloud-catalog-in-days){: external}, and [virtual server images](https://www.ibm.com/cloud/blog/announcements/onboard-virtual-server-images-in-days-by-using-terraform-in-the-ibm-cloud-catalog){: external}. Even though you're responsible for the lifecycle management, deployment, and configuration of these software products on your own compute resources, you can take advantage of a simplified installation process to get up and running quickly.
 
-The catalog also supports command-line interfaces (CLIs) and a RESTful API for users to retrieve information about existing products, and create, manage, and delete their resources. 
+The Consulting page provides different options for scheduling a consultation with technical experts depending on your needs, such as cloud migration, creating business solutions with {{site.data.keyword.IBM_notm}} Garage, or developing a container security solution that works for you.
+
+The catalog supports command-line interfaces (CLIs) and a RESTful API for you to use to retrieve information about existing products. 
+{: note}
 
 ### Searching the catalog 
 {: #catalog-filter-options}
 
-The following table lists the filter options that you can use when you search the catalog. 
+The following table lists the filter options that you can use to search the catalog. 
 
 | Option      | Description  |
 |------------------|-------|
