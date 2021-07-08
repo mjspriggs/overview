@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2021
 
-lastupdated: "2021-06-18"
+lastupdated: "2021-07-07"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -26,6 +26,13 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 
 If you're looking for updates about products that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external} on the {{site.data.keyword.Bluemix_notm}} blog.
 {: tip}
+
+## Support for third-party Operator bundles from {{site.data.keyword.redhat_notm}} {{site.data.keyword.openshiftshort}} registries
+{: #support-operator-bundle}
+
+New as of: 07 July 2021
+
+Third-party providers can now onboard Operator bundles from {{site.data.keyword.redhat_notm}} {{site.data.keyword.openshiftshort}} registries to {{site.data.keyword.cloud_notm}}. The {{site.data.keyword.redhat_notm}} {{site.data.keyword.openshiftshort}} registries include Certified Operators, Marketplace Operators, and community Operators. This capability is supported by the beta release of {{site.data.keyword.cloud_notm}} Partner Center and our previously general availability release of private catalog capabilities. For more information, see [Onboarding an Operator bundle from the Red Hat Certified registry](/docs/third-party?topic=third-party-bundle-register).
 
 ## New invitation flow for existing {{site.data.keyword.Bluemix_notm}} users
 {: #new-invitation-flow}
