@@ -32,7 +32,7 @@ If you're looking for updates about products that are available on {{site.data.k
 
 New as of: 07 July 2021
 
-Third-party providers can now onboard Operator bundles from {{site.data.keyword.redhat_notm}} {{site.data.keyword.openshiftshort}} registries to {{site.data.keyword.cloud_notm}}. The {{site.data.keyword.redhat_notm}} {{site.data.keyword.openshiftshort}} registries include Certified Operators, Marketplace Operators, and community Operators. This capability is supported by the beta release of {{site.data.keyword.cloud_notm}} Partner Center and our previously general availability release of private catalog capabilities. For more information, see [Onboarding an Operator bundle from the Red Hat Certified registry](/docs/third-party?topic=third-party-bundle-register).
+Third-party providers can now onboard Operator bundles from {{site.data.keyword.redhat_notm}} {{site.data.keyword.openshiftshort}} registries to {{site.data.keyword.cloud_notm}}. The {{site.data.keyword.redhat_notm}} {{site.data.keyword.openshiftshort}} registries include Certified Operators, Marketplace Operators, and community Operators. This capability is supported by the beta release of {{site.data.keyword.cloud_notm}} Partner Center and our previously general availability release of private catalog capabilities. For more information, see [Onboarding a Certified Operator bundle from a Red Hat registry](/docs/third-party?topic=third-party-bundle-register).
 
 ## New invitation flow for existing {{site.data.keyword.Bluemix_notm}} users
 {: #new-invitation-flow}
