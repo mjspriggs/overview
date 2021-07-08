@@ -1,6 +1,6 @@
 {
     "title": "IBM Cloud overview docs",
-    "lastupdated": "2021-05-19",
+    "lastupdated": "2021-07-08",
     "introduction": "The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model. Leverage the docs, API & SDK reference, architecture references, and more to support your app development needs.",
     "section_devtools": {
       "api": "/docs?tab=api-docs&category=platform_services",
@@ -41,6 +41,11 @@
       "view_more": "/docs/overview?topic=overview-whatsnew",
       "tiles": [
         {
+          "date": "07 July 2021",
+          "title": "Support for third-party Operator bundles from Red Hat OpenShift registries",
+          "description": "Third-party providers can now onboard Operator bundles from Red Hat OpenShift registries to IBM Cloud. The Red Hat OpenShift registries include Certified Operators, Marketplace Operators, and community Operators. This capability is supported by the beta release of IBM Cloud Partner Center and our general availability release of private catalog capabilities."
+        },
+        {
           "date": "01 June 2021",
           "title": "New invitation flow for existing IBM Cloud users",
           "description": "From June 1, 2021, to enhance security and user protection, IBM Cloud requires all users to accept an invitation in order to become an active user within a new account. Concerned about how this change impacts your automation? To avoid any disruption to on-going workflows, you need to check your scripts."
@@ -49,11 +54,6 @@
           "date": "07 May 2021",
           "title": "Support for third-party virtual server images with Terraform",
           "description": "Third-party providers can now offer virtual server images deployed by using Terraform in IBM Cloud. This capability is supported by the beta release of IBM Cloud Partner Center and our previously general availability release of private catalog capabilities."
-        },
-        {
-          "date": "21 April 2021",
-          "title": "Delivering notifications by using webhooks",
-          "description": "You can now easily add webhooks to the notification distribution list in addition to adding email addresses. You can register a webhook with your account on the Notification distribution list page to receive all account notifications."
         }
       ]
     }
