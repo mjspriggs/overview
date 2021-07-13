@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2021
-lastupdated: "2021-06-10"
+lastupdated: "2021-07-13"
 
 keywords: data centers, regions, locations, network, ibm cloud regions, multizone regions, MZRs, latency, HA, high availability, endpoints, cloud regions, cloud data centers, multizone, resources, geography, global, geo, load balance, availability zone, zones, north america, south america, europe, asia, DC, tiers, globally resilient, resilient
 
@@ -22,14 +22,14 @@ subcollection: overview
 {{site.data.keyword.cloud}} has a resilient global network of locations to host your highly available cloud workload. You can create resources in different locations but with the same billing and usage view. You can also deploy your apps to the location that is nearest to your customers to achieve low application latency.
 {: shortdesc}
 
-{{site.data.keyword.cloud_notm}} provides 3 tiers of regions: [multizone regions](#x9774820){: term} (MZR), [single-zone regions](#x9774825){: term} (SZR), and [data centers](#x2439906){: term}. For more details, see the following sections.
+{{site.data.keyword.cloud_notm}} provides three tiers of regions: [multizone regions](#x9774820){: term} (MZR), [single-zone regions](#x9774825){: term} (SZR), and [data centers](#x2439906){: term}. For more details, see the following sections.
 
 ## Multizone regions
 {: #mzr-table}
 
-MZRs are composed of 3 or more zones that are independent from each other to ensure that single failure events affect only a single zone. MZRs provide low latency (< 2-milliseconds latency) and high bandwidth (> 1000 Gbps) connectivity across zones. Any [GA](#x2117947){: term} service in an MZR will be available in all MZRs within 90 days. 
+MZRs are composed of three or more zones that are independent from each other to ensure that single failure events affect only a single zone. MZRs provide low latency (< 2-milliseconds latency) and high bandwidth (> 1000 Gbps) connectivity across zones. Any [GA](#x2117947){: term} service in an MZR is available in all MZRs within 90 days. 
 
-The advantage of an MZR is that it provides consistent cloud services across different zones, better resiliency, availability, higher interconnect speed between data centers for your resources. These features can be critical to your applications. Deploying the application in an MZR rather than an SZR can increase the availability from 99.9% to 99.99% when deployed over 3 zones. 
+The advantage of an MZR is that it provides consistent cloud services across different zones, better resiliency, availability, higher interconnect speed between data centers for your resources. These features can be critical to your applications. Deploying the application in an MZR rather than an SZR can increase the availability from 99.9% to 99.99% when deployed over three zones. 
 
 The following table lists the {{site.data.keyword.cloud_notm}} MZRs and the region, zone, and data center codes for each one. 
 
@@ -86,7 +86,7 @@ You can also choose to deploy resources to an SZR, but you can't spread them acr
 ## Data centers
 {: #data-centers}
 
-In addition to selecting a region for your resource, you have the option to select from a list of the {{site.data.keyword.Bluemix_notm}} data centers, depending on the type of resource you're working with. For example, you get this option with all classic infrastructure services. Data centers host the power, cooling, compute, network, and storage resources used for services and apps. They don't provide isolation from multizones in a location. 
+In addition to selecting a region for your resource, you can select from a list of the {{site.data.keyword.Bluemix_notm}} data centers, depending on the type of resource you're working with. For example, you get this option with all classic infrastructure services. Data centers host the power, cooling, compute, network, and storage resources used for services and apps. They don't provide isolation from multizones in a location. 
 
 Data centers are based on a POD architecture where each data center can have more than one POD, depending on on-demand buildout. Each POD consists of racks, servers, networks, and storage, along with backup power generators. Placing application servers across PODs further improves the availability.
 
