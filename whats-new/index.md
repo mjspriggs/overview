@@ -32,7 +32,7 @@ If you're looking for updates about products that are available on {{site.data.k
 
 If you have an account with the Pay as you go with Committed Use billing model, you might be eligible to receive service-level discounts. You can apply service-level discounts to commitments in addition to the platform-level discount. 
 
-Service-level discounts are provided by {{site.data.keyword.Bluemix_notm}} Sales to customers with the Pay as you go with Committed Use billing model. For more information, see [Service-level discounts] (/docs/billing-usage?topic=billing-usage-committed-use#unmet-commit#service-discount-commit). 
+Service-level discounts are provided by {{site.data.keyword.Bluemix_notm}} Sales to customers with the Pay as you go with Committed Use billing model. For more information, see [Service-level discounts](/docs/billing-usage?topic=billing-usage-committed-use#unmet-commit#service-discount-commit). 
 
 ## Support for third-party Operator bundles from {{site.data.keyword.redhat_notm}} {{site.data.keyword.openshiftshort}} registries
 {: #support-operator-bundle}
