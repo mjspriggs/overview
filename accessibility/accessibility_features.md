@@ -4,7 +4,7 @@
 
 copyright:
   years: 2016, 2019
-lastupdated: "2021-05-12"
+lastupdated: "2021-07-13"
 
 keywords: quick keys, accessibility
 
@@ -29,7 +29,7 @@ Accessibility features assist users who have a disability, such as restricted mo
 * Keyboard-only operation
 * Operations that use a screen reader
 
-{{site.data.keyword.Bluemix_notm}} uses the latest W3C Standard, [WAI-ARIA 1.0](http://www.w3.org/TR/wai-aria/){: external} to ensure compliance to US Section 508 and [Web Content Accessibility Guidelines (WCAG) 2.0](http://www.w3.org/TR/WCAG20/){: external}. To take advantage of accessibility features, use the latest release of your screen reader in combination with the latest Internet Explorer web browser that is supported by this product.
+{{site.data.keyword.Bluemix_notm}} uses the latest W3C Standard, [WAI-ARIA 1.0](http://www.w3.org/TR/wai-aria/){: external} to ensure compliance to US Section 508 and [Web Content Accessibility Guidelines (WCAG) 2.0](http://www.w3.org/TR/WCAG20/){: external}. To take advantage of accessibility features, use the latest release of your screen reader in combination with the latest Firefox web browser that is supported by this product.
 
 The {{site.data.keyword.Bluemix_notm}} online product documentation and the {{site.data.keyword.Bluemix_notm}} user interface framework is enabled for accessibility. 
 
