@@ -3,7 +3,7 @@
 
 copyright:
   years: 2016, 2021
-lastupdated: "2021-02-05"
+lastupdated: "2021-07-15"
 
 keywords: glossary, IBM Cloud glossary, terms, definitions
 
@@ -264,6 +264,11 @@ Pertaining to an open, non-proprietary development platform that includes public
 
 A collection of scripts that provide framework and runtime support for apps.
 
+### business continuity
+{: #x3026801}
+
+The capability of a business to withstand outages and to operate mission-critical services normally and without interruption in accordance with predefined service-level agreements.
+
 
 ## C
 {: #glossc}
@@ -483,6 +488,12 @@ A collection of words that can be used to pre-annotate documents. A new annotati
 
 A component that identifies mentions in text that match a specific set of words. By using domain-specific terminology to pre-annotate text, dictionary pre-annotators can accelerate a human annotator's ability to prepare a set of ground truth documents.
 
+### disaster recovery (DR)
+{: #x2113280}
+
+The ability of IT services to recover from rare but major incidents and non-transient, wide-scale failures, such as service disruption that affects an entire geographical area. The impact of such an incident exceeds the ability of the high availability design to handle it. See also high availability, recovery time objective, recovery point objective. See also [high availability](/docs/overview?topic=overview-glossary#x2284708), [recovery point objective](/docs/overview?topic=overview-glossary#x3429911), [recovery time objective](/docs/overview?topic=overview-glossary#x3167918).
+
+
 ### Dockerfile
 {: #x9860414}
 
@@ -497,6 +508,11 @@ A collection of documents. Documents that are imported together become a documen
 {: #x2021210}
 
 Part of a naming hierarchy that specifies the route. For example, example.com. In {{site.data.keyword.cloud_notm}}, domains are associated with orgs. Domain objects are not directly bound to apps. See also [custom domain](/docs/overview?topic=overview-glossary#x5728384), [host](/docs/overview?topic=overview-glossary#x2002243), [organization](/docs/overview?topic=overview-glossary#x2032585), [route](/docs/overview?topic=overview-glossary#x2037338), [subdomain](/docs/overview?topic=overview-glossary#x2040080), [Uniform Resource Locator](/docs/overview?topic=overview-glossary#x2042491).
+
+### DR
+{: #x2021360}
+
+See [disaster recovery](/docs/overview?topic=overview-glossary#x2113280).
 
 ### droplet
 {: #x7470343}
@@ -704,6 +720,11 @@ See [globally unique identifier](/docs/overview?topic=overview-glossary#x2390455
 ## H
 {: #glossh}
 
+### HA
+{: #x2404289}
+
+See [high availability](/docs/overview?topic=overview-glossary#x2284708).
+
 ### hardware security module (HSM)
 {: #x6704988}
 
@@ -728,6 +749,11 @@ A process that monitors system resources and conditions to determine whether the
 {: #x7690468}
 
 A client operation that writes, deletes, or inserts data. Heavy API calls consume more resources than light API calls because they are affecting the data. See also [light API call](/docs/overview?topic=overview-glossary#x7690463).
+
+### high availability (HA)
+{: #x2284708}
+
+The ability of IT services to withstand all outages and continue providing processing capability according to some predefined service level. Covered outages include both planned events, such as maintenance and backups, and unplanned events, such as software failures, hardware failures, and power failures. See also [disaster recovery](/docs/overview?topic=overview-glossary#x2113280).
 
 ### host
 {: #x2002243}
@@ -1306,6 +1332,16 @@ Pertaining to data that changes dynamically.
 
 A measurement that specifies the percentage of relevant results returned, out of all available relevant results. Recall, which is a measure of sensitivity, is determined by the number of correct positive results divided by the number of positive results that should have been returned. Accuracy is best measured by using both precision and recall. See also [accuracy](/docs/overview?topic=overview-glossary#x3125742), [precision](/docs/overview?topic=overview-glossary#x2003831).
 
+### recovery point objective (RPO)
+{: #x3429911}
+
+In disaster recovery planning, the point at which data is restored to in the event of a disaster. See also [disaster recovery](/docs/overview?topic=overview-glossary#x2113280).
+
+### recovery time objective (RTO)
+{: #x3167918}
+
+The maximum duration of time within which an application should be restored after any type of disaster. See also [disaster recovery](/docs/overview?topic=overview-glossary#x2113280).
+
 ### red-black deployment
 {: #x8439181}
 
@@ -1366,6 +1402,16 @@ A symmetric wrapping key that is used for encrypting and decrypting other keys t
 {: #x2037338}
 
 The URL used to direct requests to an application. A route is made up of an optional host (or subdomain) and a domain that are specified when an application is pushed. For example, in the route myapp.example.com, myapp is the host and example.com is the domain. A route can be associated with one or more applications. Unless a custom domain is specified, {{site.data.keyword.cloud_notm}} uses a default shared domain in the route to your application. See also [custom domain](/docs/overview?topic=overview-glossary#x5728384), [domain](/docs/overview?topic=overview-glossary#x2021210), [endpoint](/docs/overview?topic=overview-glossary#x2026820), [host](/docs/overview?topic=overview-glossary#x2002243), [subdomain](/docs/overview?topic=overview-glossary#x2040080), [Uniform Resource Locator](/docs/overview?topic=overview-glossary#x2042491).
+
+### RPO
+{: #x3429916}
+
+See [recovery point objective](/docs/overview?topic=overview-glossary#x3429911).
+
+### RTO
+{: #x3169555}
+
+See [recovery time objective](/docs/overview?topic=overview-glossary#x3167918).
 
 ### rule
 {: #x2037526}
