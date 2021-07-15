@@ -27,6 +27,16 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 If you're looking for updates about products that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external} on the {{site.data.keyword.Bluemix_notm}} blog.
 {: tip}
 
+## Delivering notifications by using Slack Webhooks
+{: #deliver-notification-slack-webhook}
+
+New as of: 14 July 2021
+
+In addition to generic webhooks, you can now add Slack webhooks to your distribution list and receive account-wide {{site.data.keyword.cloud_notm}} notifications through them. To create a webhook, you need to set up an app in Slack and a unique URL. 
+With this new webhook integration, you can easily receive the notifications in a selected Slack channel in which you installed your app.
+
+For more information on Slack webhooks, see [Adding Slack webhooks to a distribution list](/docs/account?topic=account-adding-webhooks-to-a-distribution-list#adding-slack-webhooks-to-a-distribution-list).
+
 ## Service-level discounts for accounts with the Pay as you go with Committed Use billing model
 {: #service-level-discount-paygo}
 
