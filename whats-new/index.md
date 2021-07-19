@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2021
 
-lastupdated: "2021-07-15"
+lastupdated: "2021-07-19"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -36,6 +36,8 @@ When you create a case in the {{site.data.keyword.Bluemix_notm}} Support Center,
 
 ## Service-level discounts for accounts with the Pay as you go with Committed Use billing model
 {: #service-level-discount-paygo}
+
+New as of: 07 July 2021
 
 If you have an account with the Pay as you go with Committed Use billing model, you might be eligible to receive service-level discounts. You can apply service-level discounts to commitments in addition to the platform-level discount. 
 
