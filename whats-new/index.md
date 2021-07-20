@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2021
 
-lastupdated: "2021-07-15"
+lastupdated: "2021-07-19"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -27,6 +27,14 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 If you're looking for updates about products that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external} on the {{site.data.keyword.Bluemix_notm}} blog.
 {: tip}
 
+
+## Scoping support cases to what matters to you
+{: #create-case-process}
+
+New as of: 15 July 2021
+
+When you create a case in the {{site.data.keyword.Bluemix_notm}} Support Center, you now have options to narrow the subject of your case to a specific topic that's most closely related to the issue you're experiencing. As a result, you can ensure that your support case gets routed to the appropriate support engineer and resolved as efficiently as possible. For more information, see [Creating support cases](/docs/get-support?topic=get-support-open-case#creating-support-case).
+
 ## Delivering notifications by using Slack Webhooks
 {: #deliver-notification-slack-webhook}
 
@@ -39,6 +47,8 @@ For more information on Slack webhooks, see [Adding Slack webhooks to a distribu
 
 ## Service-level discounts for accounts with the Pay as you go with Committed Use billing model
 {: #service-level-discount-paygo}
+
+New as of: 07 July 2021
 
 If you have an account with the Pay as you go with Committed Use billing model, you might be eligible to receive service-level discounts. You can apply service-level discounts to commitments in addition to the platform-level discount. 
 

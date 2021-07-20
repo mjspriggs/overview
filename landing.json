@@ -1,6 +1,6 @@
 {
     "title": "IBM Cloud overview docs",
-    "lastupdated": "2021-07-08",
+    "lastupdated": "2021-07-19",
     "introduction": "The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model. Leverage the docs, API & SDK reference, architecture references, and more to support your app development needs.",
     "section_devtools": {
       "api": "/docs?tab=api-docs&category=platform_services",
@@ -41,19 +41,19 @@
       "view_more": "/docs/overview?topic=overview-whatsnew",
       "tiles": [
         {
-          "date": "07 July 2021",
-          "title": "Support for third-party Operator bundles from Red Hat OpenShift registries",
-          "description": "Third-party providers can now onboard Operator bundles from Red Hat OpenShift registries to IBM Cloud. The Red Hat OpenShift registries include Certified Operators, Marketplace Operators, and community Operators. This capability is supported by the beta release of IBM Cloud Partner Center and our general availability release of private catalog capabilities."
+          "date": "15 July 2021",
+          "title": "Scoping support cases to what matters to you",
+          "description": "When you create a case in the IBM Cloud Support Center, you now have options to narrow the subject of your case to a specific topic that's most closely related to the issue you're experiencing. As a result, you can ensure that your support case gets routed to the appropriate support engineer and resolved as efficiently as possible."
         },
         {
-          "date": "01 June 2021",
-          "title": "New invitation flow for existing IBM Cloud users",
-          "description": "From June 1, 2021, to enhance security and user protection, IBM Cloud requires all users to accept an invitation in order to become an active user within a new account. Concerned about how this change impacts your automation? To avoid any disruption to on-going workflows, you need to check your scripts."
+          "date": "14 July 2021",
+          "title": "Delivering notifications by using Slack Webhooks",
+          "description": "In addition to generic webhooks, you can now add Slack webhooks to your distribution list and receive account-wide IBM Cloud notifications through them. To create a webhook, you need to set up an app in Slack and a unique URL. With this new webhook integration, you can easily receive the notifications in a selected Slack channel in which you installed your app."
         },
         {
-          "date": "07 May 2021",
-          "title": "Support for third-party virtual server images with Terraform",
-          "description": "Third-party providers can now offer virtual server images deployed by using Terraform in IBM Cloud. This capability is supported by the beta release of IBM Cloud Partner Center and our previously general availability release of private catalog capabilities."
+          "date": "07 June 2021",
+          "title": "Service-level discounts for accounts with the Pay as you go with Committed Use billing model",
+          "description": "If you have an account with the Pay as you go with Committed Use billing model, you might be eligible to receive service-level discounts. You can apply service-level discounts to commitments in addition to the platform-level discount. Service-level discounts are provided by IBM Cloud Sales to customers with the Pay as you go with Committed Use billing model."
         }
       ]
     }
