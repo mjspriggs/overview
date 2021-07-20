@@ -3,7 +3,7 @@
 
 copyright:
   years: 2016, 2021
-lastupdated: "2021-07-15"
+lastupdated: "2021-07-20"
 
 keywords: glossary, IBM Cloud glossary, terms, definitions
 
@@ -1313,6 +1313,11 @@ An alert indicating a change or update on a mobile app icon.
 
 ## Q
 {: #glossq}
+
+### quick start
+{: #x2277549}
+
+ A pre-built cloud solution template used to automatically create resources and applications.
 
 ### quota
 {: #x2437020}
