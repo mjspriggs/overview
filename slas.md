@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2021
-lastupdated: "2021-03-30"
+lastupdated: "2021-07-23"
 
 keywords: service level agreements, SLA, slas
 
@@ -19,5 +19,5 @@ subcollection: overview
 # Service Level Agreements (SLAs)
 {: #slas} 
 
-{{site.data.keyword.cloud_notm}} aims to deliver the highest levels of availability and offers a service level agreement (SLA) which provides credits against service charges should a service fail to meet its stated availability target. The SLA is defined in the [IBM Cloud Service Description](https://www-03.ibm.com/software/sla/sladb.nsf/latest/bm-6605){: external} .
+{{site.data.keyword.cloud}} aims to deliver the highest levels of availability and offers a service level agreement (SLA), which provides credits against service charges should a service fail to meet its stated availability target. For more information, see [{{site.data.keyword.cloud_notm}} Service Level Agreements](https://www.ibm.com/terms?id=i126-9268){: external}. 
 {: shortdesc}
