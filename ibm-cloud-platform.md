@@ -72,13 +72,11 @@ For more information, see the [best practices for setting up an enterprise](/doc
 ## {{site.data.keyword.Bluemix_notm}} catalog
 {: #catalog}
 
-{{site.data.keyword.cloud}} provides a full-stack, public cloud platform with various products in the catalog, including options for compute, storage, networking, end-to-end developer solutions for app development, testing and deployment, security management services, traditional and open source databases, and cloud-native services. You can filter the catalog by type to view All, Services, Software, or Consulting products.
+{{site.data.keyword.Bluemix_notm}} provides a full-stack, public cloud platform with various products in the catalog, including options for compute, storage, networking, end-to-end developer solutions for app development, testing and deployment, security management services, traditional and open source databases, and cloud-native services. You can find all of these services on the Services page in the catalog. The lifecycle and operations of these services are the responsibility of {{site.data.keyword.IBM_notm}}.
 
-The lifecycle and operations of services are the responsibility of {{site.data.keyword.IBM_notm}}.
+The Software page includes a growing catalog of software products, including [Cloud Paks](https://www.youtube.com/watch?v=DzFhhSR8SSs){: external}, [starter kits](/docs/apps?topic=apps-starter-kits), [Helm charts](https://www.ibm.com/cloud/blog/announcements/bitnami-application-catalog-now-available-within-ibm-cloud){: external}, [Operators](https://www.ibm.com/cloud/blog/announcements/onboard-your-operator-in-the-ibm-cloud-catalog-in-days){: external}, and [virtual server images](https://www.ibm.com/cloud/blog/announcements/onboard-virtual-server-images-in-days-by-using-terraform-in-the-ibm-cloud-catalog){: external}. Even though you're responsible for the lifecycle management, deployment, and configuration of the software on your own compute resources, you can take advantage of a simplified installation process to get up and running quickly.
 
-The Software filter provides a growing catalog of software products, including [Cloud Paks](https://www.youtube.com/watch?v=DzFhhSR8SSs){: external}, [starter kits](/docs/apps?topic=apps-starter-kits), Terraform-based templates, Helm charts, and Operators. The preconfigured software solutions help you build faster, and each product is installed by using a simplified installation process to help you get started quickly. You manage the deployment and configuration of the software on your own compute resources.
-
-By using the Consulting filter, you can browse the different options for scheduling a consultation with technical experts depending on your needs, such as cloud migration, creating business solutions with {{site.data.keyword.IBM_notm}} Garage, or developing a container security solution that works for you.
+The Consulting page provides different options for scheduling a consultation with technical experts depending on your needs, such as cloud migration, creating business solutions with {{site.data.keyword.IBM_notm}} Garage, or developing a container security solution that works for you.
 
 The catalog supports command-line interfaces (CLIs) and a RESTful API for you to use to retrieve information about existing products. 
 {: note}
@@ -97,7 +95,6 @@ The following table lists the filter options that you can use to search the cata
 
 | Option      | Description  |
 |------------------|-------|
-| Recommended products | Product recommendations based on your interactions with IBM Cloud |
 | AI / Machine Learning | Products that enable systems to learn from data rather than through explicit programming. |
 | Analytics | Products that facilitate the analysis of data, typically large sets of business data, by the use of mathematics, statistics, and other means. |
 | Blockchain | Products that facilitate the process of recording transactions and tracking assets in a business network. |
