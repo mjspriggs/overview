@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2021
 
-lastupdated: "2021-08-04"
+lastupdated: "2021-08-05"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -26,6 +26,13 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 
 If you're looking for updates about products that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external} on the {{site.data.keyword.Bluemix_notm}} blog.
 {: tip}
+
+## Filtering the {{site.data.keyword.cloud_notm}} catalog by product type
+{: #filtering-by-type}
+
+New as of: 3 August 2021
+
+When you navigate to the {{site.data.keyword.cloud_notm}} catalog, your view by default includes all types of products: services, software, and consulting. To help you quickly find the product that you're looking for, you can now filter the products to view services only, software only, or consulting services only. For more information, see [{{site.data.keyword.cloud_notm}} catalog](/docs/overview?topic=overview-whatis-platform#catalog).
 
 ## Support for third-party Operator bundles from GitHub
 {: #operator-bundle-github}
