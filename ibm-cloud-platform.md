@@ -4,7 +4,7 @@
 copyright:
   years: 2016, 2021
 
-lastupdated: "2021-08-05"
+lastupdated: "2021-08-13"
 
 
 keywords: console, platform overview, overview, data center, security, compliance 
@@ -76,7 +76,7 @@ Discover all that {{site.data.keyword.cloud_notm}} has to offer. From services t
 
 The available services include options for compute, storage, networking, end-to-end developer solutions for app development, testing and deployment, security management services, traditional and open source databases, and cloud-native services. The lifecycle and operations of services are the responsibility of {{site.data.keyword.IBM_notm}}.
 
-You can also find a number of software products, including [Cloud Paks](https://www.youtube.com/watch?v=DzFhhSR8SSs){: external}, [starter kits](/docs/apps?topic=apps-starter-kits), Terraform-based templates, Helm charts, and Operators. The preconfigured software solutions help you build faster, you can leverage a simplified installation process to help you get started quickly. You manage the deployment and configuration of the software on your own compute resources.
+You can also find a number of software products, including [Cloud Paks](https://www.youtube.com/watch?v=DzFhhSR8SSs){: external}, [starter kits](/docs/apps?topic=apps-starter-kits), Terraform-based templates, Helm charts, and Operators. The preconfigured software solutions help you build faster. And, with a simplified installation process, you can get started quickly. You manage the deployment and configuration of the software on your own compute resources.
 
 And, if you're looking for help in your journey to cloud, check out our consulting services. Browse your options for scheduling a consultation with technical experts depending on your needs, such as cloud migration, creating business solutions with {{site.data.keyword.IBM_notm}} Garage, or developing a container security solution that works for you.
 
