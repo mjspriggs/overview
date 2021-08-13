@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2021
-lastupdated: "2021-08-12"
+lastupdated: "2021-08-13"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -518,28 +518,28 @@ The following infrastructure resources are available in North and South America.
 {: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers indentify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
 
 
-| Service | Sao Paulo 01 | 
+| Service | Sao Paulo (MZR) | Sao Paulo 01 | 
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| Bare Metal Server | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Cloud HSM |  | 
-| Cloud Load Balancer | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Direct Link Connect on Classic |  | 
-| Direct Link Dedicated Hosting on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Direct Link Dedicated on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Direct Link Exchange on Classic |  | 
-| File Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| FortiGate Security Appliance 10Gbps |  | 
-| Gateway Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Hardware Firewall | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| IBM Cloud Backup | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| IPSec VPN | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Bare Metal Server |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Block Storage |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Citrix NetScaler VPX |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Cloud HSM |  |  | 
+| Cloud Load Balancer |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Content Delivery Network |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Direct Link Connect on Classic |  |  | 
+| Direct Link Dedicated Hosting on Classic |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Direct Link Dedicated on Classic |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Direct Link Exchange on Classic |  |  | 
+| File Storage |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| FortiGate Security Appliance 10Gbps |  |  | 
+| Gateway Appliance |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Hardware Firewall |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| IBM Cloud Backup |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| IPSec VPN |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Juniper vSRX |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| SSL Certificates |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Secondary Subnets |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Virtual Router Appliance |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Table 7. Americas infrastructure availability - Brazil" caption-side="top"}
 {: #iaas-table4}
