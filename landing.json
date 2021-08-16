@@ -41,9 +41,9 @@
       "view_more": "/docs/overview?topic=overview-whatsnew",
       "tiles": [
         {
-          "date": "03 August 2021",
-          "title": "Filtering the IBM Cloud catalog by product type",
-          "description": "When you navigate to the IBM Cloud catalog, your view by default includes all types of products: services, software, and consulting. To help you quickly find the product that you're looking for, you can now filter the products to view services only, software only, or consulting services only."
+          "date": "04 August 2021",
+          "title": "Software onboarding enhancements: progress indicators",
+          "description": "When you onboard software to the IBM Cloud catalog or private catalogs in your account, you'll find new indicators in the console that you can use to track your progress with configuring and validating your product."
         },
         {
           "date": "04 August 2021",
@@ -51,9 +51,9 @@
           "description": "Third-party providers can now onboard Operator bundles from GitHub repositories to IBM Cloud by using TGZ files. Previously, the ability to onboard Operator bundles was limited to Operator bundles in Red Hat OpenShift registries. This capability is supported by the beta release of IBM Cloud Partner Center and our general availability release of private catalog capabilities."
         },
         {
-          "date": "04 August 2021",
-          "title": "Software onboarding enhancements: progress indicators",
-          "description": "When you onboard software to the IBM Cloud catalog or private catalogs in your account, you'll find new indicators in the console that you can use to track your progress with configuring and validating your product."
+          "date": "03 August 2021",
+          "title": "Filtering the IBM Cloud catalog by product type",
+          "description": "When you navigate to the IBM Cloud catalog, your view by default includes all types of products: services, software, and consulting. To help you quickly find the product that you're looking for, you can now filter the products to view services only, software only, or consulting services only."
         }
       ]
     }
