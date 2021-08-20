@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2021
-lastupdated: "2021-08-19"
+lastupdated: "2021-08-20"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -163,7 +163,7 @@ Services that are hosted globally create resources that operate across multiple 
 {: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers indentify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
 
 | Service | London | Frankfurt | 
-|-----|-----|-----|
+|---|---|---|
 | API Connect | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | API Gateway | Hosted Globally | Hosted Globally | 
 | Analytics Engine | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -290,7 +290,7 @@ Services that are hosted globally create resources that operate across multiple 
 {: summary="Use the buttons for the countries to change the context of the table. This table has row and column headers. The row headers identify the service. The column headers indentify where that service is located. To understand where a service is located in the table, navigate to the row, and find the for the location you are interested in."}
 
 | Service | Sydney | Tokyo | Osaka | Chennai | Seoul | 
-|-----|-----|-----|-----|-----|-----|
+|------|------|------|------|------|------|
 | API Connect | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | API Gateway | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Analytics Engine | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
@@ -429,7 +429,7 @@ Infrastructure services are available to be deployed in data centers. Each colum
 The following infrastructure resources are available in North and South America. Match the resource row with the column representing the data center or multizone region. A check mark indicates the resource is available in that location. The Dallas (MZR), Washington DC (MZR), and Sao Paulo (MZR) columns represent multizone regions where deployment is managed automatically across several data centers.
 
 | Service | Montreal 01 | Toronto 01 | 
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|---|---|---|
 | Bare Metal Server | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -460,7 +460,7 @@ The following infrastructure resources are available in North and South America.
 
 
 | Service | Dallas (MZR) | Dallas 05 | Dallas 06 | Dallas 09 | Dallas 10 | Dallas 12 | Dallas 13 | Houston 02 | San Jose 01 | San Jose 03 | San Jose 04 | Washington DC (MZR) | Washington DC 01 | Washington DC 04 | Washington DC 06 | Washington DC 07 | 
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
 | Bare Metal Server | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -491,7 +491,7 @@ The following infrastructure resources are available in North and South America.
 
 
 | Service | Mexico 01 | 
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|--|--|
 | Bare Metal Server | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -522,7 +522,7 @@ The following infrastructure resources are available in North and South America.
 
 
 | Service | Sao Paulo (MZR) | Sao Paulo 01 | 
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|---|---|---|
 | Bare Metal Server |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Block Storage |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -558,7 +558,7 @@ The following infrastructure resources are available in North and South America.
 The following infrastructure resources are available in Europe. Match the resource row with the column representing the data center or multizone region. A check mark indicates the resource is available in that location. The London (MZR) and Frankfurt (MZR) columns represent multizone regions where deployment is managed automatically across several data centers.
 
 | Service | Amsterdam 01 | Amsterdam 03 | 
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|---|---|---|
 | Bare Metal Server |  |  | 
 | Block Storage |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -589,7 +589,7 @@ The following infrastructure resources are available in Europe. Match the resour
 
 
 | Service | Frankfurt (MZR) | Frankfurt 02 | Frankfurt 04 | Frankfurt 05 | 
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|-----|-----|-----|-----|-----|
 | Bare Metal Server | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -620,7 +620,7 @@ The following infrastructure resources are available in Europe. Match the resour
 
 
 | Service | London (MZR) | London 02 | London 04 | London 05 | London 06 | 
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|------|------|------|------|------|------|
 | Bare Metal Server | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -651,7 +651,7 @@ The following infrastructure resources are available in Europe. Match the resour
 
 
 | Service | Milan 01 | 
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|--|--|
 | Bare Metal Server | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -682,7 +682,7 @@ The following infrastructure resources are available in Europe. Match the resour
 
 
 | Service | Oslo 01 | 
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|--|--|
 | Bare Metal Server |  | 
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -713,7 +713,7 @@ The following infrastructure resources are available in Europe. Match the resour
 
 
 | Service | Paris 01 | 
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|--|--|
 | Bare Metal Server | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -749,7 +749,7 @@ The following infrastructure resources are available in Europe. Match the resour
 The following infrastructure resources are available in Asia and the Pacific region. Match the resource row with the column representing the data center or multizone region. A check mark indicates the resource is available in that location. The Sydney (MZR) and Tokyo (MZR) columns represent multizone regions where deployment is managed automatically across several data centers.
 
 | Service | Sydney (MZR) | Sydney 01 | Sydney 04 | Sydney 05 | 
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|-----|-----|-----|-----|-----|
 | Bare Metal Server | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -780,7 +780,7 @@ The following infrastructure resources are available in Asia and the Pacific reg
 
 
 | Service | Hong Kong 02 | 
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|--|--|
 | Bare Metal Server |  | 
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -811,7 +811,7 @@ The following infrastructure resources are available in Asia and the Pacific reg
 
 
 | Service | Chennai 01 | 
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|--|--|
 | Bare Metal Server | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -842,7 +842,7 @@ The following infrastructure resources are available in Asia and the Pacific reg
 
 
 | Service | Tokyo (MZR) | Tokyo 02 | Tokyo 04 | Tokyo 05 | 
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|-----|-----|-----|-----|-----|
 | Bare Metal Server | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -873,7 +873,7 @@ The following infrastructure resources are available in Asia and the Pacific reg
 
 
 | Service | Seoul 01 | 
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|--|--|
 | Bare Metal Server |  | 
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -904,7 +904,7 @@ The following infrastructure resources are available in Asia and the Pacific reg
 
 
 | Service | Singapore 01 | 
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|--|--|
 | Bare Metal Server |  | 
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
