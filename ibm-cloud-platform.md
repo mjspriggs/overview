@@ -4,7 +4,7 @@
 copyright:
   years: 2016, 2021
 
-lastupdated: "2021-07-20"
+lastupdated: "2021-08-13"
 
 
 keywords: console, platform overview, overview, data center, security, compliance 
@@ -72,29 +72,27 @@ For more information, see the [best practices for setting up an enterprise](/doc
 ## {{site.data.keyword.Bluemix_notm}} catalog
 {: #catalog}
 
-{{site.data.keyword.Bluemix_notm}} provides a full-stack, public cloud platform with various products in the catalog, including options for compute, storage, networking, end-to-end developer solutions for app development, testing and deployment, security management services, traditional and open source databases, and cloud-native services. You can find all of these services on the Services page in the catalog. The lifecycle and operations of these services are the responsibility of {{site.data.keyword.IBM_notm}}.
+Discover all that {{site.data.keyword.cloud_notm}} has to offer. From services to software ranging from containers, compute, security, data, AI, and more, find what you need to transform your business. 
 
-The Software page includes a growing catalog of software products, including [Cloud Paks](https://www.youtube.com/watch?v=DzFhhSR8SSs){: external}, [starter kits](/docs/apps?topic=apps-starter-kits), [Helm charts](https://www.ibm.com/cloud/blog/announcements/bitnami-application-catalog-now-available-within-ibm-cloud){: external}, [Operators](https://www.ibm.com/cloud/blog/announcements/onboard-your-operator-in-the-ibm-cloud-catalog-in-days){: external}, and [virtual server images](https://www.ibm.com/cloud/blog/announcements/onboard-virtual-server-images-in-days-by-using-terraform-in-the-ibm-cloud-catalog){: external}. Even though you're responsible for the lifecycle management, deployment, and configuration of the software on your own compute resources, you can take advantage of a simplified installation process to get up and running quickly.
+The available services include options for compute, storage, networking, end-to-end developer solutions for app development, testing and deployment, security management services, traditional and open source databases, and cloud-native services. The lifecycle and operations of services are the responsibility of {{site.data.keyword.IBM_notm}}.
 
-The Consulting page provides different options for scheduling a consultation with technical experts depending on your needs, such as cloud migration, creating business solutions with {{site.data.keyword.IBM_notm}} Garage, or developing a container security solution that works for you.
+You can also find a number of software products, including [Cloud Paks](https://www.youtube.com/watch?v=DzFhhSR8SSs){: external}, [starter kits](/docs/apps?topic=apps-starter-kits), Terraform-based templates, Helm charts, and Operators. The preconfigured software solutions help you build faster. And, with a simplified installation process, you can get started quickly. You manage the deployment and configuration of the software on your own compute resources.
+
+And, if you're looking for help in your journey to cloud, check out our consulting services. Browse your options for scheduling a consultation with technical experts depending on your needs, such as cloud migration, creating business solutions with {{site.data.keyword.IBM_notm}} Garage, or developing a container security solution that works for you.
 
 The catalog supports command-line interfaces (CLIs) and a RESTful API for you to use to retrieve information about existing products. 
-{: note}
+{: tip}
 
-You can quickly search for any product by entering keywords, or you can use the categories and filters to explore the different types of products that are available. You can filter by category, provider, pricing plan, and more. For example, if you want to deploy an analytics instance to {{site.data.keyword.openshiftlong}}, you can select the **Analytics** category, and filter the results by selecting **Red Hat OpenShift** as the deployment target.
-
-After you select the product, you can define the deployment location.
-
-  * For Cloud Foundry resources, you can select a specific region and then select the org and space for the service instance to be assigned to.
-  * For resources managed by {{site.data.keyword.cloud_notm}} Identity and Access Management (IAM), you select a location to deploy in. Then, you select a resource group to assign the service instance to.
-
-## Searching the catalog 
+### Searching the catalog 
 {: #catalog-filter-options}
 
-The following table lists the filter options that you can use to search the catalog. 
+All products that are available in {{site.data.keyword.cloud_notm}} are displayed by default in the catalog. You can filter the catalog by type to view a specific type of product, for example, only services or only software. Enter keywords or set additional filters to further scope your view of the catalog. For example, if you want to deploy an analytics instance to {{site.data.keyword.openshiftlong}}, you can select the **Analytics** category, and filter the results by selecting **Red Hat OpenShift** as the deployment target.
+
+See the following table for the list of filters that you can use to search the catalog. 
 
 | Option      | Description  |
 |------------------|-------|
+| Recommended products | Recommendations based on resources in your account and your interactions in {{site.data.keyword.cloud_notm}} |
 | AI / Machine Learning | Products that enable systems to learn from data rather than through explicit programming. |
 | Analytics | Products that facilitate the analysis of data, typically large sets of business data, by the use of mathematics, statistics, and other means. |
 | Blockchain | Products that facilitate the process of recording transactions and tracking assets in a business network. |

@@ -51,6 +51,13 @@ New as of: 4 August 2021
 
 When you onboard software to the {{site.data.keyword.cloud_notm}} catalog or private catalogs in your account, you'll find new indicators in the console that you can use to track your progress with configuring and validating your product. For more information, see [Onboarding software to your account](/docs/account?topic=account-create-private-catalog&interface=ui).
 
+## Filtering the {{site.data.keyword.cloud_notm}} catalog by product type
+{: #filtering-by-type}
+
+New as of: 3 August 2021
+
+When you navigate to the {{site.data.keyword.cloud_notm}} catalog, your view by default includes all types of products: services, software, and consulting. To help you quickly find the product that you're looking for, you can now filter the products to view services only, software only, or consulting services only. For more information, see [{{site.data.keyword.cloud_notm}} catalog](/docs/overview?topic=overview-whatis-platform#catalog).
+
 ## Scoping support cases to what matters to you
 {: #create-case-process}
 
