@@ -1,6 +1,6 @@
 {
     "title": "IBM Cloud overview docs",
-    "lastupdated": "2021-07-19",
+    "lastupdated": "2021-08-25",
     "introduction": "The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model. Leverage the docs, API & SDK reference, architecture references, and more to support your app development needs.",
     "section_devtools": {
       "api": "/docs?tab=api-docs&category=platform_services",
@@ -41,6 +41,11 @@
       "view_more": "/docs/overview?topic=overview-whatsnew",
       "tiles": [
         {
+          "date": "05 August 2021",
+          "title": "Delivering notifications by using Microsoft Teams webhooks",
+          "description": "Adding Microsoft Teams webhooks to your distribution list is available for receiving account-related IBM Cloud notifications. To create a webhook, you need to add an incoming webhook to a Teams channel and a unique URL thats maps to the selected channel. With this webhook integration, you can easily receive the notifications in a selected Microsoft Teams channel in which you added the incoming webhook."
+        },
+        {
           "date": "04 August 2021",
           "title": "Software onboarding enhancements: progress indicators",
           "description": "When you onboard software to the IBM Cloud catalog or private catalogs in your account, you'll find new indicators in the console that you can use to track your progress with configuring and validating your product."
@@ -49,11 +54,6 @@
           "date": "04 August 2021",
           "title": "Support for third-party Operator bundles from GitHub",
           "description": "Third-party providers can now onboard Operator bundles from GitHub repositories to IBM Cloud by using TGZ files. Previously, the ability to onboard Operator bundles was limited to Operator bundles in Red Hat OpenShift registries. This capability is supported by the beta release of IBM Cloud Partner Center and our general availability release of private catalog capabilities."
-        },
-        {
-          "date": "03 August 2021",
-          "title": "Filtering the IBM Cloud catalog by product type",
-          "description": "When you navigate to the IBM Cloud catalog, your view by default includes all types of products: services, software, and consulting. To help you quickly find the product that you're looking for, you can now filter the products to view services only, software only, or consulting services only."
         }
       ]
     }
