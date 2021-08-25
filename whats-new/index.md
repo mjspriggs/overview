@@ -27,6 +27,15 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 If you're looking for updates about products that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external} on the {{site.data.keyword.Bluemix_notm}} blog.
 {: tip}
 
+## Delivering notifications by using Microsoft Teams webhooks
+{: #deliver-notification-teams-webhook}
+
+New as of: 5 August 2021
+
+Adding Microsoft Teams webhooks to your distribution list is available for receiving account-related {{site.data.keyword.cloud_notm}} notifications. To create a webhook, you need to add an incoming webhook to a Teams channel and a unique URL thats maps to the selected channel.
+With this webhook integration, you can easily receive the notifications in a selected Microsoft Teams channel in which you added the incoming webhook.
+
+For more information, see [Adding Microsoft Teams webhooks to a distribution list](/docs/account?topic=account-adding-webhooks-to-a-distribution-list#add-microsoft-teams-webhooks-to-a-distribution-list).
 
 ## Support for third-party Operator bundles from GitHub
 {: #operator-bundle-github}
