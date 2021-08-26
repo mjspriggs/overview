@@ -1,3 +1,4 @@
+---
 toc:
   properties:
     subcollection: overview
@@ -10,57 +11,54 @@ toc:
     label: IBM Cloud overview
 
   entries:
-    - navgroup:
-      id: learn
-      topics:
-      - topicgroup:
+  - navgroup:
+    id: learn
+    topics:
+    - topicgroup:
         label: Learn about the IBM Cloud platform
         topics:
         - ibm-cloud-platform.md
         - platform-cli-api.md
         - prereqs.md
-      - fscloud.md
-      - topicgroup:
+    - fscloud.md
+    - topicgroup:
         label: Compliance in IBM Cloud
         topics:
         - compliance.md
         - manage-scc.md
-      - security.md
-      - whats-new/index.md
-
-    - navgroup:
-      id: tutorial
-      topics:
-      - quickstart-lite.md
-
-    - navgroup:
-      id: howto
-      topics:
-      - ui.md
-      - private-endpoints.md
-      - key-encryption.md
-      - certifications.md
-      - feedback.md
-
-    - navgroup:
-      id: reference
-      topics:
-      - topicgroup:
+    - security.md
+    - whats-new/index.md
+  - navgroup:
+    id: tutorial
+    topics:
+    - quickstart-lite.md
+  - navgroup:
+    id: howto
+    topics:
+    - ui.md
+    - private-endpoints.md
+    - key-encryption.md
+    - certifications.md
+    - feedback.md
+  - navgroup:
+    id: reference
+    topics:
+    - topicgroup:
         label: Product availability and locations
         topics:
         - services_region.md
         - locations.md
-      - topicgroup:
+    - topicgroup:
         label: High availability and disaster recovery
         topics:
         - zero_downtime.md
         - slo.md
-      - shared-responsibility.md
-      - peering_policy.md
-      - nls.md
-      - glossary/glossary.md
-      - accessibility/accessibility_features.md
-      - topicgroup:
+    - shared-responsibility.md
+    - peering_policy.md
+    - nls.md
+    - glossary/glossary.md
+    - accessibility/accessibility_features.md
+    - topicgroup:
         label: Legal resources
         topics:
         - terms-of-use/termsofuse.md
