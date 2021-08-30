@@ -55,7 +55,6 @@ toc:
           label: High availability and disaster recovery
           topics:
           - zero_downtime.md
-          - bcdr.md
           - slo.md
       - shared-responsibility.md
       - peering_policy.md
