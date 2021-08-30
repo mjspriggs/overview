@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2021
-lastupdated: "2021-06-21"
+lastupdated: "2021-08-30"
 
 keywords: security and compliance for the platform, security for IBM Cloud, compliance for IBM Cloud, goals, config rules, rules, posture
 
@@ -96,4 +96,4 @@ As a security or compliance focal, you can use the {{site.data.keyword.complianc
 | IAM Identity Service | `accountsettings` | `mfa` | String | Indicates the level of MFA that is required. Value options include `NONE`, `TOTP`, `TOTP4ALL`, `LEVEL1`, `LEVEL2`, and `LEVEL3`. |
 {: caption="Table 1. Rule properties for platform services" caption-side="top"}
 
-See [What is a config rule?](/docs/security-compliance?topic=security-compliance-what-is-rule) for more information. 
+See [Formatting rules and templates](/docs/security-compliance?topic=security-compliance-formatting-rules-templates) for more information about how to construct your rule. 
