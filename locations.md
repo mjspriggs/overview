@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2021
-lastupdated: "2021-07-13"
+lastupdated: "2021-09-09"
 
 keywords: data centers, regions, locations, network, ibm cloud regions, multizone regions, MZRs, latency, HA, high availability, endpoints, cloud regions, cloud data centers, multizone, resources, geography, global, geo, load balance, availability zone, zones, north america, south america, europe, asia, DC, tiers, globally resilient, resilient
 
@@ -103,7 +103,6 @@ See the following table for the specific code for each data center.
 | Dallas 10        | DAL10 |
 | Dallas 12        | DAL12 |
 | Dallas 13        | DAL13 |
-| Houston 02       | HOU02 |
 | Mexico 01        | MEX01 |
 | Montreal 01      | MON01 |
 | San Jose 01      | SJC01 |
@@ -143,7 +142,6 @@ See the following table for the specific code for each data center.
 |London 05 | LON05|
 |London 06 | LON06|
 |Milan 01 | MIL01|
-|Oslo 01 | OSL01 |
 |Paris 01 | PAR01|
 {: caption="Table 3. Data centers in Europe" caption-side="top"}
 {: #europe}
