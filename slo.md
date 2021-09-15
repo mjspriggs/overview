@@ -209,24 +209,24 @@ The following table describes the service level objectives (SLOs) for the high i
 {: caption="Table 13. Service level objectives (SLOs) for the {{site.data.keyword.cloud_notm}} databases services" caption-side="bottom"}
 
 
-### Developer Tools services
+### Developer tools services
 {: #slo-high-developer-services}
 
 The following table describes the service level objectives (SLOs) for the high impact {{site.data.keyword.cloud_notm}} developer tools services in a high availability configuration.
 
-| Developer Tools service | Availability target  | High availability guidance |
+| Developer tools service | Availability target  | High availability guidance |
 |----------|---------|---------|
 | {{site.data.keyword.contdelivery_short}} | 99.999% | [High availability and disaster recovery](/docs/ContinuousDelivery?topic=ContinuousDelivery-ha-dr) |
 | {{site.data.keyword.bpfull_notm}} | 99.999% | [High availability](/docs/schematics?topic=schematics-high-availability) |
 | {{site.data.keyword.apigw_full_notm}} | 99.999% | [High availability and disaster recovery](/docs/api-gateway?topic=api-gateway-ha-dr) |
 {: caption="Table 14. Service level objectives (SLOs) for the {{site.data.keyword.cloud_notm}} developer tools services" caption-side="bottom"}
 
-### Logging and Monitoring services
+### Logging and monitoring services
 {: #slo-high-log-services}
 
 The following table describes the service level objectives (SLOs) for the high impact {{site.data.keyword.cloud_notm}} logging and monitoring services in a high availability configuration.
 
-| Logging and Monitoring service | Availability target  | High availability guidance |
+| Logging and monitoring service | Availability target  | High availability guidance |
 |----------|---------|---------|
 | {{site.data.keyword.monitoringlong_notm}} | 99.999% |  [High availability and disaster recovery](/docs/monitoring?topic=monitoring-ha-dr) |
 | {{site.data.keyword.at_full_notm}} | 99.999% | [Incident and operations management](/docs/activity-tracker?topic=activity-tracker-shared-responsibilities#incident-and-ops) |
