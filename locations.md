@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2021
-lastupdated: "2021-09-13"
+lastupdated: "2021-09-16"
 
 keywords: data centers, regions, locations, network, ibm cloud regions, multizone regions, MZRs, latency, HA, high availability, endpoints, cloud regions, cloud data centers, multizone, resources, geography, global, geo, load balance, availability zone, zones, north america, south america, europe, asia, DC, tiers, globally resilient, resilient
 
@@ -35,10 +35,10 @@ The following table lists the {{site.data.keyword.cloud_notm}} MZRs and the regi
 
 | Location | Region | Zone | Data center |
 |-----------|----------|------|----|
-| Dallas | us-south | us-south-1<br>us-south-2<br>us-south-3 | DAL10<br>DAL12<br>DAL13 |
-| Sao Paulo | br-sao | br-sao-1<br>br-sao-2<br>br-sao-3 | SAO01<br>SAO04<br>SAO05 |
-| Toronto | ca-tor | ca-tor-1<br>ca-tor-2<br>ca-tor-3 | TOR01<br>TOR04<br>TOR05 |
-| Washington DC | us-east | us-east-1<br>us-east-2<br>us-east-3 | WDC04<br>WDC06<br>WDC07 |
+| Dallas | us-south | us-south-1  \n us-south-2  \n us-south-3 | DAL10  \n DAL12  \n DAL13 |
+| Sao Paulo | br-sao | br-sao-1  \n br-sao-2  \n br-sao-3 | SAO01  \n SAO04  \n SAO05 |
+| Toronto | ca-tor | ca-tor-1  \n ca-tor-2  \n ca-tor-3 | TOR01  \n TOR04  \n TOR05 |
+| Washington DC | us-east | us-east-1  \n us-east-2  \n us-east-3 | WDC04  \n WDC06  \n WDC07 |
 {: caption="Table 1. MZRs in North and South America" caption-side="top"}
 {: #americas-mzr}
 {: tab-title="Americas"}
@@ -48,8 +48,8 @@ The following table lists the {{site.data.keyword.cloud_notm}} MZRs and the regi
 
 | Location      | Region   | Zone | Data center |
 |-----------|----------|------|----|
-| Frankfurt     | eu-de    |eu-de-1<br>eu-de-2<br>eu-de-3 | FRA02<br>FRA04<br>FRA05 |
-| London        | eu-gb    |eu-gb-1<br>eu-gb-2<br>eu-gb-3 | LON04<br>LON05<br>LON06|
+| Frankfurt     | eu-de    |eu-de-1  \n eu-de-2  \n eu-de-3 | FRA02  \n FRA04  \n FRA05 |
+| London        | eu-gb    |eu-gb-1  \n eu-gb-2  \n eu-gb-3 | LON04  \n LON05  \n LON06|
 {: caption="Table 1. MZRs in Europe" caption-side="top"}
 {: #europe-mzr}
 {: tab-title="Europe"}
@@ -59,9 +59,9 @@ The following table lists the {{site.data.keyword.cloud_notm}} MZRs and the regi
 
 | Location      | Region   | Zone | Data center |
 |-----------|----------|------|----|
-| Osaka         | jp-osa   |jp-osa-1<br>jp-osa-2<br>jp-osa-3 | OSA21<br>OSA22<br>OSA23|
-| Sydney        | au-syd   |au-syd-1<br>au-syd-2<br>au-syd-3 | SYD01<br>SYD04<br>SYD05|
-| Tokyo         | jp-tok   |jp-tok-1<br>jp-tok-2<br>jp-tok-3 | TOK02<br>TOK04<br>TOK05|
+| Osaka         | jp-osa   |jp-osa-1  \n jp-osa-2  \n jp-osa-3 | OSA21  \n OSA22  \n OSA23|
+| Sydney        | au-syd   |au-syd-1  \n au-syd-2  \n au-syd-3 | SYD01  \n SYD04  \n SYD05|
+| Tokyo         | jp-tok   |jp-tok-1  \n jp-tok-2  \n jp-tok-3 | TOK02  \n TOK04  \n TOK05|
 {: caption="Table 1. MZRs in Asia Pacific" caption-side="top"}
 {: #asiapacific-mzr}
 {: tab-title="Asia Pacific"}

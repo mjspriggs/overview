@@ -4,7 +4,7 @@ copyright:
 
   years: 2021
 
-lastupdated: "2021-04-15"
+lastupdated: "2021-09-16"
 
 keywords: SLO, service level objectives
 
@@ -58,7 +58,7 @@ The following table describes the service level objectives (SLOs) for the vital 
 
 | Compute service | Availability target | Performance target | High availability guidance |
 |----------|---------|---------|---------|
-| {{site.data.keyword.vpc_short}} | 99.999% |Network Performance > 90% in 99.9% of the time <br> <br> NVMe Performance > 90% in 99.9% of the time | [Understanding high availability and disaster recovery](/docs/vpc?topic=vpc-ha-dr-vpc) |
+| {{site.data.keyword.vpc_short}} | 99.999% |Network Performance > 90% in 99.9% of the time  \n NVMe Performance > 90% in 99.9% of the time | [Understanding high availability and disaster recovery](/docs/vpc?topic=vpc-ha-dr-vpc) |
 {: caption="Table 2. Service level objectives (SLOs) for the {{site.data.keyword.cloud_notm}} compute services" caption-side="bottom"}
 
 ### Networking services
@@ -92,7 +92,7 @@ The following table describes the service level objectives (SLOs) for the vital 
 
 The following table describes the service level objectives (SLOs) for the vital {{site.data.keyword.cloud_notm}} database services in a high availability configuration.
 
-| Databases service | Availability target | Performance detail | Storage back end used for data |	Storage back end used for backups | High availability guidance |
+| Databases service | Availability target | Performance detail | Storage back end used for data | Storage back end used for backups | High availability guidance |
 |----------|---------|---------|---------|---------|---------|
 | {{site.data.keyword.databases-for-postgresql_full_notm}} | 99.999% | [Performance](/docs/databases-for-postgresql?topic=databases-for-postgresql-performance) | Block Storage | Object Storage | [High-Availability](/docs/databases-for-postgresql?topic=databases-for-postgresql-high-availability) |
 {: caption="Table 5. Service level objectives (SLOs) for the {{site.data.keyword.cloud_notm}} databases services" caption-side="bottom"}
@@ -195,7 +195,7 @@ The following table describes the service level objectives (SLOs) for the high i
 
 The following table describes the service level objectives (SLOs) for the high impact {{site.data.keyword.cloud_notm}} database services in a high availability configuration.
 
-| Databases service | Availability target | Performance detail |	Storage back end used for data |	Storage back end used for backups | High availability guidance |
+| Databases service | Availability target | Performance detail | Storage back end used for data | Storage back end used for backups | High availability guidance |
 |----------|---------|---------|---------|---------|---------|
 | {{site.data.keyword.databases-for-mongodb_full_notm}} | 99.999% | [Performance](/docs/databases-for-mongodb?topic=databases-for-mongodb-performance) | Block Storage | [Object Storage](/docs/databases-for-mongodb?topic=databases-for-mongodb-security-compliance#data-resilience) | [Understanding high availability and disaster recovery for Cloud Databases](/docs/databases-for-mongodb?topic=cloud-databases-ha-dr) |
 | {{site.data.keyword.databases-for-cassandra_full_notm}} | 99.999% | [Performance](/docs/databases-for-cassandra?topic=databases-for-cassandra-performance) |Block Storage | [Object Storage](/docs/databases-for-cassandra?topic=databases-for-cassandra-security-compliance#data-resilience)  | [High-Availability](/docs/databases-for-cassandra?topic=databases-for-cassandra-high-availability) |
@@ -260,7 +260,7 @@ The following table describes the service level objectives (SLOs) for the high i
 ## Service level objectives for other {{site.data.keyword.cloud_notm}} services
 {: #other-slo}
 
-| Service | Availability target | 
+| Service | Availability target |
 |----------|---------|
 | Any product not listed | 99.99% |
 {: caption="Table 18. Service level objectives (SLOs) for other {{site.data.keyword.cloud_notm}} services" caption-side="bottom"}
