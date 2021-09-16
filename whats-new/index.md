@@ -22,7 +22,7 @@ subcollection: overview
 {: #whatsnew}
 
 Stay up-to-date with the new features that are available on the {{site.data.keyword.Bluemix}} platform so that you get the most out of your {{site.data.keyword.Bluemix_notm}} experience. 
-{:shortdesc}
+{: shortdesc}
 
 If you're looking for updates about products that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external} on the {{site.data.keyword.Bluemix_notm}} blog.
 {: tip}
@@ -206,11 +206,11 @@ New as of: 18 December 2020
 * Account owners or users with {{site.data.keyword.cloud-shell_short}} administrator access can enable or disable {{site.data.keyword.cloud-shell_short}} features for an account. The available features in this release are **File upload and download** and **Web preview**. The feature settings apply only to the enabled {{site.data.keyword.cloud-shell_short}} locations. For more information, see [Enabling or disabling {{site.data.keyword.cloud-shell_short}} features for an account](/docs/account?topic=account-shell-settings#shell-features-enable).
 * An account administrator can grant specific users access to {{site.data.keyword.cloud-shell_short}} and its features, even if {{site.data.keyword.cloud-shell_short}} settings are disabled at the account level. For more information, see [Assigning access to {{site.data.keyword.cloud-shell_short}} and its features at a user level](/docs/account?topic=account-shell-settings#shell-access-user).
 * The following new service roles are available:
-  * Cloud Operator
-  * Cloud Developer
-  * File Manager
+   * Cloud Operator
+   * Cloud Developer
+   * File Manager
 
-  For more information, see [IAM roles and actions](/docs/account?topic=account-iam-service-roles-actions#ibm-cloud-shell).
+   For more information, see [IAM roles and actions](/docs/account?topic=account-iam-service-roles-actions#ibm-cloud-shell).
 * {{site.data.keyword.cloud-shell_notm}} now uses a Red Hat&trade; Linux&trade; bash shell instead of a x86-64 Ubuntu Linux&trade; bash shell.
 
 For a complete list of changes, see the [{{site.data.keyword.cloud-shell_short}} release notes](/docs/cloud-shell?topic=cloud-shell-release-notes-image).
@@ -261,8 +261,8 @@ New as of: 25 November 2020
 
 By default, users in your account authenticate themselves by logging in with a username and password. To require users to use more secure authentication factors, the following MFA options are now available.
 
-  * MFA for users with an IBMid: Users authenticate by using an IBMid, password, and time-based one-time passcode (TOTP). This option applies to all users or just non-federated users.
-  * MFA for all users: This option applies to users who are using either an IBMid or an external identity provider (IdP). Users authenticate by using email-based MFA, TOTP MFA, or U2F MFA. The U2F MFA factor is based on the FIDO U2F standard, and it offers the highest level of security.
+   * MFA for users with an IBMid: Users authenticate by using an IBMid, password, and time-based one-time passcode (TOTP). This option applies to all users or just non-federated users.
+   * MFA for all users: This option applies to users who are using either an IBMid or an external identity provider (IdP). Users authenticate by using email-based MFA, TOTP MFA, or U2F MFA. The U2F MFA factor is based on the FIDO U2F standard, and it offers the highest level of security.
 
 For more details, see [Enabling MFA for your account](/docs/account?topic=account-enablemfa).
 

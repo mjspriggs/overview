@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2021
-lastupdated: "2021-06-10"
+lastupdated: "2021-09-09"
 
 keywords: notices, IBM Cloud, creative commons, licenses
 
@@ -27,19 +27,19 @@ This information was developed for products and services that are offered in the
 
 {{site.data.keyword.IBM_notm}} may have patents or pending patent applications covering subject matter that is described in this document. The furnishing of this document does not grant you any license to these patents. You can send license inquiries, in writing, to:
 
-  *IBM Director of Licensing*
-  *IBM Corporation*
-  *North Castle Drive, MD-NC119*
-  *Armonk, NY 10504-1785*
-  *US*
+*IBM Director of Licensing*
+*IBM Corporation*
+*North Castle Drive, MD-NC119*
+*Armonk, NY 10504-1785*
+*US*
 
 For license inquiries regarding double-byte character set (DBCS) information, contact the {{site.data.keyword.IBM_notm}} Intellectual Property Department in your country or send inquiries, in writing, to:
 
-  *Intellectual Property Licensing*
-  *Legal and Intellectual Property Law*
-  *IBM Japan Ltd.*
-  *19-21, Nihonbashi-Hakozakicho, Chuo-ku*
-  *Tokyo 103-8510, Japan*
+*Intellectual Property Licensing*
+*Legal and Intellectual Property Law*
+*IBM Japan Ltd.*
+*19-21, Nihonbashi-Hakozakicho, Chuo-ku*
+*Tokyo 103-8510, Japan*
 
 INTERNATIONAL BUSINESS MACHINES CORPORATION PROVIDES THIS PUBLICATION "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. Some jurisdictions do not allow disclaimer of express or implied warranties in certain transactions, therefore, this statement may not apply to you.
 
@@ -51,11 +51,11 @@ Any references in this information to non-{{site.data.keyword.IBM_notm}} website
 
 Licensees of this program who wish to have information about it for the purpose of enabling: (i) the exchange of information between independently created programs and other programs (including this one) and (ii) the mutual use of the information, which has been exchanged, should contact:
 
-  *IBM Director of Licensing*
-  *IBM Corporation*
-  *North Castle Drive, MD-NC119*
-  *Armonk, NY 10504-1785*
-  *US*
+*IBM Director of Licensing*
+*IBM Corporation*
+*North Castle Drive, MD-NC119*
+*Armonk, NY 10504-1785*
+*US*
 
 Such information may be available, subject to appropriate terms and conditions, including in some cases, payment of a fee.
 
@@ -79,9 +79,9 @@ This information contains sample application programs in source language, which 
 
 Each copy or any portion of these sample programs or any derivative work must include a copyright notice as follows:
 
-  © (your company name) (year).
-  Portions of this code are derived from IBM Corp. Sample Programs.
-  © Copyright IBM Corp. 2019.
+© (your company name) (year).
+Portions of this code are derived from IBM Corp. Sample Programs.
+© Copyright IBM Corp. 2019.
 
 SANCTIONS & EMBARGOES
 
@@ -89,7 +89,7 @@ The United States prohibits most commercial transactions and other dealings with
 
 {{site.data.keyword.cloud_notm}} implements network-wide blocking of communications to IP addresses which originate from countries subject to those trade and economic sanctions. This policy affects all {{site.data.keyword.cloud_notm}} data center locations and environments, and blocks access by IP addresses registered to countries subject to U.S. trade and economic sanctions.
 
-To identify IP addresses associated with U.S. embargoed countries, {{site.data.keyword.cloud_notm}} references the Geo IP2 Database maintained by [MaxMind ](http://www.maxmind.com){: external}. {{site.data.keyword.cloud_notm}} updates its IP address country mapping on a quarterly basis.
+To identify IP addresses associated with U.S. embargoed countries, {{site.data.keyword.cloud_notm}} references the Geo IP2 Database maintained by [MaxMind](http://www.maxmind.com){: external}). {{site.data.keyword.cloud_notm}} updates its IP address country mapping on a quarterly basis.
 
 Note: This restriction does not apply to content that is not prohibited under U.S. sanctions and embargoes. Please email IBM_Cloud_Embargo_Exemption_Request@wwpdl.vnet.ibm.com if you believe your content is not prohibited under U.S. trade and economic sanctions. 
 
@@ -101,11 +101,11 @@ Note: This restriction does not apply to content that is not prohibited under U.
 
 This section consists of the following:
 
-  * CC-BY-2.5
-  * CC-BY-3.0
-  * CC-BY-4.0
-  * CC-BY-SA-3.0
-  * CC-BY-SA-4.0
+* CC-BY-2.5
+* CC-BY-3.0
+* CC-BY-4.0
+* CC-BY-SA-3.0
+* CC-BY-SA-4.0
 
 #### Creative Commons Attribution 2.5 Generic
 {: #console-25}
@@ -153,9 +153,9 @@ LOGO [Glob] (No copyright found)(http://registry.npmjs.org/glob/-/glob-7.1.4.tgz
 
 This section consists of the following:
 
-  * CC-BY-3.0
-  * CC-BY-SA-2.5
-  * CC-BY-SA-3.0
+* CC-BY-3.0
+* CC-BY-SA-2.5
+* CC-BY-SA-3.0
 
 #### Creative Commons Attribution 3.0 Generic
 {: #bss-30}
@@ -185,7 +185,7 @@ CODE_OF_CONDUCT.MD [enzyme-to-json] (Copyright not found)(http://registry.npmjs.
 
 This section consists of the following:
 
-  * CC-BY-3.0
+* CC-BY-3.0
 
 #### Creative Commons Attribution 3.0 Generic
 {: #iam-30}
@@ -199,25 +199,25 @@ ZMALLOC.C [Redis] (No Copyright found) (http://download.redis.io/releases/redis-
 ### {{site.data.keyword.cloud_notm}} Developer Console
 {: #devcon}
 
-View the [Notices file](https://{DomainName}/media/docs/downloads/oss-licensing-info/IBMCloud-DeveloperConsole-OSS-Licenses.txt){: external} for the {{site.data.keyword.cloud_notm}} Developer Console.
+View the [Notices file](/media/docs/downloads/oss-licensing-info/IBMCloud-DeveloperConsole-OSS-Licenses.txt){: external} for the {{site.data.keyword.cloud_notm}} Developer Console.
 
 This section consists of the following:
 
-  * AGPL v3
-  * CC-BY-2.5
-  * CC-BY-3.0
-  * CC-BY-4.0
-  * CC-BY-SA-1.0 
-  * Creative Commons Attribution Share-Alike 2.0
-  * Creative Commons Attribution Share-Alike 2.5
-  * Creative Commons Attribution Share-Alike 4.0
-  * General Public License V2 
-  * General Public License V3
-  * GNU FREE DOCUMENTATION LICENSE V1.3 
-  * RHEL Universal Base Image
-  * SIL OFL 1.1
-  * Unique
-  
+* AGPL v3
+* CC-BY-2.5
+* CC-BY-3.0
+* CC-BY-4.0
+* CC-BY-SA-1.0 
+* Creative Commons Attribution Share-Alike 2.0
+* Creative Commons Attribution Share-Alike 2.5
+* Creative Commons Attribution Share-Alike 4.0
+* General Public License V2 
+* General Public License V3
+* GNU FREE DOCUMENTATION LICENSE V1.3 
+* RHEL Universal Base Image
+* SIL OFL 1.1
+* Unique
+
 #### GNU AFFERO GENERAL PUBLIC LICENSE, VERSION 3
 {: #devcon-agpl}
 
@@ -416,19 +416,19 @@ Debian, Alpine OS & Its Components
 ### {{site.data.keyword.cloud_notm}} CLI
 {: #cli}
 
-View the [Notices file](https://{DomainName}/media/docs/downloads/oss-licensing-info/IBMCloud-CLI-OSS-Licenses.txt){: external} for the {{site.data.keyword.cloud_notm}} CLI.
+View the [Notices file](/media/docs/downloads/oss-licensing-info/IBMCloud-CLI-OSS-Licenses.txt){: external} for the {{site.data.keyword.cloud_notm}} CLI.
 
 This section consists of the following:
 
-  * CC-BY-2.5
-  * CC-BY-3.0  
-  * CC-BY-SA-1.0  
-  * CC-BY-SA-2.0  
-  * CC-BY-SA-2.5  
-  * CC-BY-SA-3.0 
-  * CC-BY-SA-4.0  
-  * GPL V2  
-  * UNIQUE
+* CC-BY-2.5
+* CC-BY-3.0  
+* CC-BY-SA-1.0  
+* CC-BY-SA-2.0  
+* CC-BY-SA-2.5  
+* CC-BY-SA-3.0 
+* CC-BY-SA-4.0  
+* GPL V2  
+* UNIQUE
 
 #### Creative Commons Attribution 2.5 Generic
 {: #cli-25}
@@ -501,15 +501,15 @@ Debian (matching Ubuntu main)
 
 This section consists of the following:
 
-  * CC-BY-1.0
-  * CC-BY-2.5
-  * CC-BY-3.0
-  * CC-BY-4.0
-  * CC-BY-SA-1.0
-  * CC-BY-SA-2.0
-  * CC-BY-SA-2.5
-  * CC-BY-SA-3.0
-  * CC-BY-SA-4.0
+* CC-BY-1.0
+* CC-BY-2.5
+* CC-BY-3.0
+* CC-BY-4.0
+* CC-BY-SA-1.0
+* CC-BY-SA-2.0
+* CC-BY-SA-2.5
+* CC-BY-SA-3.0
+* CC-BY-SA-4.0
 
 #### Creative Commons Attribution 1.0 Generic
 {: #cloudshell-10}
@@ -577,14 +577,14 @@ DOCS [kubernetes-sigs/cri-tools](https://github.com/kubernetes-sigs/cri-tools/ar
 ### {{site.data.keyword.cloud_notm}} {{site.data.keyword.compliance_short}}
 {: #sec-comp}
 
-View the [Notices file](https://{DomainName}/media/docs/downloads/oss-licensing-info/IBMCloud-SecurityCompliance-OSS-Licenses.txt){: external} for the {{site.data.keyword.compliance_short}}.
+View the [Notices file](/media/docs/downloads/oss-licensing-info/IBMCloud-SecurityCompliance-OSS-Licenses.txt){: external} for the {{site.data.keyword.compliance_short}}.
 
 This section consists of the following:
 
-  * CC-BY-2.5
-  * CC-BY-3.0
-  * CC-BY-SA-2.0
-  * SIL OPEN FONT LICENSE 1.1
+* CC-BY-2.5
+* CC-BY-3.0
+* CC-BY-SA-2.0
+* SIL OPEN FONT LICENSE 1.1
   
 #### Creative Commons Attribution 2.5 generic
 {: #sec-comp-25}
@@ -656,11 +656,11 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
 ## Trademarks
 {: #trademarks}
 
-{{site.data.keyword.IBM_notm}}, the {{site.data.keyword.IBM_notm}} logo, and ibm.com are trademarks or registered trademarks of International Business Machines Corp., registered in many jurisdictions worldwide. Other product and service names might be trademarks of {{site.data.keyword.IBM_notm}} or other companies. A current list of {{site.data.keyword.IBM_notm}} trademarks is available on the web at [Copyright and trademark information ](https://www.ibm.com/legal/copytrade){: external}.
+{{site.data.keyword.IBM_notm}}, the {{site.data.keyword.IBM_notm}} logo, and ibm.com are trademarks or registered trademarks of International Business Machines Corp., registered in many jurisdictions worldwide. Other product and service names might be trademarks of {{site.data.keyword.IBM_notm}} or other companies. A current list of {{site.data.keyword.IBM_notm}} trademarks is available on the web at [Copyright and trademark information](https://www.ibm.com/legal/copytrade){: external}.
 
 Adobe, the Adobe logo, PostScript, and the PostScript logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States, and/or other countries.
 
-The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the [Creative Commons 3.0 Attribution License ](https://creativecommons.org/licenses/by/3.0/){: external}.
+The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the [Creative Commons 3.0 Attribution License](https://creativecommons.org/licenses/by/3.0/){: external}.
 
 Linux is a registered trademark of Linus Torvalds in the United States, other countries, or both.
 

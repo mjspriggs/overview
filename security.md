@@ -23,7 +23,7 @@ subcollection: overview
 {: #security}
 
 Designed with secure engineering practices, the {{site.data.keyword.cloud}} platform provides layered security controls across network and infrastructure. {{site.data.keyword.cloud_notm}} focuses on protection across the entirety of the compute lifecycle, which includes everything from the build process and key management to the security of data services. {{site.data.keyword.cloud_notm}} also provides a group of security services that can be used by application developers to secure their mobile and web apps. These elements combine to make IBM Cloud a platform with clear choices for secure application development.
-{:shortdesc}
+{: shortdesc}
 
 In addition to our own diligence in creating and operating a secure cloud, {{site.data.keyword.IBM}} also engages many different firms to assess the security and compliance of our cloud platform. For more information, see [{{site.data.keyword.cloud_notm}} compliance programs](https://www.ibm.com/cloud/compliance) for a detailed list of certifications and attestations.
 
