@@ -25,7 +25,7 @@ subcollection: overview
 {: #zero-downtime}
 
 Your global strategy is important, and {{site.data.keyword.cloud}} uses global load balancing to ensure a redundant, highly available platform is available for you to host your workloads and applications.
-{:shortdesc} 
+{: shortdesc} 
 
 ## High availability for the platform
 {: #platform-ha}

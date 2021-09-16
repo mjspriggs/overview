@@ -29,7 +29,7 @@ completion-time: 10m
 {: toc-completion-time="10m"} 
 
 Looking to try out {{site.data.keyword.Bluemix}}? A Lite account is great for learning how to work in the cloud, use Watson, and more. It’s also perfect for building proof of concepts (POCs) with the many components available in {{site.data.keyword.Bluemix_notm}}. This tutorial is intended to help you get up and running with a Lite account.  
-{:shortdesc}
+{: shortdesc}
 
 ## Before you begin
 {: #before-try-lite}

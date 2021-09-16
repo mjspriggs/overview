@@ -19,7 +19,7 @@ subcollection: overview
 {: #prereqs-platform}
 
 The prerequisites for using the {{site.data.keyword.Bluemix}} platform are limited, but we do have a few.
-{:shortdesc}
+{: shortdesc}
 
 ## Browsers
 {: #browsers-platform}

@@ -19,7 +19,7 @@ subcollection: overview
 {: #accessibility-platform}
 
 Accessibility features assist users who have a disability, such as restricted mobility or limited vision, to use information technology content successfully.
-{:shortdesc}
+{: shortdesc}
 
 ## Accessibility features
 {: #features-platform}

@@ -18,7 +18,7 @@ subcollection: overview
 {: #glossary}
 
 This glossary provides terms and definitions for {{site.data.keyword.cloud}}.
-{:shortdesc}
+{: shortdesc}
 
 The following cross-references are used in this glossary:
 
