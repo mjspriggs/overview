@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2021
-lastupdated: "2021-09-17"
+lastupdated: "2021-09-18"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -51,6 +51,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Certificate Manager | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Client VPN for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud Foundry Enterprise Environment | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Cloud Migration | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Cloud Object Storage | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Cloud for Education | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Cloudant | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
@@ -179,6 +180,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Certificate Manager | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Client VPN for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud Foundry Enterprise Environment | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Cloud Migration | Hosted Globally | Hosted Globally | 
 | Cloud Object Storage | Hosted Globally | Hosted Globally | 
 | Cloud for Education |  |  | 
 | Cloudant | Hosted Globally | Hosted Globally | 
@@ -307,6 +309,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Certificate Manager | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Client VPN for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Cloud Foundry Enterprise Environment | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Cloud Migration | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Cloud Object Storage | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Cloud for Education |  |  |  |  |  | 
 | Cloudant | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
