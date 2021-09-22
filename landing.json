@@ -1,6 +1,6 @@
 {
     "title": "IBM Cloud overview docs",
-    "lastupdated": "2021-08-25",
+    "lastupdated": "2021-09-22",
     "introduction": "The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model. Leverage the docs, API & SDK reference, architecture references, and more to support your app development needs.",
     "section_devtools": {
       "api": "/docs?tab=api-docs&category=platform_services",
@@ -41,14 +41,14 @@
       "view_more": "/docs/overview?topic=overview-whatsnew",
       "tiles": [
         {
+          "date": "20 September 2021",
+          "title": "Checking the root cause of an incident",
+          "description": "You can now visit the Incident reports page to review technical details of major outages for IBM Cloud services. You can find Customer Incident Reports (CIR) on the page, which provide Root Cause Analysis (RCA) for past major outages. You are able to view and download the incident reports from the page about any events that affect IBM Cloud availability. These reports are in PDF file formats and available for 5 years starting from the date when the event occurred."
+        },    
+        {
           "date": "05 August 2021",
           "title": "Delivering notifications by using Microsoft Teams webhooks",
           "description": "Adding Microsoft Teams webhooks to your distribution list is available for receiving account-related IBM Cloud notifications. To create a webhook, you need to add an incoming webhook to a Teams channel and a unique URL thats maps to the selected channel. With this webhook integration, you can easily receive the notifications in a selected Microsoft Teams channel in which you added the incoming webhook."
-        },
-        {
-          "date": "04 August 2021",
-          "title": "Software onboarding enhancements: progress indicators",
-          "description": "When you onboard software to the IBM Cloud catalog or private catalogs in your account, you'll find new indicators in the console that you can use to track your progress with configuring and validating your product."
         },
         {
           "date": "04 August 2021",
