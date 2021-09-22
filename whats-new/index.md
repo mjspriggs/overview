@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2021
 
-lastupdated: "2021-08-05"
+lastupdated: "2021-09-22"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -26,6 +26,15 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 
 If you're looking for updates about products that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external} on the {{site.data.keyword.Bluemix_notm}} blog.
 {: tip}
+
+## Checking the root cause of an incident
+{: #check-root-cause-incident}
+
+New as of: 20 September 2021
+
+You can now visit the {{site.data.keyword.Bluemix_notm}} [Incident reports page](/status/incident-reports){: external} to review technical details of major outages for {{site.data.keyword.Bluemix_notm}} services. You can find Customer Incident Reports (CIR) on the page, which provide Root Cause Analysis (RCA) for past major outages. You are able to view and download the incident reports from the page about any events that affect {{site.data.keyword.Bluemix_notm}} availability. These reports are in PDF file formats and available for 5 years starting from the date when the event occurred.
+
+For more information, see [Checking incident reports](/docs/get-support?topic=get-support-viewing-cloud-status#status-incident-report).
 
 ## Delivering notifications by using Microsoft Teams webhooks
 {: #deliver-notification-teams-webhook}
