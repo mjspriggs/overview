@@ -27,6 +27,22 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 If you're looking for updates about products that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external} on the {{site.data.keyword.Bluemix_notm}} blog.
 {: tip}
 
+## Securing your resources with context-based restrictions
+
+New as of: 23 September 2021
+
+With context-based restrictions, you can configure and enforce access restrictions for IBM Cloud resources based  on the network location where an access request is created. These restrictions work in tandem with traditional IAM access policies, which are based on identity, to provide an extra layer of protection. Since both IAM access and context-based restrictions must grant access, context-based restrictions offer protection even in the face of compromised or mismanaged credentials.
+
+This is done by defining one or more network zones, which encapsulates allowed network locations, and then associating the zones with the cloud resource by way of a context-based restrictions rule. Network zones can be defined in terms of IP address constructs, VPC ID, and service references, which grant access to a resource from another cloud service.
+
+For more information, see [What are content-based restrictions?](https://test.cloud.ibm.com/docs/account?topic=account-context-restrictions-whatis)
+
+## Assigning access policies based on resource location
+
+New as of: 23 September 2021
+
+For supporting services, like Container Registry, you can now scope access to more granular locations in your policies, such as geography, country, metro, satellite location.
+
 ## Checking the root cause of an incident
 {: #check-root-cause-incident}
 
