@@ -28,16 +28,18 @@ If you're looking for updates about products that are available on {{site.data.k
 {: tip}
 
 ## Securing your resources with context-based restrictions
+{: #cbr-resources}
 
 New as of: 23 September 2021
 
-With context-based restrictions, you can configure and enforce access restrictions for IBM Cloud resources based  on the network location where an access request is created. These restrictions work in tandem with traditional IAM access policies, which are based on identity, to provide an extra layer of protection. Since both IAM access and context-based restrictions must grant access, context-based restrictions offer protection even in the face of compromised or mismanaged credentials.
+You can now use context-based restrictions to configure and enforce access restrictions for {{site.data.keyword.Bluemix_notm}} resources. The access restrictions are based on the network location where an access request is created. These restrictions work in tandem with traditional IAM access policies, which are based on identity, to provide an extra layer of protection. Since both IAM access and context-based restrictions must enforce access, context-based restrictions offer protection even in the face of compromised or mismanaged credentials.
 
-This is done by defining one or more network zones, which encapsulates allowed network locations, and then associating the zones with the cloud resource by way of a context-based restrictions rule. Network zones can be defined in terms of IP address constructs, VPC ID, and service references, which grant access to a resource from another cloud service.
+You can create context-based restrictions by defining one or more network zones, which contain allowed network locations, and then associating the zones with the cloud resource through a context-based restrictions rule. Network zones can be defined in terms of IP address constructs, VPCs, and service references, which grant access to a resource from another cloud service.
 
 For more information, see [What are content-based restrictions?](https://test.cloud.ibm.com/docs/account?topic=account-context-restrictions-whatis)
 
 ## Assigning access policies based on resource location
+{: #assign-location-access}
 
 New as of: 23 September 2021
 
