@@ -32,7 +32,7 @@ If you're looking for updates about products that are available on {{site.data.k
 
 New as of: 24 September 2021
 
-For supporting services, like {{site.data.keyword.registrylong_notm}}, you can now scope access to more granular locations in your access group policies, such as geography, country, metro, or a specific {{site.data.keyword.satellitelong_notm}} location. For more information about specifying a location in your access policies, see [Setting up access groups](/docs/account?topic=account-groups). 
+For supporting services, like {{site.data.keyword.registrylong_notm}}, you can now scope access to more granular locations in your access group policies, such as geography, country, metro, or a specific {{site.data.keyword.satelliteshort}} location. For more information about specifying a location in your access policies, see [Setting up access groups](/docs/account?topic=account-groups). 
 
 ## Checking the root cause of an incident
 {: #check-root-cause-incident}
