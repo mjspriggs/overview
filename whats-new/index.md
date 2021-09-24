@@ -177,7 +177,7 @@ New as of: 26 March 2021
 
 New as of: 26 February 2021
 
-You can customize the duration of working sessions for user's on your account. Customize the duration of users active settings and select the amount of time a user can be inactive before they are signed out and need to enter their credentials again. Update your accounts Identity and Access (IAM) log in sessions from [Settings page](https://cloud.ibm.com/iam/settings){: external}. For more information, see [Managing user's log in session durations](https://test.cloud.ibm.com/docs/account?topic=account-iam-work-sessions).
+You can customize the duration of working sessions for user's on your account. Customize the duration of users active settings and select the amount of time a user can be inactive before they are signed out and need to enter their credentials again. Update your accounts Identity and Access (IAM) log in sessions from [Settings page](https://cloud.ibm.com/iam/settings){: external}. For more information, see [Managing user's log in session durations](/docs/account?topic=account-iam-work-sessions).
 
 
 ## Controlling access to resources by using tags
@@ -345,7 +345,7 @@ For a complete list of changes, see the [{{site.data.keyword.cloud-shell_short}}
 
 New as of: 10 August 2020
 
-Create and manage customized dashboards that can be used to offer an organized and relevant workspace. You can share the dashboards with different users in your account or as a way to group resources for specific projects or teams. When you create a new dashboard, you can start from scratch with a blank template or choose one of the other available templates. For more information, see [Working with scoped dashboards](https://test.cloud.ibm.com/docs/account?topic=account-custom-dashboard).
+Create and manage customized dashboards that can be used to offer an organized and relevant workspace. You can share the dashboards with different users in your account or as a way to group resources for specific projects or teams. When you create a new dashboard, you can start from scratch with a blank template or choose one of the other available templates. For more information, see [Working with scoped dashboards](/docs/account?topic=account-custom-dashboard).
 
 ## Audit logs for private catalogs
 {: #audit-logs-catalogs}
