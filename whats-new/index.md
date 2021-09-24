@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2021
 
-lastupdated: "2021-09-22"
+lastupdated: "2021-09-24"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -26,6 +26,13 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 
 If you're looking for updates about products that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external} on the {{site.data.keyword.Bluemix_notm}} blog.
 {: tip}
+
+## Assigning access policies based on resource location
+{: #assign-location-access}
+
+New as of: 24 September 2021
+
+For supporting services, like {{site.data.keyword.registrylong_notm}}, you can now scope access to more granular locations in your access group policies, such as geography, country, metro, or a specific {{site.data.keyword.satelliteshort}} location. For more information about specifying a location in your access policies, see [Setting up access groups](/docs/account?topic=account-groups). 
 
 ## Checking the root cause of an incident
 {: #check-root-cause-incident}
