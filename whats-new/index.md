@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2021
 
-lastupdated: "2021-09-22"
+lastupdated: "2021-09-24"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -27,23 +27,12 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 If you're looking for updates about products that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external} on the {{site.data.keyword.Bluemix_notm}} blog.
 {: tip}
 
-## Securing your resources with context-based restrictions
-{: #cbr-resources}
-
-New as of: 23 September 2021
-
-You can now use context-based restrictions to configure and enforce access restrictions for {{site.data.keyword.Bluemix_notm}} resources. The access restrictions are based on the network location where an access request is created. These restrictions work in tandem with traditional IAM access policies, which are based on identity, to provide an extra layer of protection. Since both IAM access and context-based restrictions must enforce access, context-based restrictions offer protection even in the face of compromised or mismanaged credentials.
-
-You can create context-based restrictions by defining one or more network zones, which contain allowed network locations, and then associating the zones with the cloud resource through a context-based restrictions rule. Network zones can be defined in terms of IP address constructs, VPCs, and service references, which grant access to a resource from another cloud service.
-
-For more information, see [What are content-based restrictions?](https://test.cloud.ibm.com/docs/account?topic=account-context-restrictions-whatis)
-
 ## Assigning access policies based on resource location
 {: #assign-location-access}
 
-New as of: 23 September 2021
+New as of: 24 September 2021
 
-For supporting services, like Container Registry, you can now scope access to more granular locations in your policies, such as geography, country, metro, satellite location.
+For supporting services, like {{site.data.keyword.registrylong_notm}}, you can now scope access to more granular locations in your access group policies, such as geography, country, metro, or a specific {{site.data.keyword.satellitelong_notm}} location. For more information about specifying a location in your access policies, see [Setting up access groups](/docs/account?topic=account-groups). 
 
 ## Checking the root cause of an incident
 {: #check-root-cause-incident}
