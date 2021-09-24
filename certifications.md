@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2019, 2021
-lastupdated: "2021-04-08"
+lastupdated: "2021-09-24"
 
 keywords: cloud certifications, certifications
 
@@ -9,13 +9,7 @@ subcollection: overview
 
 ---
 
-{:external: target="_blank" .external}
-{:shortdesc: .shortdesc}
-{:screen: .screen}
-{:codeblock: .codeblock}
-{:pre: .pre}
-{:tip: .tip}
-{:note: .note}
+{{site.data.keyword.attribute-definition-list}}
 
 # Getting certified in {{site.data.keyword.cloud_notm}}
 {: #cloud-certifications}
@@ -38,5 +32,7 @@ As an [{{site.data.keyword.IBM_notm}} Certified Professional Developer - Cloud S
 
 As an [{{site.data.keyword.IBM_notm}} Certified Solution Architect - Cloud Solutions v4](https://www.ibm.com/certify/cert?id=C0001402){: external} technical professional, you can design, plan, and architect a cloud solution with limited help from product documentation, support, or subject matter experts. 
 
+## Sales engineer certification
+{: #cloud-sales-engineer-certification}
 
- 
+As an [{{site.data.keyword.IBM_notm}} Certified Professional Sales Engineer - Cloud v1](https://www.ibm.com/certify/cert.html?id=C0010200){: external} technical professional, you consult with clients, sales teams, and {{site.data.keyword.IBM_notm}} business partners regarding public, hybrid, and multicloud solutions using both technical skill and strategic vision to co-create with the client.
