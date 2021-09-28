@@ -3,7 +3,7 @@
 
 copyright:
   years: 2016, 2021
-lastupdated: "2021-07-20"
+lastupdated: "2021-09-28"
 
 keywords: glossary, IBM Cloud glossary, terms, definitions
 
@@ -832,7 +832,7 @@ A file system and its execution parameters that are used within a container runt
 ### imprint mode
 {: #x9860399}
 
-A operational mode in which crypto units are assigned to a user.
+An operational mode in which crypto units are assigned to a user.
 
 ### infrastructure as a service (IaaS)
 {: #x4585332}
