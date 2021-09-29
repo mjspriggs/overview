@@ -3,7 +3,7 @@
 
 copyright:
   years: 2016, 2021
-lastupdated: "2021-09-28"
+lastupdated: "2021-09-29"
 
 keywords: glossary, IBM Cloud glossary, terms, definitions
 
@@ -622,10 +622,20 @@ A data member or attribute of a type.
 
 A code that is applied to free accounts to unlock extra product resources and capabilities.
 
+### Federal Risk and Authorization Management Program (FedRAMP)
+{: #x10109081}
+
+A United States government program that provides a standardized, risk-based approach for the adoption and use of cloud services by the US federal government. FedRAMP empowers agencies to use modern cloud technologies with an emphasis on security and protection of federal information, and helps accelerate the adoption of secure cloud solutions.
+
 ### federate
 {: #x2763229}
 
 To merge two or more entities. For example, a company's registered domain could be federated with an IBMid.
+
+### FedRAMP
+{: #x10109085}
+
+See [Federal Risk and Authorization Management Program](/docs/overview?topic=overview-glossary#x10109081).
 
 ### feed
 {: #x3129185}
