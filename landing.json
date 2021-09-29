@@ -48,7 +48,7 @@
         {
           "date": "24 September 2021",
           "title": "Assigning access policies based on resource location",
-          "description": "For supporting services, like {{site.data.keyword.registrylong_notm}}, you can now scope access to more granular locations in your access group policies, such as geography, country, metro, or a specific {{site.data.keyword.satelliteshort}} location. For more information about assigning access based on location, see [Setting up access groups](/docs/account?topic=account-groups)."
+          "description": "For supporting services, like Container Registry, you can now scope access to more granular locations in your access group policies, such as geography, country, metro, or a specific Satellite location."
         },
         {
           "date": "20 September 2021",
