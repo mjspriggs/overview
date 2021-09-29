@@ -10,13 +10,7 @@ subcollection: overview
 
 ---
 
-{:shortdesc: .shortdesc}
-{:codeblock: .codeblock}
-{:screen: .screen}
-{:external: target="_blank" .external}
-{:pre: .pre}
-{:table: .aria-labeledby="caption"}
-{:note: .note}
+{{site.data.keyword.attribute-definition-list}}
 
 # Public peering 
 {: #public-peering}
@@ -54,16 +48,16 @@ The following table shows the current public peer exchanges.
 |-------------------------------|-----------------|--------------------|-------------------|
 | Hong Kong S.A.R. of the PRC   | New Territories | Hong Kong          | Equinix Hong Kong |
 | Hong Kong S.A.R. of the PRC   | New Territories | Hong Kong          | HKIX              |
-| Hong Kong S.A.R. of the PRC	  | New Territories | Hong Kong          | BBIX Hong Kong    |
-| Japan	                        | Osaka           | Japan 	           | BBIX Osaka       |
-| Japan	                        | Osaka	          | Japan 	           | JPIX Osaka       |
-| Japan	                        | Osaka	          | Japan 	           | JPNAP Osaka       |
-| Japan	                        | Tokyo           | Japan	             | BBIX Tokyo        |
-| Japan	                        | Tokyo	          | Japan	             | Equinix Tokyo     |
-| Japan	                        | Tokyo	          | Japan 	           | JPNAP Tokyo       |
-| South Korea	                  | Seoul	          | Gyeonggi-do	       | KINX              |
-| Singapore	                    | Singapore	      | Singapore          | BBIX Singapore    |
-| Singapore	                    | Singapore	      | Singapore          | Equinix Singapore |
+| Hong Kong S.A.R. of the PRC   | New Territories | Hong Kong          | BBIX Hong Kong    |
+| Japan                        | Osaka           | Japan             | BBIX Osaka       |
+| Japan                         | Osaka           | Japan             | JPIX Osaka       |
+| Japan                         | Osaka           | Japan             | JPNAP Osaka       |
+| Japan                         | Tokyo           | Japan              | BBIX Tokyo        |
+| Japan                         | Tokyo           | Japan              | Equinix Tokyo     |
+| Japan                         | Tokyo           | Japan             | JPNAP Tokyo       |
+| South Korea                   | Seoul           | Gyeonggi-do        | KINX              |
+| Singapore                     | Singapore       | Singapore          | BBIX Singapore    |
+| Singapore                     | Singapore       | Singapore          | Equinix Singapore |
 {: class="simple-tab-table"}
 {: caption="Table 1. Public peer exchanges for Asia Pacific" caption-side="top"}
 {: tab-group="public-peer-exchanges"}
@@ -72,16 +66,16 @@ The following table shows the current public peer exchanges.
 
 | Country     | City      | State or Province  | Exchange         |
 |-------------|-----------|--------------------|------------------|
-| Germany	    | Frankfurt	| Hesse	             | DE-CIX           |
-| Germany	    | Frankfurt	| Hesse	             | NIX.CZ           |
-| England	    | London	  | England            | LINX Juniper LAN |
-| England	    | London	  | England            | LINX Extreme LAN |
-| France	    | Paris	    | Île-de-France	     | Equinix Paris    |
-| Italy	      | Milan	    | Italy	             | MIX-IT           |
-| Netherlands | Amsterdam	| North Holland      | AMS-IX           |
-| Netherlands	| Amsterdam	| North Holland      | NL-IX            |
-| Sweden	    | Stockholm	| Uppland	           | Netnod STH-A     |
-| Sweden	    | Stockholm	| Uppland	           | Netnod STH-B     |
+| Germany    | Frankfurt | Hesse             | DE-CIX           |
+| Germany    | Frankfurt | Hesse              | NIX.CZ           |
+| England    | London   | England            | LINX Juniper LAN |
+| England    | London   | England            | LINX Extreme LAN |
+| France    | Paris    | Île-de-France     | Equinix Paris    |
+| Italy      | Milan    | Italy             | MIX-IT           |
+| Netherlands | Amsterdam | North Holland      | AMS-IX           |
+| Netherlands | Amsterdam | North Holland      | NL-IX            |
+| Sweden    | Stockholm | Uppland           | Netnod STH-A     |
+| Sweden    | Stockholm | Uppland           | Netnod STH-B     |
 {: class="simple-tab-table"}
 {: caption="Table 1. Public peer exchanges for Europe" caption-side="top"}
 {: tab-group="public-peer-exchanges"}
@@ -90,26 +84,26 @@ The following table shows the current public peer exchanges.
 
 | Country       | City        | State or Province | Exchange            |
 |---------------|-------------|-------------------|---------------------|
-| Canada	      | Toronto	    | Ontario	          | TorIX               |
-| United States | Denver	    | Colorado	        | ANY2 Denver         |
-| United States	| Denver	    | Colorado	        | IX Denver           |
-| United States	| Miami	      | Florida	          | FL-IX               |
-| United States	| Miami	      | Florida	          | Equinix Miami       |
-| United States	| Boston	    | Massachusetts     | MASS-IX             |
-| United States	| New York	  | New York	        | DE-CIX NYC          | 
-| United States	| New York	  | New York	        | TIE NYC             |
-| United States	| New York	  | New York	        | NYIIX               |
-| United States	| Seattle	    | Washington	      | SIX                 |
-| United States	| Los Angeles	| California	      | ANY2 Los Angeles    | 
-| United States	| Los Angeles	| California	      | Equinix Los Angeles |
-| United States	| Palo Alto	  | California 	      | Equinix Palo Alto   |
-| United States	| San Jose	  | California	      | Equinix San Jose    |
-| United States	| Atlanta	    | Georgia	          | TIE-ATL             |
-| United States	| Chicago	    | Illinois	        | Equinix Chicago     |
-| United States	| Dallas	    | Texas	            | Equinix Dallas      |
-| United States	| Dallas	    | Texas	            | DE-CIX DAL          |
-| United States	| Ashburn	    | Virginia	        | Equinix Ashburn     |
-| United States	| Ashburn	    | Virginia	        | LINX NoVa           |
+| Canada       | Toronto     | Ontario          | TorIX               |
+| United States | Denver     | Colorado        | ANY2 Denver         |
+| United States | Denver     | Colorado        | IX Denver           |
+| United States | Miami      | Florida          | FL-IX               |
+| United States | Miami      | Florida          | Equinix Miami       |
+| United States | Boston    | Massachusetts     | MASS-IX             |
+| United States | New York  | New York        | DE-CIX NYC          | 
+| United States | New York  | New York        | TIE NYC             |
+| United States | New York  | New York        | NYIIX               |
+| United States | Seattle    | Washington      | SIX                 |
+| United States | Los Angeles | California      | ANY2 Los Angeles    | 
+| United States | Los Angeles | California      | Equinix Los Angeles |
+| United States | Palo Alto  | California       | Equinix Palo Alto   |
+| United States | San Jose  | California      | Equinix San Jose    |
+| United States | Atlanta    | Georgia          | TIE-ATL             |
+| United States | Chicago    | Illinois        | Equinix Chicago     |
+| United States | Dallas    | Texas            | Equinix Dallas      |
+| United States | Dallas    | Texas            | DE-CIX DAL          |
+| United States | Ashburn    | Virginia        | Equinix Ashburn     |
+| United States | Ashburn    | Virginia        | LINX NoVa           |
 {: class="simple-tab-table"}
 {: caption="Table 1. Public peer exchanges for North America" caption-side="top"}
 {: tab-group="public-peer-exchanges"}
@@ -118,14 +112,14 @@ The following table shows the current public peer exchanges.
 
 | Country   | City      | State or Province      | Exchange                     |
 |-----------|-----------|------------------------|------------------------------|
-| Australia	| Melbourne	| Victoria               | Equinix Melbourne            |
-| Australia	| Melbourne	| Victoria	             | IX Australia Victoria        |
-| Australia	| Melbourne	| Victoria	             | MegaIX Melbourne             |
-| Australia	| Melbourne	| Victoria	             | PIPE MEL                     |
-| Australia	| Sydney	  | New South Wales        | Equinix Sydney               |
-| Australia	| Sydney	  | New South Wales	       | IX Australia New South Wales |
-| Australia	| Sydney	  | New South Wales	       | MegaIX Sydney                |
-| Australia | Sydney	  | New South Wales	       | PIPE SYD                     |
+| Australia | Melbourne | Victoria               | Equinix Melbourne            |
+| Australia | Melbourne | Victori               | IX Australia Victoria        |
+| Australia | Melbourne | Victoria              | MegaIX Melbourne             |
+| Australia | Melbourne | Victoria              | PIPE MEL                     |
+| Australia | Sydney  | New South Wales        | Equinix Sydney               |
+| Australia | Sydney  | New South Wales        | IX Australia New South Wales |
+| Australia | Sydney  | New South Wales        | MegaIX Sydney                |
+| Australia | Sydney  | New South Wales        | PIPE SYD                     |
 {: class="simple-tab-table"}
 {: caption="Table 1. Public peer exchanges for Oceania" caption-side="top"}
 {: tab-group="public-peer-exchanges"}
@@ -134,7 +128,7 @@ The following table shows the current public peer exchanges.
 
 | Country | City      | State or Province | Exchange |
 |---------|-----------|-------------------|----------|
-| Brazil	| São Paulo | São Paulo	        | PTT-SP   |
+| Brazil | São Paulo | São Paulo         | PTT-SP   |
 {: class="simple-tab-table"}
 {: caption="Table 1. Public peer exchanges for South America" caption-side="top"}
 {: tab-group="public-peer-exchanges"}
