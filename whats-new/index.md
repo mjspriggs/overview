@@ -374,12 +374,14 @@ View recorded changes to your private catalogs with the new audit logs feature. 
 
 ## Notification distribution list
 {: #notification-distribution}
+
 New as of: 07 July 2020
 
 You can now create a list of up to 10 email addresses that receive account-wide notifications in the {{site.data.keyword.Bluemix_notm}} console by going to **Account**  > **Notification distribution list**. Users that are added to the distribution list are notified about any event that's affecting the account. For more information, see [Adding users to a distribution list](https://cloud.ibm.com/docs/account?topic=account-email-prefs#adding-users-to-a-distribution-list)
 
 ## CLI support for catalog filtering in {{site.data.keyword.Bluemix_notm}} enterprises
 {: #enterprise-filter-cli}
+
 New as of: 07 July 2020
 
 You can now use the following commands to set and manage filters in accounts within an enterprise hierarchy:
@@ -393,6 +395,7 @@ Each command operates the same at the enterprise level by default. You can also 
 
 ## Consulting services are available in the {{site.data.keyword.Bluemix_notm}} catalog
 {: #catalog-consulting-svcs}
+
 New as of: 07 July 2020
 
 We now offer consulting services that aim to help guide you in transforming your business. Our consulting strategy combines expertise, tools, and methodologies to develop cloud strategies and implementation plans that align with your business goals. 
@@ -401,6 +404,7 @@ To check out the available consulting services, go to the [catalog](https://clou
 
 ## Catalog management SDKs
 {: #catalog-mgmt-sdks}
+
 New as of: 07 July 2020
 
 Four new Software Development Kits (SDKs) for the catalog management service, which includes private catalogs and software products, are now available. 
@@ -414,12 +418,14 @@ For more information, see the [Catalog Management API reference](https://cloud.i
 
 ## OVA images are available in the {{site.data.keyword.Bluemix_notm}} catalog
 {: #ova-vcenter-support}
+
 New as of: 07 July 2020
 
 With the deployment power of the {{site.data.keyword.Bluemix_notm}} Schematics service, support for third-party OVA images targeting VMware vCenter Server deployments is now available. To quickly find the available products in the [catalog](https://cloud.ibm.com/catalog){: external}, click **Software**, and select **OVA Images** from the **Software** list. 
 
 ## {{site.data.keyword.cloud-shell_notm}} is generally available
 {: #cloud-shell-ga}
+
 New as of: 24 June 2020
 
 {{site.data.keyword.cloud-shell_notm}}, the browser-based shell environment, is now generally available (GA)! This release includes greater region support with the addition of the Tokyo (`jp-tok`) region. {{site.data.keyword.cloud-shell_short}} sessions now also support inputting and viewing double-byte characters on the command line, so you can work in languages such as Japanese, Simplified and Traditional Chinese, and more. The server image was also updated to include updates to several command line tools, in addition to the regular updates for the {{site.data.keyword.cloud_notm}} CLI and plug-ins.
@@ -428,6 +434,7 @@ To try out {{site.data.keyword.cloud-shell_notm}}, see [Getting started with {{s
 
 ## Connect to an external identity provider for authentication
 {: #external-idp}
+
 New as of: 21 May 2020
 
 You can now connect your external identity provider to an {{site.data.keyword.appid_full_notm}} instance, and then configure that {{site.data.keyword.appid_short}} to connect directly to {{site.data.keyword.Bluemix_notm}} Identity and Access Management (IAM) to federate authentication for users in your enterprise to your {{site.data.keyword.Bluemix_notm}} account.
@@ -436,12 +443,14 @@ By using this new integration between {{site.data.keyword.appid_short}} and {{si
 
 ## Support for catalog filtering in {{site.data.keyword.Bluemix_notm}} enterprises
 {: #enterprise-catalog-filter}
+
 New as of: 01 May 2020
 
 You can now use filters to customize which products in the {{site.data.keyword.Bluemix_notm}} catalog are available in accounts within an enterprise hierarchy. Filters that are set at a parent account level apply to all child account groups and accounts. For more information, see [Managing products for an {{site.data.keyword.Bluemix_notm}} enterprise](/docs/account?topic=account-catalog-enterprise-restrict).   
 
 ## Unified notifications experience
 {: #unified-notifications-experience}
+
 New as of: 21 April 2020
 
 Viewing your notifications is now easier than ever with the new unified notifications experience. The notifications page is the centralized place to view and manage all incidents, maintenance, and announcements that might affect your account. In the {{site.data.keyword.Bluemix_notm}} console, click the **Notifications** icon ![Notification icon](../../icons/Notification.svg "Notifications") on the console menu bar to view your notifications.
@@ -475,30 +484,35 @@ Until now, you assigned access by using the available platform and service roles
 
 ## Updated handling of API keys for removed users
 {: #api-keys-removed-users}
+
 New as of: 26 February 2020
 
 When you remove a user from your account, {{site.data.keyword.cloud_notm}} automatically cleans up the API keys associated with that user's identity, so you don't have to. For more information, see the [Updated handling of IBM Cloud API keys for users removed from accounts](https://www.ibm.com/cloud/blog/announcements/updated-handling-of-ibm-cloud-api-keys-for-users-removed-from-accounts){: external} blog post.
 
 ## {{site.data.keyword.cloud-shell_notm}} (Beta) is now available
 {: #cloud-shell-beta}
+
 New as of: 21 January 2020
 
 We're introducing a new way to access {{site.data.keyword.cloud_notm}} from the command line with no installation needed - {{site.data.keyword.cloud-shell_full}}! {{site.data.keyword.cloud-shell_notm}} is a cloud-based shell environment that gives you instant command-line access through your web browser. It's preconfigured with the full {{site.data.keyword.cloud_notm}} CLI, all CLI plug-ins, and tons of tools so you have everything that you need to manage apps, resources, and infrastructure. To try out this beta release, see [Getting started with {{site.data.keyword.cloud-shell_notm}}](/docs/cloud-shell?topic=cloud-shell-getting-started).
 
 ## Improved Support Center 
 {: #improved-support}
+
 New as of: 09 January 2020
 
 The latest enhancement to the support center offers a personalized experience to better resolve any IBM Cloud related issue. Navigate through the landing page to view incidents that are specific to your account along with a list of your open cases. Additionally, our self-help options have expanded, popular FAQs and recommended topics are populated to provide information that is relevant to your account. To check out the new experience, log in and go to the [Support Center](https://cloud.ibm.com/unifiedsupport/supportcenter){: external} . 
 
 ## Disable public access to resources
 {: #disable-public}
+
 New as of: 19 December 2019
 
 All users and service IDs are members of the Public Access group by default, which provides unauthenticated access to the resources that the group can access. You can now disable public access at the account level for cases in which you might want to prevent policies that could publicly expose resources from being created. For more information, see [Managing public access to resources](/docs/account?topic=account-public). 
 
 ## Delete resource groups
 {: #delete-rgs}
+
 New as of: 26 November 2019
 
 Besides the default resource group that's automatically created for you when create your {{site.data.keyword.Bluemix_notm}} account, you can now delete any resource group that doesn't contain any resources. For more information, see [Managing resource groups](/docs/account?topic=account-rgs).
@@ -506,6 +520,7 @@ Besides the default resource group that's automatically created for you when cre
 
 ## Bitnami Helm charts
 {: #bitnami}
+
 New as of: 04 November 2019
 
 {{site.data.keyword.IBM_notm}} and VMware are partnering to provide the [Bitnami Application Catalog](https://bitnami.com/stacks){: external} to {{site.data.keyword.cloud_notm}} customers. The first set of offerings available in the {{site.data.keyword.cloud_notm}} catalog are the Bitnami Helm charts, which Bitnami has created and validated to work on the {{site.data.keyword.containerlong_notm}}. Kubernetes developers typically install Helm charts manually from the CLI by using the helm command. However, this installation process has been simplified by building an auto-installation feature in the {{site.data.keyword.cloud_notm}} catalog. Check out these offerings today by selecting **Bitnami** from the **Provider** filter.
@@ -513,24 +528,28 @@ New as of: 04 November 2019
 
 ## Apply promo codes to your account and services
 {: #promo-codes}
+
 New as of: 18 October 2019
 
 {{site.data.keyword.Bluemix_notm}} now has promo codes that you can use to get credit toward your account and services. Promo codes are provided by {{site.data.keyword.Bluemix_notm}} sales on a limited basis to customers with billable accounts. You can apply promo codes from a new Promotions page or from the catalog when you create a resource in the {{site.data.keyword.Bluemix_notm}} console. For more information, see [Applying promo codes](/docs/billing-usage?topic=billing-usage-applying-promo-codes).
 
 ## Download access reports for specific resources
 {: #access-report}
+
 New as of: 17 October 2019
 
 Have you ever wanted to get a quick view of all users, service IDs, access groups, and services that have access to a specific resource in your account? Well, now you can download a report that includes details about who can access your resource. From the My resources page in your account, you can select the **Export access report** option in the row for an IAM-enabled resource to get the report. For more information about the types of data available in the report and who has access to view the report, see [Exporting an access report](/docs/account?topic=account-access-report).
 
 ## Mapping actions to IAM roles 
 {: #actions-iam}
+
 New as of: 15 October 2019
 
 When you invite a user to your account or assign an existing user IAM access, you can review each action that is mapped to a role. Click the **Actions for role** option to view a list of all actions that are mapped to a specific role when you're selecting the roles to assign in an access policy. By reviewing the action to role mappings, you can have confidence that you are always assigning the correct level of access to users in your account. For more information about this new enhancement, see [Invite User Flow and Transparent Actions](https://www.ibm.com/cloud/blog/announcements/invite-user-flow-and-transparent-actions){: external}.
 
 ## Cloud Paks and Schematics templates
 {: #cloud-paks-terraform}
+
 New as of: 3 October 2019
 
 With the deployment power of the {{site.data.keyword.Bluemix_notm}} Schematics service, we now deliver bundled solutions through packaged software and deployable automation scripts that empower you to build, manage, and modernize your cloud architectures faster and more securely. The first release of these offerings include IBM Cloud Paks and a handful of useful Terraform-based templates. 
@@ -539,6 +558,7 @@ From the [catalog](https://cloud.ibm.com/catalog), filter by the offering type a
 
 ## Term-based model for {{site.data.keyword.Bluemix_notm}} support subscriptions
 {: #support-subscriptions}
+
 New as of: 23 September 2019
 
 New subscriptions for {{site.data.keyword.Bluemix_notm}} support now follow the same term-based model as subscriptions for {{site.data.keyword.Bluemix_notm}} platform services. Rather than credit being valid in monthly increments, credit is now available up front for an entire subscription term, which can be up to one year's worth of credit. You now have more flexibility to use your support credit when you need it, and the chances of incurring monthly overages are reduced. When you buy or renew a support subscription, any existing active support subscriptions are converted to this new flexible model for the remainder of their term. For more information, see [Support subscriptions](/docs/account?topic=account-accounts#support-subscriptions).
@@ -547,12 +567,14 @@ You can also now view your support subscriptions in the {{site.data.keyword.Blue
 
 ## Redirecting SoftLayer to {{site.data.keyword.Bluemix_notm}} 
 {: #sl-redirect}
+
 New as of: 12 September 2019
 
 SoftLayer account owners who previously didn't have access to the {{site.data.keyword.Bluemix_notm}} platform can now manage their infrastructure, services, and applications from one location: [cloud.ibm.com](https://cloud.ibm.com){: external} . For more details, see [Transitioning to the {{site.data.keyword.Bluemix_notm}} experience](/docs/overview?topic=overview-ui#redirect-cloud).
 
 ## {{site.data.keyword.Bluemix_notm}} enterprises for centrally managing multiple accounts
 {: #ibm-cloud-enterprises}
+
 New as of: 25 July 2019
 
 You can now centrally manage billing and usage for multiple accounts by creating an {{site.data.keyword.Bluemix_notm}} enterprise. With an enterprise, you can create a multitiered hierarchy of accounts by organizing related accounts into account groups. Enterprises simplify management of multiple accounts with the following key features:
@@ -564,6 +586,7 @@ If you have multiple accounts, at least one of which is a Subscription account, 
 
 ## Subscriptions page for tracking subscription credit spending
 {: #subscriptions-page}
+
 New as of: 18 July 2019
 
 If you have a Subscription account, you can now view all of your subscriptions and analyze your credit spending on the Subscriptions page. You get a high-level view of the total subscription credit in your account and detailed charts that visualize trends such as your credit burndown and monthly spending. You can also view credit from any promotions in your account. For more information, see [Managing subscriptions](/docs/billing-usage?topic=billing-usage-subscriptions).
@@ -572,12 +595,14 @@ Additionally, to better reflect their usage, codes that you apply to add subscri
 
 ## Managing SoftLayer SAML federation on {{site.data.keyword.cloud_notm}}
 {: #saml-federation}
+
 New as of: 02 July 2019
 
 Former SoftLayer users who set up a SAML identity provider for logging in with federated IDs can now manage their configuration data in the {{site.data.keyword.cloud_notm}} console in Access (IAM) on the Identity providers page. This type of federation is deprecated, so new identity providers can't be set up currently. You can continue to update your identity provider data or choose to delete this federation in favor of switching to [federating with IBMid](/docs/account?topic=account-account-getting-started#signup-federated).
 
 ## Customize your dashboard
 {: #custom}
+
 New as of: 14 June 2019 
 
 You can now control what's displayed on your dashboard. Customizing your dashboard includes the ability to add, remove, and rearrange the widgets. For more information, see [Customizing your dashboard](/docs/account?topic=account-custom-dashboard).
