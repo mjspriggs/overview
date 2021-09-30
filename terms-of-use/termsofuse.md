@@ -66,7 +66,7 @@ If you or your company is a covered entity as defined by the US Health Insurance
 For subpoenas or for reporting abuse on {{site.data.keyword.cloud_notm}}, contact the following:
 
 ```
-{{site.data.keyword.cloud_notm}} c/o SoftLayer Inc*.
+IBM Cloud c/o SoftLayer Inc*.
 14001 North Dallas Parkway, Suite M100
 Dallas, TX 75240
 214.442.0600 Main
