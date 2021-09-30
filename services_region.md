@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2021
-lastupdated: "2021-09-29"
+lastupdated: "2021-09-30"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -145,7 +145,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Tone Analyzer | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Toolchain | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Transit Gateway | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
-| VMware Solutions | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | VPN for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Private Cloud | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Private Endpoint for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -273,7 +272,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Tone Analyzer | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Toolchain | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Transit Gateway | Hosted Globally | Hosted Globally | 
-| VMware Solutions | Hosted Globally | Hosted Globally | 
 | VPN for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Private Cloud | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Private Endpoint for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -401,7 +399,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Tone Analyzer | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Toolchain | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Transit Gateway | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
-| VMware Solutions | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | VPN for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Virtual Private Cloud | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Virtual Private Endpoint for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
@@ -451,6 +448,7 @@ The following infrastructure resources are available in North and South America.
 | Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| VMware Solutions |  |  | 
 | Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Table 4. Americas infrastructure availability - Canada" caption-side="top"}
@@ -481,6 +479,7 @@ The following infrastructure resources are available in North and South America.
 | Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| VMware Solutions | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
 | Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Table 5. Americas infrastructure availability - United States" caption-side="top"}
@@ -511,6 +510,7 @@ The following infrastructure resources are available in North and South America.
 | Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| VMware Solutions |  | 
 | Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Table 6. Americas infrastructure availability - Mexico" caption-side="top"}
@@ -541,6 +541,7 @@ The following infrastructure resources are available in North and South America.
 | Juniper vSRX |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SSL Certificates |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Secondary Subnets |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| VMware Solutions |  |  | 
 | Virtual Router Appliance |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Table 7. Americas infrastructure availability - Brazil" caption-side="top"}
@@ -576,6 +577,7 @@ The following infrastructure resources are available in Europe. Match the resour
 | Juniper vSRX |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SSL Certificates |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Secondary Subnets |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| VMware Solutions |  |  | 
 | Virtual Router Appliance |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Table 8. Europe infrastructure availability - Netherlands" caption-side="top"}
@@ -606,6 +608,7 @@ The following infrastructure resources are available in Europe. Match the resour
 | Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| VMware Solutions | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Table 9. Europe infrastructure availability - Germany" caption-side="top"}
@@ -636,6 +639,7 @@ The following infrastructure resources are available in Europe. Match the resour
 | Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| VMware Solutions |  |  |  |  |  | 
 | Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Table 10. Europe infrastructure availability - United Kingdom" caption-side="top"}
@@ -666,6 +670,7 @@ The following infrastructure resources are available in Europe. Match the resour
 | Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| VMware Solutions |  | 
 | Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Table 11. Europe infrastructure availability - Italy" caption-side="top"}
@@ -696,6 +701,7 @@ The following infrastructure resources are available in Europe. Match the resour
 | Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| VMware Solutions |  | 
 | Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Table 12. Europe infrastructure availability - France" caption-side="top"}
@@ -731,6 +737,7 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| VMware Solutions |  |  |  |  | 
 | Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Table 13. Asia Pacific infrastructure availability - Australia" caption-side="top"}
@@ -761,6 +768,7 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| VMware Solutions |  | 
 | Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Table 14. Asia Pacific infrastructure availability - Hong Kong" caption-side="top"}
@@ -791,6 +799,7 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| VMware Solutions |  | 
 | Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Table 15. Asia Pacific infrastructure availability - India" caption-side="top"}
@@ -821,6 +830,7 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| VMware Solutions |  |  |  |  | 
 | Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Table 16. Asia Pacific infrastructure availability - Japan" caption-side="top"}
@@ -851,6 +861,7 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| VMware Solutions |  | 
 | Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Table 17. Asia Pacific infrastructure availability - Korea" caption-side="top"}
@@ -881,6 +892,7 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Juniper vSRX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SSL Certificates | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Secondary Subnets | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| VMware Solutions |  | 
 | Virtual Router Appliance | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Table 18. Asia Pacific infrastructure availability - Singapore" caption-side="top"}
