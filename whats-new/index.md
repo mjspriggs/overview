@@ -27,6 +27,13 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 If you're looking for updates about products that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external} on the {{site.data.keyword.Bluemix_notm}} blog.
 {: tip}
 
+## Filtering the {{site.data.keyword.cloud_notm}} catalog by provider name
+{: #catalog-provider-filter}
+
+New as of: 04 October 2021
+
+With updates and improvements to {{site.data.keyword.cloud_notm}} catalog, you can now filter products by provider name. If you're looking for a specific provider's products or curious about how many products a provider offers, you can use the provider filter to narrow down your search. To explore the provider filter, see [IBM Cloud catalog](https://cloud.ibm.com/catalog){: external}.
+
 ## Securing your resources with context-based restrictions
 {: #cbr-resources}
 
