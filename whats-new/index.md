@@ -27,14 +27,30 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 If you're looking for updates about products that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external} on the {{site.data.keyword.Bluemix_notm}} blog.
 {: tip}
 
-## Deprecating and suspending third-party software
+## Suspending and deprecating third-party software
 {: #dep-susp-product}
 
 New as of 05 October 2021
 
-Third-party providers can now deprecate and suspend published software from the {{site.data.keyword.Bluemix_notm}} catalog to meet product lifecycle needs. When a product or version is deprecated, it remains available for use in the {{site.data.keyword.cloud_notm}} catalog for 90 days. After 90 days, it's permanently removed. When a product or version is suspended, it's immediately removed from the {{site.data.keyword.cloud_notm}} catalog. 
+As a third-party provider, you can now suspend and deprecate published software from the {{site.data.keyword.cloud_notm}} catalog to meet the needs of your product's lifecycle. When you suspend a product or version, it is immediately removed from the catalog. When you deprecate a product or version, it remains available for use in the catalog for 90 days. After 90 days, it's permanently removed. 
 
 For more information, see [Deprecating software from the {{site.data.keyword.cloud_notm}} catalog](/docs/sell?topic=sell-deprecate-product) and [Suspending your product from the {{site.data.keyword.cloud_notm}} catalog](/docs/sell?topic=sell-suspend-product).
+
+## Suspending and deprecating private products
+{: #dep-susp-private-product}
+
+New as of 05 October 2021
+
+As a private catalog owner, you can now suspend or deprecate software that's in your private catalogs. When you suspend a version of software, it's immediately removed from your private catalog. When you deprecate software, it remains available to users with access to the private catalog for 90 days. After 90 days, it's permanently removed. 
+
+For more information, see [Deprecating a private product](/docs/account?topic=account-deprecate-product) and [Suspending a version of a private product](/docs/account?topic=account-suspend-product).
+
+## Filtering the {{site.data.keyword.cloud_notm}} by specific providers
+{: #catalog-provider-filter}
+
+New as of: 05 October 2021
+
+The latest enhancements to {{site.data.keyword.cloud_notm}} catalog include support for filtering products by provider name. If you're looking for a specific provider's products or curious about how many products that a provider offers, you can use the **Provider** filter to narrow down your search. To explore the filter updates, see the [catalog](https://cloud.ibm.com/catalog){: external}.
 
 ## Securing your resources with context-based restrictions
 {: #cbr-resources}
