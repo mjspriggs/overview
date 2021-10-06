@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2021
 
-lastupdated: "2021-09-27"
+lastupdated: "2021-10-05"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -27,12 +27,14 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 If you're looking for updates about products that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external} on the {{site.data.keyword.Bluemix_notm}} blog.
 {: tip}
 
-## Filtering the {{site.data.keyword.cloud_notm}} catalog by provider name
-{: #catalog-provider-filter}
+## Deprecating and suspending third-party software
+{: #dep-susp-product}
 
-New as of: 04 October 2021
+New as of 05 October 2021
 
-With updates and improvements to {{site.data.keyword.cloud_notm}} catalog, you can now filter products by provider name. If you're looking for a specific provider's products or curious about how many products a provider offers, you can use the provider filter to narrow down your search. To explore the provider filter, see [IBM Cloud catalog](https://cloud.ibm.com/catalog){: external}.
+Third-party providers can now deprecate and suspend published software from the {{site.data.keyword.Bluemix_notm}} catalog to meet product lifecycle needs. When a product or version is deprecated, it remains available for use in the {{site.data.keyword.cloud_notm}} catalog for 90 days. After 90 days, it's permanently removed. When a product or version is suspended, it's immediately removed from the {{site.data.keyword.cloud_notm}} catalog. 
+
+For more information, see [Deprecating software from the {{site.data.keyword.cloud_notm}} catalog](/docs/sell?topic=sell-deprecate-product) and [Suspending your product from the {{site.data.keyword.cloud_notm}} catalog](/docs/sell?topic=sell-suspend-product).
 
 ## Securing your resources with context-based restrictions
 {: #cbr-resources}
