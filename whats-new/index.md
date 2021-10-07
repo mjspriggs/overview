@@ -110,12 +110,6 @@ New as of: 3 August 2021
 
 When you navigate to the {{site.data.keyword.cloud_notm}} catalog, your view by default includes all types of products: services, software, and consulting. To help you quickly find the product that you're looking for, you can now filter the products to view services only, software only, or consulting services only. For more information, see [{{site.data.keyword.cloud_notm}} catalog](/docs/overview?topic=overview-whatis-platform#catalog).
 
-## Assigning access to federated users and compute resources by using trusted profiles 
-
-New as of: 27 July 2021
-
-You can use trusted profiles to automatically grant federated users in your account access to resources with conditions based on SAML attributes from your corporate directory. You can also use trusted profiles to manage the authorization of applications that are running in compute resources, such as {{site.data.keyword.containerlong_notm}}, to access other {{site.data.keyword.cloud_notm}} services without the need for service IDs or API keys. For more information, see [Creating trusted profiles](/docs/account?topic=account-create-trusted-profile#federated-users-steps).
-
 ## Scoping support cases to what matters to you
 {: #create-case-process}
 
