@@ -24,27 +24,19 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 {: #october-2021}
 
 ### 05 October 2021
-{: overview-oct-05-2021-3}
+{: overview-oct-05-2021}
 {: release-note}
 
 Suspending and deprecating private products
 :   As a private catalog owner, you can now suspend or deprecate software that's in your private catalogs. When you suspend a version of software, it's immediately removed from your private catalog. When you deprecate software, it remains available to users with access to the private catalog for 90 days. After 90 days, it's permanently removed. 
 
    For more information, see [Deprecating a private product](/docs/account?topic=account-deprecate-product) and [Suspending a version of a private product](/docs/account?topic=account-suspend-product).
-
-### 05 October 2021
-{: #overview-oct-5-2021-2}
-{: release-note}
-
+   
 Suspending and deprecating third-party software
 :   As a third-party provider, you can now suspend and deprecate published software from the {{site.data.keyword.cloud_notm}} catalog to meet the needs of your product's lifecycle. When you suspend a product or version, it is immediately removed from the catalog. When you deprecate a product or version, it remains available for use in the catalog for 90 days. After 90 days, it's permanently removed. 
 
    For more information, see [Deprecating software from the {{site.data.keyword.cloud_notm}} catalog](/docs/sell?topic=sell-deprecate-product) and [Suspending your product from the {{site.data.keyword.cloud_notm}} catalog](/docs/sell?topic=sell-suspend-product).
-
-### 05 October 2021
-{: #overview-oct-5-2021-1}
-{: release-note}
-
+   
 Filtering the {{site.data.keyword.cloud_notm}} catalog by specific providers
 :   The latest enhancements to {{site.data.keyword.cloud_notm}} catalog include support for filtering products by provider name. If you're looking for a specific provider's products or curious about how many products that a provider offers, you can use the **Provider** filter to narrow down your search. To explore the filter updates, see the [catalog](/catalog){: external}.
 
