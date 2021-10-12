@@ -24,7 +24,7 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 {: #october-2021}
 
 ### 05 October 2021
-{: overview-oct-05-2021}
+{: overview-oct0521}
 {: release-note}
 
 Suspending and deprecating private products
@@ -44,7 +44,7 @@ Filtering the {{site.data.keyword.cloud_notm}} catalog by specific providers
 {: #september-2021}
 
 ### 27 September 2021
-{: #overview-sept-27-2021}
+{: #overview-sept2721}
 {: release-note}
 
 Securing your resources with context-based restrictions
@@ -55,14 +55,14 @@ Securing your resources with context-based restrictions
    For more information, see [What are content-based restrictions?](https://test.cloud.ibm.com/docs/account?topic=account-context-restrictions-whatis)
 
 ### 24 September 2021
-{: #overview-sept-24-2021}
+{: #overview-sept2421}
 {: release-note}
 
 Assigning access policies based on resource location
 :   For supporting services, like {{site.data.keyword.registryshort}}, you can now scope access to more granular locations in your policies, such as geography, country, metro, satellite location.
 
 ### 20 September 2021
-{: #subcollection-sep-20-2021}
+{: #overview-sep2021}
 {: release-note}
 
 Checking the root cause of an incident
@@ -71,10 +71,10 @@ Checking the root cause of an incident
    For more information, see [Checking Incident reports](/docs/get-support?topic=get-support-viewing-cloud-status#status-incident-report).
 
 ## August 2021
-{: #overview-aug-2021}
+{: #overview-aug2021}
 
 ### 05 August 2021
-{: #overview-aug-05-2021}
+{: #overview-aug0521}
 {: release-note}
 
 Delivering notifications by using Microsoft Teams webhooks
@@ -85,7 +85,7 @@ With this webhook integration, you can easily receive the notifications in a sel
 
 
 ### 04 August 2021
-{: #overview-aug-04-2021}
+{: #overview-aug0421}
 {: release-note}
 
 Support for third-party Operator bundles from GitHub
@@ -96,7 +96,7 @@ Software onboarding enhancements: progress indicators
 
 
 ### 03 August 2021
-{: #overview-aug-03-2021}
+{: #overview-aug0321}
 {: release-note}
 
 Filtering the {{site.data.keyword.cloud_notm}} catalog by product type
@@ -107,14 +107,14 @@ Filtering the {{site.data.keyword.cloud_notm}} catalog by product type
 {: #overview-jul-2021}
 
 ### 27 July 2021
-{: overview-jul-27-2021}
+{: overview-jul2721}
 {: release-note}
 
 Assigning access to federated users and compute resources by using trusted profiles
 :   You can use trusted profiles to automatically grant federated users in your account access to resources with conditions based on SAML attributes from your corporate directory. You can also use trusted profiles to manage the authorization of applications that are running in compute resources, such as {{site.data.keyword.containerlong_notm}}, to access other {{site.data.keyword.cloud_notm}} services without the need for service IDs or API keys. For more information, see [Creating trusted profiles](/docs/account?topic=account-create-trusted-profile#federated-users-steps).
 
 ### 15 July 2021
-{: #overview-jul-15-2021}
+{: #overview-jul1521}
 {: release-note}
 
 Scoping support cases to what matters to you
@@ -122,7 +122,7 @@ Scoping support cases to what matters to you
 
 
 ### 14 July 2021
-{: #overview-jul-14-2021}
+{: #overview-jul1421}
 {: release-note}
 
 Delivering notifications by using Slack webhooks
@@ -133,7 +133,7 @@ With this new webhook integration, you can easily receive the notifications in a
 
 
 ### 07 July 2021
-{: #overview-jul-07-2021}
+{: #overview-jul0721}
 {: release-note}
 
 Service-level discounts for accounts with the Pay as you go with Committed Use billing model
@@ -148,7 +148,7 @@ Support for third-party Operator bundles from {{site.data.keyword.redhat_notm}} 
 {: #overview-jun-2021}
 
 ### 01 June 2021
-{: #overview-jun-01-2021}
+{: #overview-jun0121}
 {: release-note}
 
 New invitation flow for existing {{site.data.keyword.Bluemix_notm}} users
@@ -162,7 +162,7 @@ As an account administrator, you might want to remind your users to accept these
 {: #overview-may-2021}
 
 ### 07 May 2021
-{: #overview-may-07-2021}
+{: #overview-may0721}
 {: release-note}
 
 Support for third-party virtual server images with Terraform
@@ -173,7 +173,7 @@ Support for third-party virtual server images with Terraform
 {: #overview-apr-2021}
 
 ### 21 April 2021
-{: #overview-apr-21-2021}
+{: #overview-apr2121}
 {: release-note}
 
 Delivering notifications by using webhooks
@@ -183,7 +183,7 @@ Delivering notifications by using webhooks
 
 
 ### 19 April 2021
-{: #overview-apr-19-2021}
+{: #overview-apr1921}
 {: release-note}
 
 Upcoming changes to the user invitation flow
@@ -200,7 +200,7 @@ Upcoming changes to the user invitation flow
 {: #overview-mar-2021}
 
 ### 31 March 2021
-{: #overview-mar-31-2021}
+{: #overview-mar3121}
 {: release-note}
 
 Support for third-party Operators deployed on {{site.data.keyword.openshiftlong_notm}}
@@ -211,7 +211,7 @@ New catalog filter for Financial Services Validated services
 
 
 ### 26 March 2021
-{: #overview-mar-26-2021}
+{: #overview-mar2621}
 {: release-note}
 
 {{site.data.keyword.codeenginefull_notm}} is supported as an app deployment type
@@ -224,7 +224,7 @@ New catalog filter for Financial Services Validated services
 {: #overview-feb-2021}
 
 ### 26 February 2021
-{: overview-feb-26-2021}
+{: overview-feb2621}
 {: release-note}
 
 Managing user login sessions
@@ -232,7 +232,7 @@ Managing user login sessions
 
 
 ### 25 February 2021
-{: #overview-feb-25-2021}
+{: #overview-feb2521}
 {: release-note}
 
 Controlling access to resources by using tags
@@ -240,7 +240,7 @@ Controlling access to resources by using tags
 
 
 ### 08 February 2021
-{: #overview-feb-08-2021}
+{: #overview-feb0821}
 {: release-note}
 
 New notifications experience
@@ -250,7 +250,7 @@ New notifications experience
 
 
 ### 01 February 2021
-{: #overview-feb-01-2021}
+{: #overview-feb0121}
 {: release-note}
 
 Managing product availability in catalogs by location
@@ -260,7 +260,7 @@ Managing product availability in catalogs by location
 {: #overview-jan-2021}
 
 ### 11 January 2021
-{: #overview-jan-11-2021}
+{: #overview-jan1121}
 
 Pay as you go with Committed Use pricing model
 :   Customers with a Subscription account can use the new pricing model, {{site.data.keyword.Bluemix_notm}} Pay as you go with Committed Use. The new pricing model provides you with additional benefits as you navigate and build on {{site.data.keyword.Bluemix_notm}}.
@@ -274,7 +274,7 @@ Pay as you go with Committed Use pricing model
 {: #overview-dec-2020}
 
 ### 18 December 2020
-{: #overview-dec-18-2020}
+{: #overview-dec1820}
 {: release-note}
 
 Managing features and other updates to {{site.data.keyword.cloud-shell_notm}}
@@ -291,7 +291,7 @@ Managing features and other updates to {{site.data.keyword.cloud-shell_notm}}
 
 
 ### 17 December 2020
-{: #overview-dec-17-2020}
+{: #overview-dec1720}
 {: release-note}
 
 {{site.data.keyword.cloud_notm}} CLI Version 1.3.0 is now available
@@ -310,7 +310,7 @@ Managing features and other updates to {{site.data.keyword.cloud-shell_notm}}
 
 
 ### 10 December 2020
-{: #overview-dec-10-2020}
+{: #overview-dec1020}
 {: release-note}
 
 Enhanced payments & invoicing for new US-based Pay-As-You-Go accounts with credit card billing
@@ -324,7 +324,7 @@ Enhanced payments & invoicing for new US-based Pay-As-You-Go accounts with credi
 
 
 ### 04 December 2020
-{: #overview-dec-04-2020}
+{: #overview-dec0420}
 {: release-note}
 
 Enhancements to the {{site.data.keyword.Bluemix_notm}} Status page
@@ -334,7 +334,7 @@ Enhancements to the {{site.data.keyword.Bluemix_notm}} Status page
 {: #overview-nov-2020}
 
 ### 25 November 2020
-{: #overview-nov-25-2020}
+{: #overview-nov2520}
 {: release-note}
 
 Support for U2F MFA and other MFA factors
@@ -348,7 +348,7 @@ Support for U2F MFA and other MFA factors
 {: #overview-oct-2020}
 
 ### 28 October 2020
-{: #overview-oct-28-2020}
+{: #overview-oct2820}
 {: release-note}
 
 Enhanced Support Center
@@ -358,7 +358,7 @@ Enhanced Support Center
 {: #overview-sept-2020}
 
 ### 18 September 2020
-{: #overview-sep-18-2020}
+{: #overview-sep1820}
 {: release-note}
 
 Managing {{site.data.keyword.cloud-shell_notm}} settings and other updates to {{site.data.keyword.cloud-shell_notm}}
@@ -377,7 +377,7 @@ Restricting account access by using IAM account settings
 {: #overview-aug-2020}
 
 ### 31 August 2020
-{: #overview-aug-31-2020}
+{: #overview-aug3120}
 {: release-note}
 
 Introducing {{site.data.keyword.compliance_short}}
@@ -389,7 +389,7 @@ Introducing {{site.data.keyword.compliance_short}}
 
 
 ### 20 August 2020
-{: #overview-aug-20-2020}
+{: #overview-aug2020}
 {: release-note}
 
 {{site.data.keyword.cloud_notm}} CLI Version 1.2.0 is now available
@@ -404,7 +404,7 @@ Introducing {{site.data.keyword.compliance_short}}
 
 
 ### 12 August 2020
-{: #overview-aug-12-2020}
+{: #overview-aug1220}
 {: release-note}
 
 Increased usage quota and other updates to {{site.data.keyword.cloud-shell_notm}}
@@ -414,7 +414,7 @@ Increased usage quota and other updates to {{site.data.keyword.cloud-shell_notm}
 
 
 ### 10 August 2020
-{: #overview-aug-10-2020}
+{: #overview-aug1020}
 {: release-note}
 
 Customizing scoped dashboards
@@ -422,7 +422,7 @@ Customizing scoped dashboards
 
 
 ### 04 August 2020
-{: #overview-aug-04-2020}
+{: #overview-aug0420}
 {: release-note}
 
 Audit logs for private catalogs
@@ -432,7 +432,7 @@ Audit logs for private catalogs
 {: #overview-jul-2020}
 
 ### 07 July 2020
-{: #overview-jul-07-2020}
+{: #overview-jul0720}
 {: release-note}
 
 Notification distribution list
@@ -468,7 +468,7 @@ OVA images are available in the {{site.data.keyword.Bluemix_notm}} catalog
 {: #overview-jun-2020}
 
 ### 24 June 2020
-{: #overview-jun-24-2020}
+{: #overview-jun2420}
 {: release-note}
 
 {{site.data.keyword.cloud-shell_notm}} is generally available
@@ -481,7 +481,7 @@ OVA images are available in the {{site.data.keyword.Bluemix_notm}} catalog
 {: #overview-may-2020}
 
 ### 21 May 2020
-{: #overview-may-21-2020}
+{: #overview-may2120}
 {: release-note}
 
 Connect to an external identity provider for authentication
@@ -491,7 +491,7 @@ Connect to an external identity provider for authentication
 
 
 ### 01 May 2020
-{: #overview-may-01-2020}
+{: #overview-may0120}
 {: release-note}
 
 Support for catalog filtering in {{site.data.keyword.Bluemix_notm}} enterprises
@@ -502,7 +502,7 @@ Support for catalog filtering in {{site.data.keyword.Bluemix_notm}} enterprises
 {: #overview-apr-2020}
 
 ### 21 April 2020
-{: #overview-apr-21-2020}
+{: #overview-apr2120}
 {: release-note}
 
 Unified notifications experience
@@ -512,7 +512,7 @@ Unified notifications experience
 
 
 ### 18 April 2020
-{: #overview-apr-18-2020}
+{: #overview-apr1820}
 {: release-note}
 
 New features and multi-region support for {{site.data.keyword.cloud-shell_notm}} (Beta)
@@ -529,7 +529,7 @@ New features and multi-region support for {{site.data.keyword.cloud-shell_notm}}
 {: #overview-mar-2020}
 
 ### 31 March 2020
-{: #overview-mar-31-2020}
+{: #overview-mar3120}
 {: release-note}
 
 {{site.data.keyword.cloud_notm}} CLI Version 1.0.0 is now available
@@ -539,7 +539,7 @@ New features and multi-region support for {{site.data.keyword.cloud-shell_notm}}
 
 
 ### 18 March 2020
-{: #overview-mar-18-2020}
+{: #overview-mar1820}
 {: release-note}
 
 Customizing how access is assigned by using custom roles
@@ -549,7 +549,7 @@ Customizing how access is assigned by using custom roles
 {: #overview-feb-2020}
 
 ### 26 February 2020
-{: #overview-feb-26-2020}
+{: #overview-feb2620}
 {: release-note}
 
 Updated handling of API keys for removed users
@@ -560,7 +560,7 @@ Updated handling of API keys for removed users
 {: #overview-jan-2020}
 
 ### 21 January 2020
-{: #overview-jan-21-2020}
+{: #overview-jan2120}
 {: release-note}
 
 {{site.data.keyword.cloud-shell_notm}} (Beta) is now available
@@ -568,7 +568,7 @@ Updated handling of API keys for removed users
 
 
 ### 09 January 2020
-{: #overview-jan-09-2020}
+{: #overview-jan0920}
 {: release-note}
 
 Improved Support Center
@@ -581,7 +581,7 @@ Improved Support Center
 {: #overview-dec-2019}
 
 ### 19 December 2019
-{: #overview-dec-19-2019}
+{: #overview-dec1919}
 {: release-note}
 
 Disable public access to resources
@@ -592,7 +592,7 @@ Disable public access to resources
 {: #overview-nov-2019}
 
 ### 26 November 2019
-{: #overview-nov-26-2019}
+{: #overview-nov2619}
 {: release-note}
 
 Delete resource groups
@@ -600,7 +600,7 @@ Delete resource groups
 
 
 ### 04 November 2019
-{: #overview-nov-04-2019}
+{: #overview-nov0419}
 {: release-note}
 
 Bitnami Helm charts
@@ -611,7 +611,7 @@ Bitnami Helm charts
 {: #overview-oct-2019}
 
 ### 18 October 2019
-{: #overview-oct-18-2019}
+{: #overview-oct1819}
 {: release-note}
 
 Apply promo codes to your account and services
@@ -619,7 +619,7 @@ Apply promo codes to your account and services
 
 
 ### 18 October 2019
-{: #overview-oct-18-2019}
+{: #overview-oct1819}
 {: release-note}
 
 Download access reports for specific resources
@@ -627,7 +627,7 @@ Download access reports for specific resources
 
 
 ### 15 October 2019
-{: #overview-oct-15-2019}
+{: #overview-oct1519}
 {: release-note}
 
 Mapping actions to IAM roles
@@ -635,7 +635,7 @@ Mapping actions to IAM roles
 
 
 ### 03 October 2019
-{: #overview-oct-03-2019}
+{: #overview-oct0319}
 {: release-note}
 
 Cloud Paks and Schematics templates
@@ -647,7 +647,7 @@ Cloud Paks and Schematics templates
 {: #overview-sep-2019}
 
 ### 23 September 2019
-{: #overview-sep-23-2019}
+{: #overview-sep2319}
 {: release-note}
 
 Term-based model for {{site.data.keyword.Bluemix_notm}} support subscriptions
@@ -657,7 +657,7 @@ Term-based model for {{site.data.keyword.Bluemix_notm}} support subscriptions
 
 
 ### 12 September 2019
-{: #overview-sep-12-2019}
+{: #overview-sep1219}
 {: release-note}
 
 Redirecting SoftLayer to {{site.data.keyword.Bluemix_notm}}
@@ -668,7 +668,7 @@ Redirecting SoftLayer to {{site.data.keyword.Bluemix_notm}}
 {: #overview-jul-2019}
 
 ### 25 July 2019
-{: #overview-jul-25-2019}
+{: #overview-jul2519}
 {: release-note}
 
 {{site.data.keyword.Bluemix_notm}} enterprises for centrally managing multiple accounts
@@ -681,7 +681,7 @@ Redirecting SoftLayer to {{site.data.keyword.Bluemix_notm}}
 
 
 ### 25 July 2019
-{: #overview-jul-25-2019}
+{: #overview-jul2519}
 {: release-note}
 
 Subscriptions page for tracking subscription credit spending
@@ -691,7 +691,7 @@ Subscriptions page for tracking subscription credit spending
 
 
 ### 02 July 2019
-{: #overview-jul-02-2019}
+{: #overview-jul0219}
 {: release-note}
 
 Managing SoftLayer SAML federation on {{site.data.keyword.cloud_notm}}
@@ -701,7 +701,7 @@ Managing SoftLayer SAML federation on {{site.data.keyword.cloud_notm}}
 {: #overview-jun-2019}
 
 ### 14 June 2019
-{: #overview-jun-14-2019}
+{: #overview-jun1419}
 {: release-note}
 
 Customize your dashboard
@@ -711,7 +711,7 @@ Customize your dashboard
 {: #overview-apr-2019}
 
 ### 04 April 2019
-{: #overview-apr-04-2019}
+{: #overview-apr0419}
 {: release-note}
 
 Export usage data with associated tags
@@ -722,14 +722,14 @@ Export usage data with associated tags
 {: #overview-mar-2019}
 
 ### 25 March 2019
-{: #overview-mar-25-2019}
+{: #overview-mar2519}
 {: release-note}
 
 Enabling public access to resources
 :   You can now enable public access to objects in your {{site.data.keyword.cos_full}} buckets by using a new access group that is provided for you in your account. This new access group is called the `Public access` group, and all users and service IDs are added to it by default. You can update the policies for the access group to enable all users, even unauthenticated users, access to the resource that you specify in the policy. [Learn more about the public access group](/docs/account?topic=account-public#public).
 
 ### 12 March 2019
-{: #overview-mar-12-2019}
+{: #overview-mar1219}
 {: release-note}
 
 Multifactor authentication for users with federated IDs
@@ -742,7 +742,7 @@ Multifactor authentication for users with federated IDs
 {: #overview-dec-2018}
 
 ### 31 December 2018
-{: #overview-dec-21-2018}
+{: #overview-dec2118}
 {: release-note}
 
 New appdomain.cloud host name option
@@ -757,7 +757,7 @@ New appdomain.cloud host name option
 {: #overview-nov-2018}
 
 ### 30 November 2018
-{: #overview-nov-30-2018}
+{: #overview-nov3018}
 {: release-note}
 
 New Cloud Foundry API endpoints
@@ -810,7 +810,7 @@ Get accurate monthly costs with the cost estimator
 
 
 ### 01 November 2018
-{: #overview-nov-01-2018}
+{: #overview-nov0118}
 {: release-note}
 
 Updated global location names
@@ -832,7 +832,7 @@ Updated global location names
 {: #overview-oct-2018}
 
 ### 30 October 2018
-{: #overview-oct-30-2018}
+{: #overview-oct3018}
 {: release-note}
 
 Assign account management access to others
@@ -850,7 +850,7 @@ Assign account management access to others
 {: #overview-jul-2018}
 
 ### 17 July 2018
-{: #overview-jul-17-2018}
+{: #overview-jul1718}
 {: release-note}
 
 Searching for resources
@@ -858,7 +858,7 @@ Searching for resources
 
 
 ### 12 July 2018
-{: #overview-jul-12-2018}
+{: #overview-jul1218}
 {: release-note}
 
 Dynamically add federated users to access groups
@@ -868,7 +868,7 @@ Dynamically add federated users to access groups
 {: #overview-jun-2018}
 
 ### 01 June 2018
-{: #overview-jun-01-2018}
+{: #overview-jun0118}
 {: release-note}
 
 Protect your service IDs and API keys
@@ -879,7 +879,7 @@ Protect your service IDs and API keys
 {: #overview-may-2018}
 
 ### 31 May 2018
-{: #overview-may-31-2018}
+{: #overview-may3118}
 {: release-note}
 
 Upgrade your Lite account to a Subscription account
@@ -887,7 +887,7 @@ Upgrade your Lite account to a Subscription account
 
 
 ### 15 May 2018
-{: #overview-may-15-2018}
+{: #overview-may1518}
 {: release-note}
 
 {{site.data.keyword.Bluemix_notm}} CLI rebranding
@@ -895,7 +895,7 @@ Upgrade your Lite account to a Subscription account
 
 
 ### 02 May 2018
-{: #overview-may-02-2018}
+{: #overview-may0218}
 {: release-note}
 
 Multi-factor authentication for your account
@@ -905,7 +905,7 @@ Multi-factor authentication for your account
 {: #overview-apr-2018}
 
 ### 03 April 2018
-{: #overview-apr-03-2018}
+{: #overview-apr0318}
 {: release-note}
 
 Assign access quickly by using access groups
@@ -918,7 +918,7 @@ Assign access quickly by using access groups
 {: #overview-dec-2017}
 
 ### 15 December 2017
-{: #overview-dec-15-2017}
+{: #overview-dec1517}
 {: release-note}
 
 Cloud Foundry Service US East region
@@ -926,7 +926,7 @@ Cloud Foundry Service US East region
 
 
 ### 14 December 2017
-{: #overview-dec-14-2017}
+{: #overview-dec1417}
 {: release-note}
 
 Support for resources in the European Union
@@ -937,14 +937,14 @@ Support for resources in the European Union
 {: #overview-nov-2017}
 
 ### 28 November 2017
-{: #overview-nov-28-2017}
+{: #overview-nov2817}
 {: release-note}
 
 Withdrawal of support for TLS 1.0 and 1.1
 :   On 1 March 2018 {{site.data.keyword.Bluemix_notm}} will withdraw support for TLS 1.0 and TLS 1.1 across many of our cloud products and services as part of our commitment to offering a cloud that is secure to the core and in alignment with industry best practices for security and data privacy.
 
 ### 16 November 2017
-{: #overview-nov-16-2017}
+{: #overview-nov1617}
 {: release-note}
 
 A new way to organize resources within your account
@@ -959,7 +959,7 @@ Customize your dashboard view
 :   You can view and manage all the resources in your account from your dashboard in the {{site.data.keyword.Bluemix_notm}} console. And now, you can set filters to customize your view. For example, you can filter by resource group to view the specific resources in a resource group. You can also filter by region or Cloud Foundry space. For more details, see [Managing resources on the dashboard](/docs/overview?topic=overview-ui#dashboardview).
 
 ### 02 November 2017
-{: #overview-nov-02-2017}
+{: #overview-nov0217}
 {: release-note}
 
 Support Center
@@ -970,7 +970,7 @@ Support Center
 {: #overview-oct-2017}
 
 ### 31 October 2017
-{: #overview-oct-31-2017}
+{: #overview-oct3117}
 {: release-note}
 
 Introducing {{site.data.keyword.Bluemix_notm}}
@@ -981,7 +981,7 @@ Lite account
 
 
 ### 06 October 2017
-{: #overview-oct-06-2017}
+{: #overview-oct0617}
 {: release-note}
 
 Identity and Access Management application authentication feature
@@ -993,7 +993,7 @@ Identity and Access Management application authentication feature
 {: #overview-jul-2017}
 
 ### 27 July 2017
-{: #overview-jul-27-2017}
+{: #overview-jul2717}
 {: release-note}
 
 {{site.data.keyword.Bluemix_notm}} global catalog
@@ -1004,7 +1004,7 @@ Identity and Access Management application authentication feature
 {: #overview-may-2017}
 
 ### 23 May 2017
-{: #overview-may-23-2017}
+{: #overview-may2317}
 {: release-note}
 
 {{site.data.keyword.Bluemix_notm}} console updates
@@ -1012,7 +1012,7 @@ Identity and Access Management application authentication feature
 
 
 ### 01 May 2017
-{: #overview-may-01-2017}
+{: #overview-may0117}
 {: release-note}
 
 Identity and access management
@@ -1031,7 +1031,7 @@ Identity and access management
 {: #overview-apr-2017}
 
 ### 13 April 2017
-{: #overview-apr-13-2017}
+{: #overview-apr1317}
 {: release-note}
 
 Navigation design changes for {{site.data.keyword.Bluemix_notm}} docs
