@@ -3,7 +3,7 @@
 
 copyright:
   years: 2016, 2021
-lastupdated: "2021-09-29"
+lastupdated: "2021-10-05"
 
 keywords: glossary, IBM Cloud glossary, terms, definitions
 
@@ -329,6 +329,11 @@ The ability to move applications and services across public or private cloud com
 
 An organization that provides cloud computing resources.
 
+### cloud resource name (CRN)
+{: #x9494304}
+
+A globally unique identifier for a specific cloud resource. The value is segmented hierarchically by version, instance, type, location, and scope, separated by colons.
+
 ### command-line interface (CLI)
 {: #x2051424}
 
@@ -404,6 +409,11 @@ Information acquired during authentication that describes a user, group associat
 
 Within an enterprise billing unit, a consolidation of credit from all sources, including subscriptions and promotions, that is shared among accounts. See also [billing unit](/docs/overview?topic=overview-glossary#x9308099).
 
+### CRN
+{: #x10111475}
+
+See [cloud resource name](/docs/overview?topic=overview-glossary#x9494304).
+
 ### crypto unit
 {: #x9860404}
 
@@ -477,6 +487,11 @@ A process that retrieves the output of a build, packages the output with configu
 {: #x5784896}
 
 A software methodology that integrates application development and IT operations so that teams can deliver code faster to production and iterate continuously based on market feedback.
+
+### DevSecOps
+{: #x9892260}
+
+A methodology that integrates security practices with the software development and operations lifecycle. The goal of the merge is to prioritize the balance of development speed and security.
 
 ### dictionary
 {: #x2001532}
@@ -833,6 +848,16 @@ An open-standards, cloud-based platform for building, managing, and running apps
 {: #x7547040}
 
 The process of controlling access of authorized users to data and applications, while helping companies comply with various regulatory requirements.
+
+### identity provider (IdP)
+{: #x2714740}
+
+A service that creates, maintains, and manages identity information, account authentication and credential management services for one or more systems. For example, a user registry for one or more hosts; or a built-in user registry for an application.
+
+### IdP
+{: #x7027913}
+
+See [identity provider](/docs/overview?topic=overview-glossary#x2714740).
 
 ### image
 {: #x2024928}

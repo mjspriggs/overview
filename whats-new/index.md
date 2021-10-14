@@ -3,7 +3,7 @@
 copyright:
   years: 2015, 2021
 
-lastupdated: "2021-09-27"
+lastupdated: "2021-10-05"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform
 
@@ -26,6 +26,31 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 
 If you're looking for updates about products that are available on {{site.data.keyword.Bluemix_notm}}, check out the [Announcements page](https://www.ibm.com/cloud/blog/announcements){: external} on the {{site.data.keyword.Bluemix_notm}} blog.
 {: tip}
+
+## Suspending and deprecating third-party software
+{: #dep-susp-product}
+
+New as of 05 October 2021
+
+As a third-party provider, you can now suspend and deprecate published software from the {{site.data.keyword.cloud_notm}} catalog to meet the needs of your product's lifecycle. When you suspend a product or version, it is immediately removed from the catalog. When you deprecate a product or version, it remains available for use in the catalog for 90 days. After 90 days, it's permanently removed. 
+
+For more information, see [Deprecating software from the {{site.data.keyword.cloud_notm}} catalog](/docs/sell?topic=sell-deprecate-product) and [Suspending your product from the {{site.data.keyword.cloud_notm}} catalog](/docs/sell?topic=sell-suspend-product).
+
+## Suspending and deprecating private products
+{: #dep-susp-private-product}
+
+New as of 05 October 2021
+
+As a private catalog owner, you can now suspend or deprecate software that's in your private catalogs. When you suspend a version of software, it's immediately removed from your private catalog. When you deprecate software, it remains available to users with access to the private catalog for 90 days. After 90 days, it's permanently removed. 
+
+For more information, see [Deprecating a private product](/docs/account?topic=account-deprecate-product) and [Suspending a version of a private product](/docs/account?topic=account-suspend-product).
+
+## Filtering the {{site.data.keyword.cloud_notm}} by specific providers
+{: #catalog-provider-filter}
+
+New as of: 05 October 2021
+
+The latest enhancements to {{site.data.keyword.cloud_notm}} catalog include support for filtering products by provider name. If you're looking for a specific provider's products or curious about how many products that a provider offers, you can use the **Provider** filter to narrow down your search. To explore the filter updates, see the [catalog](https://cloud.ibm.com/catalog){: external}.
 
 ## Securing your resources with context-based restrictions
 {: #cbr-resources}
@@ -84,12 +109,6 @@ When you onboard software to the {{site.data.keyword.cloud_notm}} catalog or pri
 New as of: 3 August 2021
 
 When you navigate to the {{site.data.keyword.cloud_notm}} catalog, your view by default includes all types of products: services, software, and consulting. To help you quickly find the product that you're looking for, you can now filter the products to view services only, software only, or consulting services only. For more information, see [{{site.data.keyword.cloud_notm}} catalog](/docs/overview?topic=overview-whatis-platform#catalog).
-
-## Assigning access to federated users and compute resources by using trusted profiles 
-
-New as of: 27 July 2021
-
-You can use trusted profiles to automatically grant federated users in your account access to resources with conditions based on SAML attributes from your corporate directory. You can also use trusted profiles to manage the authorization of applications that are running in compute resources, such as {{site.data.keyword.containerlong_notm}}, to access other {{site.data.keyword.cloud_notm}} services without the need for service IDs or API keys. For more information, see [Creating trusted profiles](/docs/account?topic=account-create-trusted-profile#federated-users-steps).
 
 ## Scoping support cases to what matters to you
 {: #create-case-process}

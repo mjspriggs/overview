@@ -4,7 +4,7 @@
 copyright:
   years: 2016, 2021
 
-lastupdated: "2021-10-04"
+lastupdated: "2021-10-14"
 
 
 keywords: console, platform overview, overview, data center, security, compliance 
@@ -14,6 +14,7 @@ subcollection: overview
 ---
 
 {:shortdesc: .shortdesc}
+{:tip: .tip}
 {:external: target="_blank" .external}
 
 # What is the {{site.data.keyword.Bluemix_notm}} platform?
@@ -128,17 +129,6 @@ See the following table for the list of filters that you can use to search the c
 
 | Option | Description |
 |--------------|-------|
-| {{site.data.keyword.IBM_notm}} | The lifecycle and operations of the service are the responsibility of {{site.data.keyword.IBM_notm}}. |
-| Third party | Support for the service is the responsibility of the third-party provider. If the root cause analysis determines that the issue is a defect in the service, {{site.data.keyword.IBM_notm}} isn't required to provide a fix. However, {{site.data.keyword.IBM_notm}} shares analysis with the third-party provider, if needed, and can work with the third-party provider to help solve the issue. |
-{: caption="Table 1. Options for filtering by provider" caption-side="top"}
-{: #provider-svc}
-{: tab-title="Provider"}
-{: tab-group="cfo"}
-{: class="simple-tab-table"}
-{: summary="Use the buttons before the table to change the context of the table. The column headers identify the options for fitering based on filter type."} 
-
-| Option | Description |
-|--------------|-------|
 | Free | The service includes monthly free allowances. |
 | Lite | The pricing plan for the service is structured as a free quota. The quota might operate for a specific time period, for example, a month or on a one-off usage basis. |
 {: caption="Table 1. Options for filtering by pricing plan" caption-side="top"}
@@ -151,7 +141,7 @@ See the following table for the list of filters that you can use to search the c
 | Option | Description |
 |--------------|-------|
 | EU Supported | Support for the service is restricted to {{site.data.keyword.cloud_notm}} support team members that are located in the European Union (EU) region. This filter is available only if the [EU Supported setting](/docs/account?topic=account-eu-supported) is enabled in the account.  |
-| Financial Services Validated | Services are designated as Financial Services Validated when the {{site.data.keyword.cloud_notm}} service or SaaS, or independent software vendor (ISV) offering, evidences compliance with the {{site.data.keyword.cloud_notm}} Framework for Financial Services. This filter is available only if the [Financial Services Validated setting](/docs/account?topic=account-enabling-fs-validated) is enabled in the account. |
+| Financial Services Validated | Services are designated as Financial Services Validated when the {{site.data.keyword.cloud_notm}} service or SaaS, or independent software vendor (ISV) offering, evidences compliance with the {{site.data.keyword.cloud_notm}} Framework for Financial Services. This filter is available only for {{site.data.keyword.IBM_notm}} products, and if the [Financial Services Validated setting](/docs/account?topic=account-enabling-fs-validated) is enabled in the account. |
 | HIPAA Enabled | The service is designated as HIPAA ready, meaning processing, storing, and handling Protected Health Information (PHI) in the service is supported. This filter is available only if the [HIPAA Supported setting](/docs/account?topic=account-enabling-hipaa) is enabled in the account. |
 | IAM-enabled | The service is enabled to use {{site.data.keyword.cloud_notm}} Identity and Access Management (IAM) for access control. Access policies are used to assign users and service IDs access to specific resources in an account.|
 | Service Endpoint Supported | The service can be connected to over the {{site.data.keyword.cloud_notm}} private network instead of the public network. Connecting directly to service endpoints doesn't require internet access, providing increased security. |
@@ -172,6 +162,9 @@ See the following table for the list of filters that you can use to search the c
 {: tab-group="cfo"}
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the options for fitering based on filter type."}
+
+Want to scope your view of the catalog to only products from a specific provider? Use the **Provider** filter to browse by individual providers.
+{: tip}
 
 ## Pricing and billing
 {: #pricing-billing}
