@@ -2,7 +2,7 @@
 
 copyright:
    years: 2021
-lastupdated: "2020-10-14"
+lastupdated: "2020-10-24"
 
 keywords: get started with IBM Cloud, get started, try for free, lite plan
 
