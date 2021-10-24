@@ -4,7 +4,7 @@
 copyright:
   years: 2016, 2021
 
-lastupdated: "2021-10-14"
+lastupdated: "2021-10-24"
 
 
 keywords: console, platform overview, overview, data center, security, compliance 
