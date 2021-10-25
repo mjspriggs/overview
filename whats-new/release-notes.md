@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2021
 
-lastupdated: "2021-10-08"
+lastupdated: "2021-10-25"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -23,8 +23,15 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 ## October 2021
 {: #october-2021}
 
+### 25 October 2021
+{: #overview-oct2521}
+{: release-note}
+
+Securing IBM Cloud accounts
+:   Our focus is to provide the most secure public cloud. That's why we will be verifying user identities and securing accounts through credit card verification when creating new accounts starting 25 October 2021. Don't worry, we won't charge you for signing up, and you can still try {{site.data.keyword.cloud_notm}} for free. For more information, see [Securing {{site.data.keyword.cloud_notm}} accounts](https://www.ibm.com/cloud/blog/announcements/securing-ibm-cloud-accounts).{: external}
+
 ### 05 October 2021
-{: overview-oct0521}
+{: #overview-oct0521}
 {: release-note}
 
 Suspending and deprecating private products
