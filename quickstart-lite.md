@@ -2,9 +2,9 @@
 
 copyright:
    years: 2021
-lastupdated: "2020-05-19"
+lastupdated: "2020-10-24"
 
-keywords: get started with IBM Cloud, get started, try for free, lite account
+keywords: get started with IBM Cloud, get started, try for free, lite plan
 
 subcollection: overview
 
@@ -14,54 +14,50 @@ completion-time: 10m
 
 ---
 
-{:shortdesc: .shortdesc}
-{:screen: .screen}  
-{:codeblock: .codeblock}  
-{:pre: .pre}
-{:tip: .tip}
-{:note: .note}
-{:external: target="_blank" .external}
-{:step: data-tutorial-type='step'}
+{{site.data.keyword.attribute-definition-list}}
 
 # Try out {{site.data.keyword.cloud_notm}}, for free
 {: #tutorial-try-for-free}
 {: toc-content-type="tutorial"} 
 {: toc-completion-time="10m"} 
 
-Looking to try out {{site.data.keyword.Bluemix}}? A Lite account is great for learning how to work in the cloud, use Watson, and more. It’s also perfect for building proof of concepts (POCs) with the many components available in {{site.data.keyword.Bluemix_notm}}. This tutorial is intended to help you get up and running with a Lite account.  
+Looking to try out {{site.data.keyword.Bluemix}}? Create an account and start building proof of concepts (POCs) with the many components available in {{site.data.keyword.Bluemix_notm}}. You can try Lite and Free service plans to explore {{site.data.keyword.Bluemix_notm}} at no cost while learning how to work in the cloud, use Watson, and more. This quick start guide is intended to help you get up and running on {{site.data.keyword.Bluemix_notm}} without having to think about costs until you're ready.  
 {: shortdesc}
 
 ## Before you begin
-{: #before-try-lite}
+{: #before-try}
 
-Go to the [{{site.data.keyword.Bluemix_notm}} console](https://{DomainName}) and create a Lite account. It's free, and it never expires.
+Go to the [{{site.data.keyword.Bluemix_notm}} console](https://{DomainName}) and create an account. You're asked to enter your credit card information to secure your account and verify your identity. There are no costs that are associated with signing up, and you can try out {{site.data.keyword.Bluemix_notm}} for free. You pay only for billable services that you choose to use, with no long-term contracts or commitments.
+
+You're set up with a [Pay-As-You-Go account](/docs/account?topic=account-accounts#paygo), and you can access the full {{site.data.keyword.Bluemix_notm}} catalog, including all Lite and Free plans. You receive a $200 credit to help get you started. You can use the $200 credit on {{site.data.keyword.Bluemix_notm}} products that are used in the first 30 days.
+
 
 ## Explore the catalog
 {: #explore-catalog}
 {: step}
 
-Explore the catalog for products that include free Lite plans, which are structured as a free quota. You can work on your projects worry free, without the risk of generating an accidental bill. The quota might operate for a specific time period, for example a month, or on a one-off usage basis. 
+Explore the catalog for services that are free to use by filtering for Lite and Free pricing plans. You can work on your projects worry free, without the risk of generating a bill.
 
-1. Go to the [catalog](https://cloud.ibm.com/catalog){: external}.  
-2. Select the **Lite** pricing plan option.
+1. Go to the [catalog](/catalog){: external}.  
+2. Select the **Lite** and **Free** pricing plan options.
 
 ## Create an instance
 {: #lite-create-instance}
 {: step}
 
-Create an instance of a product that includes a free Lite plan.
+Create an instance of product that includes a free Lite plan or a Free tier pricing plan.
 
-1. Select the tile from the catalog after reviewing the filtered list of products that offer the Lite plan option.
+1. Select the tile from the catalog after reviewing the filtered list of products.
 2. Enter any required information to create the instance.
 3. Click **Create**.
 
 ## Check out the solution tutorials
-{: #lite-solution-tutorials}
+{: #try-solution-tutorials}
 {: step}
 
-Check out the [tutorials for Lite accounts](/docs?tab=tutorials&filters=lite-account) for detailed steps about using {{site.data.keyword.Bluemix_notm}} to implement common patterns based on best practices and proven technologies.
+Check out our [tutorials for Lite plans](/docs?tab=tutorials&filters=lite-account) for detailed steps about using {{site.data.keyword.Bluemix_notm}} services that provide free Lite plans for you to implement common patterns based on best practices and proven technologies at no cost.
 
 ## Next steps
-{: #lite-next-steps}
+{: #try-next-steps}
 
-Build your apps! For more information, see [Getting started with apps](/docs/apps?topic=apps-getting-started).
+Build your apps! For more information, see the [Getting started tutorial](/docs/apps?topic=apps-getting-started).

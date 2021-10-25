@@ -4,7 +4,7 @@
 copyright:
   years: 2016, 2021
 
-lastupdated: "2021-10-07"
+lastupdated: "2021-10-24"
 
 
 keywords: console, platform overview, overview, data center, security, compliance 
@@ -54,7 +54,7 @@ Whether you have [existing code](/docs/apps?topic=apps-tutorial-byoc#tutorial-by
 ## Setting up your account
 {: #set-up-account}
 
-If you're a developer and you're just trying out {{site.data.keyword.Bluemix_notm}}, you can go straight to the catalog and browse the products that you'd like to explore and add to your Lite account. When you're ready to get started with an environment and get apps running in production, consider setting up the basics in your account:
+If you're a developer and you're just trying out {{site.data.keyword.Bluemix_notm}}, you can go straight to the catalog and browse the products that you'd like to explore. Try filtering for all Lite and Free pricing plans to test out {{site.data.keyword.cloud_notm}} with no costs. When you're ready to get started with an environment and get apps running in production, consider setting up the basics in your account:
 
 * User access groups for organizing users and service IDs into one entity to make assigning access a streamlined process.
 * Resource groups for organizing your resources to make assigning access to a set of resources quick and easy.
