@@ -20,6 +20,16 @@ content-type: release-note
 Stay up-to-date with the new features that are available on the {{site.data.keyword.Bluemix}} platform so that you get the most out of your {{site.data.keyword.Bluemix_notm}} experience.
 {: shortdesc}
 
+## November 2021
+{: #november-2021}
+
+### 1 November 2021
+{: #overview-nov0121}
+{: release-note}
+
+Accessing Partner Center from the {{site.data.keyword.cloud_notm}} catalog
+:   As a third-party provider, you can now click **Sell on {{site.data.keyword.cloud_notm}}** to access Partner Center directly from the {{site.data.keyword.cloud_notm}} catalog. For more information, see the [catalog](/catalog){: external}. 
+
 ## October 2021
 {: #october-2021}
 
