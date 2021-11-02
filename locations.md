@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2021
-lastupdated: "2021-09-16"
+lastupdated: "2021-11-02"
 
 keywords: data centers, regions, locations, network, ibm cloud regions, multizone regions, MZRs, latency, HA, high availability, endpoints, cloud regions, cloud data centers, multizone, resources, geography, global, geo, load balance, availability zone, zones, north america, south america, europe, asia, DC, tiers, globally resilient, resilient
 
@@ -126,9 +126,9 @@ See the following table for the specific code for each data center.
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
 
-[^1]: IBM Cloud for Government [Learn more](https://www.ibm.com/cloud/federal)
+[^1]: IBM Cloud for Government [Learn more](https://www.ibm.com/cloud/government)
 
-[^2]: IBM Cloud for Government [Learn more](https://www.ibm.com/cloud/federal)
+[^2]: IBM Cloud for Government [Learn more](https://www.ibm.com/cloud/government)
 
 | Data center  | Code  |
 |--------------|-------|
