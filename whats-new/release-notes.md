@@ -624,11 +624,6 @@ Bitnami Helm charts
 Apply promo codes to your account and services
 :   {{site.data.keyword.Bluemix_notm}} now has promo codes that you can use to get credit toward your account and services. Promo codes are provided by {{site.data.keyword.Bluemix_notm}} sales on a limited basis to customers with billable accounts. You can apply promo codes from a new Promotions page or from the catalog when you create a resource in the {{site.data.keyword.Bluemix_notm}} console. For more information, see [Applying promo codes](/docs/billing-usage?topic=billing-usage-applying-promo-codes).
 
-
-### 18 October 2019
-{: #overview-oct1819}
-{: release-note}
-
 Download access reports for specific resources
 :   Have you ever wanted to get a quick view of all users, service IDs, access groups, and services that have access to a specific resource in your account? Well, now you can download a report that includes details about who can access your resource. From the My resources page in your account, you can select the **Export access report** option in the row for an IAM-enabled resource to get the report. For more information about the types of data available in the report and who has access to view the report, see [Exporting an access report](/docs/account?topic=account-access-report).
 
@@ -685,11 +680,6 @@ Redirecting SoftLayer to {{site.data.keyword.Bluemix_notm}}
    * Top-down usage reporting gives you a unified view of usage costs from all accounts, organized according to your enterprise hierarchy.
 
    If you have multiple accounts, at least one of which is a Subscription account, you can create an enterprise. See [What is an enterprise?](/docs/account?topic=account-enterprise) and [Introducing IBM Cloud Enterprises](http://www.ibm.com/cloud/blog/announcements/Introducing-IBM-Cloud-Enterprises){: external}  for more information.
-
-
-### 25 July 2019
-{: #overview-jul2519}
-{: release-note}
 
 Subscriptions page for tracking subscription credit spending
 :   If you have a Subscription account, you can now view all of your subscriptions and analyze your credit spending on the Subscriptions page. You get a high-level view of the total subscription credit in your account and detailed charts that visualize trends such as your credit burndown and monthly spending. You can also view credit from any promotions in your account. For more information, see [Managing subscriptions](/docs/billing-usage?topic=billing-usage-subscriptions).
