@@ -288,6 +288,7 @@ Managing features and other updates to {{site.data.keyword.cloud-shell_notm}}
    * Cloud Operator
    * Cloud Developer
    * File Manager
+
    For more information, see [IAM roles and actions](/docs/account?topic=account-iam-service-roles-actions#ibm-cloud-shell).
 :   {{site.data.keyword.cloud-shell_notm}} now uses a Red Hat&trade; Linux&trade; bash shell instead of a x86-64 Ubuntu Linux&trade; bash shell.
 
