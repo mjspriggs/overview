@@ -38,11 +38,11 @@ Applicable Additional SDs for any service ordered using your {{site.data.keyword
 
 As of 10 December 2020, this section describes the Terms of Use for the following types of {{site.data.keyword.cloud_notm}} accounts:
 
- * New and existing Pay-As-You-Go accounts based in the US with any payment method other than credit card
- * New and existing Pay-As-You-Go accounts not based in the US
- * New and existing Subscription accounts worldwide
- * New and existing contracts for {{site.data.keyword.IBM_notm}} Global Technology Services and Cloud Services
- * New and existing Lite accounts worldwide
+* New and existing Pay-As-You-Go accounts based in the US with any payment method other than credit card
+* New and existing Pay-As-You-Go accounts not based in the US
+* New and existing Subscription accounts worldwide
+* New and existing contracts for {{site.data.keyword.IBM_notm}} Global Technology Services and Cloud Services
+* New and existing Lite accounts worldwide
 
 Your {{site.data.keyword.cloud_notm}} account and any services that are ordered from the {{site.data.keyword.cloud_notm}} are provided under the terms of the Service Description for {{site.data.keyword.cloud_notm}} available at [http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm](http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm){: external} and one of the following base agreements:
 
@@ -65,7 +65,7 @@ If you or your company is a covered entity as defined by the US Health Insurance
 
 For subpoenas or for reporting abuse on {{site.data.keyword.cloud_notm}}, contact the following:
 
-```
+```text
 IBM Cloud c/o SoftLayer Inc*.
 14001 North Dallas Parkway, Suite M100
 Dallas, TX 75240

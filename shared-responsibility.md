@@ -149,6 +149,7 @@ For areas marked as shared responsibilities, the customer is responsible for all
 {: note}
 
 ## Software packages
+{: #software-packages}
 
 Software packages are deployed by {{site.data.keyword.IBM_notm}} as single tenant instances, and they are accessed locally in the customer account. The software instance is hosted on resources in the customer's accounts. The software deployment control plane security is owned by {{site.data.keyword.IBM_notm}}, and the software instance security is owned by the customer.
 

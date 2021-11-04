@@ -114,7 +114,7 @@ Filtering the {{site.data.keyword.cloud_notm}} catalog by product type
 {: #overview-jul-2021}
 
 ### 27 July 2021
-{: overview-jul2721}
+{: #overview-jul2721}
 {: release-note}
 
 Assigning access to federated users and compute resources by using trusted profiles
@@ -231,7 +231,7 @@ New catalog filter for Financial Services Validated services
 {: #overview-feb-2021}
 
 ### 26 February 2021
-{: overview-feb2621}
+{: #overview-feb2621}
 {: release-note}
 
 Managing user login sessions
@@ -273,9 +273,6 @@ Pay as you go with Committed Use pricing model
 :   Customers with a Subscription account can use the new pricing model, {{site.data.keyword.Bluemix_notm}} Pay as you go with Committed Use. The new pricing model provides you with additional benefits as you navigate and build on {{site.data.keyword.Bluemix_notm}}.
 
    With this pricing model, you commit to spend a certain amount and receive discounts across the entire platform. You are billed monthly based on your usage, and unlike a subscription, you continue to receive a discount even after you reach your committed amount. For more information, see [Pay as you go with Committed Use pricing model](/docs/account?topic=account-accounts#commitment-model).
-
-
-<!-- Year 2020 -->
 
 ## December 2020
 {: #overview-dec-2020}
@@ -582,8 +579,6 @@ Improved Support Center
 :   The latest enhancement to the support center offers a personalized experience to better resolve any IBM Cloud related issue. Navigate through the landing page to view incidents that are specific to your account along with a list of your open cases. Additionally, our self-help options have expanded, popular FAQs and recommended topics are populated to provide information that is relevant to your account. To check out the new experience, log in and go to the [Support Center](https://cloud.ibm.com/unifiedsupport/supportcenter){: external} .
 
 
-<!-- Year 2019 -->
-
 ## December 2019
 {: #overview-dec-2019}
 
@@ -731,9 +726,6 @@ Enabling public access to resources
 
 Multifactor authentication for users with federated IDs
 :   Account owners or users assigned the administrator role for the billing account management service can enable multifcator authentication (MFA) for all users in their account. Federated users who use their corporate or enterprise single sign-on ID can now be required to authenticate by using MFA for logging in to {{site.data.keyword.Bluemix_notm}}. For more information about this feature enhancement and what you need to know about enabling MFA for your account, see [Introducing MFA for IBM Cloud Users with Federated ID](https://www.ibm.com/cloud/blog/introducing-mfa-for-ibm-cloud-users-with-federated-id){: external} .
-
-
-<!-- Year 2018 -->
 
 ## December 2018
 {: #overview-dec-2018}
@@ -907,9 +899,6 @@ Multi-factor authentication for your account
 
 Assign access quickly by using access groups
 :   Do you want to be able to assign access quickly by using the least number of policies possible? Now you can with access groups. Group a set of users and service IDs together and assign a single policy that applies to all members of the group. By using access groups, you can limit the time that you spend managing access to the users and service IDs in your account. Check out the blog post [New feature: Access groups](https://www.ibm.com/cloud/blog/access-groups){: external} for more details.
-
-
-<!-- Year 2017 -->
 
 ## December 2017
 {: #overview-dec-2017}
