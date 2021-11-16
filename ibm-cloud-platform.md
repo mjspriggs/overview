@@ -4,7 +4,7 @@
 copyright:
   years: 2016, 2021
 
-lastupdated: "2021-10-24"
+lastupdated: "2021-11-16"
 
 
 keywords: console, platform overview, overview, data center, security, compliance 
@@ -79,7 +79,7 @@ The available services include options for compute, storage, networking, end-to-
 
 You can also find a number of software products, including [Cloud Paks](https://www.youtube.com/watch?v=DzFhhSR8SSs){: external}, [starter kits](/docs/apps?topic=apps-starter-kits), Terraform-based templates, Helm charts, and Operators. The preconfigured software solutions help you build faster. And, with a simplified installation process, you can get started quickly. You manage the deployment and configuration of the software on your own compute resources.
 
-And, if you're looking for help in your journey to cloud, check out our consulting services. Browse your options for scheduling a consultation with technical experts depending on your needs, such as cloud migration, creating business solutions with {{site.data.keyword.IBM_notm}} Garage, or developing a container security solution that works for you.
+And, if you're looking for help in your journey to cloud, check out our professional services. Browse your options for scheduling a consultation with technical experts depending on your needs, such as cloud migration, creating business solutions with {{site.data.keyword.IBM_notm}} Garage, or developing a container security solution that works for you.
 
 The catalog supports command-line interfaces (CLIs) and a RESTful API for you to use to retrieve information about existing products. 
 {: tip}

@@ -107,7 +107,7 @@ Software onboarding enhancements: progress indicators
 {: release-note}
 
 Filtering the {{site.data.keyword.cloud_notm}} catalog by product type
-:   When you navigate to the {{site.data.keyword.cloud_notm}} catalog, your view by default includes all types of products: services, software, and consulting. To help you quickly find the product that you're looking for, you can now filter the products to view services only, software only, or consulting services only. For more information, see [{{site.data.keyword.cloud_notm}} catalog](/docs/overview?topic=overview-whatis-platform#catalog).
+:   When you navigate to the {{site.data.keyword.cloud_notm}} catalog, your view by default includes all types of products: services, software, and professional services. To help you quickly find the product that you're looking for, you can now filter the products to view services only, software only, or professional services only. For more information, see [{{site.data.keyword.cloud_notm}} catalog](/docs/overview?topic=overview-whatis-platform#catalog).
 
 
 ## July 2021
@@ -452,10 +452,10 @@ CLI support for catalog filtering in {{site.data.keyword.Bluemix_notm}} enterpri
 
    Each command operates the same at the enterprise level by default. You can also apply the commands to specific account groups in an enterprise. For more information, see the [Catalogs management CLI plug-in](/docs/cli?topic=cli-manage-catalogs-plugin).
 
-Consulting services are available in the {{site.data.keyword.Bluemix_notm}} catalog
-:   We now offer consulting services that aim to help guide you in transforming your business. Our consulting strategy combines expertise, tools, and methodologies to develop cloud strategies and implementation plans that align with your business goals.
+Professional services are available in the {{site.data.keyword.Bluemix_notm}} catalog
+:   We now offer professional services that aim to help guide you in transforming your business. This strategy combines expertise, tools, and methodologies to develop cloud strategies and implementation plans that align with your business goals.
 
-   To check out the available consulting services, go to the [catalog](https://cloud.ibm.com/catalog){: external}, and click **Consulting**.
+   To explore what's available, go to the [catalog](https://cloud.ibm.com/catalog){: external}, and click **Professional services**.
 
 Catalog management SDKs
 :   Four new Software Development Kits (SDKs) for the catalog management service, which includes private catalogs and software products, are now available.
