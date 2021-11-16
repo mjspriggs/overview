@@ -2,27 +2,21 @@
 
 copyright:
   years: 2019, 2021
-lastupdated: "2021-11-02"
+lastupdated: "2021-11-16"
 
-keywords: data centers, regions, locations, network, ibm cloud regions, multizone regions, MZRs, latency, HA, high availability, endpoints, cloud regions, cloud data centers, multizone, resources, geography, global, geo, load balance, availability zone, zones, north america, south america, europe, asia, DC, tiers, globally resilient, resilient
+keywords: data centers, datacenter, regions, locations, ibm cloud regions, multizone regions, MZRs, cloud regions, cloud data centers, multizone, geo, availability zone, zones
 
 subcollection: overview
 
 ---
 
-{:shortdesc: .shortdesc}
-{:tip: .tip}
-{:note: .note}
-{:term: .term}
-{:external: target="_blank" .external}
+{{site.data.keyword.attribute-definition-list}}
 
-# Locations for resource deployment
+# Region and data center locations for resource deployment
 {: #locations}
 
-{{site.data.keyword.cloud}} has a resilient global network of locations to host your highly available cloud workload. You can create resources in different locations but with the same billing and usage view. You can also deploy your apps to the location that is nearest to your customers to achieve low application latency.
+{{site.data.keyword.cloud}} has a resilient global network of locations to host your highly available cloud workload. You can create resources in different locations, such as a region or data center, but with the same billing and usage view. You can also deploy your apps to the location that is nearest to your customers to achieve low application latency. {{site.data.keyword.cloud_notm}} provides three tiers of regions: [multizone regions](#x9774820){: term} (MZR), [single-zone regions](#x9774825){: term} (SZR), and [data centers](#x2439906){: term}. For more details, see the following sections.
 {: shortdesc}
-
-{{site.data.keyword.cloud_notm}} provides three tiers of regions: [multizone regions](#x9774820){: term} (MZR), [single-zone regions](#x9774825){: term} (SZR), and [data centers](#x2439906){: term}. For more details, see the following sections.
 
 ## Multizone regions
 {: #mzr-table}
@@ -79,9 +73,11 @@ You can also choose to deploy resources to an SZR, but you can't spread them acr
 
 | Location      | Region   | Zone | Data center |
 |-----------|----------|------|----|
-| Seoul     | kr-seo | kr-seo-1 | SEO01 |
+| Seoul     | kr-seo | kr-seo-1 | SEO01 [^tabletext] |
 | Chennai | in-che  |in-che-1  | CHE01 |
 {: caption="Table 2. SZRs for creating resources" caption-side="top"}
+
+[^tabletext]: Closing in 2022 [Learn more](/docs/get-support?topic=get-support-dc-closure)
 
 ## Data centers
 {: #data-centers}
@@ -97,8 +93,8 @@ See the following table for the specific code for each data center.
 | Data center      | Code  |
 |------------------|-------|
 | Dallas 05        | DAL05 |
-| Dallas 06        | DAL06 |
-| Dallas 08 [^1]    | DAL08 |
+| Dallas 06 [^tabletext2]       | DAL06 |
+| Dallas 08 [^tabletext3]    | DAL08 |
 | Dallas 09        | DAL09 |
 | Dallas 10        | DAL10 |
 | Dallas 12        | DAL12 |
@@ -115,7 +111,7 @@ See the following table for the specific code for each data center.
 | Toronto 04       | TOR04 |
 | Toronto 05       | TOR05 |
 | Washington DC 01 | WDC01 |
-| Washington DC 03 [^2] | WDC03 |
+| Washington DC 03 [^tabletext4] | WDC03 |
 | Washington DC 04 | WDC04 |
 | Washington DC 06 | WDC06 |
 | Washington DC 07 | WDC07 |
@@ -126,13 +122,15 @@ See the following table for the specific code for each data center.
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
 
-[^1]: IBM Cloud for Government [Learn more](https://www.ibm.com/cloud/government)
+[^tabletext2]: Closing in 2022 [Learn more](/docs/get-support?topic=get-support-dc-closure)
 
-[^2]: IBM Cloud for Government [Learn more](https://www.ibm.com/cloud/government)
+[^tabletext3]: IBM Cloud for Government [Learn more](https://www.ibm.com/cloud/government)
+
+[^tabletext4]: IBM Cloud for Government [Learn more](https://www.ibm.com/cloud/government)
 
 | Data center  | Code  |
 |--------------|-------|
-|Amsterdam 01 | AMS01|
+|Amsterdam 01 [^tabletext5] | AMS01|
 |Amsterdam 03 | AMS03|
 |Frankfurt 02 | FRA02|
 |Frankfurt 04 | FRA04|
@@ -150,14 +148,16 @@ See the following table for the specific code for each data center.
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
 
+[^tabletext5]: Closing in 2022 [Learn more](/docs/get-support?topic=get-support-dc-closure)
+
 | Data center  | Code  |
 |--------------|-------|
 |Chennai 01 | CHE01|
-|Hong Kong 02 | HKG02|
+|Hong Kong 02 [^tabletext6] | HKG02|
 |Osaka 21 | OSA21|
 |Osaka 22 | OSA22|
 |Osaka 23 | OSA23|
-|Seoul 01 | SEO01|
+|Seoul 01 [^tabletext7] | SEO01|
 |Singapore 01 | SNG01|
 |Sydney 01 | SYD01|
 |Sydney 04 | SYD04|
@@ -172,7 +172,11 @@ See the following table for the specific code for each data center.
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
 
-The table includes certain data centers that are set to close soon. For the list of data centers that are closing, see [Data center closures in 2021](/docs/get-support?topic=get-support-dc-closure).
+[^tabletext6]: Closing in 2022 [Learn more](/docs/get-support?topic=get-support-dc-closure)
+
+[^tabletext7]: Closing in 2022 [Learn more](/docs/get-support?topic=get-support-dc-closure)
+
+The table includes certain data centers that are set to close soon. For the list of data centers that are closing, see [Data center closures](/docs/get-support?topic=get-support-dc-closure).
 {: note}
 
 ## Viewing resources by location
