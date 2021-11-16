@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2021
-lastupdated: "2021-11-15"
+lastupdated: "2021-11-16"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -38,7 +38,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Service | Dallas | Washington DC | Toronto | Sao Paulo | 
 |-----|-----|-----|-----|-----|
 | API Connect | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| API Gateway | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Analytics Engine | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Annotator for Clinical Data | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | App Configuration | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
@@ -166,7 +165,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Service | London | Frankfurt | 
 |---|---|---|
 | API Connect | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| API Gateway | Hosted Globally | Hosted Globally | 
 | Analytics Engine | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Annotator for Clinical Data |  |  | 
 | App Configuration | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
@@ -294,7 +292,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Service | Sydney | Tokyo | Osaka | Chennai | Seoul | 
 |------|------|------|------|------|------|
 | API Connect | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
-| API Gateway | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Analytics Engine | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Annotator for Clinical Data |  |  |  |  |  | 
 | App Configuration | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | 
