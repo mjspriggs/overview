@@ -11,9 +11,7 @@ subcollection: overview
 
 ---
 
-{:shortdesc: .shortdesc}
-{:note: .note}
-{:external: target="_blank" .external}
+{{site.data.keyword.attribute-definition-list}}
 
 # What are the {{site.data.keyword.Bluemix_notm}} prerequisites?
 {: #prereqs-platform}

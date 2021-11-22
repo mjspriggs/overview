@@ -13,9 +13,7 @@ subcollection: overview
 
 ---
 
-{:shortdesc: .shortdesc}
-{:tip: .tip}
-{:external: target="_blank" .external}
+{{site.data.keyword.attribute-definition-list}}
 
 # What is the {{site.data.keyword.Bluemix_notm}} platform?
 {: #whatis-platform}

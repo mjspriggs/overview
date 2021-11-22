@@ -9,11 +9,7 @@ subcollection: overview
 
 ---
 
-{:external: target="_blank" .external}
-{:note: .note}
-{:term: .term}
-{:shortdesc: .shortdesc}
-{:table: .aria-labeledby="caption"}
+{{site.data.keyword.attribute-definition-list}}
 
 
 # Managing security and compliance in {{site.data.keyword.cloud_notm}}

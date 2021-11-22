@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2021
 
-lastupdated: "2021-10-25"
+lastupdated: "2021-11-01"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 

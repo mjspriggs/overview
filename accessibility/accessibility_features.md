@@ -12,8 +12,7 @@ subcollection: overview
 
 ---
 
-{:shortdesc: .shortdesc}
-{:external: target="_blank" .external}
+{{site.data.keyword.attribute-definition-list}}
 
 # Accessibility features for {{site.data.keyword.Bluemix_notm}}
 {: #accessibility-platform}

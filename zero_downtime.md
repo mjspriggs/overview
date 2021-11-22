@@ -10,16 +10,7 @@ subcollection: overview
 
 ---
 
-{:shortdesc: .shortdesc}
-{:tip: .tip}
-{:note: .note}
-{:important: .important}
-{:codeblock: .codeblock}
-{:screen: .screen}
-{:external: target="_blank" .external}
-{:pre: .pre}
-{:table: .aria-labeledby="caption"}
-{:term: .term}
+{{site.data.keyword.attribute-definition-list}}
 
 # How {{site.data.keyword.cloud_notm}} ensures high availability and disaster recovery
 {: #zero-downtime}

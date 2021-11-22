@@ -10,8 +10,7 @@ subcollection: overview
 
 ---
 
-{:shortdesc: .shortdesc}
-{:external: target="_blank" .external}
+{{site.data.keyword.attribute-definition-list}}
 
 # National language support for {{site.data.keyword.cloud_notm}}
 {: #language-support}

@@ -112,7 +112,7 @@ There are two {{site.data.keyword.codeengineshort}} projects that are provisione
 ![{{site.data.keyword.codeengineshort}} example application architecture](images/BCDR-Code-Engine.png "{{site.data.keyword.codeengineshort}} example application architecture"){: caption="Figure 6. An architecture diagram showing a {{site.data.keyword.codeengineshort}} example application architecture" caption-side="bottom"}
 
 Any configuration that is mentioned on the {{site.data.keyword.codeengineshort}} project is performed on both projects to maintain consistency between the primary and backup instances.
-{ note}
+{: note}
 
 In the event that a failover needs to be triggered, these are the basic steps to follow.
 

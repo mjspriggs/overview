@@ -10,11 +10,7 @@ subcollection: overview
 
 ---
 
-{:shortdesc: .shortdesc}
-{:tip: .tip}
-{:note: .note}
-{:external: target="_blank" .external}
-{:video: .video}
+{{site.data.keyword.attribute-definition-list}}
 
 # Navigating the {{site.data.keyword.cloud_notm}} console
 {: #ui}

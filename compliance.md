@@ -10,14 +10,7 @@ subcollection: overview
 
 ---
 
-{:external: target="_blank" .external}
-{:shortdesc: .shortdesc}
-{:screen: .screen}
-{:codeblock: .codeblock}
-{:pre: .pre}
-{:tip: .tip}
-{:note: .note}
-{:important: .important}
+{{site.data.keyword.attribute-definition-list}}
 
 # Understanding compliance in {{site.data.keyword.Bluemix_notm}}
 {: #compliance}

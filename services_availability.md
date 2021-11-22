@@ -11,9 +11,7 @@ subcollection: overview
 
 ---
 
-{:external: target="_blank" .external}
-{:shortdesc: .shortdesc}
-{:note: .note}
+{{site.data.keyword.attribute-definition-list}}
 
 # Extended support and product release levels
 {: #services_availability}

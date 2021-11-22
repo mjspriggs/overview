@@ -12,12 +12,7 @@ subcollection: overview
 
 ---
 
-{:shortdesc: .shortdesc}
-{:codeblock: .codeblock}
-{:screen: .screen}
-{:external: target="_blank" .external}
-{:tip: .tip}
-{:note: .note}
+{{site.data.keyword.attribute-definition-list}}
 
 # Shared responsibilities for using {{site.data.keyword.cloud_notm}} products
 {: #shared-responsibilities}

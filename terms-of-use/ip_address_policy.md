@@ -13,10 +13,7 @@ subcollection: overview
 
 ---
 
-{:shortdesc: .shortdesc}
-{:codeblock: .codeblock}
-{:screen: .screen}
-{:external: target="_blank" .external}
+{{site.data.keyword.attribute-definition-list}}
 
 # IP Address Policy
 {: #ip_address_policy}

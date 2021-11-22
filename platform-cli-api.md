@@ -10,13 +10,7 @@ subcollection: overview
 
 ---
 
-{:shortdesc: .shortdesc}
-{:screen: .screen}
-{:pre: .pre}
-{:tip: .tip}
-{:external: target="_blank" .external}
-{:term: .term}
-{:video: .video}
+{{site.data.keyword.attribute-definition-list}}
 
 # Service availability in the {{site.data.keyword.cloud_notm}} console, APIs, SDKs, and CLIs
 {: #platform-svc-cli-api}

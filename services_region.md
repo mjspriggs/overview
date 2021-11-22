@@ -10,9 +10,8 @@ keywords: location, regions, data centers, service location, service availabilit
 subcollection: account
 
 ---
-{:external: target="_blank" .external}
-{:shortdesc: .shortdesc}
-{:term: .term}
+
+{{site.data.keyword.attribute-definition-list}}
 
 # Service and infrastructure availability by location
 {: #services_region}
