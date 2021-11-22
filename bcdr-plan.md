@@ -203,14 +203,14 @@ All of these services share the same characteristics:
 #### Continuous Availability profile application - {{site.data.keyword.cos_full_notm}}
 {: #bcdr-cos}
 
-![{{site.data.keyword.cos_short}} example application architecture](images/BCDR-Architecture-Diagram-Image9.png "{{site.data.keyword.cos_short}} example application architecture"){: caption="Figure 9. {{site.data.keyword.cos_short}} example application architecture" caption-side="bottom"}
+![{{site.data.keyword.cos_short}} example application architecture](images/BCDR-Architecture-Diagram-Image10.png "{{site.data.keyword.cos_short}} example application architecture"){: caption="Figure 9. {{site.data.keyword.cos_short}} example application architecture" caption-side="bottom"}
 
 In this scenario, the data is always available in both MZRs through cross-regional buckets. Therefore, the only change that is needed is to update the DNS routing to point to the backup MZR.
 
 ### Advanced recovery profile
 {: #bcdr-advanced-recovery}
 
-Advanced recovery profile applications require that the platform is available in less than an hour in the event of a disaster where the primary MZR becomes unavailable. To achieve this with {{site.data.keyword.codeenginefull_notm}}, it is necessary to have a fully configured instance of the {{site.data.keyword.codeenginefull_notm}} project up and running in hot standby mode in the backup MZR. This includes:
+The [advanced recovery class](/docs/overview?topic=overview-understanding-dr#plan-objectives) requires that the platform is available in less than an hour in the event of a disaster where the primary MZR becomes unavailable. To achieve this with {{site.data.keyword.codeenginefull_notm}}, it is necessary to have a fully configured instance of the {{site.data.keyword.codeenginefull_notm}} project up and running in hot standby mode in the backup MZR. This includes:
 
 **Platform:**
 
