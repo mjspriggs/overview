@@ -58,6 +58,16 @@ toc:
           label: High availability and disaster recovery
           topics:
           - zero_downtime.md
+          - ha-considerations.md
+          - topicgroup:
+              label: Best practices for business continuity and disaster recovery
+              topics:
+              - bcdr-understand.md
+              - bcdr-pitfalls.md
+              - bcdr-plan.md
+              - bcdr-networking.md
+              - bcdr-testing.md
+              - bcdr-orchestrator.md
           - slo.md
       - shared-responsibility.md
       - peering_policy.md
