@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2021
-lastupdated: "2021-09-09"
+lastupdated: "2021-11-23"
 
 keywords: notices, IBM Cloud, creative commons, licenses
 
@@ -506,7 +506,7 @@ SILKICONS-ALLJARJAR-SRC [Groovy](http://www.famfamfam.com/lab/icons/silk/), JCIP
 
 The Program includes some or all of the following works licensed under the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by/3.0/legalcode
 
-DOCS. [jq](http://archive.ubuntu.com/ubuntu/pool/universe/j/jq/jq_1.5+dfsg.orig.tar.gz), FONT AWESOME DOCUMENTATION [goconvey](https://fontawesome.com), SOUNDMANAGER.TS [xterm](http://registry.npmjs.org/xterm/-/xterm-3.14.5.tgz), H2DEMO [golang/net](https://github.com/golang/net/archive/13f9640d40b9cc418fb53703dfbd177679788ceb.zip), [SPDX-EXCEPTIONS](http://registry.npmjs.org/spdx-exceptions/-/spdx-exceptions-2.3.0.tgz), SPDX STANDARD [spdx-expression-parse](https://github.com/spdx/spdx-spec), TMPL.GO [golang/net] (https://github.com/golang/net/tree/master/http2/h2demo), FIREWORKS.JPEG [Snappy](http://registry.npmjs.org/snappy/-/snappy-6.3.5.tgz), GO1.HTML [hashicorp/go.net](https://github.com/hashicorp/go.net/archive/afc3cb3a421746fc66dd55b09a270c750cf536ce.zip),GODOC.HTML [golang.org/x/tools] (Not Required), GOLANG-ORG.YAML [dnaeon/go-vcr](https://github.com/dnaeon/go-vcr/archive/v1.0.1.zip), GO [Go](https://golang.org/dl/), HTTP2/H2DEMO/TMPL.GO [dns](https://pkg.go.dev/github.com/miekg/dns@v1.0.14), POLY [google.golang.org/api](https://proxy.golang.org/google.golang.org/api/@v/v0.9.0.zip), GOPHER IMAGE [Go](https://github.com/golang/go/releases/tag/go1.15.2), DIR.TMPL [golang.org/x/tools] (Not Required), SPRITES [golang.org/x/mobile](https://pkg.go.dev/golang.org/x/mobile), GOPHER [gonum](https://github.com/gonum/gonum/tree/3d26580ed485), RUNC-DOCUMENTATION [opencontainers/runc](https://github.com/opencontainers/runc/tree/v0.1.1)
+DOCS. [jq](http://archive.ubuntu.com/ubuntu/pool/universe/j/jq/jq_1.5+dfsg.orig.tar.gz), FONT AWESOME DOCUMENTATION [goconvey](https://fontawesome.com), SOUNDMANAGER.TS [xterm](http://registry.npmjs.org/xterm/-/xterm-3.14.5.tgz), H2DEMO [golang/net](https://github.com/golang/net/archive/13f9640d40b9cc418fb53703dfbd177679788ceb.zip), [SPDX-EXCEPTIONS](http://registry.npmjs.org/spdx-exceptions/-/spdx-exceptions-2.3.0.tgz), SPDX STANDARD [spdx-expression-parse](https://github.com/spdx/spdx-spec), FIREWORKS.JPEG [Snappy](http://registry.npmjs.org/snappy/-/snappy-6.3.5.tgz), GO1.HTML [hashicorp/go.net](https://github.com/hashicorp/go.net/archive/afc3cb3a421746fc66dd55b09a270c750cf536ce.zip),GODOC.HTML [golang.org/x/tools] (Not Required), GOLANG-ORG.YAML [dnaeon/go-vcr](https://github.com/dnaeon/go-vcr/archive/v1.0.1.zip), GO [Go](https://golang.org/dl/), HTTP2/H2DEMO/TMPL.GO [dns](https://pkg.go.dev/github.com/miekg/dns@v1.0.14), POLY [google.golang.org/api](https://proxy.golang.org/google.golang.org/api/@v/v0.9.0.zip), GOPHER IMAGE [Go](https://github.com/golang/go/releases/tag/go1.15.2), DIR.TMPL [golang.org/x/tools] (Not Required), SPRITES [golang.org/x/mobile](https://pkg.go.dev/golang.org/x/mobile), GOPHER [gonum](https://github.com/gonum/gonum/tree/3d26580ed485), RUNC-DOCUMENTATION [opencontainers/runc](https://github.com/opencontainers/runc/tree/v0.1.1)
 
 #### Creative Commons Attribution 4.0 Generic
 {: #cloudshell-40}
