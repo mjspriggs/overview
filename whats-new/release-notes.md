@@ -87,6 +87,13 @@ Checking the root cause of an incident
 
    For more information, see [Checking Incident reports](/docs/get-support?topic=get-support-viewing-cloud-status#status-incident-report).
 
+### 01 September 2021
+{: #overview-sep0121}
+{: release-note}
+
+Update to the latest CLI version
+:   The {{site.data.keyword.cloud_notm}} CLI team is deprecating the current CLI plugin repo infrastructure for downloading and updating the CLI binary files and plugins. The CLI is migrating to a new infrastructure that works with {{site.data.keyword.cloud_notm}} CLI version 2.0.0 or newer. Ensure that you update all instances of the {{site.data.keyword.cloud_notm}} CLI before 1 October 2021 to avoid disruptions for downloading or updating the plugins. No impact is expected for users who don't need to update any plugins or the CLI.
+
 ## August 2021
 {: #overview-aug2021}
 
@@ -236,6 +243,8 @@ New catalog filter for Financial Services Validated services
 
    [{{site.data.keyword.codeengineshort}}](/docs/codeengine?topic=codeengine-getting-started) is a fully managed, serverless platform that runs your containerized workloads, including web apps, micro-services, event-driven functions, or batch jobs. {{site.data.keyword.codeengineshort}} even builds container images for you from your source code. Because these workloads are all hosted within the same Kubernetes infrastructure, all of them can seamlessly work together. The {{site.data.keyword.codeengineshort}} experience is designed so that you can focus on writing code and not on the infrastructure that is needed to host it.
 
+Duplicate access group names
+:   Access groups must use unique names. You can't create or update IAM access groups to use the same name.
 
 ## February 2021
 {: #overview-feb-2021}
@@ -588,7 +597,6 @@ Updated handling of API keys for removed users
 
 Improved Support Center
 :   The latest enhancement to the support center offers a personalized experience to better resolve any IBM Cloud related issue. Navigate through the landing page to view incidents that are specific to your account along with a list of your open cases. Additionally, our self-help options have expanded, popular FAQs and recommended topics are populated to provide information that is relevant to your account. To check out the new experience, log in and go to the [Support Center](https://cloud.ibm.com/unifiedsupport/supportcenter){: external} .
-
 
 ## December 2019
 {: #overview-dec-2019}
