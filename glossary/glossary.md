@@ -3,7 +3,7 @@
 
 copyright:
   years: 2016, 2021
-lastupdated: "2021-10-05"
+lastupdated: "2021-12-01"
 
 keywords: glossary, IBM Cloud glossary, terms, definitions
 
@@ -383,6 +383,11 @@ A member in a blockchain network that uses the network to invoke transactions ag
 {: #x2010901}
 
 A system construct that allows users to simultaneously run separate logical operating system instances. Containers use layers of file systems to minimize image sizes and promote reuse. See also [image](/docs/overview?topic=overview-glossary#x2024928), [layer](/docs/overview?topic=overview-glossary#x2028320), [registry](/docs/overview?topic=overview-glossary#x2064940).
+
+### control
+{: #x2018434}
+
+A technical, administrative, or physical safeguard designed to meet a set of defined security and privacy requirements. Controls exist to prevent, detect, or lessen the ability of a threat to exploit a vulnerability.
 
 ### coreference
 {: #x9440294}
