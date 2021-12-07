@@ -21,7 +21,7 @@ The Orchestration Server enables DR monitoring, reporting, testing, and workflow
 
 {{site.data.keyword.IBM_notm}} CRO can reduce DR test times and DR failover by up to 80 percent, resulting in a more cost-effective DR experience that is smarter, tailored, and more agile than ever before. Additionally, {{site.data.keyword.IBM_notm}} CRO provides DR process orchestration functions and drives other platform and function orchestrators at different layers.
 
-![Orchestrator functions diagram](images/BCDR-Architecture-Diagram-image14.png "Orchestrator functions diagram"){: caption="Figure 1. Orchestrator functions diagram" caption-side="bottom"}
+![Orchestrator functions diagram](images/BCDR-Architecture-Diagram-image14.svg "Orchestrator functions diagram"){: caption="Figure 1. Orchestrator functions diagram" caption-side="bottom"}
 
 ## How do we maintain the disaster recovery posture in {{site.data.keyword.cloud_notm}}?
 {: #maintain-dr-posture}
@@ -54,7 +54,7 @@ In DR steady-state, where the data is getting replicated to the DR, {{site.data.
 
 The same orchestration capabilities and RALs are used to automate the complete failover process to recover the applications on the DR site. Similar to the DR test scenario, {{site.data.keyword.IBM_notm}} CRO recovers the complete application stack bringing up the servers, databases, and applications in the right order based on the dependencies and recovery order of that application. Since the entire operation is automated, the recovery process is quick, reliable, and reduces the dependencies on humans.
 
-![Failover architecture diagram](images/BCDR-Architecture-Diagram-Failover.png "Failover"){: caption="Figure 2. An architecture diagram for failover" caption-side="bottom"}
+![Failover architecture diagram](images/BCDR-Architecture-Diagram-Failover.svg "Failover"){: caption="Figure 2. An architecture diagram for failover" caption-side="bottom"}
 
 - Replication is enabled. The Site Recovery Extension Mobility service is automatically installed on the virtual machine (VM).
 - The VM is registered with Site Recovery.
@@ -92,7 +92,7 @@ Day-to-day DR operations covering monitoring and management are performed by {{s
 
 {{site.data.keyword.IBM_notm}} Resiliency Orchestrator architecture is flexible and adaptable through the API extension.
 
-![Open adaptable architecture](images/BCDR-Architecture-Open-Adaptable-Architecture.png "Open adaptable architecture"){: caption="Figure 3. An architecture diagram for open adaptable architecture" caption-side="bottom"}
+![Open adaptable architecture](images/BCDR-Architecture-Open-Adaptable-Architecture.svg "Open adaptable architecture"){: caption="Figure 3. An architecture diagram for open adaptable architecture" caption-side="bottom"}
 
 * **North-bound API** provides interfaces to integrate with existing web GUIs, monitoring systems, ticketing, and billing.
 * **South-bound API** provides interfaces with technologies, platforms, or other platform and product orchestrators or managers.

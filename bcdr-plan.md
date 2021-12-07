@@ -2,7 +2,7 @@
 
 copyright:
   years: 2021
-lastupdated: "2021-11-17"
+lastupdated: "2021-11-22"
 
 keywords: disaster recovery plan, DR, resilient app, plan for DR, DR objectives
 
@@ -25,7 +25,7 @@ The resiliency options, proposed profiles, and associated information are presen
 
 Business continuity is a top priority for modern applications. The following example shows patterns and best practices to implement DR for hybrid microservice applications in an active/passive configuration.
 
-![Disaster recovery for hybrid microservice applications](images/BCDR-Architecture-Diagram-image1_architecture_diagram.png "Disaster recovery for hybrid microservice applications"){: caption="Figure 1. An architecture diagram for disaster recovery for hybrid microservice applications" caption-side="bottom"}
+![Disaster recovery for hybrid microservice applications](images/BCDR-Architecture-Diagram-image1_architecture_diagram.svg "Disaster recovery for hybrid microservice applications"){: caption="Figure 1. An architecture diagram for disaster recovery for hybrid microservice applications" caption-side="bottom"}
 
 Some of the significant challenges that are unique to the hybrid DR microservices implementation architecture include the following:
 
@@ -53,7 +53,7 @@ Review the following functional requirements:
 To design a resilient architecture, you need to consider the individual blocks of your solution and their specific capabilities.
 
 
-![Cloud architecture with two multizone regions](images/BCDR-Architecture-Diagram-image2_MZRs.png "Cloud architecture with two multizone region"){: caption="Figure 2. An architecture diagram for Cloud architecture with two multizone regions" caption-side="bottom"}
+![Cloud architecture with two multizone regions](images/BCDR-Architecture-Diagram-image2_MZRs.svg "Cloud architecture with two multizone region"){: caption="Figure 2. An architecture diagram for Cloud architecture with two multizone regions" caption-side="bottom"}
 
 
 In this example, three different infrastructure solutions are used across two MZRs. To achieve the goal of having a resilient architecture, the required deployment footprint differs between IaaS solutions like VMware and Kernel-based virtual machine (KVM) and Kubernetes ({{site.data.keyword.containershort}} and {{site.data.keyword.openshiftlong_notm}}) versus a fully-managed serverless service like {{site.data.keyword.codeengineshort}}.
@@ -75,7 +75,7 @@ Review the following network architecture assumptions:
 7. There is currently no feature set in {{site.data.keyword.codeenginefull_notm}} to replicate the configuration of one project to another one in a different region. Therefore, the customer team needs to ensure that all necessary configuration changes to the {{site.data.keyword.codeenginefull_notm}} projects in all the regions are enforced.
 
 
-![Network architecture](images/BCDR-Architecture-Diagram-Page-16.png "Network architecture"){: caption="Figure 3. An architecture diagram for network architecture" caption-side="bottom"}
+![Network architecture](images/BCDR-Architecture-Diagram-Page-16.svg "Network architecture"){: caption="Figure 3. An architecture diagram for network architecture" caption-side="bottom"}
 
 Something to consider in hybrid architecture is the flow of traffic to the public internet. If there are no public VLANs or other direct connectivity to the public internet from {{site.data.keyword.cloud_notm}}, all traffic to and from {{site.data.keyword.cloud_notm}} to the public internet gets routed through your on premises network. 
 
@@ -87,7 +87,7 @@ Therefore, any workload running in the US East region must traverse the {{site.d
 
 One approach is to build a set of architecture profiles that represent most apps. These profiles include options for various classes of service, compute requirements, and all the other components that are listed.
 
-![Sample application architecture](images/BCDR-Architecture-Diagram-image4_sample_architecture.png "Sample application architecture"){: caption="Figure 4. An architecture diagram showing a sample application architecture" caption-side="bottom"}
+![Sample application architecture](images/BCDR-Architecture-Diagram-image4_sample_architecture.svg "Sample application architecture"){: caption="Figure 4. An architecture diagram showing a sample application architecture" caption-side="bottom"}
 
 ### Continuous availability profile
 {: #bcdr-sample-app-continuous-availability}
@@ -95,9 +95,9 @@ One approach is to build a set of architecture profiles that represent most apps
 The [continuous availability recovery class](/docs/overview?topic=overview-understanding-dr#plan-objectives) can be defined as one for applications that requires the platform to be available in less than an hour in the event of a disaster where the primary MZR becomes unavailable.
 
 #### Continuous availability profile - Compute
-{: #bcdr-sample-app-continous-availability-compute}
+{: #bcdr-sample-app-continuous-availability-compute}
 
-![Continuous availability compute architecture](images/BCDR-Architecture-Diagram-image5-Compute.png "Continuous availability compute architecture"){: caption="Figure 5. Continuous availability compute architecture" caption-side="bottom"}
+![Continuous availability compute architecture](images/BCDR-Architecture-Diagram-image5-Compute.svg "Continuous availability compute architecture"){: caption="Figure 5. Continuous availability compute architecture" caption-side="bottom"}
 
 In order to meet continuous availability RTO/RPO goals, these components will need to be preconfigured and at their production workload capacity.
 
@@ -109,7 +109,7 @@ How does the failover happen? For example, using {{site.data.keyword.codeengines
 
 There are two {{site.data.keyword.codeengineshort}} projects that are provisioned, one in US South (primary MZR) and the other in US East (backup MZR). During normal operation, all traffic is routed to the project in US South. To manage traffic between the two MZRs, follow the [{{site.data.keyword.codeengineshort}} instructions](/docs/codeengine?topic=codeengine-deploy-multiple-regions).
 
-![{{site.data.keyword.codeengineshort}} example application architecture](images/BCDR-Code-Engine.png "{{site.data.keyword.codeengineshort}} example application architecture"){: caption="Figure 6. An architecture diagram showing a {{site.data.keyword.codeengineshort}} example application architecture" caption-side="bottom"}
+![{{site.data.keyword.codeengineshort}} example application architecture](images/BCDR-Code-Engine.svg "{{site.data.keyword.codeengineshort}} example application architecture"){: caption="Figure 6. An architecture diagram showing a {{site.data.keyword.codeengineshort}} example application architecture" caption-side="bottom"}
 
 Any configuration that is mentioned on the {{site.data.keyword.codeengineshort}} project is performed on both projects to maintain consistency between the primary and backup instances.
 {: note}
@@ -125,7 +125,7 @@ In the event that a failover needs to be triggered, these are the basic steps to
 #### Continuous availability profile application - {{site.data.keyword.cloudant}}
 {: #bcdr-cloudant}
 
-![{{site.data.keyword.cloudant}} example application architecture](images/BCDR-Architecture-Diagram-Image8.png "{{site.data.keyword.cloudant}} example application architecture"){: caption="Figure 7. {{site.data.keyword.cloudant}} example application architecture" caption-side="bottom"}
+![{{site.data.keyword.cloudant}} example application architecture](images/BCDR-Architecture-Diagram-Image8.svg "{{site.data.keyword.cloudant}} example application architecture"){: caption="Figure 7. {{site.data.keyword.cloudant}} example application architecture" caption-side="bottom"}
 
 In this scenario, {{site.data.keyword.cloudant}} will replicate the data automatically. In the event of a disaster, the only change that is needed will be to reconfigure DNS to point to the cluster in US East.
 
@@ -139,7 +139,7 @@ Impacts
 #### Continuous Availability profile application - {{site.data.keyword.postgresql}}
 {: #bcdr-postgresql}
 
-![{{site.data.keyword.postgresql}} example application architecture](images/BCDR-Architecture-Diagram-Image9.png "{{site.data.keyword.postgresql}} example application architecture"){: caption="Figure 8. {{site.data.keyword.postgresql}} example application architecture" caption-side="bottom"}
+![{{site.data.keyword.postgresql}} example application architecture](images/BCDR-Architecture-Diagram-Image9.svg "{{site.data.keyword.postgresql}} example application architecture"){: caption="Figure 8. {{site.data.keyword.postgresql}} example application architecture" caption-side="bottom"}
 
 In this scenario, the data is replicated automatically by {{site.data.keyword.cloud_notm}} Databases to a read-only replica in the backup MZR. In the event of a disaster, the application team needs to manually trigger a promotion of the read-only replica to become the leader. This action will take some time as a read-only replica of the service instance is not configured using a high availability (HA) topology. When the promotion occurs, several steps happen to elevate the instance to an HA configuration.
 
@@ -203,7 +203,7 @@ All of these services share the same characteristics:
 #### Continuous Availability profile application - {{site.data.keyword.cos_full_notm}}
 {: #bcdr-cos}
 
-![{{site.data.keyword.cos_short}} example application architecture](images/BCDR-Architecture-Diagram-image10.png "{{site.data.keyword.cos_short}} example application architecture"){: caption="Figure 9. {{site.data.keyword.cos_short}} example application architecture" caption-side="bottom"}
+![{{site.data.keyword.cos_short}} architecture](images/BCDR-Architecture-Diagram-image10.svg "{{site.data.keyword.cos_short}} architecture"){: caption="Figure 9. An architecture diagram showing a {{site.data.keyword.cos_short}} architecture" caption-side="bottom"}
 
 In this scenario, the data is always available in both MZRs through cross-regional buckets. Therefore, the only change that is needed is to update the DNS routing to point to the backup MZR.
 
@@ -231,7 +231,7 @@ Recovery times for databases that use backup and restore depends on the size of 
 #### Advanced recovery profile application - {{site.data.keyword.mongodb}}
 {: #bcdr-mongodb}
 
-![MongoDB advanced recovery application example](images/BCDR-Architecture-Diagram-image11.png "MongoDB advanced recovery application example"){: caption="Figure 10. An architecture diagram showing a MongoDB advanced recovery application example" caption-side="bottom"}
+![MongoDB advanced recovery application example](images/BCDR-Architecture-Diagram-image11.svg "MongoDB advanced recovery application example"){: caption="Figure 10. An architecture diagram showing a MongoDB advanced recovery application example" caption-side="bottom"}
 
 In this scenario, the data is not replicated to the backup MZR. When a disaster is declared the application team will need to create a new database instance in the backup MZR by restoring the data from backup.  
 
@@ -251,7 +251,7 @@ When preparing for such architecture using {{site.data.keyword.virtualmachinessh
 
 The following architecture demonstrates the deployment of a multi-region architecture using {{site.data.keyword.virtualmachinesshort}} in an active/passive architecture where one region is active and the second region is passive.
 
-![VM Architecture](images/BCDR-Architecture-Diagram-2.png){: caption="Figure 12. VM architecture" caption-side="bottom"}
+![VM Architecture](images/BCDR-Architecture-Diagram-2.svg){: caption="Figure 12. VM architecture" caption-side="bottom"}
 
 The components that are required for such architecture are as follows:
 
