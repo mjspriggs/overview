@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2021
-lastupdated: "2021-12-14"
+lastupdated: "2021-12-15"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -309,7 +309,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Cloud Object Storage | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Cloud for Education |  |  |  |  |  | 
 | Cloudant | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
-| Code Engine |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
+| Code Engine | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Compose Enterprise | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | 
 | Compose for Elasticsearch | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | 
 | Compose for MongoDB | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | 
