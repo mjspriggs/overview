@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2021
+  years: 2021, 2022
 
-lastupdated: "2021-09-16"
+lastupdated: "2022-01-31"
 
 keywords: SLO, service level objectives
 
@@ -131,12 +131,12 @@ The following table describes the service level objectives (SLOs) for the high i
 | {{site.data.keyword.satellitelong_notm}} | 99.999% | [High availability and disaster recovery for Satellite](/docs/satellite?topic=satellite-ha) |
 {: caption="Table 8. Service level objectives (SLOs) for the {{site.data.keyword.cloud_notm}} compute services" caption-side="bottom"}
 
-### Container services
+### Containers services
 {: #slo-high-container-services}
 
-The following table describes the service level objectives (SLOs) for the high impact {{site.data.keyword.cloud_notm}} container services in a high availability configuration.
+The following table describes the service level objectives (SLOs) for the high impact {{site.data.keyword.cloud_notm}} containers services in a high availability configuration.
 
-| Container service | Availability target | High availability guidance |
+| Containers service | Availability target | High availability guidance |
 |----------|---------|---------|
 | {{site.data.keyword.registrylong_notm}} | 99.999% | [Understanding high availability and disaster recovery for Container Registry](/docs/Registry?topic=Registry-ha-dr) |
 | {{site.data.keyword.containerlong_notm}} | 99.999% | [High availability and disaster recovery for IBM Cloud Kubernetes Service](/docs/containers?topic=containers-ha) |
