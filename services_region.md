@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2021
-lastupdated: "2022-02-03"
+lastupdated: "2022-02-04"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -70,6 +70,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Continuous Delivery | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cost and Asset Management | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | DNS Services | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
+| Data Replication | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | DataStage | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Databases for DataStax | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Databases for EDB | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -200,6 +201,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Continuous Delivery | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cost and Asset Management |  |  | 
 | DNS Services | Hosted Globally | Hosted Globally | 
+| Data Replication | Hosted Globally | Hosted Globally | 
 | DataStage |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Databases for DataStax | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Databases for EDB | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -330,6 +332,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Continuous Delivery | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Cost and Asset Management |  |  |  |  |  | 
 | DNS Services | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
+| Data Replication | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | DataStage |  |  |  |  |  | 
 | Databases for DataStax | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Databases for EDB | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
