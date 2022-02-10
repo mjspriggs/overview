@@ -1,8 +1,8 @@
 ---
 
 copyright:
- years: 2021
-lastupdated: "2021-11-22"
+ years: 2021, 2022
+lastupdated: "2022-02-08"
 
 keywords: high availability, ha
 
@@ -28,7 +28,7 @@ The reason the formula is useful is that it allows us to see how to improve avai
 ## Redundancy in the cloud
 {: #redundancy}
 
-In cloud computing, standard reliability parts are used, along with high levels of redundancy. And, in some ways it is extremely modular in that the replacement unit is usually an entire server. But there is one major difference between the redundancy that is provided in a mainframe and the redundancy that is provided in the cloud – in the cloud the redundancy must be managed by the user. This means that to design a system to run with high availability on the cloud the system designer needs to be familiar with various high availability issues, as well as the design issues associated with the system that they are trying to build.
+In cloud computing, standard reliability parts are used, along with very high levels of redundancy. And, in some ways it is extremely modular in that the replacement unit is usually an entire server. But there is one major difference between the redundancy that is provided in a mainframe and the redundancy that is provided in the cloud – in the cloud the redundancy must be managed by the user. This means that to design a system to run with high availability on the cloud the system designer needs to be familiar with various high availability issues, as well as the design issues associated with the system that they are trying to build.
 
 There are decades of academic and practical writings on high availability, and much of the work requires a good understanding of probability mathematics. However, much like with the formula, many of the principles become obvious when properly explained. Redundancy, which can be complicated in some cases, such as the various levels of RAID disk subsystems, is simply a way of dealing with a widely known principle of system design: “Avoid single points of failure.” Admittedly, while the phrase is simple and obvious, implementation can be tricky.
 
@@ -46,11 +46,11 @@ Levels of redundancy have both a technical and a geographic component. If you ha
 ### Technical redundancy
 {: #technical-redundancy}
 
-Most public clouds have standardized geographic redundancy, although the various vendors do it in slightly different ways. But technical redundancy is not provided by the cloud vendors. Instead, they provide the tools for customers to build their own technical redundancy. Rather than go into the myriad complexities around technical redundancy, which is a key area for the technical teams building systems, there are only a couple of things to keep in mind when thinking about technical redundancy.
+Most public clouds have standardized geographic redundancy, although the various vendors do it in slightly different ways. But technical redundancy is not provided by the cloud vendors. Instead, they provide the tools for customers to build their own technical redundancy. Rather than go into the myriad complexities around technical redundancy, which is a key area for the technical teams building systems, there are a couple of key things to keep in mind when thinking about technical redundancy.
 
-The first is that higher level of availability typically requires higher levels of replication. Thus, in well-designed systems, those with double, triple, and quadruple redundancy, show improvements in availability as the degree of redundancy goes up. “Well designed” hides much of the complexity in highly available system design.
+The first is that higher level of availability typically requires higher levels of replication. Thus, in well-designed systems, those with double, triple, and quadruple redundancy, show improvements in availability as the degree of redundancy goes up. “Well designed” hides a lot of complexity in highly available system design.
 
-The second key aspect of technical redundancy that is worth remembering is that more copies does not automatically mean higher availability. There are two reasons for this. First, if there is a design defect, all your copies are likely to fail in a similar way when faced with similar conditions. In the computer world, design defects are normally called software bugs, and they are not rare. The second reason that more copies do not always lead to higher availability is that you need to know when a copy has broken so you can stop using it. If you don't, or can't do that, more copies will actually lower the apparent availability of the system.
+The second key aspect of technical redundancy that is worth remembering is that more copies does not automatically mean higher availability. There are two reasons for this. First, if there is a design defect, all your copies are likely to fail in a similar way when faced with similar conditions. In the computer world, design defects are normally called software bugs, and they are not rare. The second reason that more copies do not always lead to higher availability is that you need to know when a copy has broken so you can stop using it. If you don't or can't do that, more copies will actually lower the apparent availability of the system.
 
 The sorts of problems that arise can be seen with a couple of different examples. The first is the old style of home smoke detector that didn’t have a feature to indicate low battery. Without that feature, the homeowner was left with no way of knowing if the detector would work in the case of a fire. This omission could be worked around, and people would replace the battery once a year whether it needed it or not. The second example is the old style Christmas tree lights with incandescent colored light bulbs with all the lights connected in series (what were known as “single strand” Christmas lights). Since the bulbs were connected in series, if any bulb burned out the entire string would not light up. The fix was to try replacing each light one at a time to see if the string would light up. Note that in both cases the lack of a detection method could be fixed by people driven processes. The same is true with lack of a computerized detection method. Unfortunately such methods do not scale well, but they do exist.
 
@@ -71,4 +71,4 @@ Regional redundancy
 :   This third level up uses an {{site.data.keyword.IBM_notm}} multizone region (MZR) to provide connections from two independent power vendors, redundant connections to two different network PoPs, and three independent data centers that are spread across a metro area where the customer can lease facilities for three instances of their system, with a target uptime of 99.99% availability, with no exclusions for planned outages. 
 
 Global redundancy
-:   For customers who want a global presence or the highest levels of availability, {{site.data.keyword.IBM_notm}} public cloud offers global redundancy, using two (or more commonly three) MZRs in different geographies, with a target uptime of 99.995% uptime, and no exclusions for planed outages. {{site.data.keyword.IBM_notm}} public cloud customers seem to find that this range of options allows them to match their business needs to their wanted availability in an effective way.
+:   For customers who want a global presence or the highest levels of availability, {{site.data.keyword.IBM_notm}} public cloud offers global redundancy, using two (or more commonly three) MZRs in different geographies, with a target uptime of 99.995% uptime, and no exclusions for planed outages. {{site.data.keyword.IBM_notm}} public cloud customers seem to find this range of options allow them to match their business needs to their desired availability in an effective way.
