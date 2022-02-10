@@ -2,8 +2,8 @@
 
 
 copyright:
-  years: 2016, 2021
-lastupdated: "2021-12-01"
+  years: 2016, 2022
+lastupdated: "2022-02-10"
 
 keywords: glossary, IBM Cloud glossary, terms, definitions
 
@@ -1023,6 +1023,11 @@ A method of data analysis that iteratively learns from past data and independent
 
 A component that identifies entities and entity relationships according to a statistical model that is based on ground truth. The model applies past experience, such as training data, to determine or predict the correct outcome of future experiences based on characteristics of the data. These past experiences are captured in the form of a model by calculating feature scores for each candidate answer or evidence and combining that with known outcomes.
 
+### Managed Service Provider (MSP)
+{: #x6418711}
+
+An {{site.data.keyword.IBM_notm}} Business Partner that provides IT services on a contractual basis to maintain clients' computers, networks or software. They manage services on-site at the clients' data center, remotely in the clients’ data center, or in a third-party data center.
+
 ### master key
 {: #x2908413}
 
@@ -1089,7 +1094,7 @@ A concept in a domain that falls in to a well defined category, such as names of
 ### namespace
 {: #x2031005}
 
-A unique name that identifies your organization's image repository within the {{site.data.keyword.cloud_notm}} registry. See also [image](/docs/overview?topic=overview-glossary#x2024928), [private image repository](/docs/overview?topic=overview-glossary#x8439215).
+A collection of repositories that store images in a registry. A namespace is associated with an {{site.data.keyword.cloud_notm}} account, which can include multiple  namespaces. See also [image](/docs/overview?topic=overview-glossary#x2024928), [private image repository](/docs/overview?topic=overview-glossary#x8439215).
 
 ### NAT
 {: #x2245519}
@@ -1114,7 +1119,8 @@ See [natural language processing](/docs/overview?topic=overview-glossary#x203105
 ### node
 {: #x2003286}
 
-A device on a blockchain network that maintains a copy of the blockchain.
+- A member of a cluster that runs as a container or virtual machine on shared hardware.
+- A physical component of the blockchain network infrastructure, namely a peer, Certificate Authority (CA), or ordering node.
 
 
 ## O
@@ -1400,7 +1406,7 @@ A defined geographic territory in which applications, services, and resources ar
 ### registry
 {: #x2064940}
 
-A public or private repository that contains images used to create containers. See also [container](/docs/overview?topic=overview-glossary#x2010901), [image](/docs/overview?topic=overview-glossary#x2024928).
+A storage and distribution service that contains public or private images that are used to create containers. See also [container](/docs/overview?topic=overview-glossary#x2010901), [image](/docs/overview?topic=overview-glossary#x2024928).
 
 ### relation
 {: #x2064959}
