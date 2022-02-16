@@ -4,8 +4,8 @@
 
 copyright:
 
-  years: 2015, 2021
-lastupdated: "2021-11-23"
+  years: 2015, 2022
+lastupdated: "2022-02-16"
 
 keywords: notices, IBM Cloud, creative commons, licenses
 
@@ -638,18 +638,22 @@ Adobe, the Adobe logo, PostScript, and the PostScript logo are either registered
 
 The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the [Creative Commons 3.0 Attribution License](https://creativecommons.org/licenses/by/3.0/){: external}.
 
-Linux is a registered trademark of Linus Torvalds in the United States, other countries, or both.
-
-Microsoft, Windows, and Windows NT are trademarks of Microsoft Corporation in the United States, other countries, or both.
+Microsoft, Windows, Windows NT, and the Windows logo are trademarks of Microsoft Corporation in the United States, other countries, or both.
 
 Node.js is a trademark of Joyent, Inc. and is used with its permission. This documentation is not formally endorsed by or affiliated with Joyent.
 
 UNIX is a registered trademark of The Open Group in the United States and other countries.
 
-Java™ and all Java-based trademarks and logos are trademarks or registered trademarks of Oracle and/or its affiliates.
+Java and all Java-based trademarks and logos are trademarks or registered trademarks of Oracle and/or its affiliates.
+
+VMware, the VMware logo, VMware Cloud Foundation, VMware Cloud Foundation Service, VMware vCenter Server, and VMware vSphere are registered trademarks or trademarks of VMware, Inc. or its subsidiaries in the United States and/or other jurisdictions.
+
+The registered trademark Linux® is used pursuant to a sublicense from the Linux Foundation, the exclusive licensee of Linus Torvalds, owner of the mark on a world­wide basis.
+
+Red Hat®, JBoss®, OpenShift®, Fedora®, Hibernate®, Ansible®, CloudForms®, RHCA®, RHCE®, RHCSA®, Ceph®, and Gluster® are trademarks or registered trademarks of Red Hat, Inc. or its subsidiaries in the United States and other countries.
 
 Salesforce is a trademark of Salesforce.com, Inc.
 
-Box is a trademark of Box, Inc. 
+Box is a trademark of Box, Inc.
 
 Other company, product, and service names may be trademarks or service marks of others.
