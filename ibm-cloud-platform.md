@@ -2,9 +2,9 @@
 
 
 copyright:
-  years: 2016, 2021
+  years: 2016, 2022
 
-lastupdated: "2021-11-16"
+lastupdated: "2022-02-18"
 
 
 keywords: console, platform overview, overview, data center, security, compliance 
@@ -88,6 +88,7 @@ The catalog supports command-line interfaces (CLIs) and a RESTful API for you to
 All products that are available in {{site.data.keyword.cloud_notm}} are displayed by default in the catalog. You can filter the catalog by type to view a specific type of product, for example, only services or only software. Enter keywords or set additional filters to further scope your view of the catalog. For example, if you want to deploy an analytics instance to {{site.data.keyword.openshiftlong}}, you can select the **Analytics** category, and filter the results by selecting **Red Hat OpenShift** as the deployment target.
 
 See the following table for the list of filters that you can use to search the catalog. 
+{: #filters}
 
 | Option      | Description  |
 |------------------|-------|
@@ -115,12 +116,14 @@ See the following table for the list of filters that you can use to search the c
 
 | Option | Description |
 |--------------|-------|
-| SAP Certified | An infrastructure service that is certified by SAP to run production SAP workloads. For more information, see [{{site.data.keyword.ibm_cloud_sap}}](/docs/sap). |
-| Satellite Enabled | A service that is enabled for use with {{site.data.keyword.cloud_notm}} Satellite. You can run apps consistently across on-premises, edge computing, and public cloud environments. |
-| Quantum Technologies | A service that is compatible with quantum technologies. For more information, see [{{site.data.keyword.IBM_notm}} Quantum services](http://cloud.ibm.com/quantum){: external}. |
-{: caption="Table 1. Options for filtering by run-time environment" caption-side="top"}
-{: #supported-env-svc}
-{: tab-title="Works with"}
+| EU Supported | Support for the service is restricted to {{site.data.keyword.cloud_notm}} support team members that are located in the European Union (EU) region. This filter is available only if the [EU Supported setting](/docs/account?topic=account-eu-supported) is enabled in the account.  |
+| Financial Services Validated | Services are designated as Financial Services Validated when the {{site.data.keyword.cloud_notm}} service or SaaS, or independent software vendor (ISV) offering, evidences compliance with the {{site.data.keyword.cloud_notm}} Framework for Financial Services. This filter is available only for {{site.data.keyword.IBM_notm}} products, and if the [Financial Services Validated setting](/docs/account?topic=account-enabling-fs-validated) is enabled in the account. |
+| HIPAA Enabled | The service is designated as HIPAA ready, meaning processing, storing, and handling Protected Health Information (PHI) in the service is supported. This filter is available only if the [HIPAA Supported setting](/docs/account?topic=account-enabling-hipaa) is enabled in the account. |
+| IAM-enabled | The service is enabled to use {{site.data.keyword.cloud_notm}} Identity and Access Management (IAM) for access control. Access policies are used to assign users and service IDs access to specific resources in an account.|
+| Service Endpoint Supported | The service can be connected to over the {{site.data.keyword.cloud_notm}} private network instead of the public network. Connecting directly to service endpoints doesn't require internet access, providing increased security. |
+{: caption="Table 1. Options for filtering by compliance" caption-side="top"}
+{: #compliance-svc}
+{: tab-title="Compliance"}
 {: tab-group="cfo"}
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the options for fitering based on filter type."}
@@ -138,25 +141,23 @@ See the following table for the list of filters that you can use to search the c
 
 | Option | Description |
 |--------------|-------|
-| EU Supported | Support for the service is restricted to {{site.data.keyword.cloud_notm}} support team members that are located in the European Union (EU) region. This filter is available only if the [EU Supported setting](/docs/account?topic=account-eu-supported) is enabled in the account.  |
-| Financial Services Validated | Services are designated as Financial Services Validated when the {{site.data.keyword.cloud_notm}} service or SaaS, or independent software vendor (ISV) offering, evidences compliance with the {{site.data.keyword.cloud_notm}} Framework for Financial Services. This filter is available only for {{site.data.keyword.IBM_notm}} products, and if the [Financial Services Validated setting](/docs/account?topic=account-enabling-fs-validated) is enabled in the account. |
-| HIPAA Enabled | The service is designated as HIPAA ready, meaning processing, storing, and handling Protected Health Information (PHI) in the service is supported. This filter is available only if the [HIPAA Supported setting](/docs/account?topic=account-enabling-hipaa) is enabled in the account. |
-| IAM-enabled | The service is enabled to use {{site.data.keyword.cloud_notm}} Identity and Access Management (IAM) for access control. Access policies are used to assign users and service IDs access to specific resources in an account.|
-| Service Endpoint Supported | The service can be connected to over the {{site.data.keyword.cloud_notm}} private network instead of the public network. Connecting directly to service endpoints doesn't require internet access, providing increased security. |
-{: caption="Table 1. Options for filtering by compliance" caption-side="top"}
-{: #compliance-svc}
-{: tab-title="Compliance"}
+| Beta | The service is available for evaluation and testing purposes. Beta services aren't intended for production use. |
+| Deprecated | The service is supported but no longer recommended and might become obsolete. |
+{: caption="Table 1. Options for filtering by release" caption-side="top"}
+{: #release-svc}
+{: tab-title="Release"}
 {: tab-group="cfo"}
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the options for fitering based on filter type."}
 
 | Option | Description |
 |--------------|-------|
-| Beta | The service is available for evaluation and testing purposes. Beta services aren't intended for production use. |
-| Deprecated | The service is supported but no longer recommended and might become obsolete. |
-{: caption="Table 1. Options for filtering by release" caption-side="top"}
-{: #release-svc}
-{: tab-title="Release"}
+| SAP Certified | An infrastructure service that is certified by SAP to run production SAP workloads. For more information, see [{{site.data.keyword.ibm_cloud_sap}}](/docs/sap). |
+| Satellite Enabled | A service that is enabled for use with {{site.data.keyword.cloud_notm}} Satellite. You can run apps consistently across on-premises, edge computing, and public cloud environments. |
+| Quantum Technologies | A service that is compatible with quantum technologies. For more information, see [{{site.data.keyword.IBM_notm}} Quantum services](http://cloud.ibm.com/quantum){: external}. |
+{: caption="Table 1. Options for filtering by run-time environment" caption-side="top"}
+{: #supported-env-svc}
+{: tab-title="Works with"}
 {: tab-group="cfo"}
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the options for fitering based on filter type."}
