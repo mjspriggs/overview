@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2021
-lastupdated: "2022-02-23"
+lastupdated: "2022-02-24"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -132,7 +132,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Satellite | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Satellite Infrastructure Service |  |  |  |  | 
 | Schematics | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
-| Secrets Manager | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
+| Secrets Manager | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Secure Gateway | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Security Advisor | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Security Group for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
