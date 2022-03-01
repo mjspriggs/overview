@@ -4,7 +4,7 @@ copyright:
   years: 2021
 lastupdated: "2021-11-17"
 
-keywords: DR management, disaster recovery management, automate disaster recovery, DR automation, resiliency orchestrator
+keywords: resiliency orchestrator
 
 subcollection: overview
 
