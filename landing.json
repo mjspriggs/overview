@@ -1,6 +1,6 @@
 {
     "title": "IBM Cloud overview docs",
-    "lastupdated": "2021-10-25",
+    "lastupdated": "2022-03-01",
     "introduction": "The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model. Leverage the docs, API & SDK reference, architecture references, and more to support your app development needs.",
     "section_devtools": {
       "api": "/docs?tab=api-docs&category=platform_services",
@@ -41,6 +41,11 @@
       "view_more": "/docs/overview?topic=overview-whatsnew",
       "tiles": [
         {
+          "date": "01 March 2022",
+          "title": "Use feature and subscription codes to create new accounts",
+          "description": "When you register for a new IBM Cloud account, you can use a feature code that you received from participating in a special event or a subscription code that you received by email. Instead of verifying your identity by entering your credit card information, click the option to Register with a code to complete the set up of your new account."
+        },
+        {
           "date": "01 November 2021",
           "title": "Accessing Partner Center from the IBM Cloud catalog",
           "description": "As a third-party provider, you can now access Partner Center directly from the IBM Cloud catalog."
@@ -49,21 +54,6 @@
           "date": "25 October 2021",
           "title": "Securing IBM Cloud accounts",
           "description": "Our focus is to provide the most secure public cloud. That's why we will be verifying user identities and securing accounts through credit card verification when creating new accounts starting 25 October 2021. Don't worry, we won't charge you for signing up, and you can still try IBM Cloud for free."
-        },
-        {
-          "date": "05 October 2021",
-          "title": "Suspending and deprecating third-party software",
-          "description": "As a third-party provider, you can now suspend and deprecate published software from the IBM Cloud catalog to meet the needs of your product's lifecycle. When you suspend a product or version, it is immediately removed from the catalog. When you deprecate a product or version, it remains available for use in the catalog for 90 days. After 90 days, it's permanently removed."
-        },
-        {
-          "date": "05 October 2021",
-          "title": "Suspending and deprecating private products",
-          "description": "As a private catalog owner, you can now suspend or deprecate software that's in your private catalogs. When you suspend a version of software, it's immediately removed from your private catalog. When you deprecate software, it remains available to users with access to the private catalog for 90 days. After 90 days, it's permanently removed."
-        },
-        {
-          "date": "05 October 2021",
-          "title": "Filtering the IBM Cloud catalog by specific providers",
-          "description": "The latest updates and improvements to IBM Cloud catalog include support for filtering products by provider name. If you're looking for a specific provider's products or curious about how many products that a provider offers, you can use the Provider filter to narrow down your search."
         }
       ]
     }
