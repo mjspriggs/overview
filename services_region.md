@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2021
-lastupdated: "2022-03-09"
+lastupdated: "2022-03-10"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -36,7 +36,7 @@ Services that are hosted globally create resources that operate across multiple 
 <!-- Everything is deleted after this line. -->
 | Service | Dallas | Washington DC | Toronto | Sao Paulo | 
 |-----|-----|-----|-----|-----|
-| API Connect | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
+| API Connect | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Analytics Engine | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | App Configuration | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | App Connect | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
