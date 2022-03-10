@@ -1,6 +1,6 @@
 {
     "title": "IBM Cloud overview docs",
-    "lastupdated": "2022-03-01",
+    "lastupdated": "2022-03-09",
     "introduction": "The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model. Leverage the docs, API & SDK reference, architecture references, and more to support your app development needs.",
     "section_devtools": {
       "api": "/docs?tab=api-docs&category=platform_services",
@@ -46,14 +46,14 @@
           "description": "When you register for a new IBM Cloud account, you can use a feature code that you received from participating in a special event or a subscription code that you received by email. Instead of verifying your identity by entering your credit card information, click the option to Register with a code to complete the set up of your new account."
         },
         {
+          "date": "17 December 2021",
+          "title": "Restricting domains for account invitations",
+          "description": "You can now restrict membership to your account based on the domain of the users by creating an allowlist. This way, only users with a specific domain or domains can be invited to the account."
+        },
+        {
           "date": "01 November 2021",
           "title": "Accessing Partner Center from the IBM Cloud catalog",
           "description": "As a third-party provider, you can now access Partner Center directly from the IBM Cloud catalog."
-        },
-        {
-          "date": "25 October 2021",
-          "title": "Securing IBM Cloud accounts",
-          "description": "Our focus is to provide the most secure public cloud. That's why we will be verifying user identities and securing accounts through credit card verification when creating new accounts starting 25 October 2021. Don't worry, we won't charge you for signing up, and you can still try IBM Cloud for free."
         }
       ]
     }

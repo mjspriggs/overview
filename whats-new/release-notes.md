@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2022
 
-lastupdated: "2022-03-01"
+lastupdated: "2022-03-09"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -29,6 +29,14 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 
 Use feature and subscription codes to create new accounts
 :   When you [register for a new {{site.data.keyword.cloud_notm}} account](/registration){: external}, you can use a feature code that you received from participating in a special event or a subscription code that you received by email. Instead of verifying your identity by entering your credit card information, click the option to **Register with a code** to complete the set up of your new account.
+
+## December 2021
+{: #december-2021}
+
+### 17 December 2021
+
+Restricting domains for account invitations
+:   You can now restrict membership to your account based on the domain of the users by creating an allowlist. This way, only users with a specific domain or domains can be invited to the account. For more information, see [Restricting domains for account invitations](/docs/account?topic=account-restrict-acct-invite).
 
 ## November 2021
 {: #november-2021}
