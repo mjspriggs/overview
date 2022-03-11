@@ -1,7 +1,7 @@
 ---
 copyright:
-  years: 2020, 2021
-lastupdated: "2021-08-30"
+  years: 2020, 2022
+lastupdated: "2022-03-11"
 
 keywords: security and compliance for the platform, security for IBM Cloud, compliance for IBM Cloud, goals, config rules, rules, posture
 
@@ -10,7 +10,6 @@ subcollection: overview
 ---
 
 {{site.data.keyword.attribute-definition-list}}
-
 
 # Managing security and compliance in {{site.data.keyword.cloud_notm}}
 {: #manage-security-compliance}
@@ -42,6 +41,11 @@ To start monitoring your resources, see [Getting started with {{site.data.keywor
 
 * Check whether the EU supported setting is enabled in account settings
 * Check whether the HIPAA supported setting is enabled in account settings
+
+#### Catalog management
+{: #catalog-mgmt-goals}
+
+* Check whether {{site.data.keyword.cloud_notm}} catalog is configured with limited provider options
 
 #### Identity and Access Management
 {: #iam-goals}
