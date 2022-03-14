@@ -87,7 +87,7 @@ Securing your resources with context-based restrictions
 
    You can create context-based restrictions by defining one or more network zones, which contain allowed network locations, and then associating the zones with the cloud resource through a context-based restrictions rule. Network zones can be defined in terms of IP address constructs, VPCs, and service references, which grant access to a resource from another cloud service.
 
-   For more information, see [What are content-based restrictions?](https://test.cloud.ibm.com/docs/account?topic=account-context-restrictions-whatis)
+   For more information, see [What are content-based restrictions?](/docs/account?topic=account-context-restrictions-whatis)
 
 ### 24 September 2021
 {: #overview-sept2421}
