@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2022
 
-lastupdated: "2022-03-09"
+lastupdated: "2022-03-15"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -29,6 +29,16 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 
 Use feature and subscription codes to create new accounts
 :   When you [register for a new {{site.data.keyword.cloud_notm}} account](/registration){: external}, you can use a feature code that you received from participating in a special event or a subscription code that you received by email. Instead of verifying your identity by entering your credit card information, click the option to **Register with a code** to complete the set up of your new account.
+
+## February 2022
+{: #february-2022}
+
+### 7 February 2022
+{: #overview-feb0722}
+{: release-note}
+
+Support for onboarding third-party services in Partner Center
+:   Onboarding new services in the resource management console is no longer supported. You must use Partner Center to onboard new services to the {{site.data.keyword.cloud_notm}} console. You can continue to manage existing services in the resource management console. 
 
 ## December 2021
 {: #december-2021}
