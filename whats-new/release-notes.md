@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2022
 
-lastupdated: "2022-03-15"
+lastupdated: "2022-03-17"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -32,6 +32,13 @@ Use feature and subscription codes to create new accounts
 
 ## February 2022
 {: #february-2022}
+
+### 28 February 2022
+{: #overview-feb2822}
+{: release-note}
+
+365 days of status history is now available
+:   You can now easily view events that were completed in the past year on the {{site.data.keyword.cloud_notm}} Status page. Previously, you could view only the history of completed events from the past month. For more information about the {{site.data.keyword.cloud_notm}} Status page, see [Viewing cloud status](/docs/get-support?topic=get-support-viewing-cloud-status).
 
 ### 7 February 2022
 {: #overview-feb0722}
