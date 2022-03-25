@@ -2,7 +2,7 @@
 
 copyright:
   years: 2018, 2022
-lastupdated: "2022-03-21"
+lastupdated: "2022-03-25"
 
 keywords: ibm cloud apis, ibm cloud clis, ibm cloud sdks
 
@@ -24,7 +24,7 @@ Services that are available in the {{site.data.keyword.cloud_notm}} console are 
 * [{{site.data.keyword.cloud_notm}} API and SDK reference library](/docs?tab=api-docs)
 * [{{site.data.keyword.cloud_notm}} CLI reference](/docs/cli?topic=cli-ibmcloud_cli)
 
-For every service, release notes and change logs are recorded for each update that is released. The release notes are available in the service documentation for a minimum of three years.
+For every service, release notes and change logs are recorded for each update that is delivered. As of January 1, 2022, services will maintain release notes going forward for a minimum of three years.
 
 From the Explore tab on the [Docs home page](https://{DomainName}/docs), you can quickly find what you're looking for whether it's a specific API and SDK reference for a service you're using, or how to get started with the CLI. Check out the following demo that shows you how to filter the API and SDK reference library for all AI/Machine Learning services, and then move to the Develop tab to copy the CLI install command to get set up. 
 
