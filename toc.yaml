@@ -55,6 +55,7 @@ toc:
           - services_region.md
           - topic: locations.md
             navtitle: Locations for resource deployment
+          - service-rollout.md
       - topicgroup:
           label: High availability and disaster recovery
           topics:
