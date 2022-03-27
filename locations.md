@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2019, 2021
-lastupdated: "2021-11-16"
+  years: 2019, 2022
+lastupdated: "2022-03-27"
 
 keywords: data centers, datacenter, regions, locations, ibm cloud regions, multizone regions, MZRs, cloud regions, cloud data centers, multizone, geo, availability zone, zones
 
@@ -15,17 +15,26 @@ subcollection: overview
 # Region and data center locations for resource deployment
 {: #locations}
 
-{{site.data.keyword.cloud}} has a resilient global network of locations to host your highly available cloud workload. You can create resources in different locations, such as a region or data center, but with the same billing and usage view. You can also deploy your apps to the location that is nearest to your customers to achieve low application latency. {{site.data.keyword.cloud_notm}} provides three tiers of regions: [multizone regions](#x9774820){: term} (MZR), [single-zone regions](#x9774825){: term} (SZR), and [data centers](#x2439906){: term}. For more details, see the following sections.
+{{site.data.keyword.cloud}} has a resilient global network of locations to host your highly available cloud workload. You can create resources in different locations, such as a region or data center, but with the same billing and usage view. You can also deploy your apps to the location that is nearest to your customers to achieve low application latency. {{site.data.keyword.cloud_notm}} provides three tiers of regions: [multizone regions](#x9774820){: term}, single campus multizone regions, and [data centers](#x2439906){: term}.
 {: shortdesc}
 
-## Multizone regions
-{: #mzr-table}
+## Regions
+{: #regions}
 
-MZRs are composed of three or more zones that are independent from each other to ensure that single failure events affect only a single zone. MZRs provide low latency (< 2-milliseconds latency) and high bandwidth (> 1000 Gbps) connectivity across zones. Any [GA](#x2117947){: term} service in an MZR is available in all MZRs within 90 days. 
+Multizone regions (MZRs) are composed of three or more zones that are independent from each other to ensure that single failure events affect only a single zone. MZRs provide low latency (< 2-milliseconds latency) and high bandwidth (> 1000 Gbps) connectivity across zones. For [GA](#x2117947){: term} service rollout, see the [Service rollout policy](/docs/overview?topic=overview-service-rollout). 
 
-The advantage of an MZR is that it provides consistent cloud services across different zones, better resiliency, availability, higher interconnect speed between data centers for your resources. These features can be critical to your applications. Deploying the application in an MZR rather than an SZR can increase the availability from 99.9% to 99.99% when deployed over three zones. 
+The advantage of an MZR is that it provides consistent cloud services across different zones, better resiliency, availability, higher interconnect speed between data centers for your resources. These features can be critical to your applications. Deploying the application in an MZR rather than a different deployment location (data centers, either physical or logical) is that you can increase the availability from 99.9% to 99.99% when deployed over three zones. 
 
-The following table lists the {{site.data.keyword.cloud_notm}} MZRs and the region, zone, and data center codes for each one. 
+{{site.data.keyword.IBM}} offers two types of multizone regions. The underlying infrastructure in both types provides the same SLA. 
+
+### Multizone regions (MZR)
+{: #table-mzr}
+
+MZRs offer the highest level of redundancy and availability because it uses three separate sites within a region.
+
+![This diagram shows a geography that contains data center buildings that host a multizone region (MZR)](images/mzr.svg){: caption="Figure 1. Multizone region (MZR)" caption-side="bottom"}
+
+The following table lists the {{site.data.keyword.cloud_notm}} MZRs that fall into this category and the region, zone, and data center codes for each one. 
 
 | Location | Region | Zone | Data center |
 |-----------|----------|------|----|
@@ -53,7 +62,6 @@ The following table lists the {{site.data.keyword.cloud_notm}} MZRs and the regi
 
 | Location      | Region   | Zone | Data center |
 |-----------|----------|------|----|
-| Osaka         | jp-osa   |jp-osa-1  \n jp-osa-2  \n jp-osa-3 | OSA21  \n OSA22  \n OSA23|
 | Sydney        | au-syd   |au-syd-1  \n au-syd-2  \n au-syd-3 | SYD01  \n SYD04  \n SYD05|
 | Tokyo         | jp-tok   |jp-tok-1  \n jp-tok-2  \n jp-tok-3 | TOK02  \n TOK04  \n TOK05|
 {: caption="Table 1. MZRs in Asia Pacific" caption-side="top"}
@@ -63,28 +71,30 @@ The following table lists the {{site.data.keyword.cloud_notm}} MZRs and the regi
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
 
-Osaka is a single-site MZR. In a single-site MZR, the three data centers that support the three zones are running in the same building. The underlying infrastructure in the Osaka MZR zone has the same SLA as other individual zones in a multi-site MZR. Osaka MZR resiliency to failures in local city and location infrastructures is reduced because of being located in a single building. 
-{: note}
+### Single campus MZRs
+{: #single-campus-mzr}
 
-## Single-zone regions
-{: #szr-table}
+Single campus MZRs contain three availability zones in different sections of the same building or within multiple buildings on a campus where the power, cooling, networking, and physical security dependencies overlap but are not identical between any two availability zones. This setup ensures a level of continuous availability and survivability of any one system outage, planned or unplanned.
 
-You can also choose to deploy resources to an SZR, but you can't spread them across zones. The following table lists the SZRs that are available in {{site.data.keyword.cloud_notm}} and the region, zone, and data center codes for each one.
+SLAs are maintained because the infrastructure is set up in a concurrently maintainable fashion so that a single failure does not affect all three zones in the same campus. This setup is ideal for services that support local users as it reduces latency or to support disaster recovery workloads.
+
+![This diagram shows a geography that contains a single campus MZR](images/single-campus-mzr.svg){: caption="Figure 2. Single campus MZR" caption-side="bottom"}
+
+The following table lists the single campus MZRs that are available in {{site.data.keyword.cloud_notm}} and the region, zone, and data center codes for each one.
 
 | Location      | Region   | Zone | Data center |
 |-----------|----------|------|----|
-| Seoul     | kr-seo | kr-seo-1 | SEO01 [^tabletext] |
-| Chennai | in-che  |in-che-1  | CHE01 |
-{: caption="Table 2. SZRs for creating resources" caption-side="top"}
-
-[^tabletext]: Closing in 2022 [Learn more](/docs/get-support?topic=get-support-dc-closure)
+| Osaka         | jp-osa   |jp-osa-1  \n jp-osa-2  \n jp-osa-3 | OSA21  \n OSA22  \n OSA23|
+{: caption="Table 2. Single campus MZRs" caption-side="top"}
 
 ## Data centers
 {: #data-centers}
 
-In addition to selecting a region for your resource, you can select from a list of the {{site.data.keyword.Bluemix_notm}} data centers, depending on the type of resource you're working with. For example, you get this option with all classic infrastructure services. Data centers host the power, cooling, compute, network, and storage resources used for services and apps. They don't provide isolation from multizones in a location. 
+In addition to selecting a region for your resource, you can select from a list of the {{site.data.keyword.Bluemix_notm}} data centers, depending on the type of resource you're working with. 
 
-Data centers are based on a POD architecture where each data center can have more than one POD, depending on on-demand buildout. Each POD consists of racks, servers, networks, and storage, along with backup power generators. Placing application servers across PODs further improves the availability.
+Data centers host the power, cooling, compute, network, and storage resources used for services and apps. They don't provide isolation from multizones in a location. 
+
+Data centers are based on a POD architecture where each data center can have more than one POD, depending on the on-demand build out. Each POD consists of racks, servers, networks, and storage, along with backup power generators. Placing application servers across PODs improves the availability.
 
 See [Global locations for your global business](https://www.ibm.com/cloud/data-centers/){: external} for an interactive map that shows the available data centers, MZRs, [points of presence](#x5458832){: term} (PoPs), and federal data centers. 
 
@@ -192,4 +202,4 @@ You might also want to display your resources that are located globally. The **G
 
 As illustrated in the following graphic, a data center is a physical building that represents an availability zone that is located within a multizone region (MZR). An MZR is organized by its metro location. For example, London can encompass more than one grouping of data centers within an MZR. The graphic shows three availability zones in one MZR that work together in the instance that one of the data centers becomes unavailable. Availability zones are connected directly to each or through low latency links.
 
-![A location hierarchy that shows a geography that contains data center buildings inside of availability zones that are interconnected with points-of-presence within a metro.](images/Location-Illustration.svg){: caption="Figure 1. Location hiearchy" caption-side="bottom"}
+![A location hierarchy that shows a geography that contains data center buildings inside of availability zones that are interconnected with points-of-presence within a metro.](images/Location-Illustration.svg){: caption="Figure 3. Location hierarchy" caption-side="bottom"}
