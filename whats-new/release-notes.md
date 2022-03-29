@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2022
 
-lastupdated: "2022-03-17"
+lastupdated: "2022-03-29"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -57,6 +57,21 @@ Restricting domains for account invitations
 
 ## November 2021
 {: #november-2021}
+
+### 8 November 2021
+{: #overview-nov0821}
+{: release-note}
+
+Data centers closed in 2021
+:   The following list shows the locations with the associated data centers and specific PODs that were closed by 08 November 2021.
+
+    - Dallas: DAL05 – POD2 
+    - Houston: HOU02
+    - Melbourne: MEL01
+    - Oslo: OSL01
+    - Washington DC: WDC01 – POD3 and POD4 
+
+    For more information about upcoming data center closures, see [Data center consolidations](/docs/get-support?topic=get-support-dc-closure).
 
 ### 1 November 2021
 {: #overview-nov0121}
@@ -391,6 +406,19 @@ Enhancements to the {{site.data.keyword.Bluemix_notm}} Status page
 
 ## November 2020
 {: #overview-nov-2020}
+
+### 30 November 2020
+{: #overview-nov3020}
+{: release-note}
+
+Data centers closed in 2020
+:   The following list shows the locations with the associated data centers and specific PODs that were closed by 30 November 2020. 
+
+    - Dallas: DAL07
+    - Seattle: SEA01
+    - Legacy Planet: D2 (colocation in Dallas), D6 and D7 (Dallas), H2 (Houston)
+
+    For more information about upcoming data center closures, see [Data center consolidations](/docs/get-support?topic=get-support-dc-closure).
 
 ### 25 November 2020
 {: #overview-nov2520}
