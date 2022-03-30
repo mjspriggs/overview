@@ -3,7 +3,7 @@
 copyright:
 
   years: 2022
-lastupdated: "2022-03-25"
+lastupdated: "2022-03-30"
 
 keywords: rollout
 
@@ -85,6 +85,67 @@ Deployments into any location other than an MZR are always market-driven.
 
 Market-driven classification covers any case other than those specified under the MZRs' description.
 {: note}
+
+## Dependency and service availability standards
+{: #availability-standards}
+
+For each service, you can review our dependency and availability standards.
+
+* {{site.data.keyword.cloud_notm}} services are available in several [regions worldwide](/docs/overview?topic=overview-services_region). 
+* IBM services can be deployed by using various models, and the SLA standards that apply to each model are outlined in the [Service Level Agreements](https://www-03.ibm.com/software/sla/sladb.nsf/latest/bm-6605){: external}
+* Follow our best practices to ensure your environment that integrates the use of the {{site.data.keyword.cloud_notm}} services is as resilient as possible. Check out the [resiliency documentation](https://www.ibm.com/cloud/architecture/architectures/resilience/overview){: external} that is published in the architecture center.
+* To build a solution that meets your needs, it is important for you to see the [Shared responsibility matrix](/docs/overview?topic=overview-shared-responsibilities) for more information on the scope of the services.
+* For quick reference, we include links to the high availability documents for the services within our [SLO](/docs/overview?topic=overview-slo) description.
+
+### Dependency levels
+{: #dependency-levels}
+
+Low-level implementation and details of services change based on your setup and configuration requirements. As such, we've provided a high-level explanation for the dependencies.
+
+These levels might be considered layers or tiers in an architectural block diagram. Each layer might depend only on the layers below it, although there are some dependencies that might be fulfilled in the same layer in the case of some complex services.
+
+Core services form the foundation for our cloud infrastructure. These services are required for a new MZR location to go live and are required to be updated across the entire footprint when there is a fundamental change. 
+
+Market-driven services are based on market demand and depend on the core services and some other services within this market-driven category. The other services are services that are needed to support regulation that applies in different regions or industries. 
+
+Market-driven classification covers all services other than those specified under the core service description.
+{: important}
+
+### Service-to-service dependencies
+{: #service-service-dependency}
+
+The {{site.data.keyword.cloud_notm}} backend services support all of the other services within our deployment units. 
+
+{{site.data.keyword.cloud_notm}} services have a set of dependencies that are self-contained within the MZR deployment units. The rest of the service dependencies use global services that are served from cross regional locations. Any solution that is not hosted on an MZR might require an associated MZR that hosts the control plane services.
+
+For the key dimensions of compute, storage, networking, and authentication or authorization, we indicate the following dependencies.
+
+Control planes
+:   Common dependencies for control planes are:
+   
+   * The identity or platform data plane for authentication and authorization
+   * The audit tracking service
+   * Internal services that provide, for example, workflow, metadata storage, monitoring and logging
+   * Load balancers, VPN, and other network infrastructure services
+
+   Some control planes obviously have service-specific dependencies. For example, the compute control plane, when starting a bare metal or VM instance, depends on:
+   * Object Storage to retrieve the required system images
+   * Block Volumes control plane for provisioning and attaching the volumes
+   * Networking control plane to provision and attach NICs, subnets, and so on
+
+Data planes
+:   Core service data planes follow the general principle that each data plane is designed to have minimal dependencies in order to achieve high availability, fast time to diagnosis, and fast time to recovery. Therefore, the systems continue to function (with some limitations, for example cannot provision, reboot, or decom) even when there is a control plane outage.
+
+Network
+:   The networking data and control planes exist in every deployment unit.
+   
+   Some services depend on others in the core, for example Compute services like bare metal and VM instances depend the Block Volumes data plane and the Networking data plane, and therefore will be impacted by the data planes for these services going down. But as stated before the control planes might suffer an outage and the Compute instances continue to function, if they do not require the associated service control plane (that is, increasing volume storage size, and so on)
+
+Internal services
+:   All client facing internal or external services depend on the identity and platform data plane for authentication and authorization. Control planes for monitoring, logging, and {{site.data.keyword.cloud_notm}} CLI and data plane services for security services depend on the identity platform data plane. (Specific configurations might vary.)
+
+Storage
+:   The Object Storage data plane does not depend on Block Volumes or File Storage. Services that support backup and restore depend on Object Storage to operate. Therefore, those services require that the Block Volumes data and control planes exist in every deployment unit.
 
 ## Related documents
 {: #related-docs}
