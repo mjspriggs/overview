@@ -29,6 +29,7 @@ toc:
           - compliance.md
           - manage-scc.md
       - security.md
+      - csm.md
       - topic: whats-new/release-notes.md
         navtitle: Release notes
 
