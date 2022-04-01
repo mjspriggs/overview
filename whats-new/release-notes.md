@@ -23,6 +23,13 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 ## March 2022
 {: #march-2022}
 
+### 25 March 2022
+{: #overview-mar2522}
+{: release-note}
+
+Trusted profiles are now members of access groups
+:   You can now add trusted profiles as members of access groups like other IAM identities, such as users and service IDs. For more information, see [Creating trusted profiles](/docs/account?topic=account-create-trusted-profile) and [Setting up access groups](/docs/account?topic=account-groups). 
+
 ### 1 March 2022
 {: #overview-mar0122}
 {: release-note}
