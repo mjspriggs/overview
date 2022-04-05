@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2022
 
-lastupdated: "2022-03-29"
+lastupdated: "2022-04-05"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -19,6 +19,19 @@ content-type: release-note
 
 Stay up-to-date with the new features that are available on the {{site.data.keyword.Bluemix}} platform so that you get the most out of your {{site.data.keyword.Bluemix_notm}} experience.
 {: shortdesc}
+
+## April 2022
+{: #april-2022}
+
+### 5 April 2022
+{: #overview-april522}
+{: release-note}
+
+Onboarding virtual server images for {{site.data.keyword.powerSys_notm}}
+:   You can now onboard virtual server images for {{site.data.keyword.powerSys_notm}}to private catalogs and the {{site.data.keyword.cloud_notm}} catalog. For more information on onboarding to the {{site.data.keyword.cloud_notm}}, see [Registering a virtual server image for Power Systems in IBM Cloud Partner Center](/docs/sell?topic=sell-vsipower-register). For more information on onboarding to your private catalog, see [Onboarding a virtual server image for Power Systems to a private catalog](/docs/sell?topic=sell-vsipower-onboard). 
+
+Upload translations of your software by using the CLI
+:   You can now download and upload translations of your software by using the CLI. For more information, see [Translating product details by using the CLI](/docs/account?topic=account-translate-product-details). 
 
 ## March 2022
 {: #march-2022}
