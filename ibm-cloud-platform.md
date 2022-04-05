@@ -4,7 +4,7 @@
 copyright:
   years: 2016, 2022
 
-lastupdated: "2022-02-18"
+lastupdated: "2022-03-31"
 
 
 keywords: console, platform overview, overview, data center, security, compliance 
@@ -68,21 +68,21 @@ As a financial officer for your company, you might be interested in simplifying 
 
 For more information, see the [best practices for setting up an enterprise](/docs/account?topic=account-enterprise-best-practices).
 
-## {{site.data.keyword.Bluemix_notm}} catalog
+## Exploring the {{site.data.keyword.Bluemix_notm}} catalog
 {: #catalog}
 
 Discover all that {{site.data.keyword.cloud_notm}} has to offer. From services to software ranging from containers, compute, security, data, AI, and more, find what you need to transform your business. 
 
 The available services include options for compute, storage, networking, end-to-end developer solutions for app development, testing and deployment, security management services, traditional and open source databases, and cloud-native services. The lifecycle and operations of services are the responsibility of {{site.data.keyword.IBM_notm}}.
 
-You can also find a number of software products, including [Cloud Paks](https://www.youtube.com/watch?v=DzFhhSR8SSs){: external}, [starter kits](/docs/apps?topic=apps-starter-kits), Terraform-based templates, Helm charts, and Operators. The preconfigured software solutions help you build faster. And, with a simplified installation process, you can get started quickly. You manage the deployment and configuration of the software on your own compute resources.
+You can also find a number of software products, including [Cloud Paks](https://www.youtube.com/watch?v=DzFhhSR8SSs){: external}, [starter kits](/docs/apps?topic=apps-starter-kits), Terraform-based templates, Helm charts, Operators, and more. The preconfigured software solutions help you build faster. And, with a simplified installation process, you can get started quickly. You manage the deployment and configuration of the software on your own compute resources.
 
 And, if you're looking for help in your journey to cloud, check out our professional services. Browse your options for scheduling a consultation with technical experts depending on your needs, such as cloud migration, creating business solutions with {{site.data.keyword.IBM_notm}} Garage, or developing a container security solution that works for you.
 
 The catalog supports command-line interfaces (CLIs) and a RESTful API for you to use to retrieve information about existing products. 
 {: tip}
 
-### Searching the catalog 
+### Searching the catalog for services
 {: #catalog-filter-options}
 
 All products that are available in {{site.data.keyword.cloud_notm}} are displayed by default in the catalog. You can filter the catalog by type to view a specific type of product, for example, only services or only software. Enter keywords or set additional filters to further scope your view of the catalog. For example, if you want to deploy an analytics instance to {{site.data.keyword.openshiftlong}}, you can select the **Analytics** category, and filter the results by selecting **Red Hat OpenShift** as the deployment target.
@@ -92,21 +92,20 @@ See the following table for the list of filters that you can use to search the c
 
 | Option      | Description  |
 |------------------|-------|
-| Recommended products | Recommendations based on resources in your account and your interactions in {{site.data.keyword.cloud_notm}} |
-| AI / Machine Learning | Products that enable systems to learn from data rather than through explicit programming. |
-| Analytics | Products that facilitate the analysis of data, typically large sets of business data, by the use of mathematics, statistics, and other means. |
-| Blockchain | Products that facilitate the process of recording transactions and tracking assets in a business network. |
-| Compute | Infrastructure resources that serve as the basis for building apps in the cloud. |
-| Containers | A standard unit of software that packages up code and all its dependencies so the app runs quickly and reliably from one computing environment to another. |
-| Databases | Products that provide some form of access to a database without the need for setting up physical hardware, installing software, or configuring for performance. |
-| Developer tools | Products that support developing, testing, and debugging software. |
-| Integration | Products that facilitate the connection of data, apps, APIs, and devices across an organization to be more efficient, productive, and agile. |
-| Internet of Things | Products that support receiving and transferring data over wireless networks without human intervention. |
-| Logging and monitoring | Products that support storing, searching, analyzing, and monitoring log data and events. And, products that support reviewing and managing the operational workflow and processes being logged. |
-| Mobile | Products with specific or special utility for users creatings things to be used on mobile devices. |
-| Networking | Products that support or augment the linking of computers so they can operate interactively. |
-| Security | Products that provide the protection of stored data from theft, leakage, and deletion. |
-| Storage  | Products that support data to be created, read, updated, and deleted. |
+| AI / Machine Learning | Products that enable systems to learn from data rather than through explicit programming |
+| Analytics | Products that facilitate the analysis of data, typically large sets of business data, by the use of mathematics, statistics, and other means |
+| Blockchain | Products that facilitate the process of recording transactions and tracking assets in a business network |
+| Compute | Infrastructure resources that serve as the basis for building apps in the cloud |
+| Containers | A standard unit of software that packages up code and all its dependencies so the app runs quickly and reliably from one computing environment to another |
+| Databases | Products that provide some form of access to a database without the need for setting up physical hardware, installing software, or configuring for performance |
+| Developer tools | Products that support developing, testing, and debugging software |
+| Integration | Products that facilitate the connection of data, apps, APIs, and devices across an organization to be more efficient, productive, and agile |
+| Internet of Things | Products that support receiving and transferring data over wireless networks without human intervention |
+| Logging and monitoring | Products that support storing, searching, analyzing, and monitoring log data and events. And, products that support reviewing and managing the operational workflow and processes being logged |
+| Mobile | Products with specific or special utility for users creatings things to be used on mobile devices |
+| Networking | Products that support or augment the linking of computers so they can operate interactively |
+| Security | Products that provide the protection of stored data from theft, leakage, and deletion |
+| Storage  | Products that support data to be created, read, updated, and deleted |
 {: caption="Table 1. Options for filtering by category" caption-side="top"}
 {: #category-svc}
 {: tab-title="Category"}
@@ -130,7 +129,7 @@ See the following table for the list of filters that you can use to search the c
 
 | Option | Description |
 |--------------|-------|
-| Free | The service includes monthly free allowances. |
+| Free | The service includes monthly free allowances for only Pay-As-You-Go or Subscription accounts. |
 | Lite | The pricing plan for the service is structured as a free quota. The quota might operate for a specific time period, for example, a month or on a one-off usage basis. |
 {: caption="Table 1. Options for filtering by pricing plan" caption-side="top"}
 {: #pricingplan-svc}
@@ -142,7 +141,7 @@ See the following table for the list of filters that you can use to search the c
 | Option | Description |
 |--------------|-------|
 | Beta | The service is available for evaluation and testing purposes. Beta services aren't intended for production use. |
-| Deprecated | The service is supported but no longer recommended and might become obsolete. |
+| Deprecated | Deprecated products are in the process of being withdrawn from service and are eligible to be removed after the deprecation period. |
 {: caption="Table 1. Options for filtering by release" caption-side="top"}
 {: #release-svc}
 {: tab-title="Release"}
@@ -152,13 +151,100 @@ See the following table for the list of filters that you can use to search the c
 
 | Option | Description |
 |--------------|-------|
-| SAP Certified | An infrastructure service that is certified by SAP to run production SAP workloads. For more information, see [{{site.data.keyword.ibm_cloud_sap}}](/docs/sap). |
-| Satellite Enabled | A service that is enabled for use with {{site.data.keyword.cloud_notm}} Satellite. You can run apps consistently across on-premises, edge computing, and public cloud environments. |
+| HPC | Products that enable High Performance Computing (HPC) workloads on {{site.data.keyword.cloud_notm}}. For more information, see [High-performance computing on {{site.data.keyword.cloud_notm}}](https://www.ibm.com/cloud/hpc){: external} |
+| SAP Certified | An infrastructure service that is certified by SAP to run production SAP workloads. For more information, see [{{site.data.keyword.ibm_cloud_sap}}](/docs/sap).|
+| Satellite Enabled | A service that is enabled for use with {{site.data.keyword.cloud_notm}} Satellite. You can run apps consistently across on-premises, edge computing, and public cloud environments. For more information, see [{{site.data.keyword.cloud_notm}} {{site.data.keyword.satelliteshort}}](https://www.ibm.com/cloud/satellite){: external}. |
 | Quantum Technologies | A service that is compatible with quantum technologies. For more information, see [{{site.data.keyword.IBM_notm}} Quantum services](http://cloud.ibm.com/quantum){: external}. |
 {: caption="Table 1. Options for filtering by run-time environment" caption-side="top"}
 {: #supported-env-svc}
 {: tab-title="Works with"}
 {: tab-group="cfo"}
+{: class="simple-tab-table"}
+{: summary="Use the buttons before the table to change the context of the table. The column headers identify the options for fitering based on filter type."}
+
+
+Want to scope your view of the catalog to only products from a specific provider? Use the **Provider** filter to browse by individual providers.
+{: tip}
+
+
+### Searching the catalog for software 
+{: #catalog-filter-sw}
+
+The following table lists the filter options you can use when searching the catalog for software.
+
+| Option | Description | 
+|-----|-----|
+| AI / Machine Learning | Products that enable systems to learn from data rather than through explicit programming |
+| Analytics | Products that facilitate the analysis of data, typically large sets of business data, by the use of mathematics, statistics, and other means |
+| Blockchain | Products that facilitate the process of recording transactions and tracking assets in a business network |
+| Compute | Infrastructure resources that serve as the basis for building apps in the cloud |
+| Containers | A standard unit of software that packages up code and all its dependencies so the app runs quickly and reliably from one computing environment to another |
+| Databases | Products that provide some form of access to a database without the need for setting up physical hardware, installing software, or configuring for performance |
+| Developer tools | Products that support developing, testing, and debugging software |
+| Integration | Products that facilitate the connection of data, apps, APIs, and devices across an organization to be more efficient, productive, and agile |
+| Internet of Things | Products that support receiving and transferring data over wireless networks without human intervention |
+| Logging and monitoring | Products that support storing, searching, analyzing, and monitoring log data and events. And, products that support reviewing and managing the operational workflow and processes being logged |
+| Mobile | Products with specific or special utility for users creatings things to be used on mobile devices |
+| Networking | Products that support or augment the linking of computers so they can operate interactively |
+| Security | Products that provide the protection of stored data from theft, leakage, and deletion |
+| Storage  | Products that support data to be created, read, updated, and deleted |
+{: caption="Table 2. Options for filtering by category" caption-side="top"}
+{: #swcategoryfilters}
+{: tab-title="Category"}
+{: tab-group="swfilteroptions"}
+{: class="simple-tab-table"}
+
+| Option | Description |
+|--------------|-------|
+| Cloud Paks | A cloud solution that integrates a container platform, containerized IBM middleware and open source components, and common software services for development and management. |
+| Helm charts | A format for packaging a collection of files that describe specific configurations of infrastructure in the form of code.|
+| OVA images | Open Virtual Appliance that contains a compressed installable version of a virtual machine.  |
+| Operators | A method of packaging and deploying a Kubernetes-native application. |
+| Starter kits | An application pattern that can be integrated with services to generate a production-ready asset. |
+| Terraform | Infrastructure as code to deploy your application. |
+| VSI Images | A template that is used to create instances of virtual servers. |
+{: caption="Table 2. Options for filtering by delivery method" caption-side="top"}
+{: #swsoftwarefilters}
+{: tab-title="Delivery method"}
+{: tab-group="swfilteroptions"}
+{: class="simple-tab-table"}
+{: summary="Use the buttons before the table to change the context of the table. The column headers identify the options for fitering based on filter type."}
+
+| Option | Description |
+|--------------|-------|
+| IBM {{site.data.keyword.containershort}} | Used to create a Kubernetes cluster of compute hosts to deploy and manage containerized apps on {{site.data.keyword.cloud_notm}}. |
+| {{site.data.keyword.bplong_notm}} | Used for infrastructure as code automation by using terraform templates. |
+| {{site.data.keyword.powerSys_notm}} | Used to create a Power server that is distinct from the {{site.data.keyword.cloud_notm}} servers with separate networks and direct-attached storage. The internal networks are fenced but offer connectivity options to  {{site.data.keyword.cloud_notm}} infrastructure or on-premises environments. |
+| Red Hat OpenShift | Used to create a {{site.data.keyword.openshiftshort}} cluster of compute hosts to deploy and manage containerized apps on {{site.data.keyword.cloud_notm}}. |
+| vCenter Server | Provides deployment and management of VMware virtualized environments. |
+{: caption="Table 2. Options for filtering by deployment target" caption-side="top"}
+{: #swdeploymenttargetfilters}
+{: tab-title="Deployment target"}
+{: tab-group="swfilteroptions"}
+{: class="simple-tab-table"}
+{: summary="Use the buttons before the table to change the context of the table. The column headers identify the options for fitering based on filter type."}
+
+| Option | Description |
+|--------------|-------|
+| Free | The service includes monthly free allowances for only Pay-As-You-Go or Subscription accounts. |
+| Lite | The pricing plan for the service is structured as a free quota. The quota might operate for a specific time period, for example, a month or on a one-off usage basis. |
+{: caption="Table 2. Options for filtering software by pricing plan" caption-side="top"}
+{: #pricingplan-svc}
+{: tab-title="Pricing plan"}
+{: tab-group="swfilteroptions"}
+{: class="simple-tab-table"}
+{: summary="Use the buttons before the table to change the context of the table. The column headers identify the options for fitering based on filter type."} 
+
+| Option | Description |
+|--------------|-------|
+| HPC | Products that enable High Performance Computing (HPC) workloads on {{site.data.keyword.cloud_notm}}. For more information, see [High-performance computing on {{site.data.keyword.cloud_notm}}](https://www.ibm.com/cloud/hpc){: external} |
+| SAP Certified | An infrastructure service that is certified by SAP to run production SAP workloads. For more information, see [{{site.data.keyword.ibm_cloud_sap}}](/docs/sap).|
+| Satellite Enabled | A service that is enabled for use with {{site.data.keyword.cloud_notm}} Satellite. You can run apps consistently across on-premises, edge computing, and public cloud environments. For more information, see [{{site.data.keyword.cloud_notm}} {{site.data.keyword.satelliteshort}}](https://www.ibm.com/cloud/satellite){: external}. |
+| Quantum Technologies | A service that is compatible with quantum technologies. For more information, see [{{site.data.keyword.IBM_notm}} Quantum services](http://cloud.ibm.com/quantum){: external}. |
+{: caption="Table 2. Options for filtering software by run-time environment" caption-side="top"}
+{: #supported-env-software}
+{: tab-title="Works with"}
+{: tab-group="swfilteroptions"}
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the options for fitering based on filter type."}
 
