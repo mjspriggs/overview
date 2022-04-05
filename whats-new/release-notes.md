@@ -58,6 +58,8 @@ Support for onboarding third-party services in Partner Center
 {: #december-2021}
 
 ### 17 December 2021
+{: #overview-dec1721}
+{: release-note}
 
 Restricting domains for account invitations
 :   You can now restrict membership to your account based on the domain of the users by creating an allowlist. This way, only users with a specific domain or domains can be invited to the account. For more information, see [Restricting domains for account invitations](/docs/account?topic=account-restrict-acct-invite).
