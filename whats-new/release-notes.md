@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2022
 
-lastupdated: "2022-04-05"
+lastupdated: "2022-04-06"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -24,14 +24,21 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 {: #april-2022}
 
 ### 5 April 2022
-{: #overview-april522}
+{: #overview-apr0522}
 {: release-note}
 
 Onboarding virtual server images for {{site.data.keyword.powerSys_notm}}
-:   You can now onboard virtual server images for {{site.data.keyword.powerSys_notm}}to private catalogs and the {{site.data.keyword.cloud_notm}} catalog. For more information on onboarding to the {{site.data.keyword.cloud_notm}}, see [Registering a virtual server image for Power Systems in IBM Cloud Partner Center](/docs/sell?topic=sell-vsipower-register). For more information on onboarding to your private catalog, see [Onboarding a virtual server image for Power Systems to a private catalog](/docs/sell?topic=sell-vsipower-onboard). 
+:   You can now onboard virtual server images for {{site.data.keyword.powerSys_notm}} to private catalogs and the {{site.data.keyword.cloud_notm}} catalog. For more information about onboarding to the {{site.data.keyword.cloud_notm}}, see [Registering a virtual server image for Power Systems in IBM Cloud Partner Center](/docs/sell?topic=sell-vsipower-register). For more information about onboarding to your private catalog, see [Onboarding a virtual server image for Power Systems to a private catalog](/docs/sell?topic=sell-vsipower-onboard). 
 
 Upload translations of your software by using the CLI
 :   You can now download and upload translations of your software by using the CLI. For more information, see [Translating product details by using the CLI](/docs/account?topic=account-translate-product-details). 
+
+### 4 April 2022
+{: #overview-apr0422}
+{: release-note}
+
+Adding custom service parameters for your service 
+:  If the provisioning process of your product requires additional information from your customers, you can now add custom input fields for your product in {{site.data.keyword.cloud_notm}} Partner Center. For more information, see [Adding custom service parameters for your service in Partner Center](/docs/sell?topic=sell-service-add-custom-parameters). 
 
 ## March 2022
 {: #march-2022}
