@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2022
 
-lastupdated: "2022-04-05"
+lastupdated: "2022-04-06"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -32,6 +32,13 @@ Onboarding virtual server images for {{site.data.keyword.powerSys_notm}}
 
 Upload translations of your software by using the CLI
 :   You can now download and upload translations of your software by using the CLI. For more information, see [Translating product details by using the CLI](/docs/account?topic=account-translate-product-details). 
+
+### 4 April 2022
+{: #overview-april422}
+{: release-note}
+
+Adding custom service parameters for your service 
+:  If the provisioning process of your product might require some additional information from your customers, you can now add custom input fields for your product in {{site.data.keyword.cloud_notm}} Partner Center. For more information on adding custom input fields, see [Adding custom service parameters for your service in Partner Center](/docs/sell?topic=sell-service-add-custom-parameters). 
 
 ## March 2022
 {: #march-2022}
