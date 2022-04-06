@@ -38,7 +38,7 @@ Upload translations of your software by using the CLI
 {: release-note}
 
 Adding custom service parameters for your service 
-:  If the provisioning process of your product might require some additional information from your customers, you can now add custom input fields for your product in {{site.data.keyword.cloud_notm}} Partner Center. For more information on adding custom input fields, see [Adding custom service parameters for your service in Partner Center](/docs/sell?topic=sell-service-add-custom-parameters). 
+:  If the provisioning process of your product requires some additional information from your customers, you can now add custom input fields for your product in {{site.data.keyword.cloud_notm}} Partner Center. For more information on adding custom input fields, see [Adding custom service parameters for your service in Partner Center](/docs/sell?topic=sell-service-add-custom-parameters). 
 
 ## March 2022
 {: #march-2022}
