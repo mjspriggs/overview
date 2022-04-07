@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2022
-lastupdated: "2022-04-06"
+lastupdated: "2022-04-07"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -37,7 +37,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Service | Dallas | Washington DC | Toronto | Sao Paulo | 
 |-----|-----|-----|-----|-----|
 | API Connect | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Analytics Engine | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
+| Analytics Engine | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | App Configuration | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | App Connect | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | App ID | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -167,7 +167,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Service | London | Frankfurt | 
 |---|---|---|
 | API Connect | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Analytics Engine | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Analytics Engine |  |  | 
 | App Configuration | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | App Connect | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | App ID | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -297,7 +297,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Service | Sydney | Tokyo | Osaka | Chennai | Seoul | 
 |------|------|------|------|------|------|
 | API Connect | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
-| Analytics Engine | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
+| Analytics Engine |  |  |  |  |  | 
 | App Configuration | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | 
 | App Connect | ![Checkmark icon](../icons/checkmark-icon.svg)  \n *Data hosted in Sydney* |  |  |  |  | 
 | App ID | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
