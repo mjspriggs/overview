@@ -1,6 +1,6 @@
 {
     "title": "IBM Cloud overview docs",
-    "lastupdated": "2022-03-17",
+    "lastupdated": "2022-04-07",
     "introduction": "The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model. Leverage the docs, API & SDK reference, architecture references, and more to support your app development needs.",
     "section_devtools": {
       "api": "/docs?tab=api-docs&category=platform_services",
@@ -41,19 +41,19 @@
       "view_more": "/docs/overview?topic=overview-whatsnew",
       "tiles": [
         {
+          "date": "05 April 2022",
+          "title": "Onboarding virtual server images for Power Systems Virtual Server",
+          "description": "You can now onboard virtual server images for Power Systems Virtual Server to private catalogs and the IBM Cloud catalog."
+        },
+        {
+          "date": "04 April 2022",
+          "title": "Adding custom service parameters for your service",
+          "description": "If the provisioning process of your product requires additional information from your customers, you can now add custom input fields for your product in IBM Cloud Partner Center."
+        },
+        {
           "date": "01 March 2022",
           "title": "Use feature and subscription codes to create new accounts",
           "description": "When you register for a new IBM Cloud account, you can use a feature code that you received from participating in a special event or a subscription code that you received by email. Instead of verifying your identity by entering your credit card information, click the option to Register with a code to complete the set up of your new account."
-        },
-        {
-          "date": "28 February 2022",
-          "title": "365 days of status history is now available",
-          "description": "You can now easily view events that were completed in the past year on the {{site.data.keyword.cloud_notm}} Status page. Previously, you could view only the history of completed events from the past month."
-        },
-        {
-          "date": "17 December 2021",
-          "title": "Restricting domains for account invitations",
-          "description": "You can now restrict membership to your account based on the domain of the users by creating an allowlist. This way, only users with a specific domain or domains can be invited to the account."
         }
       ]
     }
