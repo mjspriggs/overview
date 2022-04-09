@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2022
-lastupdated: "2022-04-07"
+lastupdated: "2022-04-09"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -100,7 +100,6 @@ Services that are hosted globally create resources that operate across multiple 
 | IBM Cloud Pak for Data | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | IBM Cognos Dashboard Embedded | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | IBM Log Analysis | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| IBM Match 360 with Watson | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Image Service for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Informix | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Instrument Analytics | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
@@ -125,7 +124,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Power Systems Virtual Server | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Predictive Market Scenarios | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Public Gateway | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Qiskit Runtime |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
+| Qiskit Runtime-Experimental |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Real-Time Payments | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Red Hat OpenShift on IBM Cloud | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SQL Query | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
@@ -230,7 +229,6 @@ Services that are hosted globally create resources that operate across multiple 
 | IBM Cloud Pak for Data | Hosted Globally | Hosted Globally | 
 | IBM Cognos Dashboard Embedded | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | IBM Log Analysis | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| IBM Match 360 with Watson |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Image Service for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Informix | ![Checkmark icon](../icons/checkmark-icon.svg)  \n *Data hosted in London* |  | 
 | Instrument Analytics |  |  | 
@@ -255,7 +253,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Power Systems Virtual Server | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Predictive Market Scenarios |  |  | 
 | Public Gateway | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Qiskit Runtime |  |  | 
+| Qiskit Runtime-Experimental |  |  | 
 | Real-Time Payments |  |  | 
 | Red Hat OpenShift on IBM Cloud | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SQL Query |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -360,7 +358,6 @@ Services that are hosted globally create resources that operate across multiple 
 | IBM Cloud Pak for Data | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | IBM Cognos Dashboard Embedded |  |  |  |  |  | 
 | IBM Log Analysis | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| IBM Match 360 with Watson |  |  |  |  |  | 
 | Image Service for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Informix | ![Checkmark icon](../icons/checkmark-icon.svg)  \n *Data hosted in Sydney* |  |  |  |  | 
 | Instrument Analytics |  |  |  |  |  | 
@@ -385,7 +382,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Power Systems Virtual Server | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Predictive Market Scenarios |  |  |  |  |  | 
 | Public Gateway | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
-| Qiskit Runtime |  |  |  |  |  | 
+| Qiskit Runtime-Experimental |  |  |  |  |  | 
 | Real-Time Payments |  |  |  |  |  | 
 | Red Hat OpenShift on IBM Cloud | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | SQL Query |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
