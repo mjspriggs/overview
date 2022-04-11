@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2017, 2021
-lastupdated: "2021-05-06"
+  years: 2017, 2022
+lastupdated: "2022-04-11"
 
 keywords: security controls, platform security, compliance, penetration testing
 
@@ -22,6 +22,6 @@ In addition to our own diligence in creating and operating a secure cloud, {{sit
 
 {{site.data.keyword.cloud_notm}} ensures security readiness by adhering to security policies that are driven by best practices in {{site.data.keyword.IBM_notm}} for systems, networking, and secure engineering. These policies include practices such as source code scanning, dynamic scanning, threat modeling, and penetration testing. {{site.data.keyword.cloud_notm}} follows the {{site.data.keyword.IBM_notm}} Product Security Incident Response Team (PSIRT) process for security incident management. See the [{{site.data.keyword.IBM_notm}} Security Vulnerability Management (PSIRT)](https://www.ibm.com/trust/security-psirt){: external} site for details.
 
-In addition to the regular penetration testing conducted by {{site.data.keyword.IBM_notm}} and our partners, customers can conduct their own penetration testing of their resources on {{site.data.keyword.cloud_notm}}. No permission is necessary from {{site.data.keyword.cloud_notm}} for penetration testing of IP addresses allocated to your classic infrastructure account that is set up on classic virtual or bare metal servers. {{site.data.keyword.cloud_notm}} customers under an active NDA can request a copy of a penetration testing report by [opening a support case](https://cloud.ibm.com/unifiedsupport/supportcenter). 
+In addition to the regular penetration testing conducted by {{site.data.keyword.IBM_notm}} and our partners, customers can conduct their own penetration testing of their resources on {{site.data.keyword.cloud_notm}}. No permission is necessary from {{site.data.keyword.cloud_notm}} for penetration testing of IP addresses allocated to your classic infrastructure account that is set up on classic virtual or bare metal servers. {{site.data.keyword.cloud_notm}} customers under an active NDA can request a copy of a penetration testing report by [opening a support case](/unifiedsupport/supportcenter). 
 
-For more details about security for your applications and environments in {{site.data.keyword.Bluemix_notm}}, see [Security architecture for cloud applications](https://www.ibm.com/cloud/garage/architectures/securityArchitecture){: external}.
+For more details about security for your applications and environments in {{site.data.keyword.Bluemix_notm}}, see [Security architecture for cloud applications](https://www.ibm.com/cloud/architecture/architectures/securityArchitecture/){: external}.
