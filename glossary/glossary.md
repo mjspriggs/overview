@@ -2,7 +2,7 @@
 
 copyright:
   years: 2016, 2022
-lastupdated: "2022-03-16"
+lastupdated: "2022-04-11"
 
 keywords: glossary, IBM Cloud glossary, terms, definitions
 
@@ -45,7 +45,7 @@ A method for granting users, service IDs, and access groups access to account re
 ### access token
 {: #x2113001}
 
-A value used by the consumer to gain access to the protected resources on behalf of the user, instead of using the user’s service provider credentials.
+A value used by the consumer to gain access to the protected resources on behalf of the user, instead of using the user's service provider credentials.
 
 ### account
 {: #x2012863}
@@ -206,7 +206,7 @@ An image that has no parent image. See also [image](#x2024928), [parent image](#
 ### beta product
 {: #x10127356}
 
-A product that IBM makes available solely for evaluation and testing purposes.  There are no warranties, SLAs or support provided and beta products are not intended for production use.
+A product that IBM makes available solely for evaluation and testing purposes. There are no warranties, SLAs or support provided and beta products are not intended for production use.
 
 ### bias detection
 {: #x9721361}
@@ -232,6 +232,11 @@ To establish a connection between software components on a network using an agre
 {: #x7881128}
 
 A set of documents annotated with the ground truth, such as question and answer pairs, semantic annotation, and passage judgment. Blind data is never released or seen by developers and is used to test the system periodically to evaluate performance on unseen data. See also [testing data](#x7736833), [training data](#x2860199).
+
+### block
+{: #x2000384}
+
+A unit that contains ordered transactions in a blockchain network. Blocks are immutable and contain the cryptographic hash of the previous block to create a chain of blocks. This iterative process confirms the integrity of the previous block, all the way back to the initial block. See also [genesis block](#x9076628).
 
 ### blocklist
 {: #x3954055}
@@ -277,7 +282,12 @@ The capability of a business to withstand outages and to operate mission-critica
 ## C
 {: #glossc}
 
-### certificate authority
+### CA
+{: #x2015942}
+
+See [certificate authority](#x2016383).
+
+### certificate authority (CA)
 {: #x2016383}
 
 A trusted third-party organization or company that issues the digital certificates. The certificate authority typically verifies the identity of the individuals who are granted the unique certificate. See also [intermediate certificate](#x3753781), [Secure Sockets Layer](#x2038004), [trusted root](#x2042234).
@@ -290,7 +300,7 @@ An electronic message that an organization sends to a certificate authority (CA)
 ### chaincode
 {: #x9829545}
 
-Executable code that contains business logic agreed to by a set of organizations on a channel. A chaincode, and the smart contracts it contains, is installed on peers, instantiated on a channel, and governs access to the ledger data that is generated through invocations of the chaincode.
+Executable code that contains business logic agreed to by a set of organizations on a channel. A chaincode, and the smart contracts it contains, is installed on peers, instantiated on a channel, and governs access to the ledger data that is generated through invocations of the chaincode. See also [transaction](#x2005321).
 
 ### channel
 {: #x2016483}
@@ -470,7 +480,7 @@ A user interface component that provides a comprehensive summary of pertinent in
 ### data center (DC)
 {: #x2439906}
 
-The physical location of the servers that provide cloud services. 
+The physical location of the servers that provide cloud services.
 
 ### data encryption key
 {: #x4791827}
@@ -604,9 +614,9 @@ In software licensing, the maximum allowed allocation of capacity as determined 
 ### entity
 {: #x2026945}
 
-- A set of details that are held about a real-world object such as a person, location, or bank account. An entity is a kind of item.
-- A mention that is annotated by an entity type.
 - A person, object, or concept about which information is stored.
+- A mention that is annotated by an entity type.
+- A set of details that are held about a real-world object such as a person, location, or bank account. An entity is a kind of item.
 
 ### entity type
 {: #x2760649}
@@ -734,7 +744,7 @@ Date when a product is widely available for sale and delivery to customers or ch
 ### genesis block
 {: #x9076628}
 
-The configuration block that initializes a blockchain network or channel, and also serves as the first block on a chain.
+The configuration block that initializes a blockchain network or channel, and also serves as the first block on a chain. See also [block](#x2000384).
 
 ### globally unique identifier (GUID)
 {: #x2390455}
@@ -1175,7 +1185,7 @@ A concept in a domain that falls in to a well defined category, such as names of
 ### namespace
 {: #x2031005}
 
-A collection of repositories that store images in a registry. A namespace is associated with an IBM Cloud account, which can include multiple  namespaces. See also [image](#x2024928), [private image repository](#x8439215).
+A collection of repositories that store images in a registry. A namespace is associated with an IBM Cloud account, which can include multiple namespaces. See also [image](#x2024928), [private image repository](#x8439215).
 
 ### NAT
 {: #x2245519}
@@ -1210,8 +1220,8 @@ See [natural language processing](#x2031058).
 ### node
 {: #x2003286}
 
-- A physical component of the blockchain network infrastructure, namely a peer, Certificate Authority (CA), or ordering node.
 - A member of a cluster that runs as a container or virtual machine on shared hardware.
+- A physical component of the blockchain network infrastructure, namely a peer, Certificate Authority (CA), or ordering node.
 
 
 ## O
@@ -1263,16 +1273,21 @@ A service that provides a shared communication channel to clients and peers for 
 
 See [organization](#x2032585).
 
-### organization
+### organization (org)
 {: #x2032585}
 
-- The entity that owns APIs or applications that use APIs.    A provider organization owns APIs and associated plans, and can additionally own applications. A consumer organization owns only applications. An organization has at least one owner. An organization can be a project team, department, or division.
 - The grouping methodology for users in IBM Cloud. Orgs are used to manage quotas. Users in an org share memory and service instance quotas. See also [domain](#x2021210), [space](#x2039442).
+- The entity that owns APIs or applications that use APIs.    A provider organization owns APIs and associated plans, and can additionally own applications. A consumer organization owns only applications. An organization has at least one owner. An organization can be a project team, department, or division.
 
 ### origin server
 {: #x2210603}
 
 A server that processes and responds to incoming requests from clients, and is typically used with a caching server.
+
+### out-of-band
+{: #x2032717}
+
+Pertaining to data transferred through a stream that is independent from the main data stream.
 
 
 ## P
@@ -1366,7 +1381,7 @@ See [part of speech](#x3271709).
 ### pre-annotation
 {: #x9825866}
 
-The process of annotating a set of documents prior to human annotation. Documents can be pre-annotated by using a rule-based model, a machine-learning model, IBM Watson™ Natural Language Understanding, or a dictionary. Pre-annotation can help human annotators more quickly prepare a set of ground truth documents.
+The process of annotating a set of documents prior to human annotation. Documents can be pre-annotated by using a rule-based model, a machine-learning model, IBM Watson Natural Language Understanding, or a dictionary. Pre-annotation can help human annotators more quickly prepare a set of ground truth documents.
 
 ### precision
 {: #x2003831}
@@ -1406,8 +1421,8 @@ A .pear archive file that includes an Unstructured Information Management Archit
 ### profile
 {: #x2034950}
 
-- A collection of controls used to evaluate whether technology and services are configured in compliance with security policies. See also [rule](#x2037526), [scope](#x2037763).
 - A specification of a resource's capacities and capabilities. Different profiles are optimized for different workloads and use cases. A resource's pricing model might depend on its profile.
+- A collection of controls used to evaluate whether technology and services are configured in compliance with security policies. See also [rule](#x2037526), [scope](#x2037763).
 
 ### promo code
 {: #x8440874}
@@ -1540,8 +1555,8 @@ See [Representational State Transfer](#x3220976).
 ### role
 {: #x2065412}
 
-- An attribute that provides a context-sensitive meaning of a mention. For example, in the phrase "I went to IBM today", IBM is the mention, Organization is the entity type, and Facility is the role of the entity type.
 - A set of permissions or access rights.
+- An attribute that provides a context-sensitive meaning of a mention. For example, in the phrase "I went to IBM today", IBM is the mention, Organization is the entity type, and Facility is the role of the entity type.
 
 ### root key
 {: #x6946961}
@@ -1566,7 +1581,8 @@ See [recovery time objective](#x3167918).
 ### rule
 {: #x2037526}
 
-A set of conditional statements that are used to determine whether a build can be promoted. See also [profile](#x2034950), [scope](#x2037763).
+- The set of allowed contexts that are associated with an IBM Cloud resource. The defined contexts dictate a user's or service's access to that resource.
+- A set of conditional statements that are used to determine whether a build can be promoted. See also [profile](#x2034950), [scope](#x2037763).
 
 ### rule set
 {: #x2065665}
@@ -1755,7 +1771,7 @@ A section of a software package that defines either a specific action to be perf
 ### starter
 {: #x7470511}
 
-A template that includes predefined services and application code that is configured with a particular buildpack.  A starter might be application code that is written in a specific programming language, or a combination of application code and a set of services. See also [runtime](#x2391929).
+A template that includes predefined services and application code that is configured with a particular buildpack. A starter might be application code that is written in a specific programming language, or a combination of application code and a set of services. See also [runtime](#x2391929).
 
 ### state database
 {: #x9826031}
@@ -1859,7 +1875,7 @@ A set of annotated documents that can be used to train machine learning models. 
 ### transaction
 {: #x2005321}
 
-The mechanism that participants on the blockchain network use to interact with assets. A transaction either creates new chaincode or invokes an operation in an existing chaincode.
+The mechanism that participants on the blockchain network use to interact with assets. A transaction either creates new chaincode or invokes an operation in an existing chaincode. See also [chaincode](#x9829545).
 
 ### trigger
 {: #x2005384}
@@ -1875,6 +1891,11 @@ An answer or annotation that is actually incorrect and is predicted to be incorr
 {: #x7881319}
 
 An answer or annotation that is actually correct and is predicted to be correct.
+
+### trusted profile
+{: #x10127466}
+
+ A grouping of federated users, compute resources, or both, that are granted the same IAM access. When an identity applies a trusted profile, temporary security credentials are provided for the duration of a session. All identities that are allowed to apply a single profile inherit the same access.
 
 ### trusted root
 {: #x2042234}
@@ -2037,4 +2058,4 @@ A context that contains a collection of artifacts that a user with appropriate p
 ### zone
 {: #x2070723}
 
-An independent fault domain. A zone is an abstraction designed to assist with improved fault tolerance and decreased latency. See also [multizone region](#x9774820), [single-zone region](#x9774825).
+An independent fault domain. A zone is an abstraction designed to assist with improved fault tolerance and decreased latency. See also [multizone region](#x9774820).
