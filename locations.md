@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2022
-lastupdated: "2022-03-27"
+lastupdated: "2022-04-20"
 
 keywords: data centers, datacenter, regions, locations, ibm cloud regions, multizone regions, MZRs, cloud regions, cloud data centers, multizone, geo, availability zone, zones
 
@@ -15,7 +15,7 @@ subcollection: overview
 # Region and data center locations for resource deployment
 {: #locations}
 
-{{site.data.keyword.cloud}} has a resilient global network of locations to host your highly available cloud workload. You can create resources in different locations, such as a region or data center, but with the same billing and usage view. You can also deploy your apps to the location that is nearest to your customers to achieve low application latency. {{site.data.keyword.cloud_notm}} provides three tiers of regions: [multizone regions](#x9774820){: term}, single campus multizone regions, and [data centers](#x2439906){: term}.
+{{site.data.keyword.cloud}} has a resilient global network of locations to host your highly available cloud workload. You can create resources in different locations, such as a region or data center, but with the same billing and usage view. You can also deploy your apps to the location that is nearest to your customers to achieve low application latency. {{site.data.keyword.cloud_notm}} provides three tiers of regions: [multizone regions](#x9774820){: term}, single campus multizone regions, and [data centers](#x2439906){: term}. 
 {: shortdesc}
 
 ## Regions
@@ -87,6 +87,7 @@ The following table lists the single campus MZRs that are available in {{site.da
 | Osaka         | jp-osa   |jp-osa-1  \n jp-osa-2  \n jp-osa-3 | OSA21  \n OSA22  \n OSA23|
 {: caption="Table 2. Single campus MZRs" caption-side="top"}
 
+
 ## Data centers
 {: #data-centers}
 
@@ -96,7 +97,7 @@ Data centers host the power, cooling, compute, network, and storage resources us
 
 Data centers are based on a POD architecture where each data center can have more than one POD, depending on the on-demand build out. Each POD consists of racks, servers, networks, and storage, along with backup power generators. Placing application servers across PODs improves the availability.
 
-See [Global locations for your global business](https://www.ibm.com/cloud/data-centers/){: external} for an interactive map that shows the available data centers, MZRs, [points of presence](#x5458832){: term} (PoPs), and federal data centers. 
+![Global map showing MZR and data center locations](images/Global-View.svg "MZR and data center locations"){: caption="Figure 3. MZR and data center locations map" caption-side="bottom"}
 
 See the following table for the specific code for each data center.
 
@@ -189,6 +190,7 @@ See the following table for the specific code for each data center.
 The table includes certain data centers that are set to close soon. For the list of data centers that are closing, see [Data center closures](/docs/get-support?topic=get-support-dc-closure).
 {: note}
 
+
 ## Viewing resources by location
 {: #filter-location}
 
@@ -202,4 +204,4 @@ You might also want to display your resources that are located globally. The **G
 
 As illustrated in the following graphic, a data center is a physical building that represents an availability zone that is located within a multizone region (MZR). An MZR is organized by its metro location. For example, London can encompass more than one grouping of data centers within an MZR. The graphic shows three availability zones in one MZR that work together in the instance that one of the data centers becomes unavailable. Availability zones are connected directly to each or through low latency links.
 
-![A location hierarchy that shows a geography that contains data center buildings inside of availability zones that are interconnected with points-of-presence within a metro.](images/Location-Illustration.svg){: caption="Figure 3. Location hierarchy" caption-side="bottom"}
+![A location hierarchy that shows a geography that contains data center buildings inside of availability zones that are interconnected with points-of-presence within a metro.](images/dc-geography.svg){: caption="Figure 4. Location hierarchy" caption-side="bottom"}
