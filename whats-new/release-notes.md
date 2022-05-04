@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2022
 
-lastupdated: "2022-04-06"
+lastupdated: "2022-05-04"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -19,6 +19,18 @@ content-type: release-note
 
 Stay up-to-date with the new features that are available on the {{site.data.keyword.Bluemix}} platform so that you get the most out of your {{site.data.keyword.Bluemix_notm}} experience.
 {: shortdesc}
+
+## May 2022
+{: #may-2022}
+
+### 04 May 2022
+{: #overview-may2022}
+{: release-note}
+
+Required access to view service credentials
+:    When the credential level access can't be determined by comparing the access of the user and the credential, the credential is redacted. Services that support access control on resources that are allocated in the context of a service instance, such as Cloud Object Storage buckets, now require the user to have the resource-controller.credential.retrieve_all action to view service credentials.
+
+To determine if your service is affected, review your service's documentation. For more information about the required access to view service credentials, see [Viewing a credential](/docs/account?topic=account-service_credentials&interface=ui#viewing-credentials-ui). 
 
 ## April 2022
 {: #april-2022}
