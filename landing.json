@@ -1,6 +1,6 @@
 {
     "title": "IBM Cloud overview docs",
-    "lastupdated": "2022-04-07",
+    "lastupdated": "2022-05-06",
     "introduction": "The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model. Leverage the docs, API & SDK reference, architecture references, and more to support your app development needs.",
     "section_devtools": {
       "api": "/docs?tab=api-docs&category=platform_services",
@@ -40,6 +40,11 @@
     "section_updates": {
       "view_more": "/docs/overview?topic=overview-whatsnew",
       "tiles": [
+        {  
+          "date": "04 May 2022",
+          "title": "Required access to view service credentials",
+          "description": "When the credential level access can't be determined by comparing the access of the user and the credential, the credential will be redacted. Services that support access control on resources that are allocated in the context of a service instance, such as Cloud Object Storage buckets, now require the user to have the resource-controller.credential.retrieve_all action to view service credentials."
+        },
         {
           "date": "05 April 2022",
           "title": "Onboarding virtual server images for Power Systems Virtual Server",
@@ -49,11 +54,6 @@
           "date": "04 April 2022",
           "title": "Adding custom service parameters for your service",
           "description": "If the provisioning process of your product requires additional information from your customers, you can now add custom input fields for your product in IBM Cloud Partner Center."
-        },
-        {
-          "date": "01 March 2022",
-          "title": "Use feature and subscription codes to create new accounts",
-          "description": "When you register for a new IBM Cloud account, you can use a feature code that you received from participating in a special event or a subscription code that you received by email. Instead of verifying your identity by entering your credit card information, click the option to Register with a code to complete the set up of your new account."
         }
       ]
     }
