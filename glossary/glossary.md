@@ -2,7 +2,7 @@
 
 copyright:
   years: 2016, 2022
-lastupdated: "2022-04-11"
+lastupdated: "2022-05-13"
 
 keywords: glossary, IBM Cloud glossary, terms, definitions
 
@@ -70,8 +70,8 @@ Analyzing machine learning model scores to determine whether changes are needed 
 ### action
 {: #x2012974}
 
-- A code snippet that can be explicitly invoked, or run in response to an event. See also [feed](#x3129185), [invoke](#x2057232).
 - A task that is performed in the context of a service.
+- A code snippet that can be explicitly invoked, or run in response to an event. See also [feed](#x3129185), [invoke](#x2057232).
 
 ### adjudication
 {: #x3096333}
@@ -315,8 +315,8 @@ See [command-line interface](#x2051424).
 ### client
 {: #x2000644}
 
-- An entity that acts on behalf of a user by connecting to a peer to communicate with the blockchain.
 - A software program or computer that requests services from a server. See also [host](#x2002243).
+- An entity that acts on behalf of a user by connecting to a peer to communicate with the blockchain.
 
 ### client secret
 {: #x7024948}
@@ -614,9 +614,9 @@ In software licensing, the maximum allowed allocation of capacity as determined 
 ### entity
 {: #x2026945}
 
-- A person, object, or concept about which information is stored.
-- A mention that is annotated by an entity type.
 - A set of details that are held about a real-world object such as a person, location, or bank account. An entity is a kind of item.
+- A mention that is annotated by an entity type.
+- A person, object, or concept about which information is stored.
 
 ### entity type
 {: #x2760649}
@@ -1220,8 +1220,8 @@ See [natural language processing](#x2031058).
 ### node
 {: #x2003286}
 
-- A member of a cluster that runs as a container or virtual machine on shared hardware.
 - A physical component of the blockchain network infrastructure, namely a peer, Certificate Authority (CA), or ordering node.
+- A member of a cluster that runs as a container or virtual machine on shared hardware.
 
 
 ## O
@@ -1273,11 +1273,11 @@ A service that provides a shared communication channel to clients and peers for 
 
 See [organization](#x2032585).
 
-### organization (org)
+### organization
 {: #x2032585}
 
-- The grouping methodology for users in IBM Cloud. Orgs are used to manage quotas. Users in an org share memory and service instance quotas. See also [domain](#x2021210), [space](#x2039442).
 - The entity that owns APIs or applications that use APIs.    A provider organization owns APIs and associated plans, and can additionally own applications. A consumer organization owns only applications. An organization has at least one owner. An organization can be a project team, department, or division.
+- The grouping methodology for users in IBM Cloud. Orgs are used to manage quotas. Users in an org share memory and service instance quotas. See also [domain](#x2021210), [space](#x2039442).
 
 ### origin server
 {: #x2210603}
@@ -1421,8 +1421,8 @@ A .pear archive file that includes an Unstructured Information Management Archit
 ### profile
 {: #x2034950}
 
-- A specification of a resource's capacities and capabilities. Different profiles are optimized for different workloads and use cases. A resource's pricing model might depend on its profile.
 - A collection of controls used to evaluate whether technology and services are configured in compliance with security policies. See also [rule](#x2037526), [scope](#x2037763).
+- A specification of a resource's capacities and capabilities. Different profiles are optimized for different workloads and use cases. A resource's pricing model might depend on its profile.
 
 ### promo code
 {: #x8440874}
@@ -1555,8 +1555,8 @@ See [Representational State Transfer](#x3220976).
 ### role
 {: #x2065412}
 
-- A set of permissions or access rights.
 - An attribute that provides a context-sensitive meaning of a mention. For example, in the phrase "I went to IBM today", IBM is the mention, Organization is the entity type, and Facility is the role of the entity type.
+- A set of permissions or access rights.
 
 ### root key
 {: #x6946961}
@@ -1581,8 +1581,8 @@ See [recovery time objective](#x3167918).
 ### rule
 {: #x2037526}
 
-- The set of allowed contexts that are associated with an IBM Cloud resource. The defined contexts dictate a user's or service's access to that resource.
 - A set of conditional statements that are used to determine whether a build can be promoted. See also [profile](#x2034950), [scope](#x2037763).
+- The set of allowed contexts that are associated with an IBM Cloud resource. The defined contexts dictate a user's or service's access to that resource.
 
 ### rule set
 {: #x2065665}
@@ -1693,6 +1693,16 @@ An encryption key that is used by the crypto unit administrator to sign commands
 
 A certificate that any entity, such as an organization or admin, attaches to their proposals or proposal responses. These signCerts are unique to an entity and are checked by the ordering service to make sure they match the signCert on file for that entity.
 
+### single-campus multizone region (single-campus MZR)
+{: #x10127487}
+
+A region that consists of multiple zones that are hosted on data centers that are located within a single building or campus. Dependencies such as power, cooling, networking, and physical security might overlap but are not identical between any two zones to increase fault tolerance. See also [zone](#x2070723).
+
+### single-campus MZR
+{: #x10127585}
+
+See [single-campus multizone region](#x10127487).
+
 ### single-page application (SPA)
 {: #x9829514}
 
@@ -1702,11 +1712,6 @@ An application that works inside a browser and does not require page reloading d
 {: #x2213318}
 
 An authentication process in which a user can access more than one system or application by entering a single user ID and password.
-
-### single-zone region (SZR)
-{: #x9774825}
-
-A region that consists of data centers that are located within one zone. See also [zone](#x2070723).
 
 ### smart contract
 {: #x8888420}
@@ -1822,11 +1827,6 @@ An information technology (IT) system that incorporates technologies that encour
 {: #x6735061}
 
 An information storage system (such as a database or application) that stores business records and automates standard processes. See also [system of engagement](#x6528306).
-
-### SZR
-{: #x9774829}
-
-See [single-zone region](#x9774825).
 
 
 ## T
@@ -1944,8 +1944,8 @@ See [Uniform Resource Locator](#x2042491).
 ### user
 {: #x2069659}
 
-- An IBMid or SoftLayer ID that is used as a person's identity in an account.
 - A participant in a blockchain network that has indirect access to the ledger through a trust relationship to an existing member.
+- An IBMid or SoftLayer ID that is used as a person's identity in an account.
 
 ### user registry
 {: #x2042894}
@@ -2058,4 +2058,4 @@ A context that contains a collection of artifacts that a user with appropriate p
 ### zone
 {: #x2070723}
 
-An independent fault domain. A zone is an abstraction designed to assist with improved fault tolerance and decreased latency. See also [multizone region](#x9774820).
+An independent fault domain. A zone is an abstraction designed to assist with improved fault tolerance and decreased latency. See also [multizone region](#x9774820), [single-campus multizone region](#x10127487).
