@@ -15,7 +15,7 @@ subcollection: overview
 # Region and data center locations for resource deployment
 {: #locations}
 
-{{site.data.keyword.cloud}} has a resilient global network of locations to host your highly available cloud workload. You can create resources in different locations, such as a region or data center, but with the same billing and usage view. You can also deploy your apps to the location that is nearest to your customers to achieve low application latency. {{site.data.keyword.cloud_notm}} provides three tiers of regions: [multizone regions](#x9774820){: term}, single campus multizone regions, and [data centers](#x2439906){: term}. 
+{{site.data.keyword.cloud}} has a resilient global network of locations to host your highly available cloud workload. You can create resources in different locations, such as a region or data center, but with the same billing and usage view. You can also deploy your apps to the location that is nearest to your customers to achieve low application latency. {{site.data.keyword.cloud_notm}} provides three tiers of regions: [multizone regions](#x9774820){: term}, [single-campus multizone regions](#x10127487){: term}, and [data centers](#x2439906){: term}. 
 {: shortdesc}
 
 ## Regions
