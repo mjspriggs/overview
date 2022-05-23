@@ -3,7 +3,7 @@
 copyright:
 
   years: 2022
-lastupdated: "2022-03-30"
+lastupdated: "2022-05-20"
 
 keywords: rollout
 
@@ -18,7 +18,7 @@ subcollection: overview
 
 {{site.data.keyword.cloud}} has a resilient global network of locations to host your highly available cloud workload. To ensure that the cloud infrastructure and services are consistent and stable across our deployment locations, we created best practices for our service catalog management. These best practices help us to accomplish rollouts in the most efficient manner and minimize business impact, costs, and risks. The following information describes our guidelines on when to expect or how to request that a service is available in your region.
 
-This policy covers all {{site.data.keyword.cloud_notm}} public [MZRs](/docs/overview?topic=overview-locations#table-mzr), public [single campus MZRs](/docs/overview?topic=overview-locations#single-campus-mzr) and public [data centers](/docs/overview?topic=overview-locations#data-centers). 
+This policy covers all {{site.data.keyword.cloud_notm}} public [MZRs](/docs/overview?topic=overview-locations#table-mzr), public [single-campus MZRs](/docs/overview?topic=overview-locations#single-campus-mzr) and public [data centers](/docs/overview?topic=overview-locations#data-centers). 
 
 {{site.data.keyword.IBM}} classifies our services deployed to our public locations as core or market-driven.
 
