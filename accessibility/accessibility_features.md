@@ -29,7 +29,8 @@ Accessibility features assist users who have a disability, such as restricted mo
 * Keyboard-only operation
 * Operations that use a screen reader
 
-{{site.data.keyword.Bluemix_notm}} uses W3C Standards to ensure compliance to [US Section 508](https://www.access-board.gov/ict/){: external}, [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/){: external}, and [EN 301 549](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/02.01.02_60/en_301549v020102p.pdf){: external}. To take advantage of accessibility features, use the latest release of your screen reader in combination with the latest Firefox web browser that is supported by this product.
+{{site.data.keyword.Bluemix_notm}} uses the W3C Standard, [WAI-ARIA 1.1](http://www.w3.org/TR/wai-aria/){: external}, to ensure compliance
+ to ensure compliance to [US Section 508](https://www.access-board.gov/ict/){: external}, [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/){: external}, and [EN 301 549](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/02.01.02_60/en_301549v020102p.pdf){: external}. To take advantage of accessibility features, use the latest release of your screen reader in combination with the latest Firefox web browser that is supported by this product.
 
 The {{site.data.keyword.Bluemix_notm}} online product documentation and the {{site.data.keyword.Bluemix_notm}} user interface framework is enabled for accessibility. 
 
