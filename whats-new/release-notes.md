@@ -20,6 +20,18 @@ content-type: release-note
 Stay up-to-date with the new features that are available on the {{site.data.keyword.Bluemix}} platform so that you get the most out of your {{site.data.keyword.Bluemix_notm}} experience.
 {: shortdesc}
 
+## June 2022
+{: #june-2022}
+
+### 13 June 2022
+{: #overview-13june2022}
+{: release-note}
+
+Updated process for onboarding services in Partner Center
+:   Partner Center has made it easier to provide required support information. The process has improved the approval process for publishing your product, and it has added consistency to all third-party product information which helps customers find the help that they need.
+
+For more information, see [Defining your support experience](/docs/sell?topic=sell-saas-support-details).
+
 ## May 2022
 {: #may-2022}
 
