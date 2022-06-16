@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-03-11"
+lastupdated: "2022-06-16"
 
 keywords: security and compliance for the platform, security for IBM Cloud, compliance for IBM Cloud, goals, config rules, rules, posture
 
@@ -27,7 +27,7 @@ In the {{site.data.keyword.compliance_short}}, you can accomplish the following 
 
 As a security or compliance focal, you can use [goals](#x2117978){: term} of specific platform services to help ensure that your organization is adhering to the external and internal standards for your industry. By using the {{site.data.keyword.compliance_short}} to validate the resource configurations in your account against a [profile](#x2034950){: term}, you can identify potential issues as they arise.
 
-All of the goals for the platform are added to the {{site.data.keyword.cloud_notm}} Best Practices Controls 1.0 profile but can also be mapped to other profiles.
+All of the goals for the platform are added to the {{site.data.keyword.cloud_notm}} Control Library profile, but can also be mapped to other profiles.
 {: note}
 
 To start monitoring your resources, see [Getting started with {{site.data.keyword.compliance_short}}](/docs/security-compliance?topic-security-compliance-getting-started).
