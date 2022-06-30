@@ -1,11 +1,8 @@
 ---
 
-
-
 copyright:
-
   years: 2015, 2022
-lastupdated: "2022-02-16"
+lastupdated: "2022-06-30"
 
 keywords: notices, IBM Cloud, creative commons, licenses
 
@@ -82,13 +79,13 @@ Portions of this code are derived from IBM Corp. Sample Programs.
 
 SANCTIONS & EMBARGOES
 
-The United States prohibits most commercial transactions and other dealings with a handful of countries for foreign policy and national security reasons.  These prohibitions – formally known as trade and economic sanctions or comprehensive embargoes – currently target Iran, Cuba, North Korea, and Syria. 
+The United States prohibits most commercial transactions and other dealings with a handful of countries for foreign policy and national security reasons.  These prohibitions – formally known as trade and economic sanctions or comprehensive embargoes – currently target Iran, Cuba, North Korea, and Syria.
 
 {{site.data.keyword.cloud_notm}} implements network-wide blocking of communications to IP addresses which originate from countries subject to those trade and economic sanctions. This policy affects all {{site.data.keyword.cloud_notm}} data center locations and environments, and blocks access by IP addresses registered to countries subject to U.S. trade and economic sanctions.
 
 To identify IP addresses associated with U.S. embargoed countries, {{site.data.keyword.cloud_notm}} references the Geo IP2 Database maintained by [MaxMind](http://www.maxmind.com){: external}). {{site.data.keyword.cloud_notm}} updates its IP address country mapping on a quarterly basis.
 
-Note: This restriction does not apply to content that is not prohibited under U.S. sanctions and embargoes. Please email IBM_Cloud_Embargo_Exemption_Request@wwpdl.vnet.ibm.com if you believe your content is not prohibited under U.S. trade and economic sanctions. 
+Note: This restriction does not apply to content that is not prohibited under U.S. sanctions and embargoes. Please email IBM_Cloud_Embargo_Exemption_Request@wwpdl.vnet.ibm.com if you believe your content is not prohibited under U.S. trade and economic sanctions.
 
 ## Notices and information for excluded components
 {: #cc-notices}
@@ -204,13 +201,13 @@ This section consists of the following:
 * CC-BY-2.5
 * CC-BY-3.0
 * CC-BY-4.0
-* CC-BY-SA-1.0 
+* CC-BY-SA-1.0
 * Creative Commons Attribution Share-Alike 2.0
 * Creative Commons Attribution Share-Alike 2.5
 * Creative Commons Attribution Share-Alike 4.0
-* General Public License V2 
+* General Public License V2
 * General Public License V3
-* GNU FREE DOCUMENTATION LICENSE V1.3 
+* GNU FREE DOCUMENTATION LICENSE V1.3
 * RHEL Universal Base Image
 * SIL OFL 1.1
 * Unique
@@ -285,7 +282,7 @@ GO-METRICS (DOC) [moby/moby] (Not Required), DOCS [docker/spdystream](https://gi
 #### General Public License V2
 {: #devcon-genv2}
 
-The Program includes some or all of the following licensed to you as Separately Licensed Code under the GNU General Public License. For 
+The Program includes some or all of the following licensed to you as Separately Licensed Code under the GNU General Public License. For
 copies of the source code for this software, send an email to devlic@us.ibm.com identifying the {{site.data.keyword.IBM_notm}} product and the GPL-licensed program for which you are requesting the source code.
 
 default-stylesheet.js, Dockerfile.xml, scanelf, tap-driver.sh, OPENJDK,DEBIAN-ARCHIVE-KEYRING ,DOCKER.INITD,SELINUX, UPX [OpenJDK], GOLANGCI/CHECK, OPENRC [moby/moby], ERRNO-BASE.H [modernc.org/cc], TUNED-PROFILES-ORIGIN-NODE.7 [openshift/origin]
@@ -302,7 +299,7 @@ OPENPEEDEEP/DEPGUARD, LIMITS.H [modernc.org/cc]
 
 The Program includes some or all of the following available under the GNU Free Documentation License v1.3. For copies of the source code for this software, send an email to devlic@us.ibm.com identifying the {{site.data.keyword.IBM_notm}} product and the GPL-licensed program for which you are requesting the source code.
 
-calc (GFDL v1.3) [modernc.org/golex]    
+calc (GFDL v1.3) [modernc.org/golex]
 
 #### RHEL Universal Base Image (UBI) v7
 {: #devcon-rhel}
@@ -316,7 +313,7 @@ The Program maybe provided with third party software programs subject to their o
 
 The Program includes some or all of the following that {{site.data.keyword.IBM_notm}} obtained under the SIL Open Font License version 1.1:
 
-Font Awesome 4.1.0 (by @davegandy), Orbitron Font (Copyright (c) 2009, 
+Font Awesome 4.1.0 (by @davegandy), Orbitron Font (Copyright (c) 2009,
 Matt McInerney (matt@pixelspread.com)), Oswald Font (Copyright (c) 2011-2012, Vernon Adams (vern@newtypography.co.uk))
 ORBITRON FONTS [smartystreets/goconvey], FONT [openshift/origin], FONT AWESOME FONTS [smartystreets/goconvey]
 
@@ -331,7 +328,7 @@ with others.
 
 The OFL allows the licensed fonts to be used, studied, modified and
 redistributed freely as long as they are not sold by themselves. The
-fonts, including any derivative works, can be bundled, embedded, 
+fonts, including any derivative works, can be bundled, embedded,
 redistributed and/or sold with any software provided that any reserved
 names are not used by derivative works. The fonts and derivatives,
 however, cannot be released under any other type of license. The
@@ -397,13 +394,13 @@ View the [Notices file](/media/docs/downloads/oss-licensing-info/IBMCloud-CLI-OS
 This section consists of the following:
 
 * CC-BY-2.5
-* CC-BY-3.0  
-* CC-BY-SA-1.0  
-* CC-BY-SA-2.0  
-* CC-BY-SA-2.5  
-* CC-BY-SA-3.0 
-* CC-BY-SA-4.0  
-* GPL V2  
+* CC-BY-3.0
+* CC-BY-SA-1.0
+* CC-BY-SA-2.0
+* CC-BY-SA-2.5
+* CC-BY-SA-3.0
+* CC-BY-SA-4.0
+* GPL V2
 * UNIQUE
 
 #### Creative Commons Attribution 2.5 Generic
@@ -561,7 +558,7 @@ This section consists of the following:
 * CC-BY-3.0
 * CC-BY-SA-2.0
 * SIL OPEN FONT LICENSE 1.1
-  
+
 #### Creative Commons Attribution 2.5 generic
 {: #sec-comp-25}
 
@@ -588,7 +585,7 @@ DISPUTES [npm] (Copyright (c) npm, Inc. and Contributors)(http://registry.npmjs.
 #### SIL Open Font License 1.1
 {: #sec-comp-sil}
 
-The Program includes some or all of the following works licensed under the SIL Open Font License 1.1. 
+The Program includes some or all of the following works licensed under the SIL Open Font License 1.1.
 
 PREAMBLE
 The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.
@@ -657,3 +654,8 @@ Salesforce is a trademark of Salesforce.com, Inc.
 Box is a trademark of Box, Inc.
 
 Other company, product, and service names may be trademarks or service marks of others.
+
+## Terminology
+{: #terminology}
+
+While IBM values the use of inclusive language, terms that are outside of IBM's direct influence are sometimes required for the sake of maintaining user understanding. As other industry leaders join IBM in embracing the use of inclusive language, IBM will continue to update the documentation to reflect those changes.
