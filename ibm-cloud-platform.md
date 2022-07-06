@@ -4,7 +4,7 @@
 copyright:
   years: 2016, 2022
 
-lastupdated: "2022-03-31"
+lastupdated: "2022-07-06"
 
 
 keywords: console, platform overview, overview, data center, security, compliance 
@@ -162,8 +162,19 @@ See the following table for the list of filters that you can use to search the c
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the options for fitering based on filter type."}
 
+| Option | Description |
+|--------------|-------|
+| {{site.data.keyword.IBM_notm}} supported | Products that are supported by {{site.data.keyword.cloud_notm}}. |
+| Third party supported | Products that are provided by individual service entities. |
+| Community supported | Products that are provided by open source communities. |
+{: caption="Table 2. Options for filtering software by support type" caption-side="top"}
+{: #support-type-software}
+{: tab-title="Support"}
+{: tab-group="swfilteroptions"}
+{: class="simple-tab-table"}
+{: summary="Use the buttons before the table to change the context of the table. The column headers identify the options for fitering based on filter type."}
 
-Want to scope your view of the catalog to only products from a specific provider? Use the **Provider** filter to browse by individual providers.
+You can also scope your view of the catalog by using the **Provider** filter to browse by individual providers, and the **Location** filter to view products available in specific regions. 
 {: tip}
 
 
@@ -248,7 +259,19 @@ The following table lists the filter options you can use when searching the cata
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the options for fitering based on filter type."}
 
-Want to scope your view of the catalog to only products from a specific provider? Use the **Provider** filter to browse by individual providers.
+| Option | Description |
+|--------------|-------|
+| {{site.data.keyword.IBM_notm}} supported | Products that are supported by {{site.data.keyword.cloud_notm}}. |
+| Third party supported | Products that are provided by individual service entities. |
+| Community supported | Products that are provided by open source communities. |
+{: caption="Table 2. Options for filtering software by support type" caption-side="top"}
+{: #support-type-software}
+{: tab-title="Support"}
+{: tab-group="swfilteroptions"}
+{: class="simple-tab-table"}
+{: summary="Use the buttons before the table to change the context of the table. The column headers identify the options for fitering based on filter type."}
+
+You can also scope your view of the catalog by using the **Provider** filter to browse by individual providers, and the **Location** filter to view products available in specific regions. 
 {: tip}
 
 ## Pricing and billing
@@ -329,7 +352,3 @@ The {{site.data.keyword.Bluemix_notm}} Status page is the central place to find 
 {: #notification-preference}
 
 Depending on your {{site.data.keyword.Bluemix_notm}} account type, you can choose to receive email notifications about {{site.data.keyword.Bluemix_notm}} platform-related items and resource-related items from the [Notification preferences page](https://cloud.ibm.com/user/notifications){: external}. Platform-related items include announcements, billing and usage, and ordering. Resource-related items include incidents, maintenance, security bulletins, and resource activity. For more information, see [Setting email preferences for notifications](/docs/account?topic=account-email-prefs).
-
-
-
-
