@@ -151,6 +151,18 @@ See the following table for the list of filters that you can use to search the c
 
 | Option | Description |
 |--------------|-------|
+| {{site.data.keyword.IBM_notm}} supported | Products that are supported by {{site.data.keyword.cloud_notm}}. |
+| Third party supported | Products that are provided by individual service entities. |
+| Community supported | Products that are provided by open source communities. |
+{: caption="Table 1. Options for filtering services by support type" caption-side="top"}
+{: #support-svc}
+{: tab-title="Support"}
+{: tab-group="cfo"}
+{: class="simple-tab-table"}
+{: summary="Use the buttons before the table to change the context of the table. The column headers identify the options for fitering based on filter type."}
+
+| Option | Description |
+|--------------|-------|
 | HPC | Products that enable High Performance Computing (HPC) workloads on {{site.data.keyword.cloud_notm}}. For more information, see [High-performance computing on {{site.data.keyword.cloud_notm}}](https://www.ibm.com/cloud/hpc){: external} |
 | SAP Certified | An infrastructure service that is certified by SAP to run production SAP workloads. For more information, see [{{site.data.keyword.ibm_cloud_sap}}](/docs/sap).|
 | Satellite Enabled | A service that is enabled for use with {{site.data.keyword.cloud_notm}} Satellite. You can run apps consistently across on-premises, edge computing, and public cloud environments. For more information, see [{{site.data.keyword.cloud_notm}} {{site.data.keyword.satelliteshort}}](https://www.ibm.com/cloud/satellite){: external}. |
@@ -162,17 +174,6 @@ See the following table for the list of filters that you can use to search the c
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the options for fitering based on filter type."}
 
-| Option | Description |
-|--------------|-------|
-| {{site.data.keyword.IBM_notm}} supported | Products that are supported by {{site.data.keyword.cloud_notm}}. |
-| Third party supported | Products that are provided by individual service entities. |
-| Community supported | Products that are provided by open source communities. |
-{: caption="Table 2. Options for filtering software by support type" caption-side="top"}
-{: #support-type-software}
-{: tab-title="Support"}
-{: tab-group="swfilteroptions"}
-{: class="simple-tab-table"}
-{: summary="Use the buttons before the table to change the context of the table. The column headers identify the options for fitering based on filter type."}
 
 You can also scope your view of the catalog by using the **Provider** filter to browse by individual providers, and the **Location** filter to view products available in specific regions. 
 {: tip}
@@ -248,6 +249,18 @@ The following table lists the filter options you can use when searching the cata
 
 | Option | Description |
 |--------------|-------|
+| {{site.data.keyword.IBM_notm}} supported | Products that are supported by {{site.data.keyword.cloud_notm}}. |
+| Third party supported | Products that are provided by individual service entities. |
+| Community supported | Products that are provided by open source communities. |
+{: caption="Table 2. Options for filtering software by support type" caption-side="top"}
+{: #support-type-software}
+{: tab-title="Support"}
+{: tab-group="swfilteroptions"}
+{: class="simple-tab-table"}
+{: summary="Use the buttons before the table to change the context of the table. The column headers identify the options for fitering based on filter type."}
+
+| Option | Description |
+|--------------|-------|
 | HPC | Products that enable High Performance Computing (HPC) workloads on {{site.data.keyword.cloud_notm}}. For more information, see [High-performance computing on {{site.data.keyword.cloud_notm}}](https://www.ibm.com/cloud/hpc){: external} |
 | SAP Certified | An infrastructure service that is certified by SAP to run production SAP workloads. For more information, see [{{site.data.keyword.ibm_cloud_sap}}](/docs/sap).|
 | Satellite Enabled | A service that is enabled for use with {{site.data.keyword.cloud_notm}} Satellite. You can run apps consistently across on-premises, edge computing, and public cloud environments. For more information, see [{{site.data.keyword.cloud_notm}} {{site.data.keyword.satelliteshort}}](https://www.ibm.com/cloud/satellite){: external}. |
@@ -255,18 +268,6 @@ The following table lists the filter options you can use when searching the cata
 {: caption="Table 2. Options for filtering software by run-time environment" caption-side="top"}
 {: #supported-env-software}
 {: tab-title="Works with"}
-{: tab-group="swfilteroptions"}
-{: class="simple-tab-table"}
-{: summary="Use the buttons before the table to change the context of the table. The column headers identify the options for fitering based on filter type."}
-
-| Option | Description |
-|--------------|-------|
-| {{site.data.keyword.IBM_notm}} supported | Products that are supported by {{site.data.keyword.cloud_notm}}. |
-| Third party supported | Products that are provided by individual service entities. |
-| Community supported | Products that are provided by open source communities. |
-{: caption="Table 2. Options for filtering software by support type" caption-side="top"}
-{: #support-type-software}
-{: tab-title="Support"}
 {: tab-group="swfilteroptions"}
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the options for fitering based on filter type."}
