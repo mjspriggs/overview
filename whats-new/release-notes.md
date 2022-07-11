@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2022
 
-lastupdated: "2022-05-04"
+lastupdated: "2022-07-11"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -20,8 +20,29 @@ content-type: release-note
 Stay up-to-date with the new features that are available on the {{site.data.keyword.Bluemix}} platform so that you get the most out of your {{site.data.keyword.Bluemix_notm}} experience.
 {: shortdesc}
 
+## July 2022
+{: #july-2022}
+
+### 08 July 2022
+{: #overview-08july2022}
+{: release-note}
+
+Updating published support information in Partner Center
+:   You can now update support information that is already published to {{site.data.keyword.cloud_notm}}. You can make any changes by editing your published information and requesting an approval for them. After your changes are approved, you can publish them.
+
+For more information, see [Updating your product's support information](/docs/sell?topic=sell-saas-support-details#service-support-include-update-support-details).
+
 ## June 2022
 {: #june-2022}
+
+### 23 June 2022
+{: #overview-23june2022}
+{: release-note}
+
+Onboarding software to sell on {{site.data.keyword.cloud_notm}} by using the API
+:   To sell your product on {{site.data.keyword.cloud_notm}}, you can now onboard it by using the Partner Center Sell API, in addition to using the Partner Center experience in the console.
+
+For more information, see [Partner Center Sell API](/apidocs/partner-center-sell).
 
 ### 13 June 2022
 {: #overview-13june2022}
