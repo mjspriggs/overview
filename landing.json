@@ -1,6 +1,6 @@
 {
     "title": "IBM Cloud overview docs",
-    "lastupdated": "2022-05-06",
+    "lastupdated": "2022-07-11",
     "introduction": "The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model. Leverage the docs, API & SDK reference, architecture references, and more to support your app development needs.",
     "section_devtools": {
       "api": "/docs?tab=api-docs&category=platform_services",
@@ -41,19 +41,19 @@
       "view_more": "/docs/overview?topic=overview-whatsnew",
       "tiles": [
         {  
+          "date": "08 July 2022",
+          "title": "Streamlined process for updating support information in Partner Center",
+          "description": "Update support information by editing your published information and requesting an approval. After your changes are approved, you can publish the updates."
+        },
+        {
+          "date": "23 June 2022",
+          "title": "Onboarding software to sell on IBM Cloud by using the API",
+          "description": "To sell your product on IBM Cloud, you can now onboard it by using the Partner Center Sell API, in addition to using the Partner Center experience in the console."
+        },
+        {
           "date": "04 May 2022",
           "title": "Required access to view service credentials",
           "description": "When the credential level access can't be determined by comparing the access of the user and the credential, the credential will be redacted. Services that support access control on resources that are allocated in the context of a service instance, such as Cloud Object Storage buckets, now require the user to have the resource-controller.credential.retrieve_all action to view service credentials."
-        },
-        {
-          "date": "05 April 2022",
-          "title": "Onboarding virtual server images for Power Systems Virtual Server",
-          "description": "You can now onboard virtual server images for Power Systems Virtual Server to private catalogs and the IBM Cloud catalog."
-        },
-        {
-          "date": "04 April 2022",
-          "title": "Adding custom service parameters for your service",
-          "description": "If the provisioning process of your product requires additional information from your customers, you can now add custom input fields for your product in IBM Cloud Partner Center."
         }
       ]
     }
