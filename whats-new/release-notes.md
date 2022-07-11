@@ -27,10 +27,8 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 {: #overview-08july2022}
 {: release-note}
 
-Updating published support information in Partner Center
-:   You can now update support information that is already published to {{site.data.keyword.cloud_notm}}. You can make any changes by editing your published information and requesting an approval for them. After your changes are approved, you can publish them.
-
-For more information, see [Updating your product's support information](/docs/sell?topic=sell-saas-support-details#service-support-include-update-support-details).
+Streamlined process for updating published support information in Partner Center
+:   You can update support information for your published products by editing your already approved support information and then requesting an approval. After your changes are approved, you can publish the updates. For more information, see [Updating your product's support information](/docs/sell?topic=sell-saas-support-details#service-support-include-update-support-details).
 
 ## June 2022
 {: #june-2022}
@@ -40,9 +38,7 @@ For more information, see [Updating your product's support information](/docs/se
 {: release-note}
 
 Onboarding software to sell on {{site.data.keyword.cloud_notm}} by using the API
-:   To sell your product on {{site.data.keyword.cloud_notm}}, you can now onboard it by using the Partner Center Sell API, in addition to using the Partner Center experience in the console.
-
-For more information, see [Partner Center Sell API](/apidocs/partner-center-sell).
+:   To sell your products on {{site.data.keyword.cloud_notm}}, you can now onboard and publish by using the Partner Center Sell API, in addition to using the Partner Center experience in the console. For more information, see [Partner Center Sell API](/apidocs/partner-center-sell).
 
 ### 13 June 2022
 {: #overview-13june2022}
