@@ -36,8 +36,7 @@ Each platform service is categorized as a general availability service with a [S
 | IAM       |      [What is IBM Cloud Identity and Access Management?](/docs/account?topic=account-iamoverview)  |
 | {{site.data.keyword.cloud_notm}} CLI | [Understanding high availability and disaster recovery for the {{site.data.keyword.cloud_notm}} CLI](/docs/cli?topic=cli-ha-dr) |
 | {{site.data.keyword.cloud-shell_short}} | [Understanding high availability and disaster recovery for Cloud Shell](/docs/cloud-shell?topic=cloud-shell-ha-dr) |
-| {{site.data.keyword.compliance_short}} | [Understanding high availability](/docs/security-compliance?topic=security-compliance-ha) and [disaster recovery](/docs/security-compliance?topic=security-compliance-bc-dr) for {{site.data.keyword.compliance_short}}](/docs/security-compliance?topic=security-compliance-ha-dr)
- |
+| {{site.data.keyword.compliance_short}} | [Understanding high availability](/docs/security-compliance?topic=security-compliance-ha) and [disaster recovery](/docs/security-compliance?topic=security-compliance-bc-dr) for {{site.data.keyword.compliance_short}} |
 {: caption="Table 1. Platform services" caption-side="top"}
 
 Some platform services are regionally available, which means that automated global failover isn’t supported. If a region is unavailable, the service also becomes unavailable in that region. Be sure to review the “Understanding high availability and disaster recovery” topics to learn about where those services are run.
