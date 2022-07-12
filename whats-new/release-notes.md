@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2022
 
-lastupdated: "2022-07-11"
+lastupdated: "2022-07-12"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -39,6 +39,19 @@ Streamlined process for updating published support information in Partner Center
 
 Onboarding software to sell on {{site.data.keyword.cloud_notm}} by using the API
 :   To sell your products on {{site.data.keyword.cloud_notm}}, you can now onboard and publish by using the Partner Center Sell API, in addition to using the Partner Center experience in the console. For more information, see [Partner Center Sell API](/apidocs/partner-center-sell).
+
+### 22 June 2022
+{: #overview-22june2022}
+{: release-note}
+
+Identify inactive identities
+:   You can create a report in the [IBM Cloud console](/iam/inactive-identities) to identify which users, service IDs, trusted profiles, and API keys in your account are inactive. Removing access for inactive identities can reduce the risk of unauthorized access to your {{site.data.keyword.cloud}} resources and help you manage access more efficiently. For more information, see [Identifying inactive identities](/docs/account?topic=account-id-inactive-identities).
+
+Updated process for assigning access
+:   Assigning IAM, Classic Infrastructure, and {{site.data.keyword.ibmcf_notm}} access just got more streamlined. When assigning access, each service that you select has an in-context description. You can also find all IAM access policy and access group information for an identity under a single tab. Check out the updated process by assigning access to any user, service ID, or trusted profile.
+
+Assign a policy for All IAM Account Management services
+:   You can now assign an access policy for All IAM Account Management services, which includes the IAM Identity service, IAM Access Management service, IAM User Management service, IAM Access Groups service, and future IAM services. By assigning an access policy for a group of services, you decrease the number of policies in your account and reduce the time and effort to manage access.
 
 ### 13 June 2022
 {: #overview-13june2022}
