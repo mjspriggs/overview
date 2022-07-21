@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2022
-lastupdated: "2022-07-07"
+lastupdated: "2022-07-21"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -167,7 +167,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Service | London | Frankfurt | 
 |---|---|---|
 | API Connect | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Analytics Engine |  |  | 
+| Analytics Engine |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | App Configuration | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | App Connect | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | App ID | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
