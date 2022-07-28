@@ -4,7 +4,7 @@ copyright:
 
   years: 2021, 2022
 
-lastupdated: "2022-01-31"
+lastupdated: "2022-07-28"
 
 keywords: SLO, service level objectives
 
@@ -54,6 +54,7 @@ The following table describes the service level objectives (SLOs) for the vital 
 | Compute service | Availability target | Performance target | High availability guidance |
 |----------|---------|---------|---------|
 | {{site.data.keyword.vpc_short}} | 99.999% |Network Performance > 90% in 99.9% of the time  \n NVMe Performance > 90% in 99.9% of the time | [Understanding high availability and disaster recovery](/docs/vpc?topic=vpc-ha-dr-vpc) |
+| {{site.data.keyword.powerSys_notm}} | 99.999% |Network Performance > 90% in 99.9% of the time | [Understanding high availability and disaster recovery](/docs/power-iaas?topic=power-iaas-ha-dr) |
 {: caption="Table 2. Service level objectives (SLOs) for the {{site.data.keyword.cloud_notm}} compute services" caption-side="bottom"}
 
 ### Networking services
