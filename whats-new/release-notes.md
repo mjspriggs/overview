@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2022
 
-lastupdated: "2022-07-21"
+lastupdated: "2022-07-29"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -28,7 +28,7 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 {: release-note}
 
 Monitoring context-based restrictions
-:   To help you predict how context-based restrictions might affect users, applications, and workflows, {{site.data.keyword.cloud_notm}} is excited to release report-only mode for rules. You can enable context-based restrictions during creation, or choose to set the rule to report-only mode. Using {{site.data.keyword.cloudaccesstrailshort}}, you can monitor the impact of enabled rules, or view report-only rules to see how they will affect your users, applications, and workflows without enforcing the rule. For more information, see [Monitoring context-based restrictions](docs/account?topic=account-cbr-monitor).
+:   To help you predict how context-based restrictions might affect users, applications, and workflows, {{site.data.keyword.cloud_notm}} is excited to release report-only mode for rules. You can enable context-based restrictions during creation, or choose to set the rule to report-only mode. Using {{site.data.keyword.cloudaccesstrailshort}}, you can monitor the impact of enabled rules, or view report-only rules to see how they will affect your users, applications, and workflows without enforcing the rule. For more information, see [Monitoring context-based restrictions](/docs/account?topic=account-cbr-monitor).
 
 ### 08 July 2022
 {: #overview-08july2022}
