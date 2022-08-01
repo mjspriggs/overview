@@ -86,3 +86,18 @@ toc:
           - terms-of-use/ip_address_policy.md
           - slas.md
           - services_availability.md
+  - navgroup:
+      id: help
+      topics: 
+      - topicgroup:
+          label: Troubleshooting the IBM Cloud docs
+          topics:
+          - troubleshoot-docs.md
+          - troubleshoot-allowlist.md
+          - troubleshoot-library.md
+      - link: 
+          label: Stack Overflow
+          href: http://stackoverflow.com/questions/tagged/ibm-cloud
+      - link: 
+          label: IBM Public Cloud Community
+          href: https://community.ibm.com/community/user/publiccloud/home
