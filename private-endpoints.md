@@ -24,7 +24,7 @@ To interact with the product APIs, you can use public endpoints, VPE for VPC, or
 * VPE for VPC: After you create private endpoints in your VPC, you can connect by using a private IP address that's accessible only from your VPC. This option is available for VPC users.   
 * Service endpoints: After you enable virtual routing and forwarding (VRF) and turn on service endpoints for your account, you can connect by using a private IP address that's accessible only through the {{site.data.keyword.cloud_notm}} private network. This option is available for classic infrastructure users.
 
-By using VPE for VPC or service endpoints, you can privately connect to {{site.data.keyword.cloud}} platform services and service products in the catalog that support this type of private connectivity. 
+By using VPE for VPC or service endpoints, you can privately connect to {{site.data.keyword.cloud_notm}} platform services and service products in the catalog that support this type of private connectivity. 
 
 Go to the [API docs](https://{DomainName}/docs?tab=api-docs) for the service that you want to connect to and see the Endpoint URLs section to view the endpoints for that service.
 {: tip}
