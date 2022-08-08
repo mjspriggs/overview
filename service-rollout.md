@@ -123,15 +123,15 @@ For the key dimensions of compute, storage, networking, and authentication or au
 Control planes
 :   Common dependencies for control planes are:
    
-   * The identity or platform data plane for authentication and authorization
-   * The audit tracking service
-   * Internal services that provide, for example, workflow, metadata storage, monitoring and logging
-   * Load balancers, VPN, and other network infrastructure services
-
-   Some control planes obviously have service-specific dependencies. For example, the compute control plane, when starting a bare metal or VM instance, depends on:
-   * Object Storage to retrieve the required system images
-   * Block Volumes control plane for provisioning and attaching the volumes
-   * Networking control plane to provision and attach NICs, subnets, and so on
+    * The identity or platform data plane for authentication and authorization
+    * The audit tracking service
+    * Internal services that provide, for example, workflow, metadata storage, monitoring and logging
+    * Load balancers, VPN, and other network infrastructure services
+ 
+    Some control planes obviously have service-specific dependencies. For example, the compute control plane, when  starting a bare metal or VM instance, depends on:
+    * Object Storage to retrieve the required system images
+    * Block Volumes control plane for provisioning and attaching the volumes
+    * Networking control plane to provision and attach NICs, subnets, and so on
 
 Data planes
 :   Core service data planes follow the general principle that each data plane is designed to have minimal dependencies in order to achieve high availability, fast time to diagnosis, and fast time to recovery. Therefore, the systems continue to function (with some limitations, for example cannot provision, reboot, or decom) even when there is a control plane outage.
