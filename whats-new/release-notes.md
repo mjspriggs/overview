@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2022
 
-lastupdated: "2022-07-29"
+lastupdated: "2022-08-22"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -253,7 +253,7 @@ With this webhook integration, you can easily receive the notifications in a sel
 {: release-note}
 
 Support for third-party Operator bundles from GitHub
-:   Third-party providers can now onboard Operator bundles from GitHub repositories to {{site.data.keyword.cloud_notm}} by using TGZ files. Previously, the ability to onboard Operator bundles was limited to Operator bundles in {{site.data.keyword.redhat_notm}} {{site.data.keyword.openshiftshort}} registries. This capability is supported by the beta release of {{site.data.keyword.cloud_notm}} Partner Center and our general availability release of private catalog capabilities. For more information, see [Onboarding a Node-RED Operator](/docs/third-party?topic=third-party-operator-register).
+:   Third-party providers can now onboard Operator bundles from GitHub repositories to {{site.data.keyword.cloud_notm}} by using TGZ files. Previously, the ability to onboard Operator bundles was limited to Operator bundles in {{site.data.keyword.openshiftshort}} registries. This capability is supported by the beta release of {{site.data.keyword.cloud_notm}} Partner Center and our general availability release of private catalog capabilities. For more information, see [Onboarding a Node-RED Operator](/docs/third-party?topic=third-party-operator-register).
 
 Software onboarding enhancements: progress indicators
 :   When you onboard software to the {{site.data.keyword.cloud_notm}} catalog or private catalogs in your account, you'll find new indicators in the console that you can use to track your progress with configuring and validating your product. For more information, see [Onboarding software to your account](/docs/account?topic=account-create-private-catalog&interface=ui).
@@ -305,8 +305,8 @@ Service-level discounts for accounts with the Pay as you go with Committed Use b
 :   Service-level discounts are provided by {{site.data.keyword.Bluemix_notm}} Sales to customers with the Pay as you go with Committed Use billing model. For more information, see [Service-level discounts](/docs/billing-usage?topic=billing-usage-committed-use#service-discount-commit).
 
 
-Support for third-party Operator bundles from {{site.data.keyword.redhat_notm}} {{site.data.keyword.openshiftshort}} registries
-:   Third-party providers can now onboard Operator bundles from {{site.data.keyword.redhat_notm}} {{site.data.keyword.openshiftshort}} registries to {{site.data.keyword.cloud_notm}}. The {{site.data.keyword.redhat_notm}} {{site.data.keyword.openshiftshort}} registries include Certified Operators, Marketplace Operators, and community Operators. This capability is supported by the beta release of {{site.data.keyword.cloud_notm}} Partner Center and our general availability release of private catalog capabilities. For more information, see [Onboarding a Certified Operator bundle from a Red Hat registry](/docs/third-party?topic=third-party-bundle-register).
+Support for third-party Operator bundles from {{site.data.keyword.openshiftshort}} registries
+:   Third-party providers can now onboard Operator bundles from {{site.data.keyword.openshiftshort}} registries to {{site.data.keyword.cloud_notm}}. The {{site.data.keyword.openshiftshort}} registries include Certified Operators, Marketplace Operators, and community Operators. This capability is supported by the beta release of {{site.data.keyword.cloud_notm}} Partner Center and our general availability release of private catalog capabilities. For more information, see [Onboarding a Certified Operator bundle from a Red Hat registry](/docs/third-party?topic=third-party-bundle-register).
 
 ## June 2021
 {: #overview-jun-2021}
