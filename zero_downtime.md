@@ -2,7 +2,7 @@
 
 copyright:
   years: 2018, 2022
-lastupdated: "2022-07-08"
+lastupdated: "2022-08-22"
 
 keywords: load balancing, global load balancing, HA, DR, high availability, disaster recovery, HA for the platform, high availability for platform, disaster recovery plan, disaster event, zero downtime, workloads, failover, failover design
 
@@ -59,9 +59,7 @@ For more information about particular high availability and disaster recovery pr
 ## High availability for the network
 {: #ha-network}
 
-Except for the oldest pod that still has some single points of failure, the {{site.data.keyword.cloud_notm}} network is designed in such a way that a single point of failure never happens. Diverse, redundant connectivity exists at every point of the network, by using diverse telecommunication providers for the same service connectivity whenever possible within each region. Diverse dark fiber providers are used to connect every compute facility to the edge, and each edge site is connected to at least three adjacent {{site.data.keyword.cloud_notm}} markets (with rare exception). 
-
-In addition, the network is connected to multiple peering partners, either directly or through peering exchanges, in each market at each edge site. No single event should ever result in a service disruption that is noticed by our customers.
+Except for the oldest pod that still has some single points of failure, the {{site.data.keyword.cloud_notm}} network is designed in such a way that a single point of failure never happens. Diverse, redundant connectivity exists at every point of the network, by using diverse telecommunication providers for the same service connectivity whenever possible within each region. Diverse dark fiber providers are used to connect every edge site to all of the regional compute facilities. Each edge site additionally has redundant backbone connectivity into other regions, and peers with multiple providers, both directly and indirectly, through a local exchange. No single event should ever result in a service disruption that is noticed by our customers.
 
 You can always choose to "break" having no single point of failure with how you order or configure your SoftLayer classic servers. For Direct Link, you must order redundant connections if you want full redundancy because it's not built-in or automatic.
 {: important}
