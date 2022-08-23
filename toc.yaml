@@ -22,7 +22,6 @@ toc:
           - ibm-cloud-platform.md
           - platform-cli-api.md
           - prereqs.md
-      - fscloud.md
       - topicgroup:
           label: Compliance in IBM Cloud
           topics:
