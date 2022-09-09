@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2022
-lastupdated: "2022-04-20"
+lastupdated: "2022-09-09"
 
 keywords: data centers, datacenter, regions, locations, ibm cloud regions, multizone regions, MZRs, cloud regions, cloud data centers, multizone, geo, availability zone, zones
 
@@ -98,6 +98,9 @@ Data centers host the power, cooling, compute, network, and storage resources us
 Data centers are based on a POD architecture where each data center can have more than one POD, depending on the on-demand build out. Each POD consists of racks, servers, networks, and storage, along with backup power generators. Placing application servers across PODs improves the availability.
 
 ![Global map showing MZR and data center locations](images/Global-View.svg "MZR and data center locations"){: caption="Figure 3. MZR and data center locations map" caption-side="bottom"}
+
+This image is an artistic representation and does not reflect actual political or geographic boundaries.
+{: note}
 
 See the following table for the specific code for each data center.
 
