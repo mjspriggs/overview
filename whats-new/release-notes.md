@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2022
 
-lastupdated: "2022-08-22"
+lastupdated: "2022-09-21"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -19,6 +19,26 @@ content-type: release-note
 
 Stay up-to-date with the new features that are available on the {{site.data.keyword.Bluemix}} platform so that you get the most out of your {{site.data.keyword.Bluemix_notm}} experience.
 {: shortdesc}
+
+## September 2022
+{: #september-2022}
+
+### 16 September 2022
+{: #overview-16september2022}
+{: release-note}
+
+Attaching tags on service IDs
+:   In addition to tagging resources, you can now attach user tags and access management tags on service IDs. User tags help you group service IDs for usage reports, and you can use access management tags to control access to your service IDs. For more information, see [Working with tags](/docs/account?topic=account-tag&interface=ui).
+
+Specifying a user onboarding strategy
+:   If you’re [Enabling and connecting your identity provider](/docs/account?topic=account-idp-integration#idp-console), you can now specify how you want to onboard users to the account upon first-time login. This way, you can add each user to your account when they log in the first time, add users to your account only if they log in and don't select a trusted profile, or never add users to your account and provide access only by using trusted profiles. For more information about trusted profiles, see [Creating trusted profiles](/docs/account?topic=account-create-trusted-profile).
+
+### 02 September 2022
+{: #overview-02september2022}
+{: release-note}
+
+Increased policy limit
+:   The shared limit for IAM policies and context-based restrictions has increased from 2010 to 4020 so that you don't need to [request an increase to the limit in your account](/docs/account?topic=account-account-limits&interface=cli#limit-increase) as you grow your organizational capacity. For more information, see [Known issues and limitations](/docs/account?topic=account-known-issues#iam_limits).
 
 ## July 2022
 {: #july-2022}
@@ -89,17 +109,17 @@ To determine if your service is affected, review your service's documentation. F
 {: release-note}
 
 Onboarding virtual server images for {{site.data.keyword.powerSys_notm}}
-:   You can now onboard virtual server images for {{site.data.keyword.powerSys_notm}} to private catalogs and the {{site.data.keyword.cloud_notm}} catalog. For more information about onboarding to the {{site.data.keyword.cloud_notm}}, see [Registering a virtual server image for Power Systems in IBM Cloud Partner Center](/docs/sell?topic=sell-vsipower-register). For more information about onboarding to your private catalog, see [Onboarding a virtual server image for Power Systems to a private catalog](/docs/sell?topic=sell-vsipower-onboard). 
+:   You can now onboard virtual server images for {{site.data.keyword.powerSys_notm}} to private catalogs and the {{site.data.keyword.cloud_notm}} catalog. For more information about onboarding to the {{site.data.keyword.cloud_notm}}, see [Registering a virtual server image for Power Systems in IBM Cloud Partner Center](/docs/sell?topic=sell-vsipower-register). For more information about onboarding to your private catalog, see [Onboarding a virtual server image for Power Systems to a private catalog](/docs/sell?topic=sell-vsipower-onboard).
 
 Upload translations of your software by using the CLI
-:   You can now download and upload translations of your software by using the CLI. For more information, see [Translating product details by using the CLI](/docs/account?topic=account-translate-product-details). 
+:   You can now download and upload translations of your software by using the CLI. For more information, see [Translating product details by using the CLI](/docs/account?topic=account-translate-product-details).
 
 ### 4 April 2022
 {: #overview-apr0422}
 {: release-note}
 
-Adding custom service parameters for your service 
-:  If the provisioning process of your product requires additional information from your customers, you can now add custom input fields for your product in {{site.data.keyword.cloud_notm}} Partner Center. For more information, see [Adding custom service parameters for your service in Partner Center](/docs/sell?topic=sell-service-add-custom-parameters). 
+Adding custom service parameters for your service
+:  If the provisioning process of your product requires additional information from your customers, you can now add custom input fields for your product in {{site.data.keyword.cloud_notm}} Partner Center. For more information, see [Adding custom service parameters for your service in Partner Center](/docs/sell?topic=sell-service-add-custom-parameters).
 
 ## March 2022
 {: #march-2022}
@@ -109,7 +129,7 @@ Adding custom service parameters for your service
 {: release-note}
 
 Trusted profiles are now members of access groups
-:   You can now add trusted profiles as members of access groups like other IAM identities, such as users and service IDs. For more information, see [Creating trusted profiles](/docs/account?topic=account-create-trusted-profile) and [Setting up access groups](/docs/account?topic=account-groups). 
+:   You can now add trusted profiles as members of access groups like other IAM identities, such as users and service IDs. For more information, see [Creating trusted profiles](/docs/account?topic=account-create-trusted-profile) and [Setting up access groups](/docs/account?topic=account-groups).
 
 ### 1 March 2022
 {: #overview-mar0122}
@@ -133,7 +153,7 @@ Use feature and subscription codes to create new accounts
 {: release-note}
 
 Support for onboarding third-party services in Partner Center
-:   Onboarding new services in the resource management console is no longer supported. You must use Partner Center to onboard new services to the {{site.data.keyword.cloud_notm}} console. You can continue to manage existing services in the resource management console. 
+:   Onboarding new services in the resource management console is no longer supported. You must use Partner Center to onboard new services to the {{site.data.keyword.cloud_notm}} console. You can continue to manage existing services in the resource management console.
 
 ## December 2021
 {: #december-2021}
@@ -155,11 +175,11 @@ Restricting domains for account invitations
 Data centers closed in 2021
 :   The following list shows the locations with the associated data centers and specific PODs that were closed by 08 November 2021.
 
-    - Dallas: DAL05 – POD2 
+    - Dallas: DAL05 – POD2
     - Houston: HOU02
     - Melbourne: MEL01
     - Oslo: OSL01
-    - Washington DC: WDC01 – POD3 and POD4 
+    - Washington DC: WDC01 – POD3 and POD4
 
     For more information about upcoming data center closures, see [Data center consolidations](/docs/get-support?topic=get-support-dc-closure).
 
@@ -168,7 +188,7 @@ Data centers closed in 2021
 {: release-note}
 
 Accessing Partner Center from the {{site.data.keyword.cloud_notm}} catalog
-:   As a third-party provider, you can now click **Sell on {{site.data.keyword.cloud_notm}}** to access Partner Center directly from the {{site.data.keyword.cloud_notm}} catalog. For more information, see the [catalog](/catalog){: external}. 
+:   As a third-party provider, you can now click **Sell on {{site.data.keyword.cloud_notm}}** to access Partner Center directly from the {{site.data.keyword.cloud_notm}} catalog. For more information, see the [catalog](/catalog){: external}.
 
 ## October 2021
 {: #october-2021}
@@ -185,15 +205,15 @@ Securing IBM Cloud accounts
 {: release-note}
 
 Suspending and deprecating private products
-:   As a private catalog owner, you can now suspend or deprecate software that's in your private catalogs. When you suspend a version of software, it's immediately removed from your private catalog. When you deprecate software, it remains available to users with access to the private catalog for 90 days. After 90 days, it's permanently removed. 
+:   As a private catalog owner, you can now suspend or deprecate software that's in your private catalogs. When you suspend a version of software, it's immediately removed from your private catalog. When you deprecate software, it remains available to users with access to the private catalog for 90 days. After 90 days, it's permanently removed.
 
    For more information, see [Deprecating a private product](/docs/account?topic=account-deprecate-product) and [Suspending a version of a private product](/docs/account?topic=account-suspend-product).
-   
+
 Suspending and deprecating third-party software
-:   As a third-party provider, you can now suspend and deprecate published software from the {{site.data.keyword.cloud_notm}} catalog to meet the needs of your product's lifecycle. When you suspend a product or version, it is immediately removed from the catalog. When you deprecate a product or version, it remains available for use in the catalog for 90 days. After 90 days, it's permanently removed. 
+:   As a third-party provider, you can now suspend and deprecate published software from the {{site.data.keyword.cloud_notm}} catalog to meet the needs of your product's lifecycle. When you suspend a product or version, it is immediately removed from the catalog. When you deprecate a product or version, it remains available for use in the catalog for 90 days. After 90 days, it's permanently removed.
 
    For more information, see [Deprecating software from the {{site.data.keyword.cloud_notm}} catalog](/docs/sell?topic=sell-deprecate-product) and [Suspending your product from the {{site.data.keyword.cloud_notm}} catalog](/docs/sell?topic=sell-suspend-product).
-   
+
 Filtering the {{site.data.keyword.cloud_notm}} catalog by specific providers
 :   The latest enhancements to {{site.data.keyword.cloud_notm}} catalog include support for filtering products by provider name. If you're looking for a specific provider's products or curious about how many products that a provider offers, you can use the **Provider** filter to narrow down your search. To explore the filter updates, see the [catalog](/catalog){: external}.
 
@@ -482,7 +502,7 @@ Enhanced payments & invoicing for new US-based Pay-As-You-Go accounts with credi
    * A single invoice that includes comprehensive usage details for all your products
    * The ability to download the invoice directly from the console
    * The ability to update a credit card in the console without being redirected to a different website
-   * A one-to-one mapping between your invoice and your usage dashboard in the console 
+   * A one-to-one mapping between your invoice and your usage dashboard in the console
 
    For more details, including a video walk-through of the enhancements, see [The Enhanced Unified Billing and Payment Experience in {{site.data.keyword.Bluemix_notm}}](https://www.ibm.com/cloud/blog/announcements/enhanced-unified-billing-and-payment-experience-in-ibm-cloud){: external}.
 
@@ -502,7 +522,7 @@ Enhancements to the {{site.data.keyword.Bluemix_notm}} Status page
 {: release-note}
 
 Data centers closed in 2020
-:   The following list shows the locations with the associated data centers and specific PODs that were closed by 30 November 2020. 
+:   The following list shows the locations with the associated data centers and specific PODs that were closed by 30 November 2020.
 
     - Dallas: DAL07
     - Seattle: SEA01
