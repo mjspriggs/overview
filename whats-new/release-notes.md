@@ -28,7 +28,7 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 {: release-note}
 
 Getting help in the console
-:   You can now find the documentation and Support Center help options from a single menu item in the {{site.data.keyword.cloud_notm}} console menu bar. Check out the new **Help** option from the console menu bar that now includes your links for [Docs](/docs), the [Support Center](https://cloud.ibm.com/unifiedsupport/supportcenter), and available guided tours.
+:   You can now find the documentation and Support Center help options from a single menu item in the {{site.data.keyword.cloud_notm}} console menu bar. Check out the new **Help** option from the console menu bar that now includes your links for [Docs](/docs), the [Support Center](https://cloud.ibm.com/unifiedsupport/supportcenter), a form to give us feedback, and available guided tours.
 
 ### 16 September 2022
 {: #overview-16september2022}
