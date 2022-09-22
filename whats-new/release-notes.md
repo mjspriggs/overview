@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2022
 
-lastupdated: "2022-09-21"
+lastupdated: "2022-09-22"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -22,6 +22,13 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 
 ## September 2022
 {: #september-2022}
+
+### 22 September 2022
+{: #overview-22sept2022}
+{: release-note}
+
+A new way to provide {{site.data.keyword.cloud_notm}} your feedback
+:   We want to hear from you! Let us know about your experience with the {{site.data.keyword.cloud_notm}} console by submitting your feedback from the **Help** > **Send feedback** option in the console menu bar. You can tell us what you love and even what you’d like to see improved, so we can work together to ensure that you always enjoy developing on {{site.data.keyword.cloud_notm}}.
 
 ### 21 September 2022
 {: #overview-21sept2022}
