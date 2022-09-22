@@ -1,61 +1,60 @@
 {
-    "title": "IBM Cloud overview docs",
-    "lastupdated": "2022-07-11",
-    "introduction": "The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model. Leverage the docs, API & SDK reference, architecture references, and more to support your app development needs.",
-    "section_devtools": {
-      "api": "/docs?tab=api-docs&category=platform_services",
-      "cli": "/docs?tab=develop",
-      "terraform": "https://registry.terraform.io/providers/IBM-Cloud/ibm/latest/docs"
+  "title": "IBM Cloud overview docs",
+  "lastupdated": "2022-09-21",
+  "introduction": "The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model. Leverage the docs, API & SDK reference, architecture references, and more to support your app development needs.",
+  "section_devtools": {
+    "api": "/docs?tab=api-docs&category=platform_services",
+    "cli": "/docs?tab=develop",
+    "terraform": "https://registry.terraform.io/providers/IBM-Cloud/ibm/latest/docs"
+  },
+  "section_recommended": [
+    {
+      "title": "What's included in the platform?",
+      "description": "The platform consists of a network of interrelated components that work together to provide a consistent and dependable cloud experience to support your app development needs.",
+      "href": "/docs/overview?topic=overview-whatis-platform#built-into-platform"
     },
-    "section_recommended": [
-      {
-        "title": "What's included in the platform?",
-        "description": "The platform consists of a network of interrelated components that work together to provide a consistent and dependable cloud experience to support your app development needs.",
-        "href": "/docs/overview?topic=overview-whatis-platform#built-into-platform"
-      },
-      {
-        "title": "Try out IBM Cloud, for free",
-        "description": "Get up and running quickly by setting up an account and exploring free products with this short tutorial.",
-        "href": "/docs/overview?topic=overview-tutorial-try-for-free"
-      },
-      {
-        "title": "Service and infrastructure by location",
-        "description": "Check out the regions and data centers that IBM Cloud products are available.",
-        "href": "/docs/overview?topic=overview-services_region"
-      }
-    ],
-    "section_videos": [
-      {
-        "title": "Learn how to navigate through the IBM Cloud console",
-        "href": "/docs/overview?topic=overview-ui#video-ui",
-        "thumbnail": "/images/welcome-thumbnail.png"
-      }
-    ],
-    "section_learn": {
-      "developer": "https://developer.ibm.com/depmodels/cloud/",
-      "architecture": "https://www.ibm.com/cloud/architecture",
-      "training": "https://www.ibm.com/training/cloud",
-      "community": "https://community.ibm.com/community/user/publiccloud/home"
+    {
+      "title": "Try out IBM Cloud, for free",
+      "description": "Get up and running quickly by setting up an account and exploring free products with this short tutorial.",
+      "href": "/docs/overview?topic=overview-tutorial-try-for-free"
     },
-    "section_updates": {
-      "view_more": "/docs/overview?topic=overview-whatsnew",
-      "tiles": [
-        {  
-          "date": "08 July 2022",
-          "title": "Streamlined process for updating support information in Partner Center",
-          "description": "Update support information by editing your published information and requesting an approval. After your changes are approved, you can publish the updates."
-        },
-        {
-          "date": "23 June 2022",
-          "title": "Onboarding software to sell on IBM Cloud by using the API",
-          "description": "To sell your product on IBM Cloud, you can now onboard it by using the Partner Center Sell API, in addition to using the Partner Center experience in the console."
-        },
-        {
-          "date": "04 May 2022",
-          "title": "Required access to view service credentials",
-          "description": "When the credential level access can't be determined by comparing the access of the user and the credential, the credential will be redacted. Services that support access control on resources that are allocated in the context of a service instance, such as Cloud Object Storage buckets, now require the user to have the resource-controller.credential.retrieve_all action to view service credentials."
-        }
-      ]
+    {
+      "title": "Service and infrastructure by location",
+      "description": "Check out the regions and data centers that IBM Cloud products are available.",
+      "href": "/docs/overview?topic=overview-services_region"
     }
+  ],
+  "section_videos": [
+    {
+      "title": "Learn how to navigate through the IBM Cloud console",
+      "href": "/docs/overview?topic=overview-ui#video-ui",
+      "thumbnail": "/images/welcome-thumbnail.png"
+    }
+  ],
+  "section_learn": {
+    "developer": "https://developer.ibm.com/depmodels/cloud/",
+    "architecture": "https://www.ibm.com/cloud/architecture",
+    "training": "https://www.ibm.com/training/cloud",
+    "community": "https://community.ibm.com/community/user/publiccloud/home"
+  },
+  "section_updates": {
+    "view_more": "/docs/overview?topic=overview-whatsnew",
+    "tiles": [
+      {
+        "date": "21 September 2022",
+        "title": "Getting help in the console",
+        "description": "You can now find the documentation and Support Center help options from a single menu item in the IBM Cloud console menu bar. Check out the new Help option from the menu bar that now includes your links for Docs, the Support Center, and available guided tours."
+      },
+      {
+        "date": "16 September 2022",
+        "title": "Attaching tags on service IDs",
+        "description": "In addition to tagging resources, you can now attach user tags and access management tags on service IDs. User tags help you group service IDs for usage reports, and you can use access management tags to control access to your service IDs."
+      },
+      {
+        "date": "02 September 2022",
+        "title": "Specifying a user onboarding strategy",
+        "description": "If you’re enabling and connecting your identity provider, you can now specify how you want to onboard users to the account upon first-time login. This way, you can add each user to your account when they log in the first time, add users to your account only if they log in and don't select a trusted profile, or never add users to your account and provide access only by using trusted profiles."
+      }
+    ]
   }
-  
+}
