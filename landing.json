@@ -1,6 +1,6 @@
 {
   "title": "IBM Cloud overview docs",
-  "lastupdated": "2022-09-21",
+  "lastupdated": "2022-09-22",
   "introduction": "The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model. Leverage the docs, API & SDK reference, architecture references, and more to support your app development needs.",
   "section_devtools": {
     "api": "/docs?tab=api-docs&category=platform_services",
@@ -41,6 +41,11 @@
     "view_more": "/docs/overview?topic=overview-whatsnew",
     "tiles": [
       {
+        "date": "22 September 2022",
+        "title": "A new way to provide IBM Cloud your feedback",
+        "description": "We want to hear from you! Let us know about your experience with the IBM Cloud console by submitting your feedback from the Help > Send feedback option in the console menu bar. You can tell us what you love and even what you’d like to see improved, so we can work together to ensure that you always enjoy developing on IBM Cloud."
+      },
+      {
         "date": "21 September 2022",
         "title": "Getting help in the console",
         "description": "You can now find the documentation and Support Center help options from a single menu item in the IBM Cloud console menu bar. Check out the new Help option from the menu bar that now includes your links for Docs, the Support Center, and available guided tours."
@@ -49,11 +54,6 @@
         "date": "16 September 2022",
         "title": "Attaching tags on service IDs",
         "description": "In addition to tagging resources, you can now attach user tags and access management tags on service IDs. User tags help you group service IDs for usage reports, and you can use access management tags to control access to your service IDs."
-      },
-      {
-        "date": "02 September 2022",
-        "title": "Specifying a user onboarding strategy",
-        "description": "If you’re enabling and connecting your identity provider, you can now specify how you want to onboard users to the account upon first-time login. This way, you can add each user to your account when they log in the first time, add users to your account only if they log in and don't select a trusted profile, or never add users to your account and provide access only by using trusted profiles."
       }
     ]
   }
