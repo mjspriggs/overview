@@ -23,6 +23,13 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 ## September 2022
 {: #september-2022}
 
+### 21 September 2022
+{: #overview-21sept2022}
+{: release-note}
+
+Getting help in the console
+:   You can now find the documentation and Support Center help options from a single menu item in the {{site.data.keyword.cloud_notm}} console menu bar. Check out the new **Help** icon ![Help icon](../../icons/help.svg "Help") from the menu bar that now includes your links for [Docs](/docs), the [Support Center](https://cloud.ibm.com/unifiedsupport/supportcenter), and available guided tours.
+
 ### 16 September 2022
 {: #overview-16september2022}
 {: release-note}

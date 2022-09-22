@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2015, 2021
-lastupdated: "2021-09-16"
+  years: 2015, 2022
+lastupdated: "2022-09-22"
 
 keywords: ui, components, using the console, classic infrastructure, redirect, catalog, pricing information, get support, dashboard, scoped dashboard
 
@@ -62,15 +62,16 @@ Now that you know how to navigate through the {{site.data.keyword.cloud_notm}} u
 
 When you log in to {{site.data.keyword.cloud_notm}}, your dashboard is displayed, which shows widgets that summarize the status of your account. If you're interested in customizing your dashboard, see [Working with scoped dashboards](/docs/account?topic=account-custom-dashboard).
 
-Highlighted in the graphic is the menu bar that you can use to navigate the console. Use the following options to explore the console:
+You can navigate the console by using the options from the console menu bar. Use the following options to explore the console:
 
 * Use the **Catalog** link to explore over 350 products that offer options for compute, networking, security management, end-to-end developer solutions, and more.
-* Use the **Docs** link to access the product documentation.
-* Use the **Support** link to access the Support Center.
+* Click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Docs** to access the product documentation.
+* Click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center** to go to the [Support Center](https://cloud.ibm.com/unifiedsupport/supportcenter){: external} page
 * From the **Manage** menu, you can access your account, billing and usage, and Identity and Access Management options.
 * Click the **{{site.data.keyword.cloud-shell_notm}}** icon ![{{site.data.keyword.cloud-shell_notm}} icon](../icons/terminal-cloud-shell.svg "Cloud Shell") to open a browser-based shell environment that you can use to work with your {{site.data.keyword.cloud_notm}} resources.
 * Click the **Cost estimator** icon ![Cost estimator icon](../icons/calculator.svg "Cost Estimator") to open the cost estimator.
 * Click the **Notifications** icon ![Notifications icon](../icons/Notification.svg "Notifications") to view and control all incidents, maintenance, and announcements that are likely to affect your account.
 * Click the **Avatar** icon ![Avatar icon](../icons/i-avatar-icon.svg "Avatar") to access your profile, guided tours, and more.
+
 
 In addition to the console, [command-line interfaces (CLIs)](/docs/cli?topic=cli-getting-started), APIs, and SDKs are available for interacting with you cloud account and resources. [Terraform](/docs/ibm-cloud-provider-for-terraform?topic=ibm-cloud-provider-for-terraform-getting-started) support is also available through use of the {{site.data.keyword.cloud_notm}} Provider plug-in for managing cloud resources at enterprise scale through templates and scripting.
