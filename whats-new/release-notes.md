@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2022
 
-lastupdated: "2022-09-22"
+lastupdated: "2022-09-26"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -22,6 +22,16 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 
 ## September 2022
 {: #september-2022}
+
+### 26 September 2022
+{: #overview-26sept2022}
+{: release-note}
+
+Identifying inactive policies
+:   To reduce the number of policies in your account and keep only the minimum access that is necessary for each user, you can now identify the infrequently used access policies on the [Inactive policies](/iam/inactive-policies) page in the console. You can determine whether to remove the inactive policies, or in some cases, you might expect an infrequently used policy. For more information, see [Managing inactive policies](/docs/account?topic=account-iam-audit-policies&interface=ui#iam-audit-policies-list).
+
+Exporting user access reports
+:   Make sure that users have only the access that they need. Export an access policy report for any user in your account to view all of the access policies that they are assigned. For more information, see [Exporting user access policy reports](/docs/account?topic=account-iam-audit-policies&interface=ui#audit-user-access).
 
 ### 22 September 2022
 {: #overview-22sept2022}
