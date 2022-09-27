@@ -1,6 +1,6 @@
 {
   "title": "IBM Cloud overview docs",
-  "lastupdated": "2022-09-22",
+  "lastupdated": "2022-09-27",
   "introduction": "The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model. Leverage the docs, API & SDK reference, architecture references, and more to support your app development needs.",
   "section_devtools": {
     "api": "/docs?tab=api-docs&category=platform_services",
@@ -41,19 +41,19 @@
     "view_more": "/docs/overview?topic=overview-whatsnew",
     "tiles": [
       {
+        "date": "26 September 2022",
+        "title": "Identifying inactive policies",
+        "description": "To reduce the number of policies in your account and keep only the minimum access that is necessary for each user, you can now identify the infrequently used access policies on the Inactive policies page in the console. You can determine whether to remove the inactive policies, or in some cases, you might expect an infrequently used policy."
+      },
+      {
+        "date": "26 September 2022",
+        "title": "Exporting user access reports",
+        "description": "Make sure that users have only the access that they need. Export an access policy report for any user in your account to view all of the access policies that they are assigned."
+      },
+      {
         "date": "22 September 2022",
         "title": "A new way to provide IBM Cloud your feedback",
         "description": "We want to hear from you! Let us know about your experience with the IBM Cloud console by submitting your feedback from the Help > Send feedback option in the console menu bar. You can tell us what you love and even what you’d like to see improved, so we can work together to ensure that you always enjoy developing on IBM Cloud."
-      },
-      {
-        "date": "21 September 2022",
-        "title": "Getting help in the console",
-        "description": "You can now find the documentation and Support Center help options from a single menu item in the IBM Cloud console menu bar. Check out the new Help option from the menu bar that now includes your links for Docs, the Support Center, and available guided tours."
-      },
-      {
-        "date": "16 September 2022",
-        "title": "Attaching tags on service IDs",
-        "description": "In addition to tagging resources, you can now attach user tags and access management tags on service IDs. User tags help you group service IDs for usage reports, and you can use access management tags to control access to your service IDs."
       }
     ]
   }
