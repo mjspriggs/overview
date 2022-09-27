@@ -2,8 +2,8 @@
 
 
 copyright:
-  years: 2018, 2021
-lastupdated: "2021-05-12"
+  years: 2018, 2022
+lastupdated: "2022-09-27"
 
 keywords: feedback button, comments, requirements, product improvements, submit feedback, documentation, console, feedback
 
@@ -22,7 +22,7 @@ We want to hear from you! You can submit feedback for the {{site.data.keyword.Bl
 ## Providing a content update with a pull request
 {: #feedback-pr}
 
-You can submit suggested changes to any documentation page by using the **Edit topic** link on each page. By following that link and editing the page, you can submit updates in a pull request for the content team to review and merge. 
+You can submit suggested changes to any documentation page by using the **Edit topic** link on each page. By following that link and editing the page, you can submit updates in a pull request for the content team to review and merge.
 
 Complete the following process to submit a pull request to the content team:
 
@@ -31,7 +31,7 @@ Complete the following process to submit a pull request to the content team:
 3. Update the file in the WYSIWYG editor.
 4. Scroll to the end of the page and enter a brief description about your change. The extended description is optional.
 5. Click **Propose file change**.
-6. Provide details about your changes, and click **Create pull request**. 
+6. Provide details about your changes, and click **Create pull request**.
 
 ## Opening an issue for the documentation
 {: #feedback-docissue}
@@ -42,12 +42,22 @@ To open an issue from a documentation page, complete the following steps:
 
 1. Click the **Open doc issue** link.
 2. Enter a title and fill out the template.
-3. Click **Submit new issue**. 
+3. Click **Submit new issue**.
 
 The content team works to address the issues that you open. You can monitor the issue by saving the link after you click **Submit new issue**. As the issue gets resolved, the content team provides status updates as a comment on the issue.
+
+## Submitting a comment by using the feedback form
+{: #feedback-form}
+
+When you are completing a task within the console, you can find a feedback form from the console menu bar to submit a rave review, a suggestion, or identify an error.
+
+1. Click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Send feedback** from the console menu bar.
+2. Optionally, you can select to include a screen capture of your screen.
+3. Enter a description about what you want to share with the {{site.data.keyword.Bluemix_notm}} team.
+4. Rate your experience on a scale from one to five stars, with five stars representing a great experience.
+5. Click **Submit**.
 
 ## Submitting ideas for product improvements
 {: #ideas}
 
 To submit ideas for {{site.data.keyword.Bluemix_notm}} and services improvements, go to [IBM Cloud Ideas](https://ibmcloud.ideas.ibm.com/){: external}. For more information on how to use the idea portal, see [Think, write, submit: New ideas portal for IBM Cloud](https://www.ibm.com/blogs/bluemix/2016/10/think-write-submit/){: external}.
-
