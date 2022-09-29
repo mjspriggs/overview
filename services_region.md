@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2022
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -124,6 +124,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Portfolio Optimization | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Power Systems Virtual Server | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Predictive Market Scenarios | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
+| Privileged Access Gateway | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Public Gateway | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Qiskit Runtime (Beta) |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Real-Time Payments | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
@@ -253,6 +254,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Portfolio Optimization |  |  | 
 | Power Systems Virtual Server | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Predictive Market Scenarios |  |  | 
+| Privileged Access Gateway |  |  | 
 | Public Gateway | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Qiskit Runtime (Beta) |  |  | 
 | Real-Time Payments |  |  | 
@@ -382,6 +384,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Portfolio Optimization |  |  |  |  |  | 
 | Power Systems Virtual Server | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Predictive Market Scenarios |  |  |  |  |  | 
+| Privileged Access Gateway |  |  |  |  |  | 
 | Public Gateway | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Qiskit Runtime (Beta) |  |  |  |  |  | 
 | Real-Time Payments |  |  |  |  |  | 
