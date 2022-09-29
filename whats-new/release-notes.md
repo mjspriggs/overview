@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2022
 
-lastupdated: "2022-09-26"
+lastupdated: "2022-09-29"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -22,6 +22,15 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 
 ## September 2022
 {: #september-2022}
+
+### 29 September 2022
+{: #overview-29sept2022}
+{: release-note}
+
+Enabling {{site.data.keyword.en_full_notm}} for the notification distribution list
+:   You can now easily add {{site.data.keyword.en_short}} instances to the notification distribution list and receive account-wide {{site.data.keyword.cloud_notm}} notifications. With {{site.data.keyword.en_short}}, you can choose to deliver your notifications to different destinations, including email, SMS, or webhooks. When an event of interest occurs on the {{site.data.keyword.cloud_notm}} platform and an event is generated, the notification distribution list communicates with a connected {{site.data.keyword.en_short}} instance to forward a notification to the supported destination.
+
+For more information, see [Enabling {{site.data.keyword.en_short}} for the notification distribution list](/docs/account?topic=account-add-users-distribution-list#event-notifications-distribution-list).
 
 ### 26 September 2022
 {: #overview-26sept2022}
