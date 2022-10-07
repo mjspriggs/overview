@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2022
 
-lastupdated: "2022-09-29"
+lastupdated: "2022-10-07"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -19,6 +19,16 @@ content-type: release-note
 
 Stay up-to-date with the new features that are available on the {{site.data.keyword.Bluemix}} platform so that you get the most out of your {{site.data.keyword.Bluemix_notm}} experience.
 {: shortdesc}
+
+## October 2022
+{: #october-2022}
+
+### 07 October 2022
+{: #overview-07oct2022}
+{: release-note}
+
+Setting an alternative account owner
+:   As the owner of an account with classic infrastructure, you can set a trusted profile as the alternative account owner. An alternative account owner ensures that you always have a secure way to manage account ownership if your account owner leaves your organization or isn't available. For more information, see [Setting an alternative account owner](/docs/account?topic=account-classic-infra-owner&interface=ui).
 
 ## September 2022
 {: #september-2022}
