@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2022
 
-lastupdated: "2022-10-07"
+lastupdated: "2022-10-10"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -22,6 +22,13 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 
 ## October 2022
 {: #october-2022}
+
+### 10 October 2022
+{: #overview-10oct2022}
+{: release-note}
+
+A new way to provide the {{site.data.keyword.cloud_notm}} docs team your feedback
+:   We want to hear from you! Let us know about your experience with the {{site.data.keyword.cloud_notm}} docs or API docs by submitting your feedback from the **Feedback** button. You can tell us what you love and even what you’d like to see improved, so we can work together to ensure that you always enjoy the {{site.data.keyword.cloud_notm}} documentation.
 
 ### 07 October 2022
 {: #overview-07oct2022}
