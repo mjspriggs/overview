@@ -1,6 +1,6 @@
 {
   "title": "IBM Cloud overview docs",
-  "lastupdated": "2022-10-07",
+  "lastupdated": "2022-10-10",
   "introduction": "The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model. Leverage the docs, API & SDK reference, architecture references, and more to support your app development needs.",
   "section_devtools": {
     "api": "/docs?tab=api-docs&category=platform_services",
@@ -41,6 +41,11 @@
     "view_more": "/docs/overview?topic=overview-whatsnew",
     "tiles": [
       {
+        "date": "10 October 2022",
+        "title": "A new way to provide the IBM Cloud docs team your feedback",
+        "description": "We want to hear from you! Let us know about your experience with the IBM Cloud docs or API docs by submitting your feedback from the Feedback button. You can tell us what you love and even what you’d like to see improved, so we can work together to ensure that you always enjoy the IBM Cloud documentation."
+      },
+      {
         "date": "07 October 2022",
         "title": "Setting an alternative account owner",
         "description": "As the owner of an account with classic infrastructure, you can set a trusted profile as the alternative account owner. An alternative account owner ensures that you always have a secure way to manage account ownership if your account owner leaves your organization or isn't available."
@@ -49,11 +54,6 @@
         "date": "29 September 2022",
         "title": "Enabling Event Notifications for the notification distribution list",
         "description": "You can now easily add IBM Cloud Event Notifications instances to the notification distribution list and receive account-wide IBM Cloud notifications. With Event Notifications, you can choose to deliver your notifications to different destinations, including email, SMS, or webhooks. When an event of interest occurs on the IBM Cloud platform and an event is generated, the notification distribution list communicates with a connected Event Notifications instance to forward a notification to the supported destination."
-      },
-      {
-        "date": "26 September 2022",
-        "title": "Identifying inactive policies",
-        "description": "To reduce the number of policies in your account and keep only the minimum access that is necessary for each user, you can now identify the infrequently used access policies on the Inactive policies page in the console. You can determine whether to remove the inactive policies, or in some cases, you might expect an infrequently used policy."
       }
     ]
   }
