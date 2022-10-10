@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2022
-lastupdated: "2022-09-27"
+lastupdated: "2022-10-10"
 
 keywords: feedback button, comments, requirements, product improvements, submit feedback, documentation, console, feedback
 
@@ -48,6 +48,19 @@ The content team works to address the issues that you open. You can monitor the 
 
 ## Submitting a comment by using the feedback form
 {: #feedback-form}
+
+### Leaving feedback in the docs
+{: #feedback-docs}
+
+When you are reading docs, you can also leave a comment through our feedback form.
+
+1. Click the **Feedback** button.
+2. Enter a description about what you want to share with the {{site.data.keyword.cloud_notm}} docs team.
+3. Rate your experience on a scale from one to five stars, with five stars representing a great experience.
+4. Click **Submit**.
+
+### Leaving feedback in the console
+{: #feedback-console}
 
 When you are completing a task within the console, you can find a feedback form from the console menu bar to submit a rave review, a suggestion, or identify an error.
 
