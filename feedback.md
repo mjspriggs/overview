@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2022
-lastupdated: "2022-10-10"
+lastupdated: "2022-10-11"
 
 keywords: feedback button, comments, requirements, product improvements, submit feedback, documentation, console, feedback
 
@@ -65,10 +65,9 @@ When you are reading docs, you can also leave a comment through our feedback for
 When you are completing a task within the console, you can find a feedback form from the console menu bar to submit a rave review, a suggestion, or identify an error.
 
 1. Click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Send feedback** from the console menu bar.
-2. Optionally, you can select to include a screen capture of your screen.
-3. Enter a description about what you want to share with the {{site.data.keyword.Bluemix_notm}} team.
-4. Rate your experience on a scale from one to five stars, with five stars representing a great experience.
-5. Click **Submit**.
+1. Enter a description about what you want to share with the {{site.data.keyword.Bluemix_notm}} team.
+1. Rate your experience on a scale from one to five stars, with five stars representing a great experience.
+1. Click **Submit**.
 
 ## Submitting ideas for product improvements
 {: #ideas}
