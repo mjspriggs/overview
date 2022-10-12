@@ -41,7 +41,8 @@ Setting an alternative account owner
 {: #overview-04oct2022}
 {: release-note}
 
-Catalog integration with Virtual Private Cloud custom images: ISV Partners and {{site.data.keyword.cloud_notm}} customers can now import custom VPC images directly to their account or enterprise, or sell on the IBM Cloud catalog without depending on Terraform. For more information, see [Onboarding a virtual server image for VPC](/docs/account?topic=account-catalog-vsivpc-tutorial).
+Catalog integration with Virtual Private Cloud custom images
+:   ISV Partners and {{site.data.keyword.cloud_notm}} customers can now import custom VPC images directly to their account or enterprise, or sell on the IBM Cloud catalog without depending on Terraform. For more information, see [Onboarding a virtual server image for VPC](/docs/account?topic=account-catalog-vsivpc-tutorial).
 
 ## September 2022
 {: #september-2022}
