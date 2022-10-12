@@ -37,6 +37,12 @@ A new way to provide the {{site.data.keyword.cloud_notm}} docs team your feedbac
 Setting an alternative account owner
 :   As the owner of an account with classic infrastructure, you can set a trusted profile as the alternative account owner. An alternative account owner ensures that you always have a secure way to manage account ownership if your account owner leaves your organization or isn't available. For more information, see [Setting an alternative account owner](/docs/account?topic=account-classic-infra-owner&interface=ui).
 
+### 04 October 2022
+{: #overview-04oct2022}
+{: release-note}
+
+Catalog integration with Virtual Private Cloud custom images: ISV Partners and {{site.data.keyword.cloud_notm}} customers can now import custom VPC images directly to their account or enterprise, or sell on the IBM Cloud catalog without depending on Terraform. For more information, see [Onboarding a virtual server image for VPC](/docs/account?topic=account-catalog-vsivpc-tutorial).
+
 ## September 2022
 {: #september-2022}
 
