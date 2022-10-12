@@ -2,7 +2,7 @@
 
 copyright:
   years: 2016, 2022
-lastupdated: "2022-05-13"
+lastupdated: "2022-10-12"
 
 keywords: glossary, IBM Cloud glossary, terms, definitions
 
@@ -70,8 +70,8 @@ Analyzing machine learning model scores to determine whether changes are needed 
 ### action
 {: #x2012974}
 
-- A task that is performed in the context of a service.
 - A code snippet that can be explicitly invoked, or run in response to an event. See also [feed](#x3129185), [invoke](#x2057232).
+- A task that is performed in the context of a service.
 
 ### adjudication
 {: #x3096333}
@@ -315,8 +315,8 @@ See [command-line interface](#x2051424).
 ### client
 {: #x2000644}
 
-- A software program or computer that requests services from a server. See also [host](#x2002243).
 - An entity that acts on behalf of a user by connecting to a peer to communicate with the blockchain.
+- A software program or computer that requests services from a server. See also [host](#x2002243).
 
 ### client secret
 {: #x7024948}
@@ -614,9 +614,9 @@ In software licensing, the maximum allowed allocation of capacity as determined 
 ### entity
 {: #x2026945}
 
-- A set of details that are held about a real-world object such as a person, location, or bank account. An entity is a kind of item.
-- A mention that is annotated by an entity type.
 - A person, object, or concept about which information is stored.
+- A mention that is annotated by an entity type.
+- A set of details that are held about a real-world object such as a person, location, or bank account. An entity is a kind of item.
 
 ### entity type
 {: #x2760649}
@@ -1105,7 +1105,7 @@ A component that identifies entities and entity relationships according to a sta
 ### Managed Service Provider (MSP)
 {: #x6418711}
 
-An IBM Business Partner that provides IT services on a contractual basis to maintain clients' computers, networks or software. They manage services on-site at the clients' data center, remotely in the clients’ data center, or in a third-party data center.
+An IBM Business Partner that provides IT services on a contractual basis to maintain clients' computers, networks or software. They manage services on-site at the clients' data center, remotely in the clients' data center, or in a third-party data center.
 
 ### master key
 {: #x2908413}
@@ -1220,8 +1220,8 @@ See [natural language processing](#x2031058).
 ### node
 {: #x2003286}
 
-- A physical component of the blockchain network infrastructure, namely a peer, Certificate Authority (CA), or ordering node.
 - A member of a cluster that runs as a container or virtual machine on shared hardware.
+- A physical component of the blockchain network infrastructure, namely a peer, Certificate Authority (CA), or ordering node.
 
 
 ## O
@@ -1273,11 +1273,11 @@ A service that provides a shared communication channel to clients and peers for 
 
 See [organization](#x2032585).
 
-### organization
+### organization (org)
 {: #x2032585}
 
-- The entity that owns APIs or applications that use APIs.    A provider organization owns APIs and associated plans, and can additionally own applications. A consumer organization owns only applications. An organization has at least one owner. An organization can be a project team, department, or division.
 - The grouping methodology for users in IBM Cloud. Orgs are used to manage quotas. Users in an org share memory and service instance quotas. See also [domain](#x2021210), [space](#x2039442).
+- The entity that owns APIs or applications that use APIs.    A provider organization owns APIs and associated plans, and can additionally own applications. A consumer organization owns only applications. An organization has at least one owner. An organization can be a project team, department, or division.
 
 ### origin server
 {: #x2210603}
@@ -1421,8 +1421,8 @@ A .pear archive file that includes an Unstructured Information Management Archit
 ### profile
 {: #x2034950}
 
-- A collection of controls used to evaluate whether technology and services are configured in compliance with security policies. See also [rule](#x2037526), [scope](#x2037763).
 - A specification of a resource's capacities and capabilities. Different profiles are optimized for different workloads and use cases. A resource's pricing model might depend on its profile.
+- A collection of controls used to evaluate whether technology and services are configured in compliance with security policies. See also [rule](#x2037526), [scope](#x2037763).
 
 ### promo code
 {: #x8440874}
@@ -1613,6 +1613,11 @@ A catalog in which approvals for publishing and lifecycle actions are bypassed s
 
 To increase platform (or system) capacity by adding more application or service instances
 
+### SCM
+{: #x2116206}
+
+See [source control management](#x3579285).
+
 ### scope
 {: #x2037763}
 
@@ -1737,6 +1742,11 @@ A consensus plugin implementation for Hyperledger Fabric that results in a singl
 {: #x2214822}
 
 See [system of record](#x6735061).
+
+### source control management (SCM)
+{: #x3579285}
+
+An aspect of software configuration management that involves managing changes to collections of files.
 
 ### SPA
 {: #x2151882}
