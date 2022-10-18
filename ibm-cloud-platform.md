@@ -7,7 +7,7 @@ copyright:
 lastupdated: "2022-07-06"
 
 
-keywords: console, platform overview, overview, data center, security, compliance 
+keywords: console, platform overview, overview, data center, security, compliance
 
 subcollection: overview
 
@@ -25,10 +25,10 @@ The {{site.data.keyword.cloud}} platform combines platform as a service (PaaS) w
 
 {{site.data.keyword.cloud_notm}} offers the most open and secure public cloud for business with a next-generation hybrid cloud platform, advanced data and AI capabilities, and deep enterprise expertise across 20 industries. Solutions are available depending on your needs for working in the public cloud, on-premises, or a combination:
 
-* With public cloud, the resources are made available to you over the public internet. It is a multi-tenant environment, and resources like hardware and infrastructure are managed by {{site.data.keyword.IBM}}. 
+* With public cloud, the resources are made available to you over the public internet. It is a multi-tenant environment, and resources like hardware and infrastructure are managed by {{site.data.keyword.IBM}}.
 * A [hybrid cloud solution](https://www.ibm.com/cloud/hybrid){: external} is a combination of public and private, giving you the flexibility to move workloads between the two based on your business and technological needs. {{site.data.keyword.IBM_notm}} uses {{site.data.keyword.openshiftlong_notm}}, the market-leading hybrid cloud container platform for hybrid solutions that enables you to build once and deploy anywhere. With {{site.data.keyword.satellitelong_notm}}, you can create a hybrid environment that brings the scalability and on-demand flexibility of public cloud services to the applications and data that runs in your secure private cloud.
-* Support for [multicloud](https://www.ibm.com/cloud/learn/multicloud){: external} and hybrid multicloud solutions is also available, which makes it easy for you to work with different vendors. [{{site.data.keyword.cloud_notm}} Paks](https://www.ibm.com/cloud/paks){: external} are software products for hybrid clouds that enable you to develop apps once and deploy them anywhere. 
-* [Virtual Private Cloud (VPC)](/docs/vpc?topic=vpc-getting-started) is available as a public cloud offering that lets you establish your own private cloud-like computing environment on shared public cloud infrastructure. With VPC, enterprises can define and control a virtual network that is logically isolated from all other public cloud tenants, creating a private, secure place on the public cloud.
+* Support for [multicloud](https://www.ibm.com/cloud/learn/multicloud){: external} and hybrid multicloud solutions is also available, which makes it easy for you to work with different vendors. [{{site.data.keyword.cloud_notm}} Paks](https://www.ibm.com/cloud/paks){: external} are software products for hybrid clouds that enable you to develop apps once and deploy them anywhere.
+* [Virtual Private Cloud (VPC)](/docs/vpc?topic=vpc-getting-started) is available as a public cloud service that lets you establish your own private cloud-like computing environment on shared public cloud infrastructure. With VPC, enterprises can define and control a virtual network that is logically isolated from all other public cloud tenants, creating a private, secure place on the public cloud.
 
 With our open source technologies, such as Kubernetes, Red Hat OpenShift, and a full range of compute options, including virtual machines, containers, bare metal, and serverless, you have the control and flexibility that's required to support workloads in your hybrid environment. You can deploy cloud-native apps while also ensuring workload portability.
 
@@ -37,14 +37,14 @@ Whether you need to migrate apps to the cloud, modernize your existing apps by u
 ## What's built into the platform?
 {: #built-into-platform}
 
-As the following diagram illustrates, the {{site.data.keyword.Bluemix_notm}} platform is composed of multiple components that work together to provide a consistent and dependable cloud experience. 
+As the following diagram illustrates, the {{site.data.keyword.Bluemix_notm}} platform is composed of multiple components that work together to provide a consistent and dependable cloud experience.
 
 * A robust console that serves as the front end for creating, viewing, managing your cloud resources
 * An identity and access management component that securely authenticates users for both platform services and controls access to resources consistently across {{site.data.keyword.Bluemix_notm}}
-* A catalog that consists of hundreds of supported products 
+* A catalog that consists of hundreds of supported products
 * A search and tagging mechanism for filtering and identifying your resources
 * An account and billing management system that provides exact usage for pricing plans and secure credit card fraud protection
-  
+
 ![Components of the {{site.data.keyword.cloud_notm}} platform.](images/IBM-Cloud-Platform.svg "Diagram showing the major components of the {{site.data.keyword.cloud_notm}} platform"){: caption="Figure 1. Components of the {{site.data.keyword.cloud_notm}} platform" caption-side="bottom"}
 
 Whether you have [existing code](/docs/apps?topic=apps-tutorial-byoc#tutorial-byoc) that you want to modernize and bring to the cloud or you're developing a [brand new application](/docs/apps?topic=apps-tutorial-starterkit), your developers can tap into the rapidly growing ecosystem of available services and runtime frameworks in {{site.data.keyword.Bluemix_notm}}.
@@ -60,7 +60,7 @@ If you're a developer and you're just trying out {{site.data.keyword.Bluemix_not
 
 For more information, see the [best practices for organizing your resources and assigning access](/docs/account?topic=account-account_setup).
 
-As a financial officer for your company, you might be interested in simplifying how you manage billing and usage across multiple teams and departments. With a Subscription account, you can create an {{site.data.keyword.Bluemix_notm}} enterprise, which offers centralized account management, consolidated billing, and top-down usage reporting. An enterprise consists of an enterprise account, account groups, and individual accounts. 
+As a financial officer for your company, you might be interested in simplifying how you manage billing and usage across multiple teams and departments. With a Subscription account, you can create an {{site.data.keyword.Bluemix_notm}} enterprise, which offers centralized account management, consolidated billing, and top-down usage reporting. An enterprise consists of an enterprise account, account groups, and individual accounts.
 
 * The enterprise account is the parent account to all other accounts in the enterprise. Billing for the entire enterprise is managed at the enterprise account level.
 * Account groups provide a way to organize related accounts. And, you get a unified view of resource usage costs across all accounts that are included in an account group.
@@ -71,7 +71,7 @@ For more information, see the [best practices for setting up an enterprise](/doc
 ## Exploring the {{site.data.keyword.Bluemix_notm}} catalog
 {: #catalog}
 
-Discover all that {{site.data.keyword.cloud_notm}} has to offer. From services to software ranging from containers, compute, security, data, AI, and more, find what you need to transform your business. 
+Discover all that {{site.data.keyword.cloud_notm}} has to offer. From services to software ranging from containers, compute, security, data, AI, and more, find what you need to transform your business.
 
 The available services include options for compute, storage, networking, end-to-end developer solutions for app development, testing and deployment, security management services, traditional and open source databases, and cloud-native services. The lifecycle and operations of services are the responsibility of {{site.data.keyword.IBM_notm}}.
 
@@ -79,7 +79,7 @@ You can also find a number of software products, including [Cloud Paks](https://
 
 And, if you're looking for help in your journey to cloud, check out our professional services. Browse your options for scheduling a consultation with technical experts depending on your needs, such as cloud migration, creating business solutions with {{site.data.keyword.IBM_notm}} Garage, or developing a container security solution that works for you.
 
-The catalog supports command-line interfaces (CLIs) and a RESTful API for you to use to retrieve information about existing products. 
+The catalog supports command-line interfaces (CLIs) and a RESTful API for you to use to retrieve information about existing products.
 {: tip}
 
 ### Searching the catalog for services
@@ -87,7 +87,7 @@ The catalog supports command-line interfaces (CLIs) and a RESTful API for you to
 
 All products that are available in {{site.data.keyword.cloud_notm}} are displayed by default in the catalog. You can filter the catalog by type to view a specific type of product, for example, only services or only software. Enter keywords or set additional filters to further scope your view of the catalog. For example, if you want to deploy an analytics instance to {{site.data.keyword.openshiftlong}}, you can select the **Analytics** category, and filter the results by selecting **Red Hat OpenShift** as the deployment target.
 
-See the following table for the list of filters that you can use to search the catalog. 
+See the following table for the list of filters that you can use to search the catalog.
 {: #filters}
 
 | Option      | Description  |
@@ -116,7 +116,7 @@ See the following table for the list of filters that you can use to search the c
 | Option | Description |
 |--------------|-------|
 | EU Supported | Support for the service is restricted to {{site.data.keyword.cloud_notm}} support team members that are located in the European Union (EU) region. This filter is available only if the [EU Supported setting](/docs/account?topic=account-eu-supported) is enabled in the account.  |
-| Financial Services Validated | Services are designated as Financial Services Validated when the {{site.data.keyword.cloud_notm}} service or SaaS, or independent software vendor (ISV) offering, evidences compliance with the {{site.data.keyword.cloud_notm}} Framework for Financial Services. This filter is available only for {{site.data.keyword.IBM_notm}} products, and if the [Financial Services Validated setting](/docs/account?topic=account-enabling-fs-validated) is enabled in the account. |
+| Financial Services Validated | Services are designated as Financial Services Validated when the {{site.data.keyword.cloud_notm}} service or SaaS, or independent software vendor (ISV) product, evidences compliance with the {{site.data.keyword.cloud_notm}} Framework for Financial Services. This filter is available only for {{site.data.keyword.IBM_notm}} products, and if the [Financial Services Validated setting](/docs/account?topic=account-enabling-fs-validated) is enabled in the account. |
 | HIPAA Enabled | The service is designated as HIPAA ready, meaning processing, storing, and handling Protected Health Information (PHI) in the service is supported. This filter is available only if the [HIPAA Supported setting](/docs/account?topic=account-enabling-hipaa) is enabled in the account. |
 | IAM-enabled | The service is enabled to use {{site.data.keyword.cloud_notm}} Identity and Access Management (IAM) for access control. Access policies are used to assign users and service IDs access to specific resources in an account.|
 | Service Endpoint Supported | The service can be connected to over the {{site.data.keyword.cloud_notm}} private network instead of the public network. Connecting directly to service endpoints doesn't require internet access, providing increased security. |
@@ -136,7 +136,7 @@ See the following table for the list of filters that you can use to search the c
 {: tab-title="Pricing plan"}
 {: tab-group="cfo"}
 {: class="simple-tab-table"}
-{: summary="Use the buttons before the table to change the context of the table. The column headers identify the options for fitering based on filter type."} 
+{: summary="Use the buttons before the table to change the context of the table. The column headers identify the options for fitering based on filter type."}
 
 | Option | Description |
 |--------------|-------|
@@ -175,16 +175,16 @@ See the following table for the list of filters that you can use to search the c
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the options for fitering based on filter type."}
 
 
-You can also scope your view of the catalog by using the **Provider** filter to browse by individual providers, and the **Location** filter to view products available in specific regions. 
+You can also scope your view of the catalog by using the **Provider** filter to browse by individual providers, and the **Location** filter to view products available in specific regions.
 {: tip}
 
 
-### Searching the catalog for software 
+### Searching the catalog for software
 {: #catalog-filter-sw}
 
 The following table lists the filter options you can use when searching the catalog for software.
 
-| Option | Description | 
+| Option | Description |
 |-----|-----|
 | AI / Machine Learning | Products that enable systems to learn from data rather than through explicit programming |
 | Analytics | Products that facilitate the analysis of data, typically large sets of business data, by the use of mathematics, statistics, and other means |
@@ -245,7 +245,7 @@ The following table lists the filter options you can use when searching the cata
 {: tab-title="Pricing plan"}
 {: tab-group="swfilteroptions"}
 {: class="simple-tab-table"}
-{: summary="Use the buttons before the table to change the context of the table. The column headers identify the options for fitering based on filter type."} 
+{: summary="Use the buttons before the table to change the context of the table. The column headers identify the options for fitering based on filter type."}
 
 | Option | Description |
 |--------------|-------|
@@ -272,13 +272,13 @@ The following table lists the filter options you can use when searching the cata
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the options for fitering based on filter type."}
 
-You can also scope your view of the catalog by using the **Provider** filter to browse by individual providers, and the **Location** filter to view products available in specific regions. 
+You can also scope your view of the catalog by using the **Provider** filter to browse by individual providers, and the **Location** filter to view products available in specific regions.
 {: tip}
 
 ## Pricing and billing
 {: #pricing-billing}
 
-You can view the pricing details for each service when you're browsing the catalog. If you choose a service plan with a paid plan, you can estimate your costs by using the cost estimator tool. For more information, see [Estimating your costs](/docs/billing-usage?topic=billing-usage-cost). 
+You can view the pricing details for each service when you're browsing the catalog. If you choose a service plan with a paid plan, you can estimate your costs by using the cost estimator tool. For more information, see [Estimating your costs](/docs/billing-usage?topic=billing-usage-cost).
 
 {{site.data.keyword.Bluemix_notm}} billing provides multiple services that ensure the {{site.data.keyword.Bluemix_notm}} platform can securely manage pricing, accounts, usage, and more.
 
@@ -290,7 +290,7 @@ Account management maintains the billing relationship with the customer. Each ac
 ### Usage metering
 {: #metering}
 
-With usage metering, service providers can submit metrics that are collected for resource instances that are created by {{site.data.keyword.Bluemix_notm}} users. Third-party service providers that deliver an integrated billing service are required to submit usage for all active service instances every hour. 
+With usage metering, service providers can submit metrics that are collected for resource instances that are created by {{site.data.keyword.Bluemix_notm}} users. Third-party service providers that deliver an integrated billing service are required to submit usage for all active service instances every hour.
 
 ### Usage reports
 {: #usage}
@@ -302,12 +302,12 @@ Usage reports return the summary for the account for the specified month. Accoun
 
 The {{site.data.keyword.compliance_full}} offers a single location where you can validate that your resources are meeting continuous security and compliance.
 
-You can create profiles and config rules to ensure that specific areas of your business adhere to your defined requirements or industry regulations. From the {{site.data.keyword.compliance_short}} dashboard, you can download detailed reports that you can use to provide evidence to stakeholders or external auditors. The {{site.data.keyword.compliance_short}} also offers security insights that you can use to detect potential threats when observing your account activity. For more information, see [Getting started with {{site.data.keyword.compliance_short}}](/docs/security-compliance?topic=security-compliance-getting-started). 
+You can create profiles and config rules to ensure that specific areas of your business adhere to your defined requirements or industry regulations. From the {{site.data.keyword.compliance_short}} dashboard, you can download detailed reports that you can use to provide evidence to stakeholders or external auditors. The {{site.data.keyword.compliance_short}} also offers security insights that you can use to detect potential threats when observing your account activity. For more information, see [Getting started with {{site.data.keyword.compliance_short}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
 ## Creating resources
 {: #provisioning-layer}
 
-The resource controller is the next-generation {{site.data.keyword.Bluemix_notm}} platform provisioning layer that manages the lifecycle of {{site.data.keyword.Bluemix_notm}} resources in your account. Resources are created globally in an account scope. The resource controller supports the creation of resources both synchronously and asynchronously. Examples of resources include databases, accounts, processors, memory, and storage limits. 
+The resource controller is the next-generation {{site.data.keyword.Bluemix_notm}} platform provisioning layer that manages the lifecycle of {{site.data.keyword.Bluemix_notm}} resources in your account. Resources are created globally in an account scope. The resource controller supports the creation of resources both synchronously and asynchronously. Examples of resources include databases, accounts, processors, memory, and storage limits.
 
 In general, resources that are tracked by the provisioning layer are intended to associate usage metrics and billing, but that isn’t always the case. In some cases, the resource might be associated with the provisioning layer to ensure that its lifecycle can be managed along with the account lifecycle. The resource controller uses {{site.data.keyword.Bluemix_notm}} Identity and Access Management (IAM) for authentication and authorization of actions that are taken against the provisioning layer.
 
@@ -319,7 +319,7 @@ The resource controller provides common APIs to control the lifecycle of resourc
 ## Managing your resources
 {: #resource-manager}
 
-A collection of resources is managed by [resource groups](/docs/account?topic=account-rgs). A resource group is associated with your account. All {{site.data.keyword.Bluemix_notm}} resources must be assigned to a resource group. When you create an account, a default resource group is created for you. All {{site.data.keyword.Bluemix_notm}} IAM-enabled resources must be created within a resource group. If you have a Lite account, you can have only one resource group. If you have a Pay-As-You-Go or Subscription account, you can create more than one resource group. If an account is suspended, the corresponding resource group is suspended as well, and all resources within the resource group are suspended. 
+A collection of resources is managed by [resource groups](/docs/account?topic=account-rgs). A resource group is associated with your account. All {{site.data.keyword.Bluemix_notm}} resources must be assigned to a resource group. When you create an account, a default resource group is created for you. All {{site.data.keyword.Bluemix_notm}} IAM-enabled resources must be created within a resource group. If you have a Lite account, you can have only one resource group. If you have a Pay-As-You-Go or Subscription account, you can create more than one resource group. If an account is suspended, the corresponding resource group is suspended as well, and all resources within the resource group are suspended.
 
 ## Searching and tagging resources
 {: #search-and-tag}
@@ -331,13 +331,13 @@ This service also manages tags that are associated with a resource. You can crea
 ## Monitoring your resources
 {: #resources_observability}
 
-Observability offers a single location where you can monitor and observe your applications and services in {{site.data.keyword.Bluemix_notm}}. 
+Observability offers a single location where you can monitor and observe your applications and services in {{site.data.keyword.Bluemix_notm}}.
 
 With the {{site.data.keyword.la_full}} service, you can add log management capabilities to your {{site.data.keyword.Bluemix_notm}} architecture and you can manage system and application logs. It offers advanced features to monitor and troubleshoot, define alerts, and design custom dashboards. For more information, see [Getting started with {{site.data.keyword.la_full_notm}}](/docs/log-analysis?topic=log-analysis-getting-started).
 
 You can gain operational visibility into the performance and health of your applications, services, and platforms with the {{site.data.keyword.mon_full_notm}} service. It offers a full stack telemetry with advanced features to monitor and troubleshoot, define alerts, and design custom dashboards. For more information, see [Getting started with {{site.data.keyword.monitoringlong_notm}}](/docs/monitoring?topic=monitoring-getting-started#getting-started).
 
-## Monitoring your account 
+## Monitoring your account
 {: #account_observability}
 
 Use the {{site.data.keyword.at_full}} service to monitor the activity of your {{site.data.keyword.Bluemix_notm}} account, investigate abnormal activity and critical actions, and comply with regulatory audit requirements. In addition, you can be alerted on actions as they happen. The events that are collected comply with the Cloud Auditing Data Federation (CADF) standard. For more information, see [Getting started with {{site.data.keyword.at_full_notm}}](/docs/activity-tracker?topic=activity-tracker-getting-started).
