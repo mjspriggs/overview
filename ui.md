@@ -2,9 +2,9 @@
 
 copyright:
   years: 2015, 2022
-lastupdated: "2022-09-22"
+lastupdated: "2022-10-18"
 
-keywords: ui, components, using the console, classic infrastructure, redirect, catalog, pricing information, get support, dashboard, scoped dashboard
+keywords: ui, platform, console, using the console
 
 subcollection: overview
 
@@ -71,7 +71,6 @@ You can navigate the console by using the options from the console menu bar. Use
 * Click the **{{site.data.keyword.cloud-shell_notm}}** icon ![{{site.data.keyword.cloud-shell_notm}} icon](../icons/terminal-cloud-shell.svg "Cloud Shell") to open a browser-based shell environment that you can use to work with your {{site.data.keyword.cloud_notm}} resources.
 * Click the **Cost estimator** icon ![Cost estimator icon](../icons/calculator.svg "Cost Estimator") to open the cost estimator.
 * Click the **Notifications** icon ![Notifications icon](../icons/Notification.svg "Notifications") to view and control all incidents, maintenance, and announcements that are likely to affect your account.
-* Click the **Avatar** icon ![Avatar icon](../icons/i-avatar-icon.svg "Avatar") to access your profile, guided tours, and more.
-
+* Click the **Avatar** icon ![Avatar icon](../icons/i-avatar-icon.svg "Avatar") to access your profile, guided tours, console theme options, and more.
 
 In addition to the console, [command-line interfaces (CLIs)](/docs/cli?topic=cli-getting-started), APIs, and SDKs are available for interacting with you cloud account and resources. [Terraform](/docs/ibm-cloud-provider-for-terraform?topic=ibm-cloud-provider-for-terraform-getting-started) support is also available through use of the {{site.data.keyword.cloud_notm}} Provider plug-in for managing cloud resources at enterprise scale through templates and scripting.
