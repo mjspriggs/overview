@@ -2,7 +2,7 @@
 
 copyright:
   years: 2016, 2022
-lastupdated: "2022-10-12"
+lastupdated: "2022-10-18"
 
 keywords: glossary, IBM Cloud glossary, terms, definitions
 
@@ -70,8 +70,8 @@ Analyzing machine learning model scores to determine whether changes are needed 
 ### action
 {: #x2012974}
 
-- A code snippet that can be explicitly invoked, or run in response to an event. See also [feed](#x3129185), [invoke](#x2057232).
 - A task that is performed in the context of a service.
+- A code snippet that can be explicitly invoked, or run in response to an event. See also [feed](#x3129185), [invoke](#x2057232).
 
 ### adjudication
 {: #x3096333}
@@ -1220,8 +1220,8 @@ See [natural language processing](#x2031058).
 ### node
 {: #x2003286}
 
-- A member of a cluster that runs as a container or virtual machine on shared hardware.
 - A physical component of the blockchain network infrastructure, namely a peer, Certificate Authority (CA), or ordering node.
+- A member of a cluster that runs as a container or virtual machine on shared hardware.
 
 
 ## O
@@ -1273,11 +1273,11 @@ A service that provides a shared communication channel to clients and peers for 
 
 See [organization](#x2032585).
 
-### organization (org)
+### organization
 {: #x2032585}
 
-- The grouping methodology for users in IBM Cloud. Orgs are used to manage quotas. Users in an org share memory and service instance quotas. See also [domain](#x2021210), [space](#x2039442).
 - The entity that owns APIs or applications that use APIs.    A provider organization owns APIs and associated plans, and can additionally own applications. A consumer organization owns only applications. An organization has at least one owner. An organization can be a project team, department, or division.
+- The grouping methodology for users in IBM Cloud. Orgs are used to manage quotas. Users in an org share memory and service instance quotas. See also [domain](#x2021210), [space](#x2039442).
 
 ### origin server
 {: #x2210603}
@@ -1421,8 +1421,8 @@ A .pear archive file that includes an Unstructured Information Management Archit
 ### profile
 {: #x2034950}
 
-- A specification of a resource's capacities and capabilities. Different profiles are optimized for different workloads and use cases. A resource's pricing model might depend on its profile.
 - A collection of controls used to evaluate whether technology and services are configured in compliance with security policies. See also [rule](#x2037526), [scope](#x2037763).
+- A specification of a resource's capacities and capabilities. Different profiles are optimized for different workloads and use cases. A resource's pricing model might depend on its profile.
 
 ### promo code
 {: #x8440874}
@@ -1661,12 +1661,17 @@ A resource that provides rules to filter IP traffic to resources in a virtual pr
 ### select availability
 {: #x9773835}
 
-A production-ready offering that is available for sale and accessible to select customers.
+A production-ready product that is available for sale and accessible to select customers.
 
 ### service
 {: #x2038343}
 
 A cloud extension that provides ready-for-use functionality, such as database, messaging, and web software for running code, or application management or monitoring capabilities. Services usually do not require installation or maintenance and can be combined to create applications.
+
+### service binding
+{: #x5333865}
+
+An association between an application and a service instance that contains the application credentials that are used to communicate with the service instance.
 
 ### service credential
 {: #x8878996}
@@ -1954,8 +1959,8 @@ See [Uniform Resource Locator](#x2042491).
 ### user
 {: #x2069659}
 
-- A participant in a blockchain network that has indirect access to the ledger through a trust relationship to an existing member.
 - An IBMid or SoftLayer ID that is used as a person's identity in an account.
+- A participant in a blockchain network that has indirect access to the ledger through a trust relationship to an existing member.
 
 ### user registry
 {: #x2042894}
