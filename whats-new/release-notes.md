@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2022
 
-lastupdated: "2022-10-10"
+lastupdated: "2022-10-18"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -96,6 +96,16 @@ Specifying a user onboarding strategy
 
 Increased policy limit
 :   The shared limit for IAM policies and context-based restrictions has increased from 2010 to 4020 so that you don't need to [request an increase to the limit in your account](/docs/account?topic=account-account-limits&interface=cli#limit-increase) as you grow your organizational capacity. For more information, see [Known issues and limitations](/docs/account?topic=account-known-issues#iam_limits).
+
+## August 2022
+{: #august-2022}
+
+### 31 August 2022
+{: #overview-31aug2022}
+{: release-note}
+
+Choose from dark or light themes in the console
+:   Enjoy a customized experience in the console that matches your preferences. By default, the console uses the mode that you already have set for your device. We'd like you to be able to experience {{site.data.keyword.cloud_notm}} using a theme of your choosing. Use the Avatar icon from the console menu bar to find the options for changing your theme.
 
 ## July 2022
 {: #july-2022}
