@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2022
-lastupdated: "2022-10-21"
+lastupdated: "2022-10-22"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -111,7 +111,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Knowledge Studio | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Kubernetes Service | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Language Translator | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
-| Lift CLI | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Load Balancer for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | MQ | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Mass Data Migration | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
@@ -240,7 +239,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Knowledge Studio | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Kubernetes Service | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Language Translator | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Lift CLI |  |  | 
 | Load Balancer for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | MQ | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Mass Data Migration | Hosted Globally | Hosted Globally | 
@@ -369,7 +367,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Knowledge Studio | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Kubernetes Service | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Language Translator | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Lift CLI |  |  |  |  |  | 
 | Load Balancer for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | MQ | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | 
 | Mass Data Migration | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
