@@ -241,7 +241,7 @@ The following table lists the filter options you can use when searching the cata
 | Free | The service includes monthly free allowances for only Pay-As-You-Go or Subscription accounts. |
 | Lite | The pricing plan for the service is structured as a free quota. The quota might operate for a specific time period, for example, a month or on a one-off usage basis. |
 {: caption="Table 2. Options for filtering software by pricing plan" caption-side="top"}
-{: #pricingplan-svc}
+{: #pricingplan-software}
 {: tab-title="Pricing plan"}
 {: tab-group="swfilteroptions"}
 {: class="simple-tab-table"}
