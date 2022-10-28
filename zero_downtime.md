@@ -2,7 +2,7 @@
 
 copyright:
   years: 2018, 2022
-lastupdated: "2022-08-22"
+lastupdated: "2022-10-28"
 
 keywords: load balancing, global load balancing, HA, DR, high availability, disaster recovery, HA for the platform, high availability for platform, disaster recovery plan, disaster event, zero downtime, workloads, failover, failover design
 
@@ -49,7 +49,7 @@ High availability and disaster recovery aren't universal across all resources, s
 
 As an {{site.data.keyword.IBM_notm}} classic infrastructure (non-VPC) customer, you can order bare metal or virtual server instances (VSI) and deploy to over 60 data centers that are located around the world in addition to several multizone regions (MZR) with multiple availability zones. Whether the data centers are MZRs or not, all of them maintain multiple power feeds, fiber links, dedicated generators, and battery backup to avoid a single-point-of-failure (SPOF) between zones and regions. 
 
-Even though all the data centers have multiple power feeds, several of the more mature sites, such as AMS01, DAL05, 06, 08. FRA02. HKG02, MEX01, MIL01, PAR01, SJC01, SNG01, WDC01, and WDC03, have some 1U single socket server chassis that might not accommodate a dual power feed. If you have a 1U single socket server in one of these sites, you might want to consider a 2U chassis with redundant power supplies.
+Even though all the data centers have multiple power feeds, several of the more mature sites, such as DAL05, DAL08, FRA02, MIL01, PAR01, SJC01, SNG01, WDC01, and WDC03, have some 1U single socket server chassis that might not accommodate a dual power feed. If you have a 1U single socket server in one of these sites, you might want to consider a 2U chassis with redundant power supplies.
 
 For more information about the specific options for deploying your workloads, see [locations for resource deployment](/docs/overview?topic=overview-locations).
 
