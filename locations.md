@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2022
-lastupdated: "2022-09-09"
+lastupdated: "2022-10-28"
 
 keywords: data centers, datacenter, regions, locations, ibm cloud regions, multizone regions, MZRs, cloud regions, cloud data centers, multizone, geo, availability zone, zones
 
@@ -15,17 +15,17 @@ subcollection: overview
 # Region and data center locations for resource deployment
 {: #locations}
 
-{{site.data.keyword.cloud}} has a resilient global network of locations to host your highly available cloud workload. You can create resources in different locations, such as a region or data center, but with the same billing and usage view. You can also deploy your apps to the location that is nearest to your customers to achieve low application latency. {{site.data.keyword.cloud_notm}} provides three tiers of regions: [multizone regions](#x9774820){: term}, [single-campus multizone regions](#x10127487){: term}, and [data centers](#x2439906){: term}. 
+{{site.data.keyword.cloud}} has a resilient global network of locations to host your highly available cloud workload. You can create resources in different locations, such as a region or data center, but with the same billing and usage view. You can also deploy your apps to the location that is nearest to your customers to achieve low application latency. {{site.data.keyword.cloud_notm}} provides three tiers of regions: [multizone regions](#x9774820){: term}, [single-campus multizone regions](#x10127487){: term}, and [data centers](#x2439906){: term}.
 {: shortdesc}
 
 ## Regions
 {: #regions}
 
-Multizone regions (MZRs) are composed of three or more zones that are independent from each other to ensure that single failure events affect only a single zone. MZRs provide low latency (< 2-milliseconds latency) and high bandwidth (> 1000 Gbps) connectivity across zones. For [GA](#x2117947){: term} service rollout, see the [Service rollout policy](/docs/overview?topic=overview-service-rollout). 
+Multizone regions (MZRs) are composed of three or more zones that are independent from each other to ensure that single failure events affect only a single zone. MZRs provide low latency (< 2-milliseconds latency) and high bandwidth (> 1000 Gbps) connectivity across zones. For [GA](#x2117947){: term} service rollout, see the [Service rollout policy](/docs/overview?topic=overview-service-rollout).
 
-The advantage of an MZR is that it provides consistent cloud services across different zones, better resiliency, availability, higher interconnect speed between data centers for your resources. These features can be critical to your applications. Deploying the application in an MZR rather than a different deployment location (data centers, either physical or logical) is that you can increase the availability from 99.9% to 99.99% when deployed over three zones. 
+The advantage of an MZR is that it provides consistent cloud services across different zones, better resiliency, availability, higher interconnect speed between data centers for your resources. These features can be critical to your applications. Deploying the application in an MZR rather than a different deployment location (data centers, either physical or logical) is that you can increase the availability from 99.9% to 99.99% when deployed over three zones.
 
-{{site.data.keyword.IBM}} offers two types of multizone regions. The underlying infrastructure in both types provides the same SLA. 
+{{site.data.keyword.IBM}} offers two types of multizone regions. The underlying infrastructure in both types provides the same SLA.
 
 ### Multizone regions (MZR)
 {: #table-mzr}
@@ -34,7 +34,7 @@ MZRs offer the highest level of redundancy and availability because it uses thre
 
 ![This diagram shows a geography that contains data center buildings that host a multizone region (MZR)](images/mzr.svg){: caption="Figure 1. Multizone region (MZR)" caption-side="bottom"}
 
-The following table lists the {{site.data.keyword.cloud_notm}} MZRs that fall into this category and the region, zone, and data center codes for each one. 
+The following table lists the {{site.data.keyword.cloud_notm}} MZRs that fall into this category and the region, zone, and data center codes for each one.
 
 | Location | Region | Zone | Data center |
 |-----------|----------|------|----|
@@ -91,9 +91,9 @@ The following table lists the single campus MZRs that are available in {{site.da
 ## Data centers
 {: #data-centers}
 
-In addition to selecting a region for your resource, you can select from a list of the {{site.data.keyword.Bluemix_notm}} data centers, depending on the type of resource you're working with. 
+In addition to selecting a region for your resource, you can select from a list of the {{site.data.keyword.Bluemix_notm}} data centers, depending on the type of resource you're working with.
 
-Data centers host the power, cooling, compute, network, and storage resources used for services and apps. They don't provide isolation from multizones in a location. 
+Data centers host the power, cooling, compute, network, and storage resources used for services and apps. They don't provide isolation from multizones in a location.
 
 Data centers are based on a POD architecture where each data center can have more than one POD, depending on the on-demand build out. Each POD consists of racks, servers, networks, and storage, along with backup power generators. Placing application servers across PODs improves the availability.
 
@@ -107,13 +107,12 @@ See the following table for the specific code for each data center.
 | Data center      | Code  |
 |------------------|-------|
 | Dallas 05        | DAL05 |
-| Dallas 06 [^tabletext2]       | DAL06 |
 | Dallas 08 [^tabletext3]    | DAL08 |
 | Dallas 09        | DAL09 |
 | Dallas 10        | DAL10 |
 | Dallas 12        | DAL12 |
 | Dallas 13        | DAL13 |
-| Mexico 01        | MEX01 |
+| Mexico 01 [^tabletext2] | MEX01 |
 | Montreal 01      | MON01 |
 | San Jose 01      | SJC01 |
 | San Jose 03      | SJC03 |
@@ -136,7 +135,7 @@ See the following table for the specific code for each data center.
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
 
-[^tabletext2]: Closing in 2022 [Learn more](/docs/get-support?topic=get-support-dc-closure)
+[^tabletext2]: Closing in 2023 [Learn more](/docs/get-support?topic=get-support-dc-closure)
 
 [^tabletext3]: IBM Cloud for Government [Learn more](https://www.ibm.com/cloud/government)
 
@@ -144,7 +143,6 @@ See the following table for the specific code for each data center.
 
 | Data center  | Code  |
 |--------------|-------|
-|Amsterdam 01 [^tabletext5] | AMS01|
 |Amsterdam 03 | AMS03|
 |Frankfurt 02 | FRA02|
 |Frankfurt 04 | FRA04|
@@ -162,16 +160,12 @@ See the following table for the specific code for each data center.
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
 
-[^tabletext5]: Closing in 2022 [Learn more](/docs/get-support?topic=get-support-dc-closure)
-
 | Data center  | Code  |
 |--------------|-------|
 |Chennai 01 | CHE01|
-|Hong Kong 02 [^tabletext6] | HKG02|
 |Osaka 21 | OSA21|
 |Osaka 22 | OSA22|
 |Osaka 23 | OSA23|
-|Seoul 01 [^tabletext7] | SEO01|
 |Singapore 01 | SNG01|
 |Sydney 01 | SYD01|
 |Sydney 04 | SYD04|
@@ -185,10 +179,6 @@ See the following table for the specific code for each data center.
 {: tab-group="dcs"}
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
-
-[^tabletext6]: Closing in 2022 [Learn more](/docs/get-support?topic=get-support-dc-closure)
-
-[^tabletext7]: Closing in 2022 [Learn more](/docs/get-support?topic=get-support-dc-closure)
 
 The table includes certain data centers that are set to close soon. For the list of data centers that are closing, see [Data center closures](/docs/get-support?topic=get-support-dc-closure).
 {: note}
