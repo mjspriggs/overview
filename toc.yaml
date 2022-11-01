@@ -12,16 +12,17 @@ toc:
     path: overview
     label: IBM Cloud overview
 
-  entries: 
-  - navgroup: 
+  entries:
+  - navgroup:
       id: learn
       topics:
-      - topicgroup: 
+      - topicgroup:
           label: Learn about the IBM Cloud platform
           topics:
           - ibm-cloud-platform.md
           - platform-cli-api.md
           - prereqs.md
+      - checklist-get-started-cloud.md
       - topicgroup:
           label: Compliance in IBM Cloud
           topics:
@@ -32,12 +33,12 @@ toc:
       - topic: whats-new/release-notes.md
         navtitle: Release notes
 
-  - navgroup: 
+  - navgroup:
       id: tutorial
-      topics: 
+      topics:
       - quickstart-lite.md
 
-  - navgroup: 
+  - navgroup:
       id: howto
       topics:
       - ui.md
@@ -48,7 +49,7 @@ toc:
 
   - navgroup:
       id: reference
-      topics: 
+      topics:
       - topicgroup:
           label: Product availability and locations
           topics:
@@ -79,7 +80,7 @@ toc:
         navtitle: Accessibility features
       - topicgroup:
           label: Legal resources
-          topics: 
+          topics:
           - terms-of-use/termsofuse.md
           - terms-of-use/notices.md
           - terms-of-use/ip_address_policy.md
@@ -87,16 +88,16 @@ toc:
           - services_availability.md
   - navgroup:
       id: help
-      topics: 
+      topics:
       - topicgroup:
           label: Troubleshooting the IBM Cloud docs
           topics:
           - troubleshoot-docs.md
           - troubleshoot-allowlist.md
           - troubleshoot-library.md
-      - link: 
+      - link:
           label: Stack Overflow
           href: http://stackoverflow.com/questions/tagged/ibm-cloud
-      - link: 
+      - link:
           label: IBM Public Cloud Community
           href: https://community.ibm.com/community/user/publiccloud/home
