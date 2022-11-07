@@ -4,7 +4,7 @@
 copyright:
   years: 2016, 2022
 
-lastupdated: "2022-07-06"
+lastupdated: "2022-11-07"
 
 
 keywords: console, platform overview, overview, data center, security, compliance
@@ -212,9 +212,9 @@ The following table lists the filter options you can use when searching the cata
 | Helm charts | A format for packaging a collection of files that describe specific configurations of infrastructure in the form of code.|
 | OVA images | Open Virtual Appliance that contains a compressed installable version of a virtual machine.  |
 | Operators | A method of packaging and deploying a Kubernetes-native application. |
+| Server Images | A template that is used to create instances of virtual servers. |
 | Starter kits | An application pattern that can be integrated with services to generate a production-ready asset. |
 | Terraform | Infrastructure as code to deploy your application. |
-| VSI Images | A template that is used to create instances of virtual servers. |
 {: caption="Table 2. Options for filtering by delivery method" caption-side="top"}
 {: #swsoftwarefilters}
 {: tab-title="Delivery method"}
@@ -228,7 +228,7 @@ The following table lists the filter options you can use when searching the cata
 | {{site.data.keyword.bplong_notm}} | Used for infrastructure as code automation by using terraform templates. |
 | {{site.data.keyword.powerSys_notm}} | Used to create a Power server that is distinct from the {{site.data.keyword.cloud_notm}} servers with separate networks and direct-attached storage. The internal networks are fenced but offer connectivity options to  {{site.data.keyword.cloud_notm}} infrastructure or on-premises environments. |
 | Red Hat OpenShift | Used to create a {{site.data.keyword.openshiftshort}} cluster of compute hosts to deploy and manage containerized apps on {{site.data.keyword.cloud_notm}}. |
-| vCenter Server | Provides deployment and management of VMware virtualized environments. |
+| VMware vCenter Server | Provides deployment and management of VMware virtualized environments. |
 {: caption="Table 2. Options for filtering by deployment target" caption-side="top"}
 {: #swdeploymenttargetfilters}
 {: tab-title="Deployment target"}
