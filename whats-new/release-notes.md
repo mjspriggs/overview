@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2022
 
-lastupdated: "2022-10-18"
+lastupdated: "2022-11-16"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -1034,7 +1034,7 @@ Find all {{site.data.keyword.Bluemix_notm}} CLI plug-in documentation in one pla
 :   You can now access all of the {{site.data.keyword.Bluemix_notm}} CLI plug-in documentation in one location, making it easier for you to find any CLI command that you are looking for. Check out the References section in the [CLI documentation](/docs/cli?topic=cli-ibmcloud_cli).
 
 New dashboard and Resource list page
-:   With our latest update, you can now view all your platform and infrastructure services from one location. When you log in, you can check out the new dashboard right away. After you add resources to your account from the catalog, you can use your resource list to get a full view of your account resources:
+:   With our latest update, you can now view all your platform and infrastructure services from one location. When you log in, you can check out the new dashboard. After you add resources to your account from the catalog, you can use your resource list to get a full view of your account resources:
    * The dashboard is redesigned so that you can view a summary your resources, maintenance, status, apps, support, usage, and users.
    * You can find more details about your resources by going to your resource list. You can tag your resources to organize them, or select them to update the details page.
    * Now that you can see all of your resources in one place, we added a global search so that you can quickly find resources that you created and expect to find in your resource list.
