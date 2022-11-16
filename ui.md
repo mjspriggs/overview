@@ -46,7 +46,7 @@ Then, through the Manage > Access (IAM) option [Click Manage menu item > Access 
 
 In a connected world, security is more important than ever, and we've built it into the platform [Click Menu icon > Security and Compliance]. With the {{site.data.keyword.cloud_notm}} Security and Compliance Center [Click Dashboard], you can set up a unified dashboard to monitor security and compliance, govern configuration, and gain insights into threats.
 
-If you prefer to work from the command line [Click IBM Cloud Shell menu item], you can manage your {{site.data.keyword.cloud_notm}} account and resources right from your browser with {{site.data.keyword.cloud-shell_notm}}. Just open {{site.data.keyword.cloud-shell_short}} to start using the {{site.data.keyword.cloud_notm}} CLI and tons of other plug-ins, tools, and runtimes with no installation needed.
+If you prefer to work from the command line [Click IBM Cloud Shell menu item], you can manage your {{site.data.keyword.cloud_notm}} account and resources from your browser with {{site.data.keyword.cloud-shell_notm}}. Just open {{site.data.keyword.cloud-shell_short}} to start using the {{site.data.keyword.cloud_notm}} CLI and tons of other plug-ins, tools, and runtimes with no installation needed.
 
 If you run into any questions as you're working in {{site.data.keyword.cloud_notm}}, visit the Support Center [Click Support menu option], where you'll find FAQs and common tasks that can help you to resolve your issue quickly without even having to contact {{site.data.keyword.cloud_notm}}. However, if you do need to get in touch with us or open a support case, those options are also available to you.
 
