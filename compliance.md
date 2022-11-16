@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2021
-lastupdated: "2021-07-21"
+lastupdated: "2022-11-16"
 
 keywords: compliance, environmental information, gdpr, compliance reports, financial services, compliance settings, compliance features
 
@@ -61,13 +61,13 @@ For details, see the following data sheets on our physical hardware in the cloud
 
 For highly regulated industries, such as financial services, achieving continuous security within a cloud environment is an important first step toward protecting customer and application data. Historically, that process has been difficult and manual, which placed your organization at risk. But, with the {{site.data.keyword.compliance_full}} you can integrate automatic security checks into every day workflows that are designed to minimize risk. By monitoring for risks, you can identify security vulnerabilities and quickly work to mitigate the impact and fix the issue.
 
-You can acheive continuous security and compliance right within the {{site.data.keyword.cloud_notm}} platform with the {{site.data.keyword.compliance_short}}. You can view your security and compliance postures from a unified dashboard. Learn more about [Getting started with {{site.data.keyword.compliance_short}}](/docs/security-compliance?topic=security-compliance-getting-started).
+You can acheive continuous security and compliance within the {{site.data.keyword.cloud_notm}} platform with the {{site.data.keyword.compliance_short}}. You can view your security and compliance postures from a unified dashboard. Learn more about [Getting started with {{site.data.keyword.compliance_short}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
 
 ## {{site.data.keyword.framework-fs_notm}}
 {: #financial-services-cloud}
 
-{{site.data.keyword.framework-fs_notm}} is designed to build trust and enable a transparent public cloud ecosystem with the specific features for security, compliance, and resiliency that financial institutions require. The {{site.data.keyword.framework-fs_notm}} is a standard set of controls, controls guidance, and architectures informed by global regulatory requirements for cybersecurity, data security, and risk management, with ongoing governance by an industry council and promontory to ensure currency with new and changed regulations. 
+{{site.data.keyword.framework-fs_notm}} is designed to build trust and enable a transparent public cloud ecosystem with the specific features for security, compliance, and resiliency that financial institutions require. The {{site.data.keyword.framework-fs_notm}} is a standard set of controls, controls guidance, and architectures informed by global regulatory requirements for cybersecurity, data security, and risk management, with ongoing governance by an industry council and promontory to ensure currency with new and changed regulations.
 
 {{site.data.keyword.framework-fs_notm}} currently applies controls (US NIST 800-53 with {{site.data.keyword.IBM_notm}} financial services guidance) to {{site.data.keyword.cloud_notm}} services, {{site.data.keyword.IBM_notm}} software, and third-party ISV and SaaS providers that provide a common control approach that can be mapped to regulatory guidelines worldwide. This solution platform and ecosystem program is built on an industry-informed framework of controls, architectures, and operations that mitigates systemic risk in using the {{site.data.keyword.IBM_notm}} public cloud for mission-critical workloads with client-sensitive data. For more informations, see [What is {{site.data.keyword.cloud_notm}} for Financial Services?](/docs/overview?topic=overview-what-is-fscloud) and how to [enable your account to use Financial Services Validated products](/docs/account?topic=account-enabling-fs-validated).
 
@@ -80,5 +80,3 @@ You can add an extra layer of protection to your data in the European Union. Tur
 {: #hipaa-overview}
 
 The US Health Insurance Portability and Accountability Act (HIPAA) and the Health Information Technology for Economic and Clinical Health (HITECH) Act define standards for handling electronic healthcare transactions and information. If you or your company is a covered entity as defined by HIPAA, you must enable the HIPAA Supported setting if you run sensitive workloads that are regulated under HIPAA and the HITECH Act. By using this setting, you can filter on HIPAA Enabled services in the catalog, indicate to {{site.data.keyword.IBM_notm}} that your account stores protected health information (PHI), and digitally accept the {{site.data.keyword.IBM_notm}} Business Associate Addendum for covered entities. For more information, see [Enabling HIPAA support for your account](/docs/account?topic=account-enabling-hipaa).
-
-
