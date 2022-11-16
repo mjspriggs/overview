@@ -2,7 +2,7 @@
 
 copyright:
   years: 2021
-lastupdated: "2021-11-17"
+lastupdated: "2022-11-16"
 
 keywords: disaster recovery, DR, what is disaster recovery, DR strategy, disaster recovery options, disaster recovery strategy
 
@@ -41,7 +41,7 @@ Because each business application has a unique set of compute, services, and oth
 
 There are many options to implement DR solutions. For the sake of simplicity, we can group the different options in three major categories:
 
-Active/Passive 
+Active/Passive
 :   Active/Passive options are based on keeping the full application stack active in one location, while another application stack is deployed in a different location but kept idle or shut down. In the case of prolonged unavailability of the primary site, the application stack is activated in the backup site. Often that requires the restoring of backups that are taken in the primary site. This approach is not recommended when losing data can be a problem, for example when the RPO is less than a few hours or when the availability of the service is critical and the RTO objective is less than a few hours.
 
 Active/Standby
@@ -64,7 +64,7 @@ Site
 :   Multiple sites in a region. Using different sites within the same region offers a better level of protection in case of a limited natural disaster, compared to two different zones on a single site. Sites in the same region are usually in close proximity (tens of miles).
 
 Region
-:   Using two sites in two regions in the same geography represents the top level of protection against natural disasters as sites are generally over 400 kilometers or 250 miles apart.
+:   Using two sites in two regions in the same geography represents the highest level of protection against natural disasters as sites are generally over 400 kilometers or 250 miles apart.
 
 Geography
 :   Selecting two sites in different geographies extends the level of protection against natural disasters. Geographies are generally over 1500 kilometers or 1000 miles apart, thus representing the optimal option in terms of wider protection requirements.
@@ -122,6 +122,3 @@ More documentation resources:
 - [Build resilient applications on the cloud](https://www.ibm.com/cloud/architecture/architectures/resilience/overview){: external}
 - [Secure web applications across multiple regions](/docs/tutorials?topic=solution-tutorials-multi-region-webapp#secure-web-application-across-multiple-regions)
 - [Resilient and secure multi-region Kubernetes clusters with {{site.data.keyword.cloud_notm}} Internet Services](/docs/solution-tutorials?topic=solution-tutorials-multi-region-k8s-cis)
-
-
-
