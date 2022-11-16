@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2021
-lastupdated: "2021-11-17"
+  years: 2021, 2022
+lastupdated: "2022-11-16"
 
 keywords: resiliency orchestrator
 
@@ -47,12 +47,12 @@ In DR steady-state, where the data is getting replicated to the DR, {{site.data.
 ### Disaster recovery test
 {: #dr-test-2}
 
-{{site.data.keyword.IBM_notm}} CRO fully automates the DR test process including provisioning the server, attaching the volumes, bringing up the servers, configuring the network, starting the databases and applications, performing configuration changes, and more across the full stack of the application. It understands the dependencies between the various applications and the tiers of the application and orchestrates the complete process of bringing up the servers, databases, and applications based on the recovery order specified. This greatly simplifies the entire DR test process reducing the time that is taken to perform a test. This automation of the test process is built using the Recover Automation Library (RAL) and hence eliminates the development and maintenance of the scripts, which is the traditional way of achieving automation.  
+{{site.data.keyword.IBM_notm}} CRO fully automates the DR test process including provisioning the server, attaching the volumes, bringing up the servers, configuring the network, starting the databases and applications, performing configuration changes, and more across the full stack of the application. It understands the dependencies between the various applications and the tiers of the application and orchestrates the complete process of bringing up the servers, databases, and applications based on the recovery order specified. This greatly simplifies the entire DR test process reducing the time that is taken to perform a test. This automation of the test process is built using the Recover Automation Library (RAL) and hence eliminates the development and maintenance of the scripts, which is the traditional way of achieving automation.
 
-### Failover  
+### Failover
 {: #failover-2}
 
-The same orchestration capabilities and RALs are used to automate the complete failover process to recover the applications on the DR site. Similar to the DR test scenario, {{site.data.keyword.IBM_notm}} CRO recovers the complete application stack bringing up the servers, databases, and applications in the right order based on the dependencies and recovery order of that application. Since the entire operation is automated, the recovery process is quick, reliable, and reduces the dependencies on humans.
+The same orchestration capabilities and RALs are used to automate the complete failover process to recover the applications on the DR site. Similar to the DR test scenario, {{site.data.keyword.IBM_notm}} CRO recovers the complete application stack bringing up the servers, databases, and applications in the correct order based on the dependencies and recovery order of that application. Since the entire operation is automated, the recovery process is quick, reliable, and reduces the dependencies on humans.
 
 ![Failover architecture diagram](images/BCDR-Architecture-Diagram-Failover.svg "Failover"){: caption="Figure 2. An architecture diagram for failover" caption-side="bottom"}
 
@@ -61,18 +61,18 @@ The same orchestration capabilities and RALs are used to automate the complete f
 - Continuous replication is configured for the VM.
 - Data writes on the VM disks are continuously transferred to the cache storage account in the source location.
 
-After continuous replication is working, disk writes are immediately transferred to the cache storage account. Site recovery processes the data and sends it to the target storage account. After the data is processed, recovery points are generated in the target storage account every few minutes.  
+After continuous replication is working, disk writes are immediately transferred to the cache storage account. Site recovery processes the data and sends it to the target storage account. After the data is processed, recovery points are generated in the target storage account every few minutes.
 
-#### Failover process  
+#### Failover process
 {: #failover-process}
 
 When you initiate a failover, the VMs are created in the target resource group, target virtual network, target subnet, and the target availability set. During a failover, you can select to use any recovery point.
 
 The following steps provide a simplified description of a failover event.
 
-- A failover event is triggered on the target host. If possible, it notifies the source host.  
-- The failover event is completed on the target host. This is a distinct step from the failover start with the purpose of allowing you to cancel a failover operation.  
-- The replica VM is now the active copy.  
+- A failover event is triggered on the target host. If possible, it notifies the source host.
+- The failover event is completed on the target host. This is a distinct step from the failover start with the purpose of allowing you to cancel a failover operation.
+- The replica VM is now the active copy.
 - When the primary site is recovered or rebuilt, replica is reestablished in reverse mode.
 - A planned failover event makes the rebuilt replica in the primary site into the active copy again.
 
