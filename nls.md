@@ -2,7 +2,7 @@
 
 copyright:
   years: 2014, 2022
-lastupdated: "2022-08-17"
+lastupdated: "2022-11-17"
 
 keywords: translation, national language support
 
@@ -20,7 +20,7 @@ subcollection: overview
 
 The {{site.data.keyword.cloud_notm}} console and the Support Center display content according to your browser's language setting.
 
-The {{site.data.keyword.cloud_notm}} docs are machine translated. You can switch between languages by using the **Language** switcher at the top of each page. The language that you select persists between sessions. If it's the first time you're viewing the docs in a particular browser, the docs display the content according to your browser's language setting unless the URL includes a parameter setting the language.
+The {{site.data.keyword.cloud_notm}} docs are machine translated. You can switch between languages by using the **Language** switcher at the beginning of each page. The language that you select persists between sessions. If it's the first time you're viewing the docs in a particular browser, the docs display the content according to your browser's language setting unless the URL includes a parameter setting the language.
 
 The following table lists the supported national languages and language codes for {{site.data.keyword.cloud_notm}}.
 
