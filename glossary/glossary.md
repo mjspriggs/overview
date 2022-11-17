@@ -2,7 +2,7 @@
 
 copyright:
   years: 2016, 2022
-lastupdated: "2022-10-18"
+lastupdated: "2022-11-17"
 
 keywords: glossary, IBM Cloud glossary, terms, definitions
 
@@ -177,7 +177,7 @@ See [authentication](#x2014567).
 ### authorization (AuthZ)
 {: #x2014653}
 
-In computer security, the right granted to a user to communicate with or make use of a computer system.
+In computer security, the permission granted to a user to communicate with or make use of a computer system.
 
 ### AuthZ
 {: #x7470448}
