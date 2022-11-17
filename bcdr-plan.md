@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2021
-lastupdated: "2021-11-22"
+  years: 2021, 2022
+lastupdated: "2022-11-16"
 
 keywords: disaster recovery plan, DR, resilient app, plan for DR, DR objectives
 
@@ -155,7 +155,7 @@ Impacts
 
 For more details, see [Configuring read-only replicas](/docs/databases-for-postgresql?topic=databases-for-postgresql-read-only-replicas).
 
-**Basic Steps:**
+Here are the basic steps:
 
 1. Create instance in primary MZR (for example, Dallas)
 2. Create read-only replica in DR MZR (for example, Washington, DC)
@@ -212,15 +212,13 @@ In this scenario, the data is always available in both MZRs through cross-region
 
 The [advanced recovery class](/docs/overview?topic=overview-understanding-dr#plan-objectives) requires that the platform is available in less than an hour in the event of a disaster where the primary MZR becomes unavailable. To achieve this with {{site.data.keyword.codeenginefull_notm}}, it is necessary to have a fully configured instance of the {{site.data.keyword.codeenginefull_notm}} project up and running in hot standby mode in the backup MZR. This includes:
 
-**Platform:**
+Platform
+:   All applications deployed with the same version as deployed in primary MZR
 
-- All applications deployed with the same version as deployed in primary MZR
-
-**Application:**
-
-- All applications deployed with the same version as deployed in primary MZR
-- Dependent services provisioned and necessary data replication strategy in place (bidirectional, read-only replica, backup, and restore, and so on)
-- Service credentials and service bindings
+Application
+:   All applications deployed with the same version as deployed in primary MZR
+:   Dependent services provisioned and necessary data replication strategy in place (bidirectional, read-only replica, backup, and restore, and so on)
+:   Service credentials and service bindings
 
 When planning for an advanced recovery profile application, more options are available to application owners in terms of whether preprovisioning of resources is required. There is a tradeoff between the cost of maintaining preprovisioned compute, such as {{site.data.keyword.codeenginefull_notm}} or {{site.data.keyword.containershort}}, capacity and the risk of it taking longer than the RTO to provision or scale up the capacity needed.
 
@@ -271,4 +269,3 @@ Refer to the following backup and restore procedures:
 - [Managing backups for {{site.data.keyword.databases-for-elasticsearch}}](/docs/services/databases-for-elasticsearch?topic=cloud-databases-dashboard-backups)
 - [Managing backups for {{site.data.keyword.databases-for-postgresql}}](/docs/services/databases-for-postgresql?topic=cloud-databases-dashboard-backups)
 - [Backups and restoration for {{site.data.keyword.databases-for-redis}}](/docs/services/databases-for-redis?topic=cloud-databases-dashboard-backups#backups-and-restoration)
-
