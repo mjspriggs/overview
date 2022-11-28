@@ -2,7 +2,7 @@
 
 copyright:
   years: 2021
-lastupdated: "2022-11-16"
+lastupdated: "2022-11-28"
 
 keywords: disaster recovery, DR, what is disaster recovery, DR strategy, disaster recovery options, disaster recovery strategy
 
@@ -97,8 +97,8 @@ You should define the recovery objectives for your application and the disaster 
 | Recovery classes | RTO | RPO |
 |------------------|----------------|----------------|
 | Continuous availability | &lt;= 1 hour | &lt;= 1 hour |
-| Advanced recovery | &gt; 1 hour - &lt;= 72 hours | &lt;2 hours - &lt;72 hours |
-| Standard recovery | &gt; 72 Hr | Last backup |
+| Advanced recovery | &amp;gt; 1 hour - &lt;= 72 hours | &lt;2 hours - &lt;72 hours |
+| Standard recovery | &amp;gt; 72 Hr | Last backup |
 | No recovery | n/a | n/a |
 {: caption="Table 1. Example RTO and RPO requirements" caption-side="top"}
 
