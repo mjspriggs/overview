@@ -2,7 +2,7 @@
 copyright:
   years: 2022
 
-lastupdated: "2022-12-15"
+lastupdated: "2022-11-30"
 
 keywords: onboard to cloud, get started on {{site.data.keyword.cloud_notm}}, account set up
 
@@ -23,7 +23,7 @@ Use these checklists to create and configure your {{site.data.keyword.cloud}} ac
 
 If you have little to no experience with {{site.data.keyword.cloud_notm}}, or you need a refresher on the {{site.data.keyword.cloud_notm}} platform, start with the following tasks.
 
-| Task status | Description |
+| Task | Description |
 |-|-------------|
 | - [ ] **Learn about the {{site.data.keyword.cloud_notm}} platform**  | Review the [What is the {{site.data.keyword.cloud_notm}} platform?](/docs/overview?topic=overview-whatis-platform) documentation to get familiar. |
 | - [ ] **Understand your options for working with resources in {{site.data.keyword.cloud_notm}}** | To create and manage resources in {{site.data.keyword.cloud_notm}}, you can use any of the following tools: \n * [{{site.data.keyword.cloud_notm}} console](cloud.ibm.com) \n * [{{site.data.keyword.cloud_notm}} Command Line Interface (CLI)](https://github.com/IBM-Cloud/ibm-cloud-cli-release) \n * [{{site.data.keyword.cloud-shell_notm}}](/shell). \n * [{{site.data.keyword.bpfull_notm}}](/schematics) \n * Each service offers a set of APIs and SDKs available as part of their documentation. |
@@ -48,7 +48,7 @@ Enterprise
 
 Use the following checklist to track all of the tasks to create and configure your {{site.data.keyword.cloud_notm}} account or enterprise. 
 
-| Task status | Description |
+| Task | Description |
 |-|-------------|
 | - [ ] **What's in an account?**  | Your {{site.data.keyword.cloud_notm}} account includes many interacting components and systems for resource, user, and access management. Understanding concepts like how certain components are connected or how access works help you effectively set up your account. For more information, see [What's in an account](/docs/account?topic=account-overview). |
 | - [ ] **Determine if you need an enterprise** | When you create an enterprise to manage your billing, you can move existing stand-alone accounts to it, or create new accounts as needed. Consider the following when determining whether you need an enterprise or a stand-alone account: \n * In an enterprise, subscription discounts and cloud credits are available to all accounts that are in the enterprise. \n * Stand-alone accounts control their own billing. If your company is globally distributed, you might have a mix of multiple enterprises and stand-alone accounts to support regional billing requirements. \n \n Review the [What is an enterprise?](/docs/account?topic=account-what-is-enterprise&interface=ui) documentation to determine whether you need an enterprise. |
@@ -68,7 +68,7 @@ Use the following checklist to track all of the tasks to create and configure yo
 
 As an account owner or a user in the account with the required access roles that are assigned for managing account settings and IAM access for users, you can complete tasks on the following checklist. Review and complete the following tasks to learn about how you can ensure the security of your account and resources.
 
-| Task status | Description |
+| Task | Description |
 |-|-------------|
 | - [ ] **Set up multifactor authentication** | Multifactor authentication (MFA) adds an extra layer of security to your account by requiring all users to authenticate by using an extra authentication factor beyond an ID and password. This is also commonly known as two-factor authentication (2FA). \n \n Review the [types of multifactor authentication](/docs/account?topic=account-types) that can be enabled for your account. \n Follow the steps in [enabling MFA for your account](/docs/account?topic=account-enablemfa) to configure the setting that is most appropriate for your company.|
 | - [ ] **Identity and Access Management (IAM) overview** | Learn about what {{site.data.keyword.cloud_notm}} IAM is, how IAM works, what features are available, and how to access the console, CLI, and APIs to work with IAM in your account. Learn more about [how {{site.data.keyword.cloud_notm}} IAM works](/docs/account?topic=account-iamoverview). |
@@ -85,7 +85,7 @@ As an account owner or a user in the account with the required access roles that
 
 Account owners and users with the administrator role on the [billing account management service](/docs/account?topic=account-account-services&interface=ui#billing-acct-mgmt) have access to monitor and manage billing, usage, invoices, payments, and more. Complete the following checklist to get familiar with the best practices and tools that you use to manage and track billing and usage in the account.
 
-| Task status | Description |
+| Task | Description |
 |-|-------------|
 | - [ ] **How to manage billing and usage** |  Learn about the {{site.data.keyword.cloud_notm}} billing options and tools that you can use to track your usage and manage invoicing and payments. Check out the [How can I manage billing and usage in {{site.data.keyword.cloud_notm}}](/docs/billing-usage?topic=billing-usage-overview) video. |
 | - [ ] **Understand suspended billing on {{site.data.keyword.vsi_is_short}}**  | Suspended billing is an option that is available for virtual server instances running on VPC. It is not available for bare metal or dedicated hosts on VPC. With suspended billing, there are some resources, for example network and storage that continue billing. Learn more about [suspended billing for VPC](/docs/vpc?topic=vpc-suspend-billing). |
@@ -101,7 +101,7 @@ Account owners and users with the administrator role on the [billing account man
 
 As the need for global reach and 24/7 operations of web applications increases, the need to host services in multiple cloud data centers increases too. Data centers across multiple locations provide resilience in the case of a geographic failure and bring workloads closer to globally distributed users, which reduces latency and increases perceived performance. The {{site.data.keyword.cloud_notm}} network enables users to link workloads hosted in secure private networks across data centers and locations. Use the following checklist to review the available options and to connect your existing on-premises environments to {{site.data.keyword.cloud_notm}}.
 
-| Task status | Description |
+| Task | Description |
 |-|-------------|
 | - [ ] **Enable virtual routing and forwarding (VRF)** | Dispersed cloud resources are resources in more than one location or in more than one subnet or VLAN. These types of resources require a routing function to communicate among themselves, even within a private network context. New accounts that are created in {{site.data.keyword.cloud_notm}} have a "multiple isolation" tenancy communication option, which is often called a customer VRF, enabled. Verify that it is enabled in your account, or enable it after confirming potential service disruptions if you have existing resources in your account. Follow the steps in the [Enabling VRF in the console](/docs/account?topic=account-vrf-service-endpoint&interface=ui#vrf) documentation. |
 | - [ ] **Enable service endpoints** | It is also recommended to enable your account for using service endpoints. When {{site.data.keyword.cloud_notm}} service endpoints are enabled in your account, you can choose to expose a private network endpoint when you create a resource. You can then connect directly to this endpoint over the {{site.data.keyword.cloud_notm}} private network rather than the public network. Because resources that use private network endpoints don't have an internet-routable IP address, connections to these resources are more secure. Follow the steps that are outlined in [Enabling service endpoints](/docs/account?topic=account-vrf-service-endpoint&interface=ui#service-endpoint). |
@@ -119,7 +119,7 @@ As the need for global reach and 24/7 operations of web applications increases, 
 
 Analyze logs, collect metrics, and configure near real-time alerts on your cloud resources and applications.
 
-| Task status | Description |
+| Task | Description |
 |-|-------------|
 | - [ ] **Create platform logs**   | You can use {{site.data.keyword.loganalysislong_notm}} to manage operating system logs, application logs, and platform logs in the {{site.data.keyword.cloud_notm}}. Platform logs are logs that are exposed by enabled services and the platform in {{site.data.keyword.cloud_notm}}. You must configure a logging instance in a region to monitor these logs. Learn more about [configuring {{site.data.keyword.loganalysislong_notm}} platform logs](/docs/log-analysis?topic=log-analysis-config_svc_logs). |
 | - [ ] **Create a dedicated logging instance (optional)** | {{site.data.keyword.loganalysislong_notm}} offers administrators, DevOps teams, and developers advanced features to filter, search, and tail log data, define alerts, and design custom views to monitor application and system logs. Learn more about [getting started with {{site.data.keyword.loganalysislong_notm}}](/docs/log-analysis?topic=log-analysis-getting-started). |
@@ -136,7 +136,7 @@ Analyze logs, collect metrics, and configure near real-time alerts on your cloud
 
 Use the following checklist to create user and service identities in your accounts. Then, create access and resource groups for organizing users and resources to streamline the access management process. Account owners or users with the administrator role on all [IAM account management services](/docs/account?topic=account-account-services&interface=ui#console-iam-services), which includes services such as the user management, access groups, identity service, and more can complete these tasks.
 
-| Task status | Description |
+| Task | Description |
 |-|-------------|
 | - [ ] **Create access groups** | Access groups are used to organize a set of users and service IDs into a single entity to enable the assignment of policies to the group instead of assigning the same access multiple times per individual user or service ID. A logical way to assign access to resource groups is by creating one access group per required level of access. Then, each access group is mapped to the needed resource groups. Examples of access groups that you should consider would be Admin and Developer. Check out the [What makes a good access group strategy](/docs/account?topic=account-account_setup#accessgroup_strategy) best practices documentation. |
 | - [ ] **Configure access groups for {{site.data.keyword.cloudaccesstrailshort}} and {{site.data.keyword.loganalysisshort}}** | You can configure, control, and manage events and logging data that is available to users by configuring groups in the logging instance. Access groups provide extra security by allowing users to see only a subset of auditing events, as opposed to all auditing events that are generated in the account. For example, you might grant a group of users access to see auditing events that are only related to development services in the account. Learn more by reviewing [Using groups to control data access](/docs/log-analysis?topic=log-analysis-group_data_access) and [RBAC, groups, and IAM integration](/docs/log-analysis?topic=log-analysis-iam_grant_group). |
@@ -154,7 +154,7 @@ Use the following checklist to create user and service identities in your accoun
 
 If you experience problems with {{site.data.keyword.cloud_notm}}, you have several options to get help determining the cause of the problem and finding a solution. If you’re logged into your account, you can go directly to the Support center to review product topics and featured FAQs, open or manage a support case, or search community content. Use this checklist to identify support options that are available, including training and tutorials.
 
-| Task status  | Description |
+| Task  | Description |
 |-|-------------|
 | - [ ] **What's new in {{site.data.keyword.cloud_notm}}** | Stay up to date with the new features that are available on the {{site.data.keyword.cloud_notm}} platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience. Check out the [what's new](/docs/overview?topic=overview-whatsnew) documentation for the platform and the [announcements blog](https://www.ibm.com/cloud/blog/announcements){: external}. |
 | - [ ] **Viewing cloud status** | The {{site.data.keyword.cloud_notm}} Status page is the central place to find details about all incidents, planned maintenance, announcements, release notes, and security bulletins about key events that affect the {{site.data.keyword.cloud_notm}} platform and services. Learn more about [viewing cloud status](/docs/get-support?topic=get-support-viewing-cloud-status). |
