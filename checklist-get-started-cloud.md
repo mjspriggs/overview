@@ -2,7 +2,7 @@
 copyright:
   years: 2022
 
-lastupdated: "2022-11-30"
+lastupdated: "2022-12-15"
 
 keywords: onboard to cloud, get started on {{site.data.keyword.cloud_notm}}, account set up
 

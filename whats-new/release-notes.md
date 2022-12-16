@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2022
 
-lastupdated: "2022-11-16"
+lastupdated: "2022-12-15"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -19,6 +19,16 @@ content-type: release-note
 
 Stay up-to-date with the new features that are available on the {{site.data.keyword.Bluemix}} platform so that you get the most out of your {{site.data.keyword.Bluemix_notm}} experience.
 {: shortdesc}
+
+## December 2022
+{: #december-2022}
+
+### 15 December 2022
+{: #overview-dec1522}
+{: release-note}
+
+Checklist for getting started on {{site.data.keyword.cloud_notm}}
+:   A new checklist is now available in the {{site.data.keyword.cloud_notm}} docs for [Getting started on {{site.data.keyword.cloud_notm}}](/docs/overview?topic=overview-get-started-checklist). This checklist outlines the tasks for you to complete to accelerate your journey to cloud by guiding you through your account setup and organization of resources.
 
 ## October 2022
 {: #october-2022}

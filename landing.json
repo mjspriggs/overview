@@ -1,6 +1,6 @@
 {
   "title": "IBM Cloud overview docs",
-  "lastupdated": "2022-10-10",
+  "lastupdated": "2022-12-15",
   "introduction": "The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model. Leverage the docs, API & SDK reference, architecture references, and more to support your app development needs.",
   "section_devtools": {
     "api": "/docs?tab=api-docs&category=platform_services",
@@ -41,6 +41,11 @@
     "view_more": "/docs/overview?topic=overview-whatsnew",
     "tiles": [
       {
+        "date": "15 December 2022",
+        "title": "Checklist for getting started on IBM Cloud",
+        "description": "A new checklist is now available in the IBM Cloud docs for Getting started on IBM Cloud. This checklist outlines the tasks for you to complete that will accelerate your journey to cloud and guide you through your account setup and organization of resources."
+      },
+      {
         "date": "10 October 2022",
         "title": "A new way to provide the IBM Cloud docs team your feedback",
         "description": "We want to hear from you! Let us know about your experience with the IBM Cloud docs or API docs by submitting your feedback from the Feedback button. You can tell us what you love and even what you’d like to see improved, so we can work together to ensure that you always enjoy the IBM Cloud documentation."
@@ -49,11 +54,6 @@
         "date": "07 October 2022",
         "title": "Setting an alternative account owner",
         "description": "As the owner of an account with classic infrastructure, you can set a trusted profile as the alternative account owner. An alternative account owner ensures that you always have a secure way to manage account ownership if your account owner leaves your organization or isn't available."
-      },
-      {
-        "date": "04 October 2022",
-        "title": "Catalog integration with Virtual Private Cloud custom images",
-        "description": "ISV Partners and IBM Cloud customers can now import custom VPC images directly to their account or enterprise, or sell on the IBM Cloud catalog without depending on Terraform."
       }
     ]
   }
