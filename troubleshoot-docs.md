@@ -4,7 +4,7 @@ copyright:
 
   years: 2020, 2022
 
-lastupdated: "2022-08-01"
+lastupdated: "2022-12-27"
 
 keywords: can't access docs, broken link, docs won't display
 
@@ -26,11 +26,8 @@ If you go to an {{site.data.keyword.cloud}} docs page and the content doesn't di
 You click a docs link, select a docs search result, or follow an existing bookmark to the {{site.data.keyword.cloud_notm}} docs, and the following error is displayed.
 {: tsSymptoms}
 
-```text
-Sorry, this content isn't available.
-The information you're looking for might have moved. Try searching the IBM Cloud Docs to find related content.
-```
-{: screen}
+> Sorry, this content isn't available.
+> The information you're looking for might have moved. Try searching the IBM Cloud Docs to find related content.
 
 The page might have been moved or removed entirely, or the link itself might be incorrect.
 {: tsCauses}

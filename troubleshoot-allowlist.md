@@ -4,7 +4,7 @@ copyright:
 
   years: 2020, 2022
 
-lastupdated: "2022-08-01"
+lastupdated: "2022-12-27"
 
 keywords: can't access docs, allowlisted docs
 
@@ -20,16 +20,15 @@ content-type: troubleshoot
 {: #troubleshoot-allowlist}
 {: troubleshoot}
 
-Some documentation in {{site.data.keyword.cloud}} has limited visibility, where access is controlled by an allowlist. Only accounts that are given access to these docs can view them. 
+Some documentation in {{site.data.keyword.cloud}} has limited visibility, where access is controlled by an allowlist. Only accounts that are given access to these docs can view them.
 {: shortdesc}
 
 You try to view documentation in {{site.data.keyword.cloud_notm}}, but the content doesn't load and the following error is displayed.
 {: tsSymptoms}
 
-```text
-Looks like you don't have access to this content.
-Click Console to open the IBM Cloud console and verify that you're in the correct account.
-```
+> Looks like you don't have access to this content.
+> Click Console to open the IBM Cloud console and verify that you're in the correct account.
+
 {: screen}
 
 Access to documentation is granted by account rather than by user. The account that you're in doesn't have access to this content.
