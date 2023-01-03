@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2020, 2022
+  years: 2020, 2023
 
-lastupdated: "2022-12-27"
+lastupdated: "2023-01-03"
 
 keywords: can't access docs, broken link, docs won't display
 
@@ -27,6 +27,7 @@ You click a docs link, select a docs search result, or follow an existing bookma
 {: tsSymptoms}
 
 > Sorry, this content isn't available.
+
 > The information you're looking for might have moved. Try searching the IBM Cloud Docs to find related content.
 
 The page might have been moved or removed entirely, or the link itself might be incorrect.
