@@ -1,11 +1,9 @@
 ---
 
-
-
 copyright:
 
-  years: 2015, 2021
-lastupdated: "2020-12-10"
+  years: 2015, 2023
+lastupdated: "2023-01-03"
 
 keywords: terms of use, IBM Cloud, CSA, Cloud Service Agreement
 
@@ -51,6 +49,12 @@ Your {{site.data.keyword.cloud_notm}} account and any services that are ordered 
 
 Applicable Additional SDs for any service ordered using your {{site.data.keyword.cloud_notm}} account are available at [http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm](http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm){: external} . The additional SDs contain links to the applicable Data Sheet for each service.
 
+## Exchange Rate Policy
+{: #exchange-rates}
+
+Effective 1 February 2023, {{site.data.keyword.cloud_notm}} will adjust the exchange rates used to provide pricing in non-US dollar currencies on a monthly basis. Charges for cloud services are based on US dollars. Non-US dollar pricing is calculated by converting the US dollar rate by using market exchange rates published by leading financial institutions. Market exchange rates will be adjusted monthly, except as prohibited or controlled by applicable law.
+
+{{site.data.keyword.IBM_notm}} uses leading financial institution benchmark rates set at the end of the month to go into effect for consumption starting the first day of the next month. The corresponding invoice will be sent 30 days later. For example, {{site.data.keyword.IBM_notm}} will set the exchange rate at the end of January effective for consumption in February. Customers will see the impact of the new rates in their March invoice. 
 
 ## {{site.data.keyword.IBM_notm}} Business Associate Addendum
 {: #baa}
