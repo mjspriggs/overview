@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2020, 2022
+  years: 2020, 2023
 
-lastupdated: "2022-08-01"
+lastupdated: "2023-01-03"
 
 keywords: no faq results, no tutorial results
 
@@ -28,19 +28,17 @@ You filter for content in the {{site.data.keyword.cloud_notm}} docs [FAQ library
 
 In the FAQ library:
 
-```text
-No FAQs found
-It seems we can't find what you're looking for. Try updating your filter selections.
-```
-{: screen}
+
+> No FAQs found
+
+> It seems we can't find what you're looking for. Try updating your filter selections.
+
 
 In the tutorials library:
 
-```text
-No tutorials found
-Sorry, there are no tutorials that match your criteria. Try updating your filter selections.
-```
-{: screen}
+> No tutorials found
+
+> Sorry, there are no tutorials that match your criteria. Try updating your filter selections.
 
 There might not be any content with your selected filters, or a topic might not be set with the correct filter value.
 {: tsCauses}
