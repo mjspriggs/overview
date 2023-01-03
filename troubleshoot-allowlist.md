@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2020, 2022
+  years: 2020, 2023
 
-lastupdated: "2022-12-27"
+lastupdated: "2023-01-03"
 
 keywords: can't access docs, allowlisted docs
 
@@ -27,6 +27,7 @@ You try to view documentation in {{site.data.keyword.cloud_notm}}, but the conte
 {: tsSymptoms}
 
 > Looks like you don't have access to this content.
+
 > Click Console to open the IBM Cloud console and verify that you're in the correct account.
 
 {: screen}
