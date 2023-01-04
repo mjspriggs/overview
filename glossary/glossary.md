@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2016, 2022
-lastupdated: "2022-11-17"
+  years: 2016, 2023
+lastupdated: "2023-01-04"
 
 keywords: glossary, IBM Cloud glossary, terms, definitions
 
@@ -70,8 +70,8 @@ Analyzing machine learning model scores to determine whether changes are needed 
 ### action
 {: #x2012974}
 
-- A task that is performed in the context of a service.
 - A code snippet that can be explicitly invoked, or run in response to an event. See also [feed](#x3129185), [invoke](#x2057232).
+- A task that is performed in the context of a service.
 
 ### adjudication
 {: #x3096333}
@@ -106,8 +106,8 @@ A role that is responsible for managing the full annotation lifecycle activities
 ### annotation set
 {: #x9504010}
 
-- In human annotation, a collection of documents that are extracted from the corpus that allow the workload to be shared by multiple human annotators.
 - In machine-based annotation, a collection of documents that can be used as blind data, training data, or test data.
+- In human annotation, a collection of documents that are extracted from the corpus that allow the workload to be shared by multiple human annotators.
 
 ### anti-affinity
 {: #x8888040}
@@ -159,6 +159,11 @@ An application programming interface that provides rich functionality for intera
 
 Tangible or intangible goods, services, or property represented as an entity that is traded on a blockchain network.
 
+### attachment
+{: #x2014428}
+
+In Security and Compliance Center, the connection between a profile and scope.
+
 ### attribute
 {: #x2000252}
 
@@ -177,7 +182,7 @@ See [authentication](#x2014567).
 ### authorization (AuthZ)
 {: #x2014653}
 
-In computer security, the permission granted to a user to communicate with or make use of a computer system.
+In computer security, the right granted to a user to communicate with or make use of a computer system.
 
 ### AuthZ
 {: #x7470448}
@@ -413,6 +418,21 @@ An access management method that defines and enforces access for resources based
 
 A technical, administrative, or physical safeguard designed to meet a set of defined security and privacy requirements. Controls exist to prevent, detect, or lessen the ability of a threat to exploit a vulnerability.
 
+### control assessment
+{: #x10134907}
+
+The evaluation of a configuration for compliance with applicable standards.
+
+### control library
+{: #x8454197}
+
+A collection of similar predefined or custom controls.
+
+### control specification
+{: #x2018576}
+
+A statement that defines the specific security and privacy requirements that a control must meet.
+
 ### coreference
 {: #x9440294}
 
@@ -615,8 +635,8 @@ In software licensing, the maximum allowed allocation of capacity as determined 
 {: #x2026945}
 
 - A person, object, or concept about which information is stored.
-- A mention that is annotated by an entity type.
 - A set of details that are held about a real-world object such as a person, location, or bank account. An entity is a kind of item.
+- A mention that is annotated by an entity type.
 
 ### entity type
 {: #x2760649}
@@ -1133,6 +1153,11 @@ context: Typically, a single membership service provider is used to represent a 
 
 A span of text that is considered relevant ina domain data. For example, in a type system about automotive vehicles, occurrences of terms such as "airbag", "Ford Explorer", and "child restraint system" might be relevant mentions.
 
+### microservice
+{: #x8379238}
+
+A set of small, independent architectural components, each with a single purpose, that communicate over a common lightweight API.
+
 ### ML
 {: #x9766880}
 
@@ -1220,8 +1245,8 @@ See [natural language processing](#x2031058).
 ### node
 {: #x2003286}
 
-- A physical component of the blockchain network infrastructure, namely a peer, Certificate Authority (CA), or ordering node.
 - A member of a cluster that runs as a container or virtual machine on shared hardware.
+- A physical component of the blockchain network infrastructure, namely a peer, Certificate Authority (CA), or ordering node.
 
 
 ## O
@@ -1421,7 +1446,7 @@ A .pear archive file that includes an Unstructured Information Management Archit
 ### profile
 {: #x2034950}
 
-- A collection of controls used to evaluate whether technology and services are configured in compliance with security policies. See also [rule](#x2037526), [scope](#x2037763).
+- In Security and Compliance Center, a grouping of similar controls that can be used to evaluate resource configuration for compliance.A profile can be customized to fit specific use cases by editing the default parameters. See also [rule](#x2037526), [scope](#x2037763).
 - A specification of a resource's capacities and capabilities. Different profiles are optimized for different workloads and use cases. A resource's pricing model might depend on its profile.
 
 ### promo code
@@ -1673,15 +1698,10 @@ A cloud extension that provides ready-for-use functionality, such as database, m
 
 An association between an application and a service instance that contains the application credentials that are used to communicate with the service instance.
 
-### service credential
-{: #x8878996}
-
-A set of API endpoint information and enrollIDs or secrets that are used to interact with network resources, such as CAs, orderers, and peers, in a blockchain network.
-
 ### service endpoint
 {: #x2871419}
 
-The physical address of a service which implements one or more interfaces.
+The physical address of a service that implements one or more interfaces.
 
 ### service ID
 {: #x9148163}
@@ -1959,8 +1979,8 @@ See [Uniform Resource Locator](#x2042491).
 ### user
 {: #x2069659}
 
-- An IBMid or SoftLayer ID that is used as a person's identity in an account.
 - A participant in a blockchain network that has indirect access to the ledger through a trust relationship to an existing member.
+- An IBMid or SoftLayer ID that is used as a person's identity in an account.
 
 ### user registry
 {: #x2042894}
