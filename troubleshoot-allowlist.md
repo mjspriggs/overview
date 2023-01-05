@@ -27,10 +27,8 @@ You try to view documentation in {{site.data.keyword.cloud_notm}}, but the conte
 {: tsSymptoms}
 
 > Looks like you don't have access to this content.
-
+>
 > Click Console to open the IBM Cloud console and verify that you're in the correct account.
-
-{: screen}
 
 Access to documentation is granted by account rather than by user. The account that you're in doesn't have access to this content.
 {: tsCauses}
