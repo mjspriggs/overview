@@ -1,8 +1,8 @@
 ---
 copyright:
-  years: 2015, 2022
+  years: 2015, 2023
 
-lastupdated: "2022-12-15"
+lastupdated: "2023-01-09"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -19,6 +19,16 @@ content-type: release-note
 
 Stay up-to-date with the new features that are available on the {{site.data.keyword.Bluemix}} platform so that you get the most out of your {{site.data.keyword.Bluemix_notm}} experience.
 {: shortdesc}
+
+## January 2023
+{: #january-2023}
+
+### 09 January 2023
+{: #overview-09jan23}
+{: release-note}
+
+Save and share multiple estimates by using the {{site.data.keyword.cloud_notm}} Cost Estimator
+:   The {{site.data.keyword.cloud_notm}} Cost Estimator now allows a customer to save multiple estimates to their account and share those estimates with users that belong to the same account. For more information, see [Estimating your costs](/docs/billing-usage?topic=billing-usage-cost).
 
 ## December 2022
 {: #december-2022}
