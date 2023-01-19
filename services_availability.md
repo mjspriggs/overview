@@ -2,8 +2,8 @@
 
 copyright:
 
-  years: 2015, 2022
-lastupdated: "2022-02-11"
+  years: 2015, 2023
+lastupdated: "2023-01-19"
 
 keywords: lifecycle, end of support, service availability, deprecation, product availability, product release level, extended support, terms
 
@@ -24,15 +24,14 @@ subcollection: overview
 The following table lists the products that {{site.data.keyword.IBM}} will not withdraw support for before the indicated date, unless a functional equivalent is provided.
 
 | Name | Continued support through |
-| ------------- | -------------------------- |  
+| ------------- | -------------------------- |
 | {{site.data.keyword.apiconnect_short}} | 2026-07-31  |
 | {{site.data.keyword.cloudant}} | 2026-12-31 |
 | {{site.data.keyword.openwhisk_short}} | 2026-12-31 |
-| {{site.data.keyword.containershort_notm}} | 2026-12-31 |
-| {{site.data.keyword.databases-for-postgresql}} | 2026-12-31 |
+| {{site.data.keyword.containershort_notm}} | 2027-12-31 |
+| {{site.data.keyword.databases-for-postgresql}} | 2027-12-31 |
 | {{site.data.keyword.dashdbshort}} | 2026-12-31 |
-| {{site.data.keyword.iot_short}} | 2026-07-31 |
-| {{site.data.keyword.messagehub}} | 2026-12-31 |
+| {{site.data.keyword.messagehub}} | 2027-12-31 |
 | {{site.data.keyword.objectstorageshort}} | 2026-12-31 |
 | {{site.data.keyword.appid_short}} | 2026-12-31 |
 {: caption="Table 1. Product support" caption-side="top"}
