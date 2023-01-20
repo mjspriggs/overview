@@ -21,14 +21,14 @@ subcollection: overview
 ## New US-based Pay-As-You-Go accounts with credit card billing
 {: #newuspaygo}
 
-As of 10 December 2020, new {{site.data.keyword.cloud}} Pay-As-You-Go accounts for US customers with credit card billing, and any services that are ordered from {{site.data.keyword.cloud_notm}}, are provided under the terms of the Service Description for {{site.data.keyword.cloud_notm}} available at [https://www.ibm.com/support/customer/csol/terms/?id=i126-6605](http://www.ibm.com/terms/?id=i126-6605){: external} and one of the following base agreements:
+As of 10 December 2020, new {{site.data.keyword.cloud}} Pay-As-You-Go accounts for US customers with credit card billing, and any services that are ordered from {{site.data.keyword.cloud_notm}}, are provided under the terms of the Service Description for {{site.data.keyword.cloud_notm}} available at [https://www.ibm.com/terms/?id=i126-6605](https://www.ibm.com/terms/?id=i126-6605){: external} and one of the following base agreements:
 
 * {{site.data.keyword.cloud_notm}} Services Agreement available at [https://www.ibm.com/support/customer/csol/terms/](https://www.ibm.com/support/customer/csol/terms/){: external}
 * {{site.data.keyword.IBM}} Passport Advantage Agreement you accepted upon registration and the General Terms for Cloud Offerings TOU for {{site.data.keyword.IBM_notm}} Passport Advantage Clients available at [http://www.ibm.com/terms/?id=i126-5948](http://www.ibm.com/terms/?id=i126-5948){: external}
 * Cloud Trial Agreement for Proof of Concept (POC) Accounts available at [http://www.ibm.com/terms/?id=i126-5948](http://www.ibm.com/terms/?id=i126-5948){: external} ; POC accounts might be provided for assessment of specific services, solutions or both. Use of services beyond the intended scope of POC may be possible, but might be subjected to additional charges.
 * An equivalent cloud service base agreement terms signed between you and {{site.data.keyword.IBM_notm}}
 
-Applicable Additional SDs for any service ordered using your {{site.data.keyword.cloud_notm}} account are available at [https://www.ibm.com/support/customer/csol/terms/?id=i126-6605](https://www.ibm.com/support/customer/csol/terms/?id=i126-6605){: external}. The additional SDs contain links to the applicable Data Sheet for each service.
+Applicable Additional SDs for any service ordered using your {{site.data.keyword.cloud_notm}} account are available at [https://www.ibm.com/terms/?id=i126-6605](https://www.ibm.com/terms/?id=i126-6605){: external}. The additional SDs contain links to the applicable Data Sheet for each service.
 
 ## All other accounts
 {: #other}
@@ -41,7 +41,7 @@ As of 10 December 2020, this section describes the Terms of Use for the followin
 * New and existing contracts for {{site.data.keyword.IBM_notm}} Global Technology Services and Cloud Services
 * New and existing Lite accounts worldwide
 
-Your {{site.data.keyword.cloud_notm}} account and any services that are ordered from the {{site.data.keyword.cloud_notm}} are provided under the terms of the Service Description for {{site.data.keyword.cloud_notm}} available at [https://www.ibm.com/support/customer/csol/terms/?id=i126-6605](https://www.ibm.com/support/customer/csol/terms/?id=i126-6605){: external} and one of the following base agreements:
+Your {{site.data.keyword.cloud_notm}} account and any services that are ordered from the {{site.data.keyword.cloud_notm}} are provided under the terms of the Service Description for {{site.data.keyword.cloud_notm}} available at [https://www.ibm.com/terms/?id=i126-6605](https://www.ibm.com/terms/?id=i126-6605){: external} and one of the following base agreements:
 
 * {{site.data.keyword.cloud_notm}} Services Agreement (local country version*) for Lite accounts, non-US Dollar credit card billing, or if you select invoicing from {{site.data.keyword.IBM_notm}}, available at [https://www.ibm.com/support/customer/csol/terms/](https://www.ibm.com/support/customer/csol/terms/){: external}  (select your country);
 * SoftLayer Cloud Service Agreement for US Dollar credit card billing, available at [https://www.ibm.com/support/customer/csol/terms/?cat=softlayer#detail-document](https://www.ibm.com/support/customer/csol/terms/?cat=softlayer#detail-document){: external}
@@ -49,7 +49,7 @@ Your {{site.data.keyword.cloud_notm}} account and any services that are ordered 
 * Cloud Trial Agreement for Proof of Concept (POC) Accounts available at [http://www.ibm.com/terms/?id=i126-5948](http://www.ibm.com/terms/?id=i126-5948){: external} ; POC accounts may be provided for assessment of specific services, solutions or both. Use of services beyond the intended scope of POC might be possible, but might be subjected to additional charges.
 * An equivalent cloud service base agreement terms signed between you and {{site.data.keyword.IBM_notm}}
 
-Applicable Additional SDs for any service ordered using your {{site.data.keyword.cloud_notm}} account are available at [https://www.ibm.com/support/customer/csol/terms/?id=i126-6605](https://www.ibm.com/support/customer/csol/terms/?id=i126-6605){: external} . The additional SDs contain links to the applicable Data Sheet for each service.
+Applicable Additional SDs for any service ordered using your {{site.data.keyword.cloud_notm}} account are available at [https://www.ibm.com/terms/?id=i126-6605](https://www.ibm.com/terms/?id=i126-6605){: external} . The additional SDs contain links to the applicable Data Sheet for each service.
 
 
 ## Exchange Rate Policy
