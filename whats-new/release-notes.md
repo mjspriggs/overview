@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2023
 
-lastupdated: "2023-01-18"
+lastupdated: "2023-01-25"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -22,6 +22,16 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 
 ## January 2023
 {: #january-2023}
+
+### 25 January 2023
+{: #overview-25jan23}
+{: release-note}
+
+Time-based conditions in IAM access policies
+:   {{site.data.keyword.Bluemix_notm}} IAM is excited to give customers the ability to set access controls based on a specified time and date. You can now create policies that grant employees access to a resource during only their working hours, or grant automated processes temporary access for a specified duration. Implementing such limitations helps you to apply the principle of least privilege for assigning access and reduces the opportunity for attack in the event of a security breach. For more information, see [Limiting access with time-based conditions](/docs/account?topic=account-iam-time-based&interface=ui).
+
+IAM Policy Management API V2 release
+:   A new version (`v2`) of the IAM Policy Management API is now available. This version adds a new JSON schema to support a conditional policy construct and several time-based comparison operators. These operators provide the capability to restrict access based on time and date. With time-based access control, customers can establish granular policy enforcement based on a specified time period. For more information, see the [IAM Policy Management API change log](/docs/account?topic=account-api-change-log&interface=ui)
 
 ### 09 January 2023
 {: #overview-09jan23}
