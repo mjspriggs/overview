@@ -1,6 +1,6 @@
 {
   "title": "IBM Cloud overview docs",
-  "lastupdated": "2023-01-25",
+  "lastupdated": "2023-01-27",
   "introduction": "The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model. Leverage the docs, API & SDK reference, architecture references, and more to support your app development needs.",
   "section_devtools": {
     "api": "/docs?tab=api-docs&category=platform_services",
@@ -41,6 +41,11 @@
     "view_more": "/docs/overview?topic=overview-whatsnew",
     "tiles": [
       {
+        "date": "27 January 2023",
+        "title": "New services integrating with context-based restrictions",
+        "description": "Services continue to integrate with the {{site.data.keyword.Bluemix_notm}} platform's context-based restrictions feature, including {{site.data.keyword.vpc_full}} (VPC) Infrastructure Services."
+      },
+      {
         "date": "25 January 2023",
         "title": "Time-based conditions in IAM access policies",
         "description": "{{site.data.keyword.Bluemix_notm}} IAM is excited to give customers the ability to set access controls based on a specified time and date. You can now create policies that grant employees access to a resource during only their working hours, or grant automated processes temporary access for a specified duration. Implementing such limitations helps you to apply the principle of least privilege for assigning access and reduces the opportunity for attack in the event of a security breach."
@@ -49,11 +54,6 @@
         "date": "25 January 2023",
         "title": "IAM Policy Management API V2 release",
         "description": "A new version (v2) of the IAM Policy Management API is now available. This version adds a new JSON schema to support a conditional policy construct and several time-based comparison operators. These operators provide the capability to restrict access based on time and date. With time-based access control, customers can establish granular policy enforcement based on a specified time period."
-      },
-      {
-        "date": "15 December 2022",
-        "title": "Checklist for getting started on IBM Cloud",
-        "description": "A new checklist is now available in the IBM Cloud docs for Getting started on IBM Cloud. This checklist outlines the tasks for you to complete that will accelerate your journey to cloud and guide you through your account setup and organization of resources."
       }
     ]
   }

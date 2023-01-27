@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2023
 
-lastupdated: "2023-01-25"
+lastupdated: "2023-01-27"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -22,6 +22,13 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 
 ## January 2023
 {: #january-2023}
+
+### 27 January 2023
+{: #overview-27jan23}
+{: release-note}
+
+New services integrating with context-based restriction
+:   Services continue to integrate with the {{site.data.keyword.Bluemix_notm}} platform's context-based restrictions feature, including [{{site.data.keyword.vpc_full}} (VPC) Infrastructure Services](/docs/vpc?topic=vpc-cbr). To see a full list of services that can use context-based restrictions to define and enforce access restrictions on their resources, see [Services integrated with context-based restrictions](/docs/account?topic=account-context-restrictions-whatis#cbr-adopters).
 
 ### 25 January 2023
 {: #overview-25jan23}
