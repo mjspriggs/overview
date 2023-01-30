@@ -7,7 +7,7 @@ copyright:
 lastupdated: "2022-11-07"
 
 
-keywords: console, platform overview, overview, data center, security, compliance
+keywords: console, platform overview, overview, catalog, IBM Cloud catalog
 
 subcollection: overview
 
