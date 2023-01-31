@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2019, 2022
-lastupdated: "2022-10-28"
+  years: 2019, 2023
+lastupdated: "2023-01-31"
 
 keywords: data centers, datacenter, regions, locations, ibm cloud regions, multizone regions, MZRs, cloud regions, cloud data centers, multizone, geo, availability zone, zones
 
@@ -112,7 +112,6 @@ See the following table for the specific code for each data center.
 | Dallas 10        | DAL10 |
 | Dallas 12        | DAL12 |
 | Dallas 13        | DAL13 |
-| Mexico 01 [^tabletext2] | MEX01 |
 | Montreal 01      | MON01 |
 | San Jose 01      | SJC01 |
 | San Jose 03      | SJC03 |
@@ -134,8 +133,6 @@ See the following table for the specific code for each data center.
 {: tab-group="dcs"}
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
-
-[^tabletext2]: Closing in 2023 [Learn more](/docs/get-support?topic=get-support-dc-closure)
 
 [^tabletext3]: IBM Cloud for Government [Learn more](https://www.ibm.com/cloud/government)
 
