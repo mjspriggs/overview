@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2017, 2022
-lastupdated: "2022-04-11"
+  years: 2017, 2023
+lastupdated: "2023-02-08"
 
 keywords: security controls, platform security, compliance, penetration testing
 
@@ -20,8 +20,8 @@ Designed with secure engineering practices, the {{site.data.keyword.cloud}} plat
 
 In addition to our own diligence in creating and operating a secure cloud, {{site.data.keyword.IBM}} also engages many different firms to assess the security and compliance of our cloud platform. For more information, see [{{site.data.keyword.cloud_notm}} compliance programs](https://www.ibm.com/cloud/compliance) for a detailed list of certifications and attestations.
 
-{{site.data.keyword.cloud_notm}} ensures security readiness by adhering to security policies that are driven by best practices in {{site.data.keyword.IBM_notm}} for systems, networking, and secure engineering. These policies include practices such as source code scanning, dynamic scanning, threat modeling, and penetration testing. {{site.data.keyword.cloud_notm}} follows the {{site.data.keyword.IBM_notm}} Product Security Incident Response Team (PSIRT) process for security incident management. See the [{{site.data.keyword.IBM_notm}} Security Vulnerability Management (PSIRT)](https://www.ibm.com/trust/security-psirt){: external} site for details.
+{{site.data.keyword.cloud_notm}} ensures security readiness by adhering to security policies that are driven by best practices in {{site.data.keyword.IBM_notm}} for systems, networking, and secure engineering. These policies include practices such as source code scanning, dynamic scanning, threat modeling, and penetration testing. {{site.data.keyword.cloud_notm}} follows the {{site.data.keyword.IBM_notm}} Product Security Incident Response Team (PSIRT) process for security incident management. See the [{{site.data.keyword.IBM_notm}} Security Vulnerability Management (PSIRT)](https://www.ibm.com/support/pages/ibm-security-vulnerability-management){: external} site for details.
 
-In addition to the regular penetration testing conducted by {{site.data.keyword.IBM_notm}} and our partners, customers can conduct their own penetration testing of their resources on {{site.data.keyword.cloud_notm}}. No permission is necessary from {{site.data.keyword.cloud_notm}} for penetration testing of IP addresses allocated to your classic infrastructure account that is set up on classic virtual or bare metal servers. {{site.data.keyword.cloud_notm}} customers under an active NDA can request a copy of a penetration testing report by [opening a support case](/unifiedsupport/supportcenter). 
+In addition to the regular penetration testing conducted by {{site.data.keyword.IBM_notm}} and our partners, customers can conduct their own penetration testing of their resources on {{site.data.keyword.cloud_notm}}. No permission is necessary from {{site.data.keyword.cloud_notm}} for penetration testing of IP addresses allocated to your classic infrastructure account that is set up on classic virtual or bare metal servers. {{site.data.keyword.cloud_notm}} customers under an active NDA can request a copy of a penetration testing report by [opening a support case](/unifiedsupport/supportcenter).
 
 For more details about security for your applications and environments in {{site.data.keyword.Bluemix_notm}}, see [Security architecture for cloud applications](https://www.ibm.com/cloud/architecture/architectures/securityArchitecture/){: external}.
