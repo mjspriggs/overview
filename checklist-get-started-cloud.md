@@ -1,8 +1,8 @@
 ---
 copyright:
-  years: 2022
+  years: 2022, 2023
 
-lastupdated: "2022-12-15"
+lastupdated: "2023-02-09"
 
 keywords: onboard to cloud, get started on {{site.data.keyword.cloud_notm}}, account set up
 
@@ -91,7 +91,7 @@ Account owners and users with the administrator role on the [billing account man
 | - [ ] **Understand suspended billing on {{site.data.keyword.vsi_is_short}}**  | Suspended billing is an option that is available for virtual server instances running on VPC. It is not available for bare metal or dedicated hosts on VPC. With suspended billing, there are some resources, for example network and storage that continue billing. Learn more about [suspended billing for VPC](/docs/vpc?topic=vpc-suspend-billing). |
 | - [ ] **Configure spending alerts for your account** |  You can enable spending notifications for Pay-As-You-Go or Subscription accounts, these alerts are configurable for the entire account or for individual services. [Set up spending notifications](/docs/billing-usage?topic=billing-usage-spending). |
 | - [ ] **Manage subscriptions and usage** | Setting up a subscription is covered in [Set up accounts and an enterprise checklist](#table2-accounts). You can add more subscriptions and monitor subscription usage on the Commitments and subscriptions page in the {{site.data.keyword.cloud_notm}} console. Learn more about [managing subscriptions](/docs/billing-usage?topic=billing-usage-subscriptions). |
-| - [ ] **Manage commitments, subscriptions, and usage**  | Setting up a commitment or subscription is covered in Set up accounts and an enterprise checklist. You can add more commitments or subscriptions as well as monitor usage on the Commitments and Subscriptions page in the {{site.data.keyword.cloud_notm}} console. Learn more about [Pay as you go with Committed Use](/docs/billing-usage?topic=billing-usage-committed-use) and [Managing subscriptions](/docs/billing-usage?topic=billing-usage-subscriptions). |
+| - [ ] **Manage commitments, subscriptions, and usage**  | Setting up a commitment or subscription is covered in Set up accounts and an enterprise checklist. You can add more commitments or subscriptions as well as monitor usage on the Commitments and Subscriptions page in the {{site.data.keyword.cloud_notm}} console. Learn more about [Enterprise Savings Plan](/docs/billing-usage?topic=billing-usage-committed-use) and [Managing subscriptions](/docs/billing-usage?topic=billing-usage-subscriptions). |
 | - [ ] **View invoices and build your own reports**  | To manage and view your invoices, visit the [Invoices](/billing/invoices) page from the billing and usage dashboard in the {{site.data.keyword.cloud_notm}} console. See [Viewing your invoices](/docs/billing-usage?topic=billing-usage-managing-invoices). You can also build your own reports by using the API and SDK that are available. \n * [Usage Reports API/SDK](/apidocs/metering-reporting) \n * [Enterprise Billing Units API/SDK](/apidocs/enterprise-apis/billing-unit). \n * [Enterprise Usage Reports API/SDK](/apidocs/enterprise-apis/resource-usage-reports). |
 {: caption="Table 4. Getting started tasks for managing billing and usage" caption-side="top"}
 
