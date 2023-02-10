@@ -23,11 +23,7 @@ toc:
           - platform-cli-api.md
           - prereqs.md
       - checklist-get-started-cloud.md
-      - topicgroup:
-          label: Compliance in IBM Cloud
-          topics:
-          - compliance.md
-          - manage-scc.md
+      - compliance.md
       - security.md
       - csm.md
       - topic: whats-new/release-notes.md
