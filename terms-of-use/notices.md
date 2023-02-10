@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2015, 2022
-lastupdated: "2022-06-30"
+  years: 2015, 2023
+lastupdated: "2023-02-10"
 
 keywords: notices, IBM Cloud, creative commons, licenses
 
@@ -395,33 +395,61 @@ This section consists of the following:
 
 * CC-BY-2.5
 * CC-BY-3.0
+* CC-BY-4.0
 * CC-BY-SA-1.0
 * CC-BY-SA-2.0
 * CC-BY-SA-2.5
 * CC-BY-SA-3.0
 * CC-BY-SA-4.0
 * GPL V2
-* UNIQUE
+* GNU FREE DOCUMENTATION LICENSE
+* REDHAT UNIVERSAL BASE IMAGE
+* SIL OPEN FONT LICENSE 1.1
+* UNIQUE (SLC REQD)
 
 #### Creative Commons Attribution 2.5 Generic
 {: #cli-25}
 
-The Program includes some or all of the following works licensed under the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by/2.5/legalcode
+The Program includes some or all of the following works licensed under the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by/2.5/legalcode.
 
-/TEMPLATES/IMAGES [Aruba](http://www.famfamfam.com/lab/icons/silk/)
+* GUARDEDBY.JAVA [JSR305](https://search.maven.org/remotecontent?filepath=com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1-sources.jar)
+* JCIP-ANNOTATIONS [HttpCore](https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/)
+* IMMUTABLE.JAVA [JSR305](https://search.maven.org/remotecontent?filepath=com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1-sources.jar)
+* NOTTHREADSAFE.JAVA [JSR305](https://search.maven.org/remotecontent?filepath=com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1-sources.jar)
+* SILK ICON SET  [Aruba (Copyright (c) Mark James)](http://www.famfamfam.com/lab/icons/silk/)
 
 #### Creative Commons Attribution 3.0 Generic
 {: #cli-30}
 
 The Program includes some or all of the following works licensed under the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by/3.0/legalcode
 
-BOOTSTRAP DOCS (https://github.com/twbs/bootstrap/tree/v3.3.2), SITE-POLICIES [golang/net](https://github.com/golang/net/archive/161cd47e91fd.zip), DIR.TMPL - SITE POLICIES [golang/tools](https://github.com/golang/tools/archive/bf090417da8b.zip)
+* [BOOTSTRAP DOCS](https://github.com/twbs/bootstrap/tree/v3.3.2)
+* SITE-POLICIES [golang/net](https://github.com/golang/net/archive/161cd47e91fd.zip), DIR.TMPL - SITE POLICIES [golang/tools](https://github.com/golang/tools/archive/bf090417da8b.zip)
+* CONTENT-SITE-POLICIES#RESTRICTIONS [golang.org/x/tools](https://proxy.golang.org/golang.org/x/tools/@v/v0.0.0-20201224043029-2b0845dc783e.zip), DOCS [docker/libtrust](https://proxy.golang.org/github.com/docker/libtrust/@v/v0.0.0-20160708172513-aabc10ec26b7.zip), GODOCS btoa (Not Required), GOPROXY-JQUERY-VERSION elazarl/goproxy(Not Required)
+* WEBPAGECONTENTS-HTML/TESTDATA/GO1.HTML [github.com/hashicorp/go.net (Not Required)](https://proxy.golang.org/github.com/hashicorp/go.net/@v/v0.0.1.zip), GO1.HTML [github.com/hashicorp/go.net (Not Required)](https://proxy.golang.org/github.com/hashicorp/go.net/@v/v0.0.1.zip), [GODOC.HTML (no copyright)](https://proxy.golang.org/golang.org/x/tools/@v/v0.1.4.zip), PHP_MAN.HTML [elazarl/goproxy (Not Required)](https://proxy.golang.org/github.com/elazarl/goproxy/@v/v0.0.0-20170405201442-c4fc26588b6e.zip), GOLANG-ORG.YAML [github.com/dnaeon/go-vcr (Not Required)](https://proxy.golang.org/github.com/dnaeon/go-vcr/@v/v1.0.1.zip),
+[POLY-GEN.GO (no copyright)](https://proxy.golang.org/google.golang.org/api/@v/v0.25.0.zip), FONT
+AWESOME [ANGularJS (Not Required)](https://github.com/angular/angular.js/releases/tag/v1.0.6),
+[ABOUTIVY.HTML (no copyright)](https://proxy.golang.org/golang.org/x/mobile/@v/v0.0.0-20190719004257-d2bd2a29d028.zip), [DIR.TMPL (no copyright)](https://proxy.golang.org/golang.org/x/tools/@v/v0.1.4.zip), [SPRITES (no copyright)](https://proxy.golang.org/golang.org/x/mobile/@v/v0.0.0-20190719004257-d2bd2a29d028.zip), GOPHER [gonum.org/v1/gonum (Not Required)](https://proxy.golang.org/gonum.org/v1/gonum/@v/v0.0.0-20190331200053-3d26580ed485.zip), GOPHER IMAGE BY RENEE FRENCH [Go (Copyright (c) Renee French)](https://golang.org/doc/gopher/fiveyears.jpg)
+* PAGE CONTENT TMPL.GO [golang.org/x/net (Copyright 2017 The Go Authors)](https://github.com/golang/net/blob/e18ecbb051101a46fc263334b127c89bc7bff7ea/http2/h2demo/tmpl.go)
+* FOOTER (Copyright © OpenJS Foundation.) `(codedrop-06072022/source/resource-catalog-cli.zip/resource-catalog-cli-d471ddd3d38302c9c93e27d8c62b242563d36c1c/vendor/github.com/fatih/color/Gopkg.lock)`,
+ICONS [github.com/smartystreets/goconvey (Not Required)](https://proxy.golang.org/github.com/smartystreets/goconvey/@v/v1.6.4.zip)
+
+#### Creative Commons Attribution 4.0 Non-IBM-License-Information
+{: #cli-40}
+
+The Program includes some or all of the following works licensed under
+the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by/4.0/legalcode.
+
+* SPDYSTREAM/DOCS [docker/spdystream](/spdystream-449fdfce4d962303d702fec724ef0ad181c92528/README.md),
+FIXTURES [go-openapi/spec] (Not Required)
+* DOCS [containerd/containerd (Not Required)](http://creativecommons.org/licenses/by/4.0/), EXPANDER_TEST.GO
+[go-openapi/spec (Not Required)](https://proxy.golang.org/github.com/go-openapi/spec/@v/v0.19.3.zip)
 
 #### Creative Commons Attribution Share Alike 1.0 Generic
 {: #cli-share-10}
 
 The Program includes some or all of the following works licensed under
-the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by-sa/1.0/legalcode
+the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by-sa/1.0/legalcode.
 
 TXT_RU [golang/text](https://github.com/golang/text/archive/v0.3.0.zip)
 
@@ -430,8 +458,8 @@ TXT_RU [golang/text](https://github.com/golang/text/archive/v0.3.0.zip)
 
 The Program includes some or all of the following works licensed under the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by-sa/2.0/legalcode
 
-MASTER SHAKE PHOTO BY SOL GRUNDY (MASTER_SHAKE.JPG) [rest-client (RubyGem)](https://rubygems.org/gems/rest-client-1.8.0.gem), TXT_KR
-[golang/text](https://github.com/golang/text/archive/v0.3.0.zip)
+* MASTER SHAKE PHOTO BY SOL GRUNDY (MASTER_SHAKE.JPG) [rest-client (Ruby Gem)](https://rubygems.org/gems/rest-client-1.8.0.gem)
+* TXT_KR [golang/text](https://github.com/golang/text/archive/v0.3.0.zip)
 
 #### Creative Commons Attribution Share Alike 2.5 Generic
 {: #cli-share-25}
@@ -445,7 +473,10 @@ TXT_CN [golang/text](https://github.com/golang/text/archive/v0.3.0.zip)
 
 The Program includes some or all of the following works licensed under the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by-sa/3.0/legalcode
 
-[WIKIMEDIA FOUNDATION'S CODE OF CONDUCT DRAFT](https://meta.wikimedia.org/wiki/Universal_Code_of_Conduct), [envoyproxy/protoc-gen-validate](https://github.com/envoyproxy/protoc-gen-validate/archive/v0.1.0.zip), TXT_VN [golang/text](https://github.com/golang/text/archive/v0.3.0.zip)
+* [WIKIMEDIA FOUNDATION'S CODE OF CONDUCT DRAFT](HTTPS://WWW.MEDIAWIKI.ORG/WIKI/CODE_OF_CONDUCT/DRAFT)
+* [envoyproxy/protoc-gen-validate](https://github.com/envoyproxy/protoc-gen-validate/archive/v0.1.0.zip)
+* TXT_VN [golang/text](https://github.com/golang/text/archive/v0.3.0.zip)
+* IMAGES [jQuery-ui (Not Required)](http://jqueryui.com/resources/download/jquery-ui-1.10.3.zip)
 
 #### Creative Commons Attribution Share Alike 4.0 Generic
 {: #cli-share-40}
@@ -453,21 +484,98 @@ The Program includes some or all of the following works licensed under the Creat
 The Program includes some or all of the following works licensed under the Creative Commons.
 The URL to the license is https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
-README.MD [docker-ce-cli](https://github.com/docker/docker-ce/archive/v19.03.12.zip)
+* README.MD [docker-ce-cli](https://github.com/docker/docker-ce/archive/v19.03.12.zip)
+* GO-METRICS DOCS [docker-ce-cli](https://github.com/docker/docker-ce/archive/v19.03.12.zip), DOCS
+[go-digest](https://proxy.golang.org/github.com/opencontainers/go-digest/@v/v1.0.0-rc1.zip),
+GLOB LOGO [Glob](http://registry.npmjs.org/glob/-/glob-7.1.6.tgz)
+* DOCS [opencontainers/go-digest (Not Required)](go-digest@v1.0.0-rc1.0.20180430190053-c9281466c8b2/LICENSE.docs)
 
 #### GNU General Public License, Version 2
 {: #cli-genv2}
 
-The Program includes some or all of the following licensed to you as Separately Licensed Code under the GNU General Public License. For copies of the source code for this software, send an email to devlic@us.ibm.com identifying the {{site.data.keyword.IBM_notm}} product and the GPL-licensed program for which you are requesting the source code
+The Program includes some or all of the following licensed to you as Separately Licensed Code under the GNU General Public License. For copies of the source code for this software, send an email to devlic@us.ibm.com identifying the {{site.data.keyword.IBM_notm}} product and the GPL-licensed program for which you are requesting the source code.
 
-DEBIAN-ARCHIVE-KEYRING
+* DEBIAN-ARCHIVE-KEYRING
+* DEFAULTER.JS [Adm-zip]
+* ASM-GENERIC [modernc.org/cc], /SBIN/OPENRC-RUN [docker/engine], GHOSTSCRIPT [modernc.org/cc]
+
+#### GNU General Public License, Version 3
+{: #cli-genv3}
+
+The Program includes some or all of the following licensed to you as Separately Licensed Code under the GNU General Public License. For copies of the source code for this software, send an email to devlic@us.ibm.com identifying the IBM product and the GPL-licensed program for which you are requesting the source code.
+
+V2/HEADERS [modernc.org/cc], TESTDATA/GCC [modernc.org/cc]
+
+#### GNU Free Documentation License
+{: #cli-gnu-free-doc}
+
+The Program includes some or all of the following available under the GNU Free Documentation License v1.3. For copies of the source code for this software, send an email to devlic@us.ibm.com identifying the IBM product and the GPL-licensed program for which you are requesting the source code.
+
+hackerslab.org (tla), tla-1.3.4/src/libneon/doc (tla), documentation (json-glib), Package documentation (Expat), doc (autogen), libtasn1.info
+
+#### RedHat Universal Base Image v8.4 (OOTPA)
+{: #cli-redhat-universal}
+
+RedHat UBI v7, v7.6 and 8.0 has been taken under EULA > https://www.redhat.com/licenses/eulas.
+
+The Program may be provided with third party software programs subject to their own license terms. The license terms either accompany the third party software programs or, in some instances, maybe may be viewed at https://access.redhat.com/containers/.
+
+#### SIL OPEN FONT LICENSE 1.1
+{: #cli-sil-open-font}
+
+The Program includes some or all of the following works licensed under the SIL OPEN FONT LICENSE 1.1.
+
+ORBITRON/OSWALD FONT [smartystreets/goconvey], FONT AWESOME FONT [smartystreets/goconvey]
+
+PREAMBLE
+
+The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+
+"Font Software" refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting, or substituting - in part or in whole - any of the components of the Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.
+
+5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.
+
+TERMINATION
+
+This license becomes null and void if any of the above conditions are not met.
+
+DISCLAIMER
+
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.
 
 #### Unique (SLC REQD)
 {: #cli-unique}
 
 Alpine Linux (main)
-Red Hat UBI
 Debian (matching Ubuntu main)
+UBUNTU (MAIN)
 
 ### {{site.data.keyword.cloud-shell_notm}}
 {: #cloudshell}
@@ -554,9 +662,10 @@ View the [Notices file](/media/docs/downloads/oss-licensing-info/IBMCloud-Securi
 
 This section consists of the following:
 
-* CC-BY-2.5
 * CC-BY-3.0
 * CC-BY-SA-2.0
+* GPL V2
+* GPL V3
 * SIL OPEN FONT LICENSE 1.1
 
 #### Creative Commons Attribution 2.5 generic
