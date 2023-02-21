@@ -20,6 +20,16 @@ content-type: release-note
 Stay up-to-date with the new features that are available on the {{site.data.keyword.Bluemix}} platform so that you get the most out of your {{site.data.keyword.Bluemix_notm}} experience.
 {: shortdesc}
 
+## February 2023
+{: #february-2023}
+
+### 20 February 2023
+{: #overview-20feb23}
+{: release-note}
+
+Download and read {{site.data.keyword.cloud_notm}} docs offline
+:   While digital is still the primary delivery target for {{site.data.keyword.cloud_notm}} docs, you can now print or download and read a doc set offline. Go to the menu next to the doc set title in the navigation and click **View as PDF**.
+
 ## January 2023
 {: #january-2023}
 
