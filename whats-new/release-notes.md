@@ -23,6 +23,13 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 ## February 2023
 {: #february-2023}
 
+### 22 February 2023
+{: #overview-22feb23}
+{: release-note}
+
+User-specific MFA
+:   You can now enforce user-specific multifactor authentication (MFA) requirements that differ from the account default MFA setting. After you update the MFA requirement for an individual user, view a list of users that have unique MFA requirements in the account by going to Manage > Access (IAM) > Settings > Authentication. For more information, see [Enabling MFA for an individual user](/docs/account?topic=account-enablemfa&interface=ui#enabling-user).
+
 ### 20 February 2023
 {: #overview-20feb23}
 {: release-note}
