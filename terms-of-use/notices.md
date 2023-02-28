@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2023
-lastupdated: "2023-02-10"
+lastupdated: "2023-02-27"
 
 keywords: notices, IBM Cloud, creative commons, licenses
 
@@ -394,14 +394,14 @@ View the [Notices file](/media/docs/downloads/oss-licensing-info/IBMCloud-CLI-OS
 This section consists of the following:
 
 * CC-BY-2.5
-* CC-BY-3.0
+* CC-BY-3.0  
 * CC-BY-4.0
-* CC-BY-SA-1.0
-* CC-BY-SA-2.0
-* CC-BY-SA-2.5
-* CC-BY-SA-3.0
-* CC-BY-SA-4.0
-* GPL V2
+* CC-BY-SA-1.0  
+* CC-BY-SA-2.0  
+* CC-BY-SA-2.5  
+* CC-BY-SA-3.0 
+* CC-BY-SA-4.0  
+* GPL V2  
 * GNU FREE DOCUMENTATION LICENSE
 * REDHAT UNIVERSAL BASE IMAGE
 * SIL OPEN FONT LICENSE 1.1
@@ -416,7 +416,6 @@ The Program includes some or all of the following works licensed under the Creat
 * JCIP-ANNOTATIONS [HttpCore](https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/)
 * IMMUTABLE.JAVA [JSR305](https://search.maven.org/remotecontent?filepath=com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1-sources.jar)
 * NOTTHREADSAFE.JAVA [JSR305](https://search.maven.org/remotecontent?filepath=com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1-sources.jar)
-* SILK ICON SET  [Aruba (Copyright (c) Mark James)](http://www.famfamfam.com/lab/icons/silk/)
 
 #### Creative Commons Attribution 3.0 Generic
 {: #cli-30}
@@ -473,7 +472,6 @@ TXT_CN [golang/text](https://github.com/golang/text/archive/v0.3.0.zip)
 
 The Program includes some or all of the following works licensed under the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by-sa/3.0/legalcode
 
-* [WIKIMEDIA FOUNDATION'S CODE OF CONDUCT DRAFT](HTTPS://WWW.MEDIAWIKI.ORG/WIKI/CODE_OF_CONDUCT/DRAFT)
 * [envoyproxy/protoc-gen-validate](https://github.com/envoyproxy/protoc-gen-validate/archive/v0.1.0.zip)
 * TXT_VN [golang/text](https://github.com/golang/text/archive/v0.3.0.zip)
 * IMAGES [jQuery-ui (Not Required)](http://jqueryui.com/resources/download/jquery-ui-1.10.3.zip)
@@ -488,7 +486,6 @@ The URL to the license is https://creativecommons.org/licenses/by-sa/4.0/legalco
 * GO-METRICS DOCS [docker-ce-cli](https://github.com/docker/docker-ce/archive/v19.03.12.zip), DOCS
 [go-digest](https://proxy.golang.org/github.com/opencontainers/go-digest/@v/v1.0.0-rc1.zip),
 GLOB LOGO [Glob](http://registry.npmjs.org/glob/-/glob-7.1.6.tgz)
-* DOCS [opencontainers/go-digest (Not Required)](go-digest@v1.0.0-rc1.0.20180430190053-c9281466c8b2/LICENSE.docs)
 
 #### GNU General Public License, Version 2
 {: #cli-genv2}
@@ -604,7 +601,7 @@ SIPHASH [NodeJS](https://nodejs.org/)
 
 The Program includes some or all of the following works licensed under the Creative Commons. The URL to the license is https://creativecommons.org/licenses/by/2.5/legalcode
 
-SILKICONS-ALLJARJAR-SRC [Groovy](http://www.famfamfam.com/lab/icons/silk/), JCIP-ANNOTATIONS [HttpCore](https://mvnrepository.com/artifact/net.jcip/jcip-annotations), JAVAX.ANNOTATION.CONCURRENT [libjsr305-java](http://www.jcip.net)
+JCIP-ANNOTATIONS [HttpCore](https://mvnrepository.com/artifact/net.jcip/jcip-annotations), JAVAX.ANNOTATION.CONCURRENT [libjsr305-java](http://www.jcip.net)
 
 #### Creative Commons Attribution 3.0 Generic
 {: #cloudshell-30}
