@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2023
 
-lastupdated: "2023-01-27"
+lastupdated: "2023-02-27"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -520,7 +520,7 @@ New catalog filter for Financial Services Validated services
 {: release-note}
 
 {{site.data.keyword.codeenginefull_notm}} is supported as an app deployment type
-:   {{site.data.keyword.codeenginefull}} is now supported as an application deployment type when you use a starter kit in the [{{site.data.keyword.cloud_notm}} console](/developer/appservice/starter-kits). For more information, see the [Creating apps tutorial](/docs/apps?topic=apps-tutorial-starterkit).
+:   {{site.data.keyword.codeenginefull}} is now supported as an application deployment type when you use a starter kit in the {{site.data.keyword.cloud_notm}} console. For more information, see the [Creating apps tutorial](/docs/apps?topic=apps-tutorial-starterkit).
 
    [{{site.data.keyword.codeengineshort}}](/docs/codeengine?topic=codeengine-getting-started) is a fully managed, serverless platform that runs your containerized workloads, including web apps, micro-services, event-driven functions, or batch jobs. {{site.data.keyword.codeengineshort}} even builds container images for you from your source code. Because these workloads are all hosted within the same Kubernetes infrastructure, all of them can seamlessly work together. The {{site.data.keyword.codeengineshort}} experience is designed so that you can focus on writing code and not on the infrastructure that is needed to host it.
 
