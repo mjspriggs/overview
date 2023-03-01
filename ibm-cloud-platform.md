@@ -2,9 +2,9 @@
 
 
 copyright:
-  years: 2016, 2022
+  years: 2016, 2023
 
-lastupdated: "2022-11-07"
+lastupdated: "2023-03-01"
 
 
 keywords: console, platform overview, overview, catalog, IBM Cloud catalog
@@ -47,7 +47,7 @@ As the following diagram illustrates, the {{site.data.keyword.Bluemix_notm}} pla
 
 ![Components of the {{site.data.keyword.cloud_notm}} platform.](images/IBM-Cloud-Platform.svg "Diagram showing the major components of the {{site.data.keyword.cloud_notm}} platform"){: caption="Figure 1. Components of the {{site.data.keyword.cloud_notm}} platform" caption-side="bottom"}
 
-Whether you have [existing code](/docs/apps?topic=apps-tutorial-byoc#tutorial-byoc) that you want to modernize and bring to the cloud or you're developing a [brand new application](/docs/apps?topic=apps-tutorial-starterkit), your developers can tap into the rapidly growing ecosystem of available services and runtime frameworks in {{site.data.keyword.Bluemix_notm}}.
+Whether you have [existing code](/docs/apps?topic=apps-tutorial-byoc#tutorial-byoc) that you want to modernize and bring to the cloud or you're developing a brand new application, your developers can tap into the rapidly growing ecosystem of available services and runtime frameworks in {{site.data.keyword.Bluemix_notm}}.
 
 ## Setting up your account
 {: #set-up-account}
@@ -75,7 +75,7 @@ Discover all that {{site.data.keyword.cloud_notm}} has to offer. From services t
 
 The available services include options for compute, storage, networking, end-to-end developer solutions for app development, testing and deployment, security management services, traditional and open source databases, and cloud-native services. The lifecycle and operations of services are the responsibility of {{site.data.keyword.IBM_notm}}.
 
-You can also find a number of software products, including [Cloud Paks](https://www.youtube.com/watch?v=DzFhhSR8SSs){: external}, [starter kits](/docs/apps?topic=apps-starter-kits), Terraform-based templates, Helm charts, Operators, and more. The preconfigured software solutions help you build faster. And, with a simplified installation process, you can get started quickly. You manage the deployment and configuration of the software on your own compute resources.
+You can also find a number of software products, including [Cloud Paks](https://www.youtube.com/watch?v=DzFhhSR8SSs){: external}, Terraform-based templates, Helm charts, Operators, and more. The preconfigured software solutions help you build faster. And, with a simplified installation process, you can get started quickly. You manage the deployment and configuration of the software on your own compute resources.
 
 And, if you're looking for help in your journey to cloud, check out our professional services. Browse your options for scheduling a consultation with technical experts depending on your needs, such as cloud migration, creating business solutions with {{site.data.keyword.IBM_notm}} Garage, or developing a container security solution that works for you.
 
@@ -213,7 +213,6 @@ The following table lists the filter options you can use when searching the cata
 | OVA images | Open Virtual Appliance that contains a compressed installable version of a virtual machine.  |
 | Operators | A method of packaging and deploying a Kubernetes-native application. |
 | Server Images | A template that is used to create instances of virtual servers. |
-| Starter kits | An application pattern that can be integrated with services to generate a production-ready asset. |
 | Terraform | Infrastructure as code to deploy your application. |
 {: caption="Table 2. Options for filtering by delivery method" caption-side="top"}
 {: #swsoftwarefilters}

@@ -2,8 +2,8 @@
 
 copyright:
 
-  years: 2015, 2022
-lastupdated: "2023-02-03"
+  years: 2015, 2023
+lastupdated: "2023-03-01"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -95,7 +95,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Hyper Protect Virtual Server | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | IBM Cloud Activity Tracker | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| IBM Cloud Data Shield | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | IBM Cloud Monitoring | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Pak for Data | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | IBM Cognos Dashboard Embedded | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
@@ -113,7 +112,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Language Translator | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Load Balancer for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | MQ | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
-| Mass Data Migration | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Messages for RabbitMQ | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Natural Language Understanding | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Netezza Performance Server | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
@@ -226,7 +224,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Hyper Protect Virtual Server |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Activity Tracker | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| IBM Cloud Data Shield | Hosted Globally | Hosted Globally | 
 | IBM Cloud Monitoring | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Pak for Data | Hosted Globally | Hosted Globally | 
 | IBM Cognos Dashboard Embedded | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
@@ -244,7 +241,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Language Translator | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Load Balancer for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | MQ | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Mass Data Migration | Hosted Globally | Hosted Globally | 
 | Messages for RabbitMQ | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Natural Language Understanding | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Netezza Performance Server |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -357,7 +353,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Hyper Protect Virtual Server | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | IBM Cloud Activity Tracker | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| IBM Cloud Data Shield | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | IBM Cloud Monitoring | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | IBM Cloud Pak for Data | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | IBM Cognos Dashboard Embedded |  |  |  |  | 
@@ -375,7 +370,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Language Translator | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Load Balancer for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | MQ | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
-| Mass Data Migration | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Messages for RabbitMQ | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Natural Language Understanding | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Netezza Performance Server |  |  |  |  | 
