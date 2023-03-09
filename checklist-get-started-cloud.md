@@ -2,9 +2,9 @@
 copyright:
   years: 2022, 2023
 
-lastupdated: "2023-03-01"
+lastupdated: "2023-02-27"
 
-keywords: onboard to cloud, get started on IBM Cloud, account set up
+keywords: onboard to cloud, onboarding, onboarding checklist, get started on {{site.data.keyword.cloud_notm}}, account set up
 
 subcollection: overview
 
@@ -15,7 +15,7 @@ subcollection: overview
 # Getting started on {{site.data.keyword.cloud_notm}} checklist
 {: #get-started-checklist}
 
-Use these checklists to create and configure your {{site.data.keyword.cloud}} account. This guide is intended to help you quickly navigate the available documentation to get your account set up, secure your cloud resources, track costs and billing, set up on-premises cloud connectivity, and help you efficiently meet your business needs in your {{site.data.keyword.cloud_notm}} account.
+Use these onboarding checklists to create and configure your {{site.data.keyword.cloud}} account. This guide is intended to help you quickly navigate the available documentation to get your account set up, secure your cloud resources, track costs and billing, set up on-premises cloud connectivity, and help you efficiently meet your business needs in your {{site.data.keyword.cloud_notm}} account.
 {: shortdesc}
 
 ## Explore the platform
