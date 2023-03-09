@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2023
-lastupdated: "2023-03-08"
+lastupdated: "2023-03-09"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -55,12 +55,9 @@ Services that are hosted globally create resources that operate across multiple 
 | Compose Enterprise | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Compose for Elasticsearch | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Compose for MongoDB | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
-| Compose for MySQL | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Compose for PostgreSQL | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Compose for RabbitMQ | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Compose for Redis | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
-| Compose for RethinkDB | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
-| Compose for ScyllaDB | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Compose for etcd | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Consult with IBM Garage | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Container Registry | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
@@ -184,12 +181,9 @@ Services that are hosted globally create resources that operate across multiple 
 | Compose Enterprise | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Compose for Elasticsearch | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Compose for MongoDB | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Compose for MySQL | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Compose for PostgreSQL | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Compose for RabbitMQ | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Compose for Redis | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Compose for RethinkDB | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Compose for ScyllaDB | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Compose for etcd | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Consult with IBM Garage | Hosted Globally | Hosted Globally | 
 | Container Registry | Hosted Globally | Hosted Globally | 
@@ -313,12 +307,9 @@ Services that are hosted globally create resources that operate across multiple 
 | Compose Enterprise | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Compose for Elasticsearch | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Compose for MongoDB | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
-| Compose for MySQL | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Compose for PostgreSQL | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Compose for RabbitMQ | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Compose for Redis | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
-| Compose for RethinkDB | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
-| Compose for ScyllaDB | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Compose for etcd | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Consult with IBM Garage | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Container Registry | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
