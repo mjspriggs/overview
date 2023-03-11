@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2023
-lastupdated: "2023-03-10"
+lastupdated: "2023-03-11"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -89,7 +89,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Hyper Protect Crypto Services | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hyper Protect DBaaS for MongoDB | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Hyper Protect DBaaS for PostgreSQL | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
-| Hyper Protect Virtual Server | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
+| Hyper Protect Virtual Server for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | IBM Cloud Activity Tracker | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Monitoring | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -215,7 +215,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Hyper Protect Crypto Services | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hyper Protect DBaaS for MongoDB |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hyper Protect DBaaS for PostgreSQL |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Hyper Protect Virtual Server |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Hyper Protect Virtual Server for Classic |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Activity Tracker | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Monitoring | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -341,7 +341,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Hyper Protect Crypto Services | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Hyper Protect DBaaS for MongoDB | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Hyper Protect DBaaS for PostgreSQL | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
-| Hyper Protect Virtual Server | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
+| Hyper Protect Virtual Server for Classic | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | IBM Cloud Activity Tracker | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Cloud Backup for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | IBM Cloud Monitoring | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
