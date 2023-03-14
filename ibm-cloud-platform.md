@@ -4,7 +4,7 @@
 copyright:
   years: 2016, 2023
 
-lastupdated: "2023-03-01"
+lastupdated: "2023-03-13"
 
 
 keywords: console, platform overview, overview, catalog, IBM Cloud catalog
@@ -228,6 +228,7 @@ The following table lists the filter options you can use when searching the cata
 | {{site.data.keyword.powerSys_notm}} | Used to create a Power server that is distinct from the {{site.data.keyword.cloud_notm}} servers with separate networks and direct-attached storage. The internal networks are fenced but offer connectivity options to  {{site.data.keyword.cloud_notm}} infrastructure or on-premises environments. |
 | Red Hat OpenShift | Used to create a {{site.data.keyword.openshiftshort}} cluster of compute hosts to deploy and manage containerized apps on {{site.data.keyword.cloud_notm}}. |
 | VMware vCenter Server | Provides deployment and management of VMware virtualized environments. |
+| Virtual Private Cloud | Deploy and manage your server images on virtual private cloud as your infrastructure target. |
 {: caption="Table 2. Options for filtering by deployment target" caption-side="top"}
 {: #swdeploymenttargetfilters}
 {: tab-title="Deployment target"}
