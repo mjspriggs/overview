@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2023
-lastupdated: "2023-01-19"
+lastupdated: "2023-03-28"
 
 keywords: lifecycle, end of support, service availability, deprecation, product availability, product release level, extended support, terms
 
@@ -25,7 +25,6 @@ The following table lists the products that {{site.data.keyword.IBM}} will not w
 
 | Name | Continued support through |
 | ------------- | -------------------------- |
-| {{site.data.keyword.apiconnect_short}} | 2026-07-31  |
 | {{site.data.keyword.cloudant}} | 2026-12-31 |
 | {{site.data.keyword.openwhisk_short}} | 2026-12-31 |
 | {{site.data.keyword.containershort_notm}} | 2027-12-31 |
