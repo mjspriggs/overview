@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2023
 
-lastupdated: "2023-02-27"
+lastupdated: "2023-03-29"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -19,6 +19,19 @@ content-type: release-note
 
 Stay up-to-date with the new features that are available on the {{site.data.keyword.Bluemix}} platform so that you get the most out of your {{site.data.keyword.Bluemix_notm}} experience.
 {: shortdesc}
+
+## March 2023
+{: #march-2023}
+
+### 29 March 2023
+{: #overview-29march23}
+{: release-note}
+
+Generate a report on the MFA status of account users
+:   Users that don't meet MFA requirements leave your account vulnerable. You can now identify the users in your account that don't satisfy your MFA requirements. For more information, see [Identifying a user's MFA status](/docs/account?topic=account-id-user-mfa).
+
+An extra layer of security for users that don't use MFA
+:   {{site.data.keyword.Bluemix_notm}} recommends enabling multifactor authentication (MFA) for all users in your account, but some automation scenarios might require you to exclude specific users from your MFA requirement. For users that are excluded from MFA, you can make access more secure by disabling CLI logins with only a username and password. This way, you require an API key to log in to the CLI or users can log in with `--sso`. For more information, see [Disabling MFA](/docs/account?topic=account-enablemfa#disablemfa).
 
 ## February 2023
 {: #february-2023}
