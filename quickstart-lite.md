@@ -1,8 +1,8 @@
 ---
 
 copyright:
-   years: 2021
-lastupdated: "2020-10-24"
+   years: 2021, 2023
+lastupdated: "2023-04-03"
 
 keywords: get started with IBM Cloud, get started, try for free, lite plan
 
@@ -10,7 +10,7 @@ subcollection: overview
 
 content-type: tutorial
 account-plan: lite
-completion-time: 10m 
+completion-time: 10m
 
 ---
 
@@ -18,10 +18,10 @@ completion-time: 10m
 
 # Try out {{site.data.keyword.cloud_notm}}, for free
 {: #tutorial-try-for-free}
-{: toc-content-type="tutorial"} 
-{: toc-completion-time="10m"} 
+{: toc-content-type="tutorial"}
+{: toc-completion-time="10m"}
 
-Looking to try out {{site.data.keyword.Bluemix}}? Create an account and start building proof of concepts (POCs) with the many components available in {{site.data.keyword.Bluemix_notm}}. You can try Lite and Free service plans to explore {{site.data.keyword.Bluemix_notm}} at no cost while learning how to work in the cloud, use Watson, and more. This quick start guide is intended to help you get up and running on {{site.data.keyword.Bluemix_notm}} without having to think about costs until you're ready.  
+Looking to try out {{site.data.keyword.Bluemix}}? Create an account and start building proof of concepts (POCs) with the many components available in {{site.data.keyword.Bluemix_notm}}. You can try Lite and Free service plans to explore {{site.data.keyword.Bluemix_notm}} at no cost while learning how to work in the cloud, use Watson, and more. This quick start guide is intended to help you get up and running on {{site.data.keyword.Bluemix_notm}} without having to think about costs until you're ready.
 {: shortdesc}
 
 ## Before you begin
@@ -38,7 +38,7 @@ You're set up with a [Pay-As-You-Go account](/docs/account?topic=account-account
 
 Explore the catalog for services that are free to use by filtering for Lite and Free pricing plans. You can work on your projects worry free, without the risk of generating a bill.
 
-1. Go to the [catalog](/catalog){: external}.  
+1. Go to the [catalog](/catalog){: external}.
 2. Select the **Lite** and **Free** pricing plan options.
 
 ## Create an instance
@@ -51,7 +51,7 @@ Create an instance of product that includes a free Lite plan or a Free tier pric
 2. Enter any required information to create the instance.
 3. Click **Create**.
 
-## Check out the solution tutorials
+## Check out the tutorials
 {: #try-solution-tutorials}
 {: step}
 
