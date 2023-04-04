@@ -20,6 +20,19 @@ content-type: release-note
 Stay up-to-date with the new features that are available on the {{site.data.keyword.Bluemix}} platform so that you get the most out of your {{site.data.keyword.Bluemix_notm}} experience.
 {: shortdesc}
 
+## April 2023
+{: #april-2023}
+
+### 04 April 2023
+{: #overview-apr0423}
+{: release-note}
+
+Customize the look and feel of your private catalog
+:   You can enhance the appearance of your private catalog to match your brand by adding a custom banner image to your private catalogs. For more information about personalizing your private catalog, see [Branding your private catalog with a custom banner](/docs/account?topic=account-restrict-by-user#customer-banner).
+
+Add a custom provider name for your private products
+:   You can make it easier for users to search for your products added to a private catalog by specifying a custom provider name. Adding a custom provider name for your private products can help users find them quickly by using the Provider filter in the catalog. For more information, see [Providing catalog entry details](/docs/account?topic=account-cm-catalog-details#cm-catalog-entry).
+
 ## March 2023
 {: #march-2023}
 
