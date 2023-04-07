@@ -23,6 +23,7 @@ toc:
           - platform-cli-api.md
           - prereqs.md
       - checklist-get-started-cloud.md
+      - secure-enterprise.md
       - compliance.md
       - security.md
       - csm.md
