@@ -48,7 +48,7 @@
       {
         "date": "10 April 2023",
         "title": "IBM Cloud projects for automated IaC deployments",
-        "description": "Configure, deploy, and monitor deployments by using DevOps best practices with projects. With projects, you can manage Infrastructure as Code at scale and ensure that its configuration is always valid, secure, and compliant."
+        "description": "You can now configure, deploy, and monitor deployments by using DevOps best practices with projects. By using projects, you can manage Infrastructure as Code (IaC) at scale and across accounts to ensure that the configuration is always valid, secure, and compliant."
       },
       {
         "date": "10 April 2023",
