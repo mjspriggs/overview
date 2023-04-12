@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2023
-lastupdated: "2023-01-31"
+lastupdated: "2023-04-12"
 
 keywords: data centers, datacenter, regions, locations, ibm cloud regions, multizone regions, MZRs, cloud regions, cloud data centers, multizone, geo, availability zone, zones
 
@@ -87,6 +87,8 @@ The following table lists the single campus MZRs that are available in {{site.da
 | Osaka         | jp-osa   |jp-osa-1  \n jp-osa-2  \n jp-osa-3 | OSA21  \n OSA22  \n OSA23|
 {: caption="Table 2. Single campus MZRs" caption-side="top"}
 
+OSA2X (formerly known as OSA02) is the physical data center.
+{: note}
 
 ## Data centers
 {: #data-centers}
