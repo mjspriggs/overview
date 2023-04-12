@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2020, 2023
+  years: 2020, 2021
 
-lastupdated: "2023-04-10"
+lastupdated: "2021-09-16"
 
 keywords: roles and responsibilities, shared responsibilities, IBM responsibility, customer responsibility
 
@@ -99,11 +99,11 @@ For areas marked as shared responsibilities, the customer is responsible for all
 ## Managed products
 {: #managed-responsibilities}
 
-Products that are managed by {{site.data.keyword.IBM_notm}} require customer responsibilities only for the data or applications that customers add to the service. They are multi-tenant, accessed remotely, hosted on {{site.data.keyword.IBM_notm}} virtual resources, created in {{site.data.keyword.IBM_notm}}-owned accounts, and have control plane and data plane security that is owned by {{site.data.keyword.IBM_notm}}. Examples of this product type are {{site.data.keyword.cloud_notm}} databases or {{site.data.keyword.cloudant_short_notm}} database instances. You can find a list of these types of products in the {{site.data.keyword.cloud_notm}} catalog on the Services tab. However, any products that are listed in an infrastructure subcategory are infrastructure-as-a-service type products.
+Products that are managed by {{site.data.keyword.IBM_notm}} require customer responsibilities only for the data or applications that customers add to the service. They are multi-tenant, accessed remotely, hosted on {{site.data.keyword.IBM_notm}} virtual resources, created in {{site.data.keyword.IBM_notm}}-owned accounts, and have control plane and data plane security that is owned by {{site.data.keyword.IBM_notm}}. Examples of this product type are {{site.data.keyword.cloud_notm}} databases or {{site.data.keyword.cloudant_short_notm}} database instances. You can find a list of these types of products in the {{site.data.keyword.cloud_notm}} catalog on the Services tab. However, any products that are listed in an infrastructure subcategory are infrastructure-as-a-service type products. 
 
 | Resource | Incident and Operations Management | Change Management | Identity and Access Management | Security and Regulation Compliance | Disaster Recovery |
 | - | - | - | - | - | - |
-| Data |Customer  | Customer | Customer | Customer | Customer |
+| Data |Customer  | Customer | Customer | Customer | Customer | 
 | Application | Customer | Customer | Customer | Customer | Customer |
 | Service instance | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | Shared |
 | Virtual and bare metal servers | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} | {{site.data.keyword.IBM_notm}} |
@@ -170,61 +170,3 @@ You can find a list of software in the {{site.data.keyword.cloud_notm}} catalog 
 
 For areas marked as shared responsibilities, the customer is responsible for all the configurations, and {{site.data.keyword.IBM_notm}} is responsible for all underlying management. For disaster recovery, the customer is responsible for creating resources in a secondary region and managing the application and data disaster recovery.
 {: note}
-
-## Deployable architectures
-{: #deployable-architectures-RACI}
-
-Review the following sections for the specific responsibilities for you and for {{site.data.keyword.IBM_notm}} when you use a deployable architecture.
-
-| Timeline | Responsibility | Who is responsible (R) | Who is accountable (A) | Who is consulted (C) | Who is informed (I) |
-| - | - | - | - | - | - |
-| **Day 0** |  |  |  |  |   |
-|  |  Creation of {{site.data.keyword.cloud_notm}} deployable architecture | {{site.data.keyword.IBM_notm}} | n/a | n/a | Customer |
-|   | {{site.data.keyword.cloud_notm}} Terraform Provider | {{site.data.keyword.IBM_notm}} | n/a | n/a | n/a |
-|  |  3rd Party Terraform Providers used within templates | Customer | | | |
-|  |  IBM-provided template adheres to declared controls | {{site.data.keyword.IBM_notm}} | | | |
-| **Day 1** |  |  |  |  |  |
-|   | Running default configuration (out of the box) | {{site.data.keyword.IBM_notm}} | n/a | n/a | Customer |
-|   | Executing IBM-provided templates via Schematics  | {{site.data.keyword.IBM_notm}} | | | |
-|   | Executing templates locally using Terraform directly | Customer | | | |
-|   | Customize modules/configurations with pre-supported modules | {{site.data.keyword.IBM_notm}} | n/a | n/a | Customer |
-|   | Issues found in IBM-provided versions of Terraform modules  | {{site.data.keyword.IBM_notm}} | n/a | n/a | Customer |
-|   | Provide info to reproduce problem, using the IBM-provided version of modules obtained from IBM Catalog and TechZone Accelerator Toolkit Module Catalog  | Customer | n/a | n/a | n/a |
-|   | IBM-provided preset JSON configuration overrides for templates  | {{site.data.keyword.IBM_notm}} | n/a | n/a | Customer |
-|   | Customization of IBM-provided templates at code level (Terraform, Ansible, etc.). For example, adding or removing custom modules to an IBM-provided template.  | Customer | n/a | n/a | n/a |
-|   | Issues with IBM Cloud-provided stock operating system images | 3rd Party OS Vendor | | | |
-|   | Applying patches and security updates to operating system in customer instances | Customer | | | |
-|   | Issues with IBM Container Images | {{site.data.keyword.IBM_notm}} | | | |
-|   | Issues with 3rd-Party & Open Source Container Images | Customer (3rd Party Vendor/Open Source community) | | | |
-|   | Obtaining software distributions from vendors or open source communities  \n Storing software installation packages in cloud buckets in customer account | Customer (3rd Party Vendor/Open Source community) | | | |
-|   | Installing software and OS patches into customer-managed virtual machines | Customer | | | |
-|   | {{site.data.keyword.cloud_notm}} resource outages or issues that occur during automated template execution by using {{site.data.keyword.cloud_notm}} Terraform Provider | {{site.data.keyword.IBM_notm}} | | | |
-|   | {{site.data.keyword.cloud_notm}} catalog and Schematics  | {{site.data.keyword.IBM_notm}} | | | |
-| **Day 2** |  |  |  |  |  |
-|   | Provide ability for drift detection | {{site.data.keyword.IBM_notm}} | n/a | n/a | Customer |
-|   | Remediate any configurations detected in drift detection | Customer | n/a | n/a | n/a |
-|   | Release of new version of out of box configuration | {{site.data.keyword.IBM_notm}} | n/a | n/a | Customer |
-|   | Lifecycle after deployment | Customer | n/a | n/a | n/a |
-|   | If bug or issue regarding the automation or terraform script appears from the out of box config | IBM, solution owner | | | |
-|   | If bug or issue regarding the services the terraform creates from a deployable architecture  | IBM, service owner | | | |
-|   | Monitoring and awareness of {{site.data.keyword.cloud_notm}} incidents that impact infrastructure deployed by automation  | Customer | | | |
-{: row-headers}
-{: caption="Table 5. Shared responsiblities for deployable architectures" caption-side="top"}
-{: summary="The first column is used to provide categories for following rows that describe tasks completed on a timeline from Day 0 to Day 2. Rows 2 through 5 are Day 0 tasks, rows 7 through 22 are Day 1 tasks, rows 24 through 30 are Day 2 tasks"}
-
-For more information on the {{site.data.keyword.bpshort}} IBM versus user responsibilities, see [User responsibilities by using {{site.data.keyword.bplong_notm}}](/docs/schematics?topic=schematics-responsibilities).
-
-### RACI definitions
-{: #RACI-definitions}
-
-Responsible (R)
-:   This team member does the work to complete the task. Every task needs at least one responsible party, but it’s okay to assign more.
-
-Accountable (A)
-:   This person delegates work and is the last one to review the task or deliverable before it’s deemed complete. On some tasks, the responsible party might also serve as the accountable one. Be sure you have only one accountable person who is assigned to each task or deliverable.
-
-Consulted (C)
-:   Every deliverable is strengthened by a review and consultation from more than one team member. Consulted parties are typically the people who provide input based on either how it will impact their future project work or their domain of expertise on the deliverable itself.
-
-Informed (I)
-:   These team members must be kept in the loop on project progress, rather than roped into the details of every deliverable.
