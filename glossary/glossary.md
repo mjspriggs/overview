@@ -27,6 +27,7 @@ The following cross-references are used in this glossary:
 ## A
 {: #glossa}
 
+
 ### access control list
 {: #x2012793}
 
@@ -119,6 +120,7 @@ Two or more container group instances that run on different network nodes to ens
 
 See [application programming interface](#x2000186).
 
+
 ### API key
 {: #x8051010}
 
@@ -129,6 +131,7 @@ A unique code that is passed to an API to identify the calling application or us
 
 A unit of a REST API that can be invoked. An API operation comprises an HTTP verb and a URL path that is subordinate to the context root of the API.
 
+
 ### API resource
 {: #x7103848}
 
@@ -137,7 +140,7 @@ A unit of a REST API that can be invoked. An API resource comprises an HTTP verb
 ### app
 {: #x4281528}
 
-A web or mobile device application. See also [mobile application](#x4258535), [web application](#x2116500).
+A web or mobile device application. See also [web application](#x2116500), [mobile application](#x4258535).
 
 ### application programming interface (API)
 {: #x2000186}
@@ -179,6 +182,7 @@ The process of validating the identity of a user or server.
 
 See [authentication](#x2014567).
 
+
 ### authorization (AuthZ)
 {: #x2014653}
 
@@ -189,14 +193,15 @@ In computer security, the right granted to a user to communicate with or make us
 
 See [authorization](#x2014653).
 
+
 ### availability zone
 {: #x7018171}
 
 A location within a region that IBM Cloud Kubernetes Service runs in.
 
-
 ## B
 {: #glossb}
+
 
 ### bare metal server
 {: #x6778472}
@@ -226,7 +231,7 @@ The method by which a client is billed for cloud service usage. Examples include
 ### billing unit
 {: #x9308099}
 
-The highest level billing entity within an enterprise. Each account or account group is linked to a billing unit, which manages all associated contracts, invoices, orders, and payments. A billing unit can contain one or more credit pools. See also [credit pool](#x9796950), [enterprise](#x2026915).
+The highest level billing entity within an enterprise. Each account or account group is linked to a billing unit, which manages all associated contracts, invoices, orders, and payments. A billing unit can contain one or more credit pools. See also [enterprise](#x2026915), [credit pool](#x9796950).
 
 ### bind
 {: #x2000361}
@@ -236,7 +241,7 @@ To establish a connection between software components on a network using an agre
 ### blind data
 {: #x7881128}
 
-A set of documents annotated with the ground truth, such as question and answer pairs, semantic annotation, and passage judgment. Blind data is never released or seen by developers and is used to test the system periodically to evaluate performance on unseen data. See also [testing data](#x7736833), [training data](#x2860199).
+A set of documents annotated with the ground truth, such as question and answer pairs, semantic annotation, and passage judgment. Blind data is never released or seen by developers and is used to test the system periodically to evaluate performance on unseen data. See also [training data](#x2860199), [testing data](#x7736833).
 
 ### block
 {: #x2000384}
@@ -266,7 +271,7 @@ A template that includes one application and its associated runtime environment 
 ### borderless
 {: #x8439189}
 
-Pertaining to an open, non-proprietary development platform that includes public cloud, dedicated cloud, and local cloud deployment models. See also [dedicated cloud](#x8439199), [local cloud](#x8439194), [public cloud](#x4585370).
+Pertaining to an open, non-proprietary development platform that includes public cloud, dedicated cloud, and local cloud deployment models. See also [public cloud](#x4585370), [local cloud](#x8439194), [dedicated cloud](#x8439199).
 
 ### bucket
 {: #x2072079}
@@ -283,19 +288,20 @@ A collection of scripts that provide framework and runtime support for apps.
 
 The capability of a business to withstand outages and to operate mission-critical services normally and without interruption in accordance with predefined service-level agreements.
 
-
 ## C
 {: #glossc}
+
 
 ### CA
 {: #x2015942}
 
 See [certificate authority](#x2016383).
 
+
 ### certificate authority (CA)
 {: #x2016383}
 
-A trusted third-party organization or company that issues the digital certificates. The certificate authority typically verifies the identity of the individuals who are granted the unique certificate. See also [intermediate certificate](#x3753781), [Secure Sockets Layer](#x2038004), [trusted root](#x2042234).
+A trusted third-party organization or company that issues the digital certificates. The certificate authority typically verifies the identity of the individuals who are granted the unique certificate. See also [Secure Sockets Layer](#x2038004), [intermediate certificate](#x3753781), [trusted root](#x2042234).
 
 ### certificate signing request (CSR)
 {: #x3530521}
@@ -316,6 +322,7 @@ A private subset of a larger  blockchain network with specific rules and a separ
 {: #x2008863}
 
 See [command-line interface](#x2051424).
+
 
 ### client
 {: #x2000644}
@@ -373,6 +380,7 @@ Infrastructure or resources that serve as the basis for building apps in the clo
 
 See [configuration rule](#x3084914).
 
+
 ### configuration rule (config rule)
 {: #x3084914}
 
@@ -401,7 +409,7 @@ A member in a blockchain network that uses the network to invoke transactions ag
 ### container
 {: #x2010901}
 
-A system construct that allows users to simultaneously run separate logical operating system instances. Containers use layers of file systems to minimize image sizes and promote reuse. See also [image](#x2024928), [layer](#x2028320), [registry](#x2064940).
+A system construct that allows users to simultaneously run separate logical operating system instances. Containers use layers of file systems to minimize image sizes and promote reuse. See also [image](#x2024928), [registry](#x2064940), [layer](#x2028320).
 
 ### context
 {: #x2018372}
@@ -417,6 +425,7 @@ An access management method that defines and enforces access for resources based
 {: #x2018434}
 
 A technical, administrative, or physical safeguard designed to meet a set of defined security and privacy requirements. Controls exist to prevent, detect, or lessen the ability of a threat to exploit a vulnerability.
+
 
 ### control assessment
 {: #x10134907}
@@ -463,6 +472,7 @@ Within an enterprise billing unit, a consolidation of credit from all sources, i
 
 See [cloud resource name](#x9494304).
 
+
 ### crypto unit
 {: #x9860404}
 
@@ -473,6 +483,7 @@ A single unit that represents a hardware security module and the corresponding s
 
 See [certificate signing request](#x3530521).
 
+
 ### curate
 {: #x7883684}
 
@@ -481,11 +492,11 @@ To select, collect, preserve, and maintain content relevant to a specific topic.
 ### custom domain
 {: #x5728384}
 
-The customized portion of the URL selected by the user to direct requests to the application. A custom domain makes up part of the route. A custom domain can be a shared domain, a shared subdomain, or a shared domain and host. See also [domain](#x2021210), [host](#x2002243), [route](#x2037338), [subdomain](#x2040080), [Uniform Resource Locator](#x2042491).
-
+The customized portion of the URL selected by the user to direct requests to the application. A custom domain makes up part of the route. A custom domain can be a shared domain, a shared subdomain, or a shared domain and host. See also [host](#x2002243), [subdomain](#x2040080), [Uniform Resource Locator](#x2042491), [domain](#x2021210), [route](#x2037338).
 
 ## D
 {: #glossd}
+
 
 ### daemon
 {: #x2019215}
@@ -517,15 +528,22 @@ A place, such as a database system, file, or directory, where data is stored.
 
 See [data center](#x2439906).
 
+
 ### DEA
 {: #x2019805}
 
 See [Droplet Execution Agent](#x7470348).
 
+
 ### dedicated cloud
 {: #x8439199}
 
 A private cloud computing environment that provides infrastructure with single-tenant hardware. See also [borderless](#x8439189).
+
+### deployable architecture
+{: #x10293733}
+
+Cloud automation for deploying a common architectural pattern that combines one or more cloud resources that is designed for easy deployment, scalability, and modularity. See also [module](#x2030595).
 
 ### deployment
 {: #x2104544}
@@ -555,7 +573,7 @@ A component that identifies mentions in text that match a specific set of words.
 ### disaster recovery (DR)
 {: #x2113280}
 
-The ability of IT services to recover from rare but major incidents and non-transient, wide-scale failures, such as service disruption that affects an entire geographical area. The impact of such an incident exceeds the ability of the high availability design to handle it. See also high availability, recovery time objective, recovery point objective. See also [high availability](#x2284708), [recovery point objective](#x3429911), [recovery time objective](#x3167918).
+The ability of IT services to recover from rare but major incidents and non-transient, wide-scale failures, such as service disruption that affects an entire geographical area. The impact of such an incident exceeds the ability of the high availability design to handle it. See also high availability, recovery time objective, recovery point objective. See also [high availability](#x2284708), [recovery time objective](#x3167918), [recovery point objective](#x3429911).
 
 ### Dockerfile
 {: #x9860414}
@@ -570,12 +588,13 @@ A collection of documents. Documents that are imported together become a documen
 ### domain
 {: #x2021210}
 
-Part of a naming hierarchy that specifies the route. For example, example.com. In IBM Cloud, domains are associated with orgs. Domain objects are not directly bound to apps. See also [custom domain](#x5728384), [host](#x2002243), [organization](#x2032585), [route](#x2037338), [subdomain](#x2040080), [Uniform Resource Locator](#x2042491).
+Part of a naming hierarchy that specifies the route. For example, example.com. In IBM Cloud, domains are associated with orgs. Domain objects are not directly bound to apps. See also [host](#x2002243), [subdomain](#x2040080), [Uniform Resource Locator](#x2042491), [custom domain](#x5728384), [organization](#x2032585), [route](#x2037338).
 
 ### DR
 {: #x2021360}
 
 See [disaster recovery](#x2113280).
+
 
 ### droplet
 {: #x7470343}
@@ -592,9 +611,9 @@ The Cloud Foundry component that is responsible for deploying applications.
 
 A unique value, such as a password or an API key, that is created dynamically and leased to an application that requires access to a protected resource. After a dynamic secret reaches the end of its lease, access to the protected resource is revoked and the secret is deleted automatically. See also [secret](#x2789492), [secrets engine](#x9968967).
 
-
 ## E
 {: #glosse}
+
 
 ### endorse
 {: #x2455719}
@@ -634,8 +653,8 @@ In software licensing, the maximum allowed allocation of capacity as determined 
 ### entity
 {: #x2026945}
 
-- A person, object, or concept about which information is stored.
 - A set of details that are held about a real-world object such as a person, location, or bank account. An entity is a kind of item.
+- A person, object, or concept about which information is stored.
 - A mention that is annotated by an entity type.
 
 ### entity type
@@ -663,9 +682,9 @@ A product that IBM makes available solely for evaluation and testing purposes, a
 
 The ability of human users to trace, audit, and understand predictions that are made in applications that use AI systems.
 
-
 ## F
 {: #glossf}
+
 
 ### F1 score
 {: #x9825839}
@@ -707,6 +726,7 @@ To merge two or more entities. For example, a company's registered domain could 
 
 See [Federal Risk and Authorization Management Program](#x10109081).
 
+
 ### feed
 {: #x3129185}
 
@@ -742,14 +762,15 @@ An architecture for an application that provides a standard structure for an app
 
 An ID created through a federated identity provider that represents a program, application, or service that is assigned the minimum level of access required to complete the function for which it is created.
 
-
 ## G
 {: #glossg}
+
 
 ### GA
 {: #x2117930}
 
 See [general availability](#x2117947).
+
 
 ### GB-hour
 {: #x7470477}
@@ -779,7 +800,6 @@ The verification of the way in which a control is met through hardware, software
 ### gossip
 {: #x9825999}
 
-
 A method of sharing network information among peers in which each peer forwards messages to a random selection of the current peers in the network.
 
 ### Gossip Data Dissemination Protocol
@@ -801,10 +821,12 @@ See [globally unique identifier](#x2390455).
 ## H
 {: #glossh}
 
+
 ### HA
 {: #x2404289}
 
 See [high availability](#x2284708).
+
 
 ### hardware security module (HSM)
 {: #x6704988}
@@ -846,15 +868,17 @@ The ability of IT services to withstand all outages and continue providing proce
 
 See [Hash-Based Message Authentication Code](#x6652268).
 
+
 ### host
 {: #x2002243}
 
-A computer that is connected to a network and that provides an access point to that network. The host can be a client, a server, or both a client and server simultaneously. See also [client](#x2000644), [custom domain](#x5728384), [domain](#x2021210), [route](#x2037338), [subdomain](#x2040080), [Uniform Resource Locator](#x2042491).
+A computer that is connected to a network and that provides an access point to that network. The host can be a client, a server, or both a client and server simultaneously. See also [subdomain](#x2040080), [client](#x2000644), [Uniform Resource Locator](#x2042491), [custom domain](#x5728384), [domain](#x2021210), [route](#x2037338).
 
 ### HSM
 {: #x2009137}
 
 See [hardware security module](#x6704988).
+
 
 ### HTTP method
 {: #x2024674}
@@ -866,6 +890,7 @@ An action that is used by the Hypertext Transfer Protocol. HTTP methods include 
 
 See [Hypertext Transfer Protocol Secure](#x2237225).
 
+
 ### human annotator
 {: #x9504052}
 
@@ -875,6 +900,7 @@ A subject matter expert who reviews, modifies, and augments the results of pre-a
 {: #x9736815}
 
 See [hardware virtual machine mode](#x9736811).
+
 
 ### hybrid cloud
 {: #x4585327}
@@ -891,19 +917,21 @@ The implementation of the Linux Hyperledger project. See also [Linux Hyperledger
 
 An Internet protocol that is used by web servers and web browsers to transfer and display hypermedia documents securely across the Internet.
 
-
 ## I
 {: #glossi}
+
 
 ### IaaS
 {: #x4585337}
 
 See [infrastructure as a service](#x4585332).
 
+
 ### IAM
 {: #x2193801}
 
 See [identity and access management](#x7547040).
+
 
 ### IBM Cloud
 {: #x7301758}
@@ -925,10 +953,11 @@ A service that creates, maintains, and manages identity information, account aut
 
 See [identity provider](#x2714740).
 
+
 ### image
 {: #x2024928}
 
-A file system and its execution parameters that are used within a container runtime to create a container. The file system consists of a series of layers, combined at runtime, that are created as the image is built by successive updates. The image does not retain state as the container executes. See also [base image](#x5366487), [container](#x2010901), [layer](#x2028320), [namespace](#x2031005), [parent image](#x8439210), [private image repository](#x8439215), [registry](#x2064940).
+A file system and its execution parameters that are used within a container runtime to create a container. The file system consists of a series of layers, combined at runtime, that are created as the image is built by successive updates. The image does not retain state as the container executes. See also [container](#x2010901), [registry](#x2064940), [namespace](#x2031005), [layer](#x2028320), [base image](#x5366487), [parent image](#x8439210), [private image repository](#x8439215).
 
 ### imprint mode
 {: #x9860399}
@@ -963,7 +992,7 @@ A measure of how similarly a document in two or more document sets is annotated.
 ### intermediate certificate
 {: #x3753781}
 
-A subordinate certificate that is issued by the trusted root certificate authority (CA) specifically to issue end-entity server certificates. The result is a certificate chain that begins at the trusted root CA, passes through the intermediate certificate, and ends with the SSL certificate issued to the organization. See also [certificate authority](#x2016383), [trusted root](#x2042234).
+A subordinate certificate that is issued by the trusted root certificate authority (CA) specifically to issue end-entity server certificates. The result is a certificate chain that begins at the trusted root CA, passes through the intermediate certificate, and ends with the SSL certificate issued to the organization. See also [trusted root](#x2042234), [certificate authority](#x2016383).
 
 ### Internet of Things (IoT)
 {: #x6714341}
@@ -985,10 +1014,12 @@ To activate an action. See also [action](#x2012974).
 
 See [input/output operations per second](#x3858854).
 
+
 ### IoT
 {: #x6714346}
 
 See [Internet of Things](#x6714341).
+
 
 ### iSCSI
 {: #x6515438}
@@ -998,6 +1029,7 @@ See [Internet Small Computer System Interface](#x2119615).
 
 ## J
 {: #glossj}
+
 
 ### JAR file
 {: #x2406009}
@@ -1018,14 +1050,15 @@ See [JavaScript Object Notation](#x3292165).
 ## K
 {: #glossk}
 
+
 ### knowledge graph
 {: #x7904177}
 
 A model that consolidates typed entities, their relationships, their properties, and hierarchical taxonomies to represent an organization of concepts for a given domain. After the knowledge graph store is loaded with inputs from structured and unstructured data sources, users and applications can access the knowledge graph to explore key elements of knowledge for a specific domain, explore interactions, and discover additional relationships.
 
-
 ## L
 {: #glossl}
+
 
 ### label
 {: #x2028176}
@@ -1035,22 +1068,24 @@ A user-defined identifier attached to a grouping of resources that are contained
 ### layer
 {: #x2028320}
 
-A changed version of a parent image. Images consist of layers, where the changed version is layered on top of the parent image to create the new image. See also [container](#x2010901), [image](#x2024928).
+A changed version of a parent image. Images consist of layers, where the changed version is layered on top of the parent image to create the new image. See also [image](#x2024928), [container](#x2010901).
 
 ### LBaaS
 {: #x8688464}
 
 See [load balancer as a service](#x9829528).
 
+
 ### LDAP
 {: #x2481619}
 
 See [Lightweight Directory Access Protocol](#x2028538).
 
+
 ### lemma
 {: #x2763345}
 
-The normalized or canonical form of a word. Typically, the lemma is the underived and uninflected form of a noun or a verb. For example, the lemma of the terms 'organizing' and 'organized' is 'organize' See also [dictionary](#x2001532), [surface form](#x3271760).
+The normalized or canonical form of a word. Typically, the lemma is the underived and uninflected form of a noun or a verb. For example, the lemma of the terms 'organizing' and 'organized' is 'organize' See also [surface form](#x3271760), [dictionary](#x2001532).
 
 ### light API call
 {: #x7690463}
@@ -1106,6 +1141,7 @@ See [logical unit number](#x2163327).
 ## M
 {: #glossm}
 
+
 ### machine learning (ML)
 {: #x8397498}
 
@@ -1125,7 +1161,7 @@ A component that identifies entities and entity relationships according to a sta
 ### Managed Service Provider (MSP)
 {: #x6418711}
 
-An IBM Business Partner that provides IT services on a contractual basis to maintain clients' computers, networks or software. They manage services on-site at the clients' data center, remotely in the clients' data center, or in a third-party data center.
+An IBM Business Partner that provides IT services on a contractual basis to maintain clients' computers, networks or software. They manage services on-site at the clients' data center, remotely in the clients’ data center, or in a third-party data center.
 
 ### master key
 {: #x2908413}
@@ -1136,6 +1172,7 @@ An encryption key that is used to protect a crypto unit. The master key provides
 {: #x7044865}
 
 See [mobile backend as a service](#x7044858).
+
 
 ### member
 {: #x2003073}
@@ -1163,10 +1200,12 @@ A set of small, independent architectural components, each with a single purpose
 
 See [machine learning](#x8397498).
 
+
 ### mobile app
 {: #x7636517}
 
 See [mobile application](#x4258535).
+
 
 ### mobile application (mobile app)
 {: #x4258535}
@@ -1183,10 +1222,16 @@ A computing model that connects mobile applications to cloud computing services 
 
 An infrastructure in which the storage and processing of data for applications is offloaded from a mobile device into the cloud. With mobile cloud computing, applications are not limited to a specific carrier, but are accessed through the Web.
 
+### module
+{: #x2030595}
+
+A stand-alone unit of automation code that can be reused and shared in a larger system. See also [deployable architecture](#x10293733).
+
 ### MSP
 {: #x2330266}
 
 See [Managed Service Provider](#x6418711).
+
 
 ### multizone region (MZR)
 {: #x9774820}
@@ -1202,6 +1247,7 @@ See [multizone region](#x9774820).
 ## N
 {: #glossn}
 
+
 ### named entity
 {: #x3271173}
 
@@ -1216,6 +1262,7 @@ A collection of repositories that store images in a registry. A namespace is ass
 {: #x2245519}
 
 See [network address translation](#x2031199).
+
 
 ### natural language processing (NLP)
 {: #x2031058}
@@ -1237,10 +1284,12 @@ A protocol that allows a computer to access files over a network as if they were
 
 See [Network File System](#x2031282).
 
+
 ### NLP
 {: #x2482021}
 
 See [natural language processing](#x2031058).
+
 
 ### node
 {: #x2003286}
@@ -1251,6 +1300,7 @@ See [natural language processing](#x2031058).
 
 ## O
 {: #glosso}
+
 
 ### OAuth
 {: #x6013335}
@@ -1266,6 +1316,7 @@ A container image that is compliant with the OCI Image Format Specification
 {: #x6969434}
 
 See [on-premises](#x4561212).
+
 
 ### on-premises (on-prem)
 {: #x4561212}
@@ -1298,11 +1349,12 @@ A service that provides a shared communication channel to clients and peers for 
 
 See [organization](#x2032585).
 
-### organization
+
+### organization (org)
 {: #x2032585}
 
-- The entity that owns APIs or applications that use APIs.    A provider organization owns APIs and associated plans, and can additionally own applications. A consumer organization owns only applications. An organization has at least one owner. An organization can be a project team, department, or division.
 - The grouping methodology for users in IBM Cloud. Orgs are used to manage quotas. Users in an org share memory and service instance quotas. See also [domain](#x2021210), [space](#x2039442).
+- The entity that owns APIs or applications that use APIs.    A provider organization owns APIs and associated plans, and can additionally own applications. A consumer organization owns only applications. An organization has at least one owner. An organization can be a project team, department, or division.
 
 ### origin server
 {: #x2210603}
@@ -1314,14 +1366,15 @@ A server that processes and responds to incoming requests from clients, and is t
 
 Pertaining to data transferred through a stream that is independent from the main data stream.
 
-
 ## P
 {: #glossp}
+
 
 ### PaaS
 {: #x2029790}
 
 See [platform as a service](#x2029786).
+
 
 ### paravirtualized mode
 {: #x9736806}
@@ -1331,7 +1384,7 @@ A lightweight virtualization technique. While in paravirtualized mode, a virtual
 ### parent image
 {: #x8439210}
 
-An image that provides a base for another image. For example, Ubuntu Linux is the parent image of the IBM Liberty image. See also [base image](#x5366487), [image](#x2024928).
+An image that provides a base for another image. For example, Ubuntu Linux is the parent image of the IBM Liberty image. See also [image](#x2024928), [base image](#x5366487).
 
 ### part of speech (POS)
 {: #x3271709}
@@ -1357,6 +1410,7 @@ The method by which a client pays an invoice, such as credit card, check, or wir
 {: #x3566452}
 
 See [processing engine archive](#x2959092).
+
 
 ### peer
 {: #x2033450}
@@ -1398,10 +1452,12 @@ A piece of configuration that controls some aspect of processing in the gateway 
 
 See [point of presence](#x5458832).
 
+
 ### POS
 {: #x2034149}
 
 See [part of speech](#x3271709).
+
 
 ### pre-annotation
 {: #x9825866}
@@ -1411,7 +1467,7 @@ The process of annotating a set of documents prior to human annotation. Document
 ### precision
 {: #x2003831}
 
-A measurement that specifies the proportion of results that are relevant. Precision, which is a positive predictive value, is determined by the number of correct positive results divided by the number of all positive results. Accuracy is best measured by using both precision and recall. See also [accuracy](#x3125742), [recall](#x2154357).
+A measurement that specifies the proportion of results that are relevant. Precision, which is a positive predictive value, is determined by the number of correct positive results divided by the number of all positive results. Accuracy is best measured by using both precision and recall. See also [recall](#x2154357), [accuracy](#x3125742).
 
 ### private cloud
 {: #x4585362}
@@ -1446,8 +1502,14 @@ A .pear archive file that includes an Unstructured Information Management Archit
 ### profile
 {: #x2034950}
 
-- In Security and Compliance Center, a grouping of similar controls that can be used to evaluate resource configuration for compliance.A profile can be customized to fit specific use cases by editing the default parameters. See also [rule](#x2037526), [scope](#x2037763).
 - A specification of a resource's capacities and capabilities. Different profiles are optimized for different workloads and use cases. A resource's pricing model might depend on its profile.
+- In Security and Compliance Center, a grouping of similar controls that can be used to evaluate resource configuration for compliance.A profile can be customized to fit specific use cases by editing the default parameters.
+ See also [rule](#x2037526), [scope](#x2037763).
+
+### project
+{: #x2035151}
+
+A collection of artifacts that define and manage resources and Infrastructure as Code deployments.
 
 ### promo code
 {: #x8440874}
@@ -1462,7 +1524,7 @@ An application programming interface that forwards requests to a user-defined ba
 ### public cloud
 {: #x4585370}
 
-A cloud computing environment in which access to standardized resources, such as infrastructure, multi-tenant hardware, and services, is available to subscribers on a pay-per-use basis. See also [borderless](#x8439189), [private cloud](#x4585362).
+A cloud computing environment in which access to standardized resources, such as infrastructure, multi-tenant hardware, and services, is available to subscribers on a pay-per-use basis. See also [private cloud](#x4585362), [borderless](#x8439189).
 
 ### public gateway
 {: #x9594389}
@@ -1489,23 +1551,18 @@ To send information from a server to a client. When a server pushes content, it 
 
 An alert indicating a change or update on a mobile app icon.
 
-
 ## Q
 {: #glossq}
 
-### quick start
-{: #x2277549}
-
- A pre-built cloud solution template used to automatically create resources and applications.
 
 ### quota
 {: #x2437020}
 
 The number of resources that can be consumed at an account or service instance level.
 
-
 ## R
 {: #glossr}
+
 
 ### Raft
 {: #x10127298}
@@ -1520,7 +1577,7 @@ Pertaining to data that changes dynamically.
 ### recall
 {: #x2154357}
 
-A measurement that specifies the percentage of relevant results returned, out of all available relevant results. Recall, which is a measure of sensitivity, is determined by the number of correct positive results divided by the number of positive results that should have been returned. Accuracy is best measured by using both precision and recall. See also [accuracy](#x3125742), [precision](#x2003831).
+A measurement that specifies the percentage of relevant results returned, out of all available relevant results. Recall, which is a measure of sensitivity, is determined by the number of correct positive results divided by the number of positive results that should have been returned. Accuracy is best measured by using both precision and recall. See also [precision](#x2003831), [accuracy](#x3125742).
 
 ### recovery point objective (RPO)
 {: #x3429911}
@@ -1537,6 +1594,11 @@ The maximum duration of time within which an application should be restored afte
 
 A deployment technique that drives continuous delivery by enabling synchronized test, development, and deployment. Initially, development is done on an inactive environment (black) while the active environment continues to take traffic (red). Once deployment starts, both environments go live (red-red) until routing is disabled on the formerly active, previous version environment, then subsequently removed (black) while the new environment serves as the only active environment. See also [blue-green deployment](#x7807335).
 
+### reference architecture
+{: #x4471533}
+
+An opinionated pattern of technologies that work together that includes a summary, an architecture diagram, and a list of modules.
+
 ### region
 {: #x2091391}
 
@@ -1545,7 +1607,7 @@ A defined geographic territory. A region could be a specific postal code area, a
 ### registry
 {: #x2064940}
 
-A storage and distribution service that contains public or private images that are used to create containers. See also [container](#x2010901), [image](#x2024928).
+A storage and distribution service that contains public or private images that are used to create containers. See also [image](#x2024928), [container](#x2010901).
 
 ### relation
 {: #x2064959}
@@ -1577,6 +1639,7 @@ The environment, and constraints, in which contained resource instances adhere t
 
 See [Representational State Transfer](#x3220976).
 
+
 ### role
 {: #x2065412}
 
@@ -1591,23 +1654,25 @@ A symmetric wrapping key that is used for encrypting and decrypting other keys t
 ### route
 {: #x2037338}
 
-The URL that is used to direct requests to an application. A route is made up of an optional host (or subdomain) and a domain that are specified when an application is pushed. For example, in the route myapp.example.com, myapp is the host and example.com is the domain. A route can be associated with one or more applications. Unless a custom domain is specified, IBM Cloud uses a default shared domain in the route to an application. See also [custom domain](#x5728384), [domain](#x2021210), [endpoint](#x2026820), [host](#x2002243), [subdomain](#x2040080), [Uniform Resource Locator](#x2042491).
+The URL that is used to direct requests to an application. A route is made up of an optional host (or subdomain) and a domain that are specified when an application is pushed. For example, in the route myapp.example.com, myapp is the host and example.com is the domain. A route can be associated with one or more applications. Unless a custom domain is specified, IBM Cloud uses a default shared domain in the route to an application. See also [host](#x2002243), [subdomain](#x2040080), [Uniform Resource Locator](#x2042491), [custom domain](#x5728384), [endpoint](#x2026820), [domain](#x2021210).
 
 ### RPO
 {: #x3429916}
 
 See [recovery point objective](#x3429911).
 
+
 ### RTO
 {: #x3169555}
 
 See [recovery time objective](#x3167918).
 
+
 ### rule
 {: #x2037526}
 
-- A set of conditional statements that are used to determine whether a build can be promoted. See also [profile](#x2034950), [scope](#x2037763).
 - The set of allowed contexts that are associated with an IBM Cloud resource. The defined contexts dictate a user's or service's access to that resource.
+- A set of conditional statements that are used to determine whether a build can be promoted. See also [profile](#x2034950), [scope](#x2037763).
 
 ### rule set
 {: #x2065665}
@@ -1619,14 +1684,15 @@ A set of rules that define patterns for annotating text. If a pattern applies, t
 
 The set of resources used to run the application. See also [starter](#x7470511).
 
-
 ## S
 {: #glosss}
+
 
 ### SaaS
 {: #x4585391}
 
 See [software as a service](#x4585386).
+
 
 ### sandbox catalog
 {: #x9826969}
@@ -1643,10 +1709,11 @@ To increase platform (or system) capacity by adding more application or service 
 
 See [source control management](#x3579285).
 
+
 ### scope
 {: #x2037763}
 
-A grouping of resources that can be validated or evaluated for security and compliance. See also [profile](#x2034950), [rule](#x2037526).
+A grouping of resources that can be validated or evaluated for security and compliance. See also [rule](#x2037526), [profile](#x2034950).
 
 ### secret
 {: #x2789492}
@@ -1657,6 +1724,7 @@ A type of sensitive information, such as a password or an API key, that is used 
 {: #x9968962}
 
 The environment and constraints that contained secrets in an instance must adhere to. A user can be associated with a secret group to enable access and collaboration.
+
 
 ### secrets engine
 {: #x9968967}
@@ -1723,6 +1791,11 @@ An encryption key that is used by the crypto unit administrator to sign commands
 
 A certificate that any entity, such as an organization or admin, attaches to their proposals or proposal responses. These signCerts are unique to an entity and are checked by the ordering service to make sure they match the signCert on file for that entity.
 
+### single sign-on (SSO)
+{: #x2213318}
+
+An authentication process in which a user can access more than one system or application by entering a single user ID and password.
+
 ### single-campus multizone region (single-campus MZR)
 {: #x10127487}
 
@@ -1733,15 +1806,11 @@ A region that consists of multiple zones that are hosted on data centers that ar
 
 See [single-campus multizone region](#x10127487).
 
+
 ### single-page application (SPA)
 {: #x9829514}
 
 An application that works inside a browser and does not require page reloading during use.
-
-### single sign-on (SSO)
-{: #x2213318}
-
-An authentication process in which a user can access more than one system or application by entering a single user ID and password.
 
 ### smart contract
 {: #x8888420}
@@ -1752,6 +1821,7 @@ A set of business terms that are embedded into a blockchain and executed with tr
 {: #x9858636}
 
 See [system of engagement](#x6528306).
+
 
 ### software as a service (SaaS)
 {: #x4585386}
@@ -1768,6 +1838,7 @@ A consensus plugin implementation for Hyperledger Fabric that results in a singl
 
 See [system of record](#x6735061).
 
+
 ### source control management (SCM)
 {: #x3579285}
 
@@ -1777,6 +1848,7 @@ An aspect of software configuration management that involves managing changes to
 {: #x2151882}
 
 See [single-page application](#x9829514).
+
 
 ### space
 {: #x2039442}
@@ -1788,15 +1860,18 @@ A sub-group within an IBM Cloud org. Users who are members of an org are given a
 
 See [Secure Shell](#x3574365).
 
+
 ### SSL
 {: #x2483907}
 
 See [Secure Sockets Layer](#x2038004).
 
+
 ### SSO
 {: #x3456450}
 
 See [single sign-on](#x2213318).
+
 
 ### stage
 {: #x2067189}
@@ -1821,7 +1896,7 @@ A database that contains the current values for all keys on a blockchain ledger 
 ### subdomain
 {: #x2040080}
 
-A domain that makes up a part of a larger domain. See also [custom domain](#x5728384), [domain](#x2021210), [host](#x2002243), [route](#x2037338), [Uniform Resource Locator](#x2042491).
+A domain that makes up a part of a larger domain. See also [host](#x2002243), [Uniform Resource Locator](#x2042491), [custom domain](#x5728384), [domain](#x2021210), [route](#x2037338).
 
 ### subject
 {: #x2380043}
@@ -1832,6 +1907,7 @@ The user, service ID, or access group that is granted access by an access policy
 {: #x4282974}
 
 See [subnetwork](#x2040149).
+
 
 ### subnetwork (subnet)
 {: #x2040149}
@@ -1851,7 +1927,7 @@ A type that extends or implements another type; the supertype.
 ### surface form
 {: #x3271760}
 
-The form of a word or multiword unit as it is found in the corpus. For example, some surface forms of the lemma 'organize' are the terms 'organizing' and 'organized'. See also [dictionary](#x2001532), [lemma](#x2763345).
+The form of a word or multiword unit as it is found in the corpus. For example, some surface forms of the lemma 'organize' are the terms 'organizing' and 'organized'. See also [lemma](#x2763345), [dictionary](#x2001532).
 
 ### system of engagement (SoE)
 {: #x6528306}
@@ -1863,9 +1939,9 @@ An information technology (IT) system that incorporates technologies that encour
 
 An information storage system (such as a database or application) that stores business records and automates standard processes. See also [system of engagement](#x6528306).
 
-
 ## T
 {: #glosst}
+
 
 ### tag
 {: #x2040924}
@@ -1885,7 +1961,7 @@ A predefined structure for an artifact.
 ### testing data
 {: #x7736833}
 
-A set of annotated documents that can be used to evaluate system metrics after ingestion and training. See also [blind data](#x7881128), [training data](#x2860199).
+A set of annotated documents that can be used to evaluate system metrics after ingestion and training. See also [training data](#x2860199), [blind data](#x7881128).
 
 ### third-party
 {: #x2877945}
@@ -1905,7 +1981,7 @@ To set up a Watson instance with components that enable the system to function i
 ### training data
 {: #x2860199}
 
-A set of annotated documents that can be used to train machine learning models. See also [blind data](#x7881128), [testing data](#x7736833).
+A set of annotated documents that can be used to train machine learning models. See also [testing data](#x7736833), [blind data](#x7881128).
 
 ### transaction
 {: #x2005321}
@@ -1935,16 +2011,16 @@ An answer or annotation that is actually correct and is predicted to be correct.
 ### trusted root
 {: #x2042234}
 
-A certificate signed by a trusted certificate authority (CA). See also [certificate authority](#x2016383), [intermediate certificate](#x3753781).
+A certificate signed by a trusted certificate authority (CA). See also [intermediate certificate](#x3753781), [certificate authority](#x2016383).
 
 ### type system
 {: #x2959182}
 
 The set of objects that may be discovered by a text analysis engine in a document. The type system defines all possible feature structures in terms of types and features. Any number of different types can be defined in a type system. A type system is domain and application specific.
 
-
 ## U
 {: #glossu}
+
 
 ### Uniform Resource Identifier (URI)
 {: #x2116436}
@@ -1954,7 +2030,7 @@ A unique address that is used to identify content on the web. The most common fo
 ### Uniform Resource Locator (URL)
 {: #x2042491}
 
-The unique address of an information resource that is accessible in a network such as the Internet. The URL includes the abbreviated name of the protocol used to access the information resource and the information used by the protocol to locate the information resource. See also [custom domain](#x5728384), [domain](#x2021210), [host](#x2002243), [route](#x2037338), [subdomain](#x2040080).
+The unique address of an information resource that is accessible in a network such as the Internet. The URL includes the abbreviated name of the protocol used to access the information resource and the information used by the protocol to locate the information resource. See also [host](#x2002243), [subdomain](#x2040080), [custom domain](#x5728384), [domain](#x2021210), [route](#x2037338).
 
 ### unit of measure (UOM)
 {: #x4259569}
@@ -1966,30 +2042,33 @@ A standardized unit that is used to measure a specified property of something.
 
 See [unit of measure](#x4259569).
 
+
 ### URI
 {: #x2116461}
 
 See [Uniform Resource Identifier](#x2116436).
+
 
 ### URL
 {: #x2042718}
 
 See [Uniform Resource Locator](#x2042491).
 
+
 ### user
 {: #x2069659}
 
-- A participant in a blockchain network that has indirect access to the ledger through a trust relationship to an existing member.
 - An IBMid or SoftLayer ID that is used as a person's identity in an account.
+- A participant in a blockchain network that has indirect access to the ledger through a trust relationship to an existing member.
 
 ### user registry
 {: #x2042894}
 
 A collection of user information, such as user IDs and passwords, that is used as the basis for security control by a system such as a web application server.
 
-
 ## V
 {: #glossv}
+
 
 ### virtual
 {: #x2043123}
@@ -2026,10 +2105,12 @@ A server that shares its resources with other servers to support applications. S
 
 See [virtual local area network](#x2438470).
 
+
 ### VM
 {: #x2043253}
 
 See [virtual machine](#x2043165).
+
 
 ### volume
 {: #x2043272}
@@ -2041,24 +2122,27 @@ A fixed amount of physical or virtual storage on a data storage medium.
 
 See [virtual private cloud](#x4585403).
 
+
 ### VPN
 {: #x9866833}
 
 See [virtual private network](#x2043188).
+
 
 ### VPN as a service
 {: #x9829539}
 
 A private connection between two endpoints, which remains private and can be encrypted even when the data is transferred across a public network.
 
-
 ## W
 {: #glossw}
+
 
 ### WAR
 {: #x2844389}
 
 See [web archive](#x2116506).
+
 
 ### WAR file
 {: #x2406005}
@@ -2071,6 +2155,7 @@ See [web archive](#x2116506).
 
 See [web application](#x2116500).
 
+
 ### web application (web app)
 {: #x2116500}
 
@@ -2081,14 +2166,19 @@ An application that is accessible by a web browser and that provides some functi
 
 A compressed file format, defined by the Java EE standard, for storing all the resources required to install and run a web application in a single file.
 
+### workload
+{: #x2012537}
+
+A set of customer applications, services, or capabilities that consumes compute, network, storage, or other cloud resources.
+
 ### workspace
 {: #x2096037}
 
 A context that contains a collection of artifacts that a user with appropriate permission can modify.
 
-
 ## Z
 {: #glossz}
+
 
 ### zone
 {: #x2070723}
