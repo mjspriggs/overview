@@ -2,7 +2,7 @@
 copyright:
   years: 2022, 2023
 
-lastupdated: "2023-04-10"
+lastupdated: "2023-04-17"
 
 keywords: onboard to cloud, onboarding, onboarding checklist, get started on {{site.data.keyword.cloud_notm}}, account set up
 
