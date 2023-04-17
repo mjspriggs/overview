@@ -24,7 +24,7 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 {: #april-2023}
 
 ### 17 April 2023
-{: #overview-apr1023}
+{: #overview-apr1723}
 {: release-note}
 
 Check out deployable architectures in the catalog
