@@ -36,7 +36,7 @@ While you're working through the planning phase of running your enterprise solut
 ### Identifying the right infrastructure architecture
 {: #define-architecture}
 
-Instead of figuring out how to assemble a compliant infrastructure architecture on your own, you can review the deployable architectures that are available in [the catalog](/catalog#reference_architecture). {{site.data.keyword.cloud_notm}} provides automation for the deployment of common architectural patterns that combine one or more cloud resources, known as deployable architectures. Each [deployable architecture](#x10293733){: term} is built and maintained by {{site.data.keyword.cloud_notm}} experts following {{site.data.keyword.cloud_notm}} best practices to take the guesswork out of the architecture design process and reduce the time that it takes to deploy to just minutes. Compliance managers and solution architects can review the components of the architecture and the level of compliance that each deployable architecture meets by reviewing the details directly from the catalog detail pages.
+Instead of figuring out how to assemble a compliant infrastructure architecture on your own, you can review the deployable architectures that are available in [the catalog](/catalog#reference_architecture). {{site.data.keyword.cloud_notm}} provides automation for the deployment of common architectural patterns that combine one or more cloud resources, which are known as deployable architectures. Each [deployable architecture](#x10293733){: term} is built and maintained by {{site.data.keyword.cloud_notm}} experts following {{site.data.keyword.cloud_notm}} best practices to take the guesswork out of the architecture design process and reduce the time that it takes to deploy to just minutes. Compliance managers and solution architects can review the components of the architecture and the level of compliance that each deployable architecture meets by reviewing the details directly from the catalog detail pages.
 
 ![IBM Cloud catalog showing deployable architecture tiles](images/catalog.svg){: caption="Figure 1. IBM Cloud catalog showing deployable architecture tiles" caption-side="bottom"}
 
@@ -56,9 +56,9 @@ You can [customize and extend an {{site.data.keyword.cloud_notm}} deployable arc
 ### Securing your software supply chain
 {: #secure-supply-chain}
 
-Your team can take advantage of cost-effective software delivery and proactive security practices by using {{site.data.keyword.cloud_notm}} DevSecOps with {{site.data.keyword.contdelivery_short}} to set up continuous integration (CI), continuous development (CD), and continuous compliance (CC) toolchains for secure and agile application development.
+Your team can take advantage of cost-effective software delivery and proactive security practices with {{site.data.keyword.cloud_notm}} DevSecOps. The [DevSecOps Application Lifecycle Management deployable architecture](/docs/devsecops-alm?topic=devsecops-alm-devsecops-alm-overview) provides a streamlined way to set up continuous integration (CI), continuous development (CD), and continuous compliance (CC) toolchains for secure and agile application development.
 
-By using DevSecOps with {{site.data.keyword.contdelivery_short}}, you can put security and compliance at the forefront of your development lifecycle and set your team up to implement an automated, shift-left approach to development.
+By using the DevSecOps Application Lifecycle Management deployable architecture to set up the framework to manage the lifecycle of your application code, you can put security and compliance at the forefront of your development lifecycle and set your team up to implement an automated, shift-left approach to development.
 
 ![A visual representation of a process that includes continuous integration, deployment, and compliance](images/cd.svg){: caption="Figure 3. Continuous integration, deployment, and compliance" caption-side="bottom"}
 
