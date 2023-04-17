@@ -23,6 +23,19 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 ## April 2023
 {: #april-2023}
 
+### 17 April 2023
+{: #overview-apr1723}
+{: release-note}
+
+Check out deployable architectures in the catalog
+:   {{site.data.keyword.cloud_notm}} provides deployable architectures in the catalog, which are products that provide automation for the deployment of common architectural patterns that combine one or more cloud resources and are designed for scalability and modularity. Go to the catalog, and [filter by Deployable architectures](/catalog#reference_architecture) to review the growing catalog of options. For more information, see [Identifying the right infrastructure architecture](/docs/overview?topic=overview-secure-enterprise#define-architecture).
+
+{{site.data.keyword.cloud_notm}} projects for automated IaC deployments
+:   You can now configure, deploy, and monitor deployments by using DevOps best practices with projects. By using projects, you can manage Infrastructure as Code (IaC) at scale and across accounts to ensure that the configuration is always valid, secure, and compliant. [Learn more about IaC deployments with projects](/docs/secure-enterprise?topic=secure-enterprise-understanding-projects).
+
+Onboard customized deployable architectures for your enterprise users
+:   You can customize {{site.data.keyword.cloud_notm}} deployable architectures to meet your enterprise’s needs, and then leverage private catalogs to make only approved and compliant architectures available for your enterprise developers to deploy. For more information, see [Customizing an {{site.data.keyword.cloud_notm}} deployable architecture](/docs/secure-enterprise?topic=secure-enterprise-customize-from-catalog).
+
 ### 04 April 2023
 {: #overview-apr0423}
 {: release-note}
