@@ -4,7 +4,7 @@
 copyright:
   years: 2016, 2023
 
-lastupdated: "2023-03-13"
+lastupdated: "2023-04-10"
 
 
 keywords: console, platform overview, overview, catalog, IBM Cloud catalog
@@ -54,28 +54,30 @@ Whether you have [existing code](/docs/apps?topic=apps-tutorial-byoc#tutorial-by
 
 If you're a developer and you're just trying out {{site.data.keyword.Bluemix_notm}}, you can go straight to the catalog and browse the products that you'd like to explore. Try filtering for all Lite and Free pricing plans to test out {{site.data.keyword.cloud_notm}} with no costs. When you're ready to get started with an environment and get apps running in production, consider setting up the basics in your account:
 
-* User access groups for organizing users and service IDs into one entity to make assigning access a streamlined process.
-* Resource groups for organizing your resources to make assigning access to a set of resources quick and easy.
-* Access policies for your access groups or individual developers who need IAM access policies or Cloud Foundry org and space roles.
+* Access groups for organizing users and service IDs into one entity to make assigning access a streamlined process
+* Resource groups for organizing your resources to make assigning access to a set of resources quick and easy
+* IAM access policies for your access groups or individual developers
 
 For more information, see the [best practices for organizing your resources and assigning access](/docs/account?topic=account-account_setup).
 
-As a financial officer for your company, you might be interested in simplifying how you manage billing and usage across multiple teams and departments. With a Subscription account, you can create an {{site.data.keyword.Bluemix_notm}} enterprise, which offers centralized account management, consolidated billing, and top-down usage reporting. An enterprise consists of an enterprise account, account groups, and individual accounts.
+As a financial officer for your company, you might be interested in simplifying how you manage billing and usage across multiple teams and departments. With a Subscription account, you can create an {{site.data.keyword.Bluemix_notm}} [enterprise](#x2026915){: term}, which offers centralized account management, consolidated billing, and top-down usage reporting. An enterprise consists of an enterprise account, account groups, and individual accounts.
 
 * The enterprise account is the parent account to all other accounts in the enterprise. Billing for the entire enterprise is managed at the enterprise account level.
 * Account groups provide a way to organize related accounts. And, you get a unified view of resource usage costs across all accounts that are included in an account group.
-* Similar to stand-alone accounts, accounts in an enterprise contain resources and resource groups, Cloud Foundry orgs and spaces, and independent access permissions.
+* Similar to stand-alone accounts, accounts in an enterprise contain resources and resource groups and independent access permissions.
 
-For more information, see the [best practices for setting up an enterprise](/docs/account?topic=account-enterprise-best-practices).
+For more information, see the [Enterprise account architecture](/docs/enterprise-account-architecture) white paper and the [best practices for setting up an enterprise](/docs/secure-enterprise?topic=secure-enterprise-enterprise-best-practices).
 
-## Exploring the {{site.data.keyword.Bluemix_notm}} catalog
+## {{site.data.keyword.Bluemix_notm}} catalog
 {: #catalog}
 
-Discover all that {{site.data.keyword.cloud_notm}} has to offer. From services to software ranging from containers, compute, security, data, AI, and more, find what you need to transform your business.
+Discover all that {{site.data.keyword.cloud_notm}} has to offer. From services, software, and [deployable architectures](#x10293733){: term} ranging from containers, compute, security, data, AI, and more, find what you need to transform your business.
 
 The available services include options for compute, storage, networking, end-to-end developer solutions for app development, testing and deployment, security management services, traditional and open source databases, and cloud-native services. The lifecycle and operations of services are the responsibility of {{site.data.keyword.IBM_notm}}.
 
-You can also find a number of software products, including [Cloud Paks](https://www.youtube.com/watch?v=DzFhhSR8SSs){: external}, Terraform-based templates, Helm charts, Operators, and more. The preconfigured software solutions help you build faster. And, with a simplified installation process, you can get started quickly. You manage the deployment and configuration of the software on your own compute resources.
+You can also find a number of software products, including [Cloud Paks](https://www.youtube.com/watch?v=DzFhhSR8SSs){: external}, Terraform-based templates, Helm charts, and Operators. The preconfigured software solutions help you build faster. And, with a simplified installation process, you can get started quickly. You manage the deployment and configuration of the software on your own compute resources.
+
+If you're looking for more robust solutions for your enterprise business goals, {{site.data.keyword.cloud_notm}} offers deployable architectures that use cloud automation for deploying common architectural patterns that combine one or more cloud resources that are designed for easy deployment, scalability, and modularity.
 
 And, if you're looking for help in your journey to cloud, check out our professional services. Browse your options for scheduling a consultation with technical experts depending on your needs, such as cloud migration, creating business solutions with {{site.data.keyword.IBM_notm}} Garage, or developing a container security solution that works for you.
 
@@ -85,7 +87,7 @@ The catalog supports command-line interfaces (CLIs) and a RESTful API for you to
 ### Searching the catalog for services
 {: #catalog-filter-options}
 
-All products that are available in {{site.data.keyword.cloud_notm}} are displayed by default in the catalog. You can filter the catalog by type to view a specific type of product, for example, only services or only software. Enter keywords or set additional filters to further scope your view of the catalog. For example, if you want to deploy an analytics instance to {{site.data.keyword.openshiftlong}}, you can select the **Analytics** category, and filter the results by selecting **Red Hat OpenShift** as the deployment target.
+All products that are available in {{site.data.keyword.cloud_notm}} are displayed by default in the catalog. You can filter the catalog by type to view a specific type of product, for example, only services, software, or deployable architectures. Enter keywords or set additional filters to further scope your view of the catalog. For example, if you want to deploy an analytics instance to {{site.data.keyword.openshiftlong}}, you can select the **Analytics** category, and filter the results by selecting **Red Hat OpenShift** as the deployment target.
 
 See the following table for the list of filters that you can use to search the catalog.
 {: #filters}
@@ -97,8 +99,10 @@ See the following table for the list of filters that you can use to search the c
 | Blockchain | Products that facilitate the process of recording transactions and tracking assets in a business network |
 | Compute | Infrastructure resources that serve as the basis for building apps in the cloud |
 | Containers | A standard unit of software that packages up code and all its dependencies so the app runs quickly and reliably from one computing environment to another |
+| Converged infrastructure | A way of structuring an information technology (IT) system by grouping multiple components into a single optimized computing package, components of which may include servers; data storage devices; networking equipment; and software for IT infrastructure management, automation and orchestration |
 | Databases | Products that provide some form of access to a database without the need for setting up physical hardware, installing software, or configuring for performance |
 | Developer tools | Products that support developing, testing, and debugging software |
+| Enterprise applications | Bundle of compatible products that deliver enterprise-grade app solutions for information sharing, automation, and agility |
 | Integration | Products that facilitate the connection of data, apps, APIs, and devices across an organization to be more efficient, productive, and agile |
 | Internet of Things | Products that support receiving and transferring data over wireless networks without human intervention |
 | Logging and monitoring | Products that support storing, searching, analyzing, and monitoring log data and events. And, products that support reviewing and managing the operational workflow and processes being logged |
@@ -174,7 +178,6 @@ See the following table for the list of filters that you can use to search the c
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the options for fitering based on filter type."}
 
-
 You can also scope your view of the catalog by using the **Provider** filter to browse by individual providers, and the **Location** filter to view products available in specific regions.
 {: tip}
 
@@ -191,8 +194,10 @@ The following table lists the filter options you can use when searching the cata
 | Blockchain | Products that facilitate the process of recording transactions and tracking assets in a business network |
 | Compute | Infrastructure resources that serve as the basis for building apps in the cloud |
 | Containers | A standard unit of software that packages up code and all its dependencies so the app runs quickly and reliably from one computing environment to another |
+| Converged infrastructure | A way of structuring an information technology (IT) system by grouping multiple components into a single optimized computing package, components of which may include servers; data storage devices; networking equipment; and software for IT infrastructure management, automation and orchestration |
 | Databases | Products that provide some form of access to a database without the need for setting up physical hardware, installing software, or configuring for performance |
 | Developer tools | Products that support developing, testing, and debugging software |
+| Enterprise applications | Bundle of compatible products that deliver enterprise-grade app solutions for information sharing, automation, and agility |
 | Integration | Products that facilitate the connection of data, apps, APIs, and devices across an organization to be more efficient, productive, and agile |
 | Internet of Things | Products that support receiving and transferring data over wireless networks without human intervention |
 | Logging and monitoring | Products that support storing, searching, analyzing, and monitoring log data and events. And, products that support reviewing and managing the operational workflow and processes being logged |
@@ -228,7 +233,7 @@ The following table lists the filter options you can use when searching the cata
 | {{site.data.keyword.powerSys_notm}} | Used to create a Power server that is distinct from the {{site.data.keyword.cloud_notm}} servers with separate networks and direct-attached storage. The internal networks are fenced but offer connectivity options to  {{site.data.keyword.cloud_notm}} infrastructure or on-premises environments. |
 | Red Hat OpenShift | Used to create a {{site.data.keyword.openshiftshort}} cluster of compute hosts to deploy and manage containerized apps on {{site.data.keyword.cloud_notm}}. |
 | VMware vCenter Server | Provides deployment and management of VMware virtualized environments. |
-| Virtual Private Cloud | Deploy and manage your server images on virtual private cloud as your infrastructure target. |
+| Virtual private cloud | Deploy and manage your server images on virtual private cloud as your infrastructure target. |
 {: caption="Table 2. Options for filtering by deployment target" caption-side="top"}
 {: #swdeploymenttargetfilters}
 {: tab-title="Deployment target"}
@@ -275,6 +280,38 @@ The following table lists the filter options you can use when searching the cata
 You can also scope your view of the catalog by using the **Provider** filter to browse by individual providers, and the **Location** filter to view products available in specific regions.
 {: tip}
 
+### Searching the catalog for deployable architectures
+{: #deployable-arch-search}
+
+You can search our growing catalog of deployable architectures to find preassmbled cloud auotmation solutions that solve common enterprise business needs, for example a secure infrastructure layer for highly regulated industries, such as financial services.
+
+The following table lists the filter options that you can use when searching the catalog for deployable architectures.
+
+| Option | Description |
+|-----|-----|
+| AI / Machine Learning | Products that enable systems to learn from data rather than through explicit programming |
+| Analytics | Products that facilitate the analysis of data, typically large sets of business data, by the use of mathematics, statistics, and other means |
+| Blockchain | Products that facilitate the process of recording transactions and tracking assets in a business network |
+| Compute | Infrastructure resources that serve as the basis for building apps in the cloud |
+| Containers | A standard unit of software that packages up code and all its dependencies so the app runs quickly and reliably from one computing environment to another |
+| Converged infrastructure | A way of structuring an information technology (IT) system by grouping multiple components into a single optimized computing package, components of which may include servers; data storage devices; networking equipment; and software for IT infrastructure management, automation and orchestration |
+| Databases | Products that provide some form of access to a database without the need for setting up physical hardware, installing software, or configuring for performance |
+| Developer tools | Products that support developing, testing, and debugging software |
+| Enterprise applications | Bundle of compatible products that deliver enterprise-grade app solutions for information sharing, automation, and agility |
+| Integration | Products that facilitate the connection of data, apps, APIs, and devices across an organization to be more efficient, productive, and agile |
+| Internet of Things | Products that support receiving and transferring data over wireless networks without human intervention |
+| Logging and monitoring | Products that support storing, searching, analyzing, and monitoring log data and events. And, products that support reviewing and managing the operational workflow and processes being logged |
+| Mobile | Products with specific or special utility for users creatings things to be used on mobile devices |
+| Networking | Products that support or augment the linking of computers so they can operate interactively |
+| Security | Products that provide the protection of stored data from theft, leakage, and deletion |
+| Storage  | Products that support data to be created, read, updated, and deleted |
+{: caption="Table 3. Options for filtering by category" caption-side="top"}
+
+You can also scope your view of the catalog by using the **Provider** filter to browse by individual providers and the **Industry** filter to view products catered for certain industries.
+{: tip}
+
+
+
 ## Pricing and billing
 {: #pricing-billing}
 
@@ -311,15 +348,17 @@ The resource controller is the next-generation {{site.data.keyword.Bluemix_notm}
 
 In general, resources that are tracked by the provisioning layer are intended to associate usage metrics and billing, but that isn’t always the case. In some cases, the resource might be associated with the provisioning layer to ensure that its lifecycle can be managed along with the account lifecycle. The resource controller uses {{site.data.keyword.Bluemix_notm}} Identity and Access Management (IAM) for authentication and authorization of actions that are taken against the provisioning layer.
 
-### Resource lifecycle management
-{: #lifecycle}
-
 The resource controller provides common APIs to control the lifecycle of resources from creating an instance to creating access credentials to removing access to deleting an instance.
 
 ## Managing your resources
 {: #resource-manager}
 
-A collection of resources is managed by [resource groups](/docs/account?topic=account-rgs). A resource group is associated with your account. All {{site.data.keyword.Bluemix_notm}} resources must be assigned to a resource group. When you create an account, a default resource group is created for you. All {{site.data.keyword.Bluemix_notm}} IAM-enabled resources must be created within a resource group. If you have a Lite account, you can have only one resource group. If you have a Pay-As-You-Go or Subscription account, you can create more than one resource group. If an account is suspended, the corresponding resource group is suspended as well, and all resources within the resource group are suspended.
+A collection of resources is managed by [resource groups](/docs/account?topic=account-rgs). A resource group is associated with your account. All {{site.data.keyword.Bluemix_notm}} resources must be assigned to a resource group. When you create an account, a default resource group is created for you. All {{site.data.keyword.Bluemix_notm}} IAM-enabled resources must be created within a resource group. If you have a Lite account, you can have only one resource group, but with a a Pay-As-You-Go or Subscription account, you can create more than one resource group. If an account is suspended, the corresponding resource group is suspended as well, and all resources within the resource group are suspended.
+
+## Managing Infrastructure as Code (IaC) deployments with projects
+{: #projects}
+
+{{site.data.keyword.cloud_notm}} [projects](#x2035151){: term} are a named collection of configurations that are used to manage related resources and Infrastructure as Code (IaC) deployments across accounts. They enable teams to configure, deploy, and monitor deployments by using DevOps best practices. If you select a deployable architecture from the catalog, you can add it to a project to configure and deploy it into your different environments. For more information, see [Learn about IaC deployments with projects](/docs/secure-enterprise?topic=secure-enterprise-understanding-projects).
 
 ## Searching and tagging resources
 {: #search-and-tag}

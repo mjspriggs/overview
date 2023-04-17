@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2023
 
-lastupdated: "2023-03-29"
+lastupdated: "2023-04-17"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -22,6 +22,19 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 
 ## April 2023
 {: #april-2023}
+
+### 10 April 2023
+{: #overview-apr1023}
+{: release-note}
+
+Check out deployable architectures in the catalog
+:   {{site.data.keyword.cloud_notm}} provides deployable architectures in the catalog, which are products that provide automation for the deployment of common architectural patterns that combine one or more cloud resources and are designed for scalability and modularity. Go to the catalog, and [filter by Deployable architectures](/catalog#reference_architecture) to review the growing catalog of options. For more information, see [Identifying the right infrastructure architecture](/docs/overview?topic=overview-secure-enterprise#define-architecture).
+
+{{site.data.keyword.cloud_notm}} projects for automated IaC deployments
+:   You can now configure, deploy, and monitor deployments by using DevOps best practices with projects. By using projects, you can manage Infrastructure as Code at scale and across accounts to ensure that the configuration is always valid, secure, and compliant. Learn more about [projects](/docs/secure-enterprise?topic=secure-enterprise-understanding-projects).
+
+Onboard customized deployable architectures for your enterprise users
+:   You can customize {{site.data.keyword.cloud_notm}} deployable architectures to meet your enterprise’s needs, and then leverage private catalogs to make only approved and compliant architectures available for your enterprise developers to deploy. For more information, see [Customizing an {{site.data.keyword.cloud_notm}} deployable architecture](/docs/secure-enterprise?topic=secure-enterprise-customize-from-catalog).
 
 ### 04 April 2023
 {: #overview-apr0423}
@@ -839,7 +852,7 @@ Connect to an external identity provider for authentication
 {: release-note}
 
 Support for catalog filtering in {{site.data.keyword.Bluemix_notm}} enterprises
-:   You can now use filters to customize which products in the {{site.data.keyword.Bluemix_notm}} catalog are available in accounts within an enterprise hierarchy. Filters that are set at a parent account level apply to all child account groups and accounts. For more information, see [Managing products for an {{site.data.keyword.Bluemix_notm}} enterprise](/docs/account?topic=account-catalog-enterprise-restrict).
+:   You can now use filters to customize which products in the {{site.data.keyword.Bluemix_notm}} catalog are available in accounts within an enterprise hierarchy. Filters that are set at a parent account level apply to all child account groups and accounts. For more information, see [Managing products for an {{site.data.keyword.Bluemix_notm}} enterprise](/docs/secure-enterprise?topic=secure-enterprise-catalog-enterprise-restrict).
 
 
 ## April 2020
@@ -1013,7 +1026,7 @@ Redirecting SoftLayer to {{site.data.keyword.Bluemix_notm}}
    * Subscription credit is aggregated into a credit pool and shared with all accounts in the enterprise. Not only is tracking your subscriptions easier, but you can get fewer, larger subscriptions for a better discount because the credit is shared.
    * Top-down usage reporting gives you a unified view of usage costs from all accounts, organized according to your enterprise hierarchy.
 
-   If you have multiple accounts, at least one of which is a Subscription account, you can create an enterprise. See [What is an enterprise?](/docs/account?topic=account-enterprise) and [Introducing IBM Cloud Enterprises](https://www.ibm.com/cloud/blog/announcements/introducing-ibm-cloud-enterprises){: external}  for more information.
+   If you have multiple accounts, at least one of which is a Subscription account, you can create an enterprise. See [What is an enterprise?](/docs/secure-enterprise?topic=secure-enterprise-what-is-enterprise) and [Introducing IBM Cloud Enterprises](https://www.ibm.com/cloud/blog/announcements/introducing-ibm-cloud-enterprises){: external}  for more information.
 
 Subscriptions page for tracking subscription credit spending
 :   If you have a Subscription account, you can now view all of your subscriptions and analyze your credit spending on the Subscriptions page. You get a high-level view of the total subscription credit in your account and detailed charts that visualize trends such as your credit burndown and monthly spending. You can also view credit from any promotions in your account. For more information, see [Managing subscriptions](/docs/billing-usage?topic=billing-usage-subscriptions).
