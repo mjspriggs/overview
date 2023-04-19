@@ -174,6 +174,6 @@ For areas marked as shared responsibilities, the customer is responsible for all
 ## Deployable architectures
 {: #deployable-architectures}
 
-Deployable architectures can be comprised of infrastructure-as-a-service, managed products, and software. For more information on the the specific responsibilities for you and for {{site.data.keyword.IBM_notm}} when you use a deployable architecture, see [Understanding your responsibilities when using deployable architectures](/docs/secure-enterprise?topic=secure-enterprise-responsibilities-deployable-architectures).
+Deployable architectures can be comprised of infrastructure-as-a-service, managed products, and software. For more information about the specific responsibilities for you and for {{site.data.keyword.IBM_notm}} when you use a deployable architecture, see [Understanding your responsibilities when using deployable architectures](/docs/secure-enterprise?topic=secure-enterprise-responsibilities-deployable-architectures).
 
 
