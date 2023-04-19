@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2020, 2021
+  years: 2020, 2023
 
-lastupdated: "2021-09-16"
+lastupdated: "2023-04-19"
 
 keywords: roles and responsibilities, shared responsibilities, IBM responsibility, customer responsibility
 
@@ -170,3 +170,10 @@ You can find a list of software in the {{site.data.keyword.cloud_notm}} catalog 
 
 For areas marked as shared responsibilities, the customer is responsible for all the configurations, and {{site.data.keyword.IBM_notm}} is responsible for all underlying management. For disaster recovery, the customer is responsible for creating resources in a secondary region and managing the application and data disaster recovery.
 {: note}
+
+## Deployable architectures
+{: #deployable-architectures}
+
+Deployable architectures can be comprised of infrastructure-as-a-service, managed products, and software. For more information on the the specific responsibilities for you and for {{site.data.keyword.IBM_notm}} when you use a deployable architecture, see [Understanding your responsibilities when using deployable architectures](/docs/secure-enterprise?topic=secure-enterprise-responsibilities-deployable-architectures).
+
+
