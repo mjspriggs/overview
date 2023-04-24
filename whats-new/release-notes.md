@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2023
 
-lastupdated: "2023-04-17"
+lastupdated: "2023-04-24"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -22,6 +22,16 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 
 ## April 2023
 {: #april-2023}
+
+### 24 April 2023
+{: #overview-apr2423}
+{: release-note}
+
+Customized compliance validation
+:   Users can specify a {{site.data.keyword.compliance_short}} attachment to validate deployable architectures they are configuring in a project. The default controls from the deployable architecture can still be used for validation as well. For more information, see [Configuring the architecture](/docs/secure-enterprise?topic=secure-enterprise-config-project#how-to-config).
+
+Validate and deploy architectures that were onboarded from private repositories
+:   Previously, only deployable architectures that were onboarded by using a public GitHub repository were supported by projects. Now, projects users can validate and deploy architectures that were onboarded to the catalog by using a private or public GitHub repository.
 
 ### 17 April 2023
 {: #overview-apr1723}
