@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2023
-lastupdated: "2023-05-08"
+lastupdated: "2023-05-09"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -379,7 +379,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Secrets Manager | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Secure Gateway | ![Checkmark icon](../icons/checkmark-icon.svg)  \n *Data hosted in Sydney* |  |  |  | 
 | Security Group for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| Security and Compliance Center Workload Protection | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
+| Security and Compliance Center Workload Protection | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Simulated Historical Instrument Analytics |  |  |  |  | 
 | Simulated Instrument Analytics |  |  |  |  | 
 | Software Instance | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
