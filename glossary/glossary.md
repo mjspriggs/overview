@@ -2,7 +2,7 @@
 
 copyright:
   years: 2016, 2023
-lastupdated: "2023-04-17"
+lastupdated: "2023-06-01"
 
 keywords: glossary, IBM Cloud glossary, terms, definitions
 
@@ -115,12 +115,6 @@ A role that is responsible for managing the full annotation lifecycle activities
 
 Two or more container group instances that run on different network nodes to ensure higher availability for an app. See also [affinity](#x2149238).
 
-### API
-{: #x2008805}
-
-See [application programming interface](#x2000186).
-
-
 ### API key
 {: #x8051010}
 
@@ -141,11 +135,6 @@ A unit of a REST API that can be invoked. An API resource comprises an HTTP verb
 {: #x4281528}
 
 A web or mobile device application. See also [web application](#x2116500), [mobile application](#x4258535).
-
-### application programming interface (API)
-{: #x2000186}
-
-An interface that allows an application program that is written in a high-level language to use specific data or functions of the operating system or another program.
 
 ### artifact
 {: #x2262995}
@@ -478,6 +467,11 @@ See [cloud resource name](#x9494304).
 
 A single unit that represents a hardware security module and the corresponding software stack that is dedicated to the hardware security module for cryptography.
 
+### cryptosystem
+{: #x10293795}
+
+A suite of algorithms that are used to implement a specific security service. Examples include RSA and Ed25519.
+
 ### CSR
 {: #x2140147}
 
@@ -527,12 +521,6 @@ A place, such as a database system, file, or directory, where data is stored.
 {: #x2052913}
 
 See [data center](#x2439906).
-
-
-### DEA
-{: #x2019805}
-
-See [Droplet Execution Agent](#x7470348).
 
 
 ### dedicated cloud
@@ -595,16 +583,6 @@ Part of a naming hierarchy that specifies the route. For example, example.com. I
 
 See [disaster recovery](#x2113280).
 
-
-### droplet
-{: #x7470343}
-
-An archive within Cloud Foundry that contains an application and its runtime and framework dependencies, prior to deployment to the cloud.
-
-### Droplet Execution Agent (DEA)
-{: #x7470348}
-
-The Cloud Foundry component that is responsible for deploying applications.
 
 ### dynamic secret
 {: #x9968958}
@@ -799,6 +777,7 @@ The verification of the way in which a control is met through hardware, software
 
 ### gossip
 {: #x9825999}
+
 
 A method of sharing network information among peers in which each peer forwards messages to a random selection of the current peers in the network.
 
@@ -1622,7 +1601,7 @@ A binary, unidirectional relationship between two entities. For example, Mary em
 ### Representational State Transfer (REST)
 {: #x3220976}
 
-A software architectural style that guides the design and development of the architecture for the World Wide Web. REST defines a set of constraints for  the architecture of  Internet-scale distributed hypermedia systems, such as the Web.
+A software architectural style that guides the design and development of the architecture for the web. REST defines a set of constraints for  the architecture of  Internet-scale distributed hypermedia systems, such as the web.
 
 ### resource
 {: #x2004267}
