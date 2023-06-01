@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2021
-lastupdated: "2022-11-28"
+  years: 2021, 2023
+lastupdated: "2023-06-01"
 
 keywords: disaster recovery, DR, what is disaster recovery, DR strategy, disaster recovery options, disaster recovery strategy
 
@@ -30,7 +30,7 @@ The best practices in this section are based on the services and features curren
 ## General disaster recovery strategy
 {: #bcdr-general}
 
-The approach to defining your DR strategy needs to be systematic and start with the application or service, which is defined as a set of compute resources, for example Kubernetes or Cloud Foundry apps, virtual machines, services, and more, that make up a business application.
+The approach to defining your DR strategy needs to be systematic and start with the application or service, which is defined as a set of compute resources, for example Kubernetes apps, virtual machines, services, and more, that make up a business application.
 
 While a holistic approach might be wanted, the reality is that each business application (cloud service) is independent, with its own [recovery time objective](#x3167918){: term} (RTO) and [recovery point objective](#x3429911){: term} (RPO) requirements, which for many customers is expressed in the form of a set of service classes.
 
