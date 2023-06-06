@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2023
 
-lastupdated: "2023-06-05"
+lastupdated: "2023-06-06"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -23,7 +23,7 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 ## June 2023
 {: #june-2023}
 
-### 5 June 2023
+### 6 June 2023
 {: #overview-june0223}
 {: release-note}
 
