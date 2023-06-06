@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2023
 
-lastupdated: "2023-04-25"
+lastupdated: "2023-06-06"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -19,6 +19,19 @@ content-type: release-note
 
 Stay up-to-date with the new features that are available on the {{site.data.keyword.Bluemix}} platform so that you get the most out of your {{site.data.keyword.Bluemix_notm}} experience.
 {: shortdesc}
+
+## June 2023
+{: #june-2023}
+
+### 6 June 2023
+{: #overview-june0223}
+{: release-note}
+
+New event notifications for projects
+:   You can now send out notifications when a deployment is complete or when resources are successfully destroyed. For more information, see the [available events for projects](/docs/secure-enterprise?topic=secure-enterprise-event-notifications-events&interface=ui#event-notifications-list).
+
+Support for access management tags in the projects UI
+:   You can now add, edit, and delete access management tags directly in the projects UI. Previously, you could manage these tags only by using the command-line interface (CLI) or API.
 
 ## April 2023
 {: #april-2023}
