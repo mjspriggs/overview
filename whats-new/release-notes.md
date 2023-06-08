@@ -129,6 +129,13 @@ Save and share multiple estimates by using the {{site.data.keyword.cloud_notm}} 
 ## December 2022
 {: #december-2022}
 
+### 31 December 2022
+{: #overview-dec3122}
+{: release-note}
+
+Test release note
+:   Release note deletion test
+
 ### 15 December 2022
 {: #overview-dec1522}
 {: release-note}
