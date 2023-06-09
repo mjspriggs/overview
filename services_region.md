@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2023
-lastupdated: "2023-06-08"
+lastupdated: "2023-06-09"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -265,7 +265,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Transit Gateway | Hosted Globally | Hosted Globally | 
 | VMware Solutions | Hosted Globally | Hosted Globally | 
 | VMware Virtual Data Center |  |  | 
-| VMware as a Service |  |  | 
+| VMware as a Service |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | VPN for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Private Cloud | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Private Endpoint for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
