@@ -3,7 +3,7 @@
 
 copyright:
   years: 2023
-lastupdated: "2023-04-17"
+lastupdated: "2023-06-14"
 
 keywords:
 
@@ -21,7 +21,37 @@ With continuous compliance at the core of {{site.data.keyword.cloud}}'s platform
 
 For highly regulated industries, such as financial services, achieving continuous compliance within a cloud environment is an important first step toward protecting customer and application data. Historically, that process has been difficult and manual, which placed your organization at risk. But, with {{site.data.keyword.cloud_notm}} you can work with predefined deployable architectures, automate infrastructure-as-code deployments with [projects](#x2035151){: term}, and integrate automatic security checks into every day workflows to minimize risk.
 
-With {{site.data.keyword.cloud_notm}}, your whole team from solution architects, compliance managers, infrastructure DevOps teams, to application development teams can use a shift-left approach to identify security risks and exposures early when developing and deploying cloud solutions. This keeps security and compliance at the center of your workflow and organizational culture so that your enterprise can operate in the cloud with confidence.
+With {{site.data.keyword.cloud_notm}}, your whole team from solution architects, compliance managers, infrastructure DevOps teams, to application development teams can use a shift-left approach to identify security risks and exposures early when developing and deploying cloud solutions. This keeps security and compliance at the center of your workflow and organizational culture so that your enterprise can operate in the cloud with confidence. Check out the following video to learn more about how {{site.data.keyword.cloud_notm}} can help you accelerate and maintain your regulated standards at scale.
+
+![Accelerating and Maintaining Your Regulated Standards at Scale](https://www.youtube.com/embed/f2pPxsnwePY){: video output="iframe" data-script="#enterprise-video-transcript" id="youtubeplayer" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen}
+
+## Video transcript
+{: #enterprise-video-transcript}
+{: notoc}
+
+Hi, I’m Mark Meredith a product manager for IBM Cloud.
+
+As a large enterprise your requirements for scale, security, infrastructure, and governance all influence your move to the cloud.
+
+With the tools available through IBM Cloud, you can start and stay compliant, use automation, and ensure deployments are done by using a secure software supply chain, all while managing your resources at scale.
+
+Creating secure, compliant, robust, and scalable application infrastructure can be difficult to set up and costly to maintain.
+
+But, if you standardize application infrastructure where possible and then host many applications on the same infrastructure you can reduce operations costs.
+
+You can do this with deployable architectures and projects on IBM Cloud.
+
+With our growing catalog of deployable architectures you can quickly get started by adding it to a project and customizing it to your needs.
+
+Projects aren’t just for configuring your solution though. Projects also enable you to organize resources by what you care about in your organization, whether it’s by application or business unit, to get helpful views into cost, availability, and compliance.
+
+Projects have built in governance ensuring that only validated, compliant, and approved code is deployed.
+
+Achieving continuous security and compliance for your regulated workloads is key to your business and ours. With IBM Cloud Security and Compliance Center, you can integrate daily, automatic compliance checks into your development lifecycle to help minimize risk and be audit-ready.
+
+From automating the creation of accounts to authorizing only IBM Cloud projects to deploy resources from approved, compliant deployable architectures, your enterprise can shift left and reduce the possibility of human error that can lead to major security or financial risks.
+
+Visit the IBM Cloud catalog to check out the secure by default deployable architectures that you can add to a project to get started today.
 
 ## Defining your compliance strategy
 {: #define-enterprise-compliance}
