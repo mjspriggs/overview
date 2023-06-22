@@ -2,7 +2,7 @@
 
 copyright:
   years: 2019, 2023
-lastupdated: "2023-04-12"
+lastupdated: "2023-06-22"
 
 keywords: data centers, datacenter, regions, locations, ibm cloud regions, multizone regions, MZRs, cloud regions, cloud data centers, multizone, geo, availability zone, zones
 
@@ -52,6 +52,7 @@ The following table lists the {{site.data.keyword.cloud_notm}} MZRs that fall in
 | Location      | Region   | Zone | Data center |
 |-----------|----------|------|----|
 | Frankfurt     | eu-de    |eu-de-1  \n eu-de-2  \n eu-de-3 | FRA02  \n FRA04  \n FRA05 |
+| Madrid        | eu-es    |eu-es-1  \n eu-es-2  \n eu-es-3 | MAD02 \n MAD04 \n MAD05 |
 | London        | eu-gb    |eu-gb-1  \n eu-gb-2  \n eu-gb-3 | LON04  \n LON05  \n LON06|
 {: caption="Table 1. MZRs in Europe" caption-side="top"}
 {: #europe-mzr}
@@ -80,15 +81,16 @@ SLAs are maintained because the infrastructure is set up in a concurrently maint
 
 ![This diagram shows a geography that contains a single campus MZR](images/single-campus-mzr.svg){: caption="Figure 2. Single campus MZR" caption-side="bottom"}
 
-The following table lists the single campus MZRs that are available in {{site.data.keyword.cloud_notm}} and the region, zone, and data center codes for each one.
+The following table lists the single campus MZRs that are available in {{site.data.keyword.cloud_notm}} and the region, zone, and data center codes for each one. 
 
 | Location      | Region   | Zone | Data center |
 |-----------|----------|------|----|
-| Osaka         | jp-osa   |jp-osa-1  \n jp-osa-2  \n jp-osa-3 | OSA21  \n OSA22  \n OSA23|
+| Osaka         | jp-osa   |jp-osa-1  \n jp-osa-2  \n jp-osa-3 | OSA21  \n OSA22  \n OSA23 |
 {: caption="Table 2. Single campus MZRs" caption-side="top"}
 
 OSA2X (formerly known as OSA02) is the physical data center.
 {: note}
+
 
 ## Data centers
 {: #data-centers}
@@ -150,6 +152,9 @@ See the following table for the specific code for each data center.
 |London 04 | LON04|
 |London 05 | LON05|
 |London 06 | LON06|
+|Madrid 02 | MAD02|
+|Madrid 04 | MAD04|
+|Madrid 05 | MAD05|
 |Milan 01 | MIL01|
 |Paris 01 | PAR01|
 {: caption="Table 3. Data centers in Europe" caption-side="top"}
