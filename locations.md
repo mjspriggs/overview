@@ -52,8 +52,8 @@ The following table lists the {{site.data.keyword.cloud_notm}} MZRs that fall in
 | Location      | Region   | Zone | Data center |
 |-----------|----------|------|----|
 | Frankfurt     | eu-de    |eu-de-1  \n eu-de-2  \n eu-de-3 | FRA02  \n FRA04  \n FRA05 |
-| Madrid        | eu-es    |eu-es-1  \n eu-es-2  \n eu-es-3 | MAD02 \n MAD04 \n MAD05 |
 | London        | eu-gb    |eu-gb-1  \n eu-gb-2  \n eu-gb-3 | LON04  \n LON05  \n LON06|
+| Madrid        | eu-es    |eu-es-1  \n eu-es-2  \n eu-es-3 | MAD02 \n MAD04 \n MAD05 |
 {: caption="Table 1. MZRs in Europe" caption-side="top"}
 {: #europe-mzr}
 {: tab-title="Europe"}
@@ -81,7 +81,7 @@ SLAs are maintained because the infrastructure is set up in a concurrently maint
 
 ![This diagram shows a geography that contains a single campus MZR](images/single-campus-mzr.svg){: caption="Figure 2. Single campus MZR" caption-side="bottom"}
 
-The following table lists the single campus MZRs that are available in {{site.data.keyword.cloud_notm}} and the region, zone, and data center codes for each one. 
+The following table lists the single campus MZRs that are available in {{site.data.keyword.cloud_notm}} and the region, zone, and data center codes for each one.
 
 | Location      | Region   | Zone | Data center |
 |-----------|----------|------|----|
