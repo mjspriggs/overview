@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2023
 
-lastupdated: "2023-06-06"
+lastupdated: "2023-06-26"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -58,6 +58,20 @@ Check out deployable architectures in the catalog
 
 Onboard customized deployable architectures for your enterprise users
 :   You can customize {{site.data.keyword.cloud_notm}} deployable architectures to meet your enterprise’s needs, and then leverage private catalogs to make only approved and compliant architectures available for your enterprise developers to deploy. For more information, see [Customizing an {{site.data.keyword.cloud_notm}} deployable architecture](/docs/secure-enterprise?topic=secure-enterprise-customize-from-catalog).
+
+### 12 April 2023
+{: #overview-apr1223}
+{: release-note}
+
+Specify language support for community-supported products
+:   If you offer a third-party product that is supported by open source communities, you can select the languages in which support is provided when you're onboarding or managing your product in Partner Center. By providing support in multiple languages, your customers can communicate their issues in their preferred language and get support more efficiently. For more information, see [Defining your support experience](/docs/sell?topic=sell-saas-support-details&interface=ui).
+
+### 10 April 2023
+{: #overview-apr1023}
+{: release-note}
+
+View email notification history
+:   You can use the Communication history page in the console to check the status of all email notifications that are sent you to verify if the emails are being delivered successfully. You can also view the last 90 days of {{site.data.keyword.cloud_notm}} email history, which can help save you time troubleshooting any delivery issues without needing to contact {{site.data.keyword.IBM_notm}} support. For more information, see [Checking the delivery status of email notifications and viewing email history](/docs/get-support?topic=get-support-viewing-notifications#view-email-history).
 
 ### 04 April 2023
 {: #overview-apr0423}
