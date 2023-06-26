@@ -2,7 +2,7 @@
 
 copyright:
   years: 2016, 2023
-lastupdated: "2023-06-01"
+lastupdated: "2023-06-26"
 
 keywords: glossary, IBM Cloud glossary, terms, definitions
 
@@ -23,7 +23,6 @@ The following cross-references are used in this glossary:
 
 - *See* refers you from a nonpreferred term to the preferred term or from an abbreviation to the spelled-out form.
 - *See also* refers you to a related or contrasting term.
-
 ## A
 {: #glossa}
 
@@ -1661,7 +1660,7 @@ A set of rules that define patterns for annotating text. If a pattern applies, t
 ### runtime
 {: #x2391929}
 
-The set of resources used to run the application. See also [starter](#x7470511).
+The set of resources used to run the application.
 
 ## S
 {: #glosss}
@@ -1861,11 +1860,6 @@ To deploy an application, service, or instance to a pre-defined location  for ru
 {: #x2094743}
 
 A section of a software package that defines either a specific action to be performed on that the software package or a set of conditions under which actions are to be performed on the software package. The complete software package is a stanza that contains a hierarchy of many different stanzas.
-
-### starter
-{: #x7470511}
-
-A template that includes predefined services and application code that is configured with a particular buildpack. A starter might be application code that is written in a specific programming language, or a combination of application code and a set of services. See also [runtime](#x2391929).
 
 ### state database
 {: #x9826031}
