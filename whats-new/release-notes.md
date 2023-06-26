@@ -70,7 +70,7 @@ Specify language support for community-supported products
 {: #overview-apr1023}
 {: release-note}
 
-View email and notification history 
+View email notification history
 :   You can use the Communication history page in the console to check the status of all email notifications that are sent you to verify if the emails are being delivered successfully. You can also view the last 90 days of {{site.data.keyword.cloud_notm}} email history, which can help save you time troubleshooting any delivery issues without needing to contact {{site.data.keyword.IBM_notm}} support. For more information, see [Checking the delivery status of email notifications and viewing email history](/docs/get-support?topic=get-support-viewing-notifications#view-email-history).
 
 ### 04 April 2023
