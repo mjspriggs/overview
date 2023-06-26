@@ -63,15 +63,15 @@ Onboard customized deployable architectures for your enterprise users
 {: #overview-apr1223}
 {: release-note}
 
-Selecting languages for community support
-:   If you offer a community type of support for your product provided by open source communities, Partner Center now gives you the option to select the languages in which support is provided. By providing support in multiple languages, your customers can communicate their issues in their preferred language and get support more efficiently. For more information, see [Defining your support experience](/docs/sell?topic=sell-saas-support-details&interface=ui).
+Specify language support for community-supported products
+:   If you offer a third-party product that is supported by open source communities, you can select the languages in which support is provided when you're onboarding or managing your product in Partner Center. By providing support in multiple languages, your customers can communicate their issues in their preferred language and get support more efficiently. For more information, see [Defining your support experience](/docs/sell?topic=sell-saas-support-details&interface=ui).
 
 ### 10 April 2023
 {: #overview-apr1023}
 {: release-note}
 
-Checking the delivery status of email notifications and viewing email history
-:   The new Communication history page provides a way for you to check the status of all email notifications that are sent you and you can verify whether the emails are delivered successfully. You can also view the last 90 days of {{site.data.keyword.cloud_notm}} email history, which can help you save time by troubleshooting any delivery issues without you having to contact {{site.data.keyword.IBM_notm}} support. For more information, see [Checking the delivery status of email notifications and viewing email history](/docs/get-support?topic=get-support-viewing-notifications#view-email-history).
+View email and notification history 
+:   You can use the Communication history page in the console to check the status of all email notifications that are sent you to verify if the emails are being delivered successfully. You can also view the last 90 days of {{site.data.keyword.cloud_notm}} email history, which can help save you time troubleshooting any delivery issues without needing to contact {{site.data.keyword.IBM_notm}} support. For more information, see [Checking the delivery status of email notifications and viewing email history](/docs/get-support?topic=get-support-viewing-notifications#view-email-history).
 
 ### 04 April 2023
 {: #overview-apr0423}
