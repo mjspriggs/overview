@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2023
-lastupdated: "2023-06-30"
+lastupdated: "2023-07-01"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -264,8 +264,8 @@ Services that are hosted globally create resources that operate across multiple 
 | Toolchain | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Transit Gateway | Hosted Globally | Hosted Globally | Hosted Globally | 
 | VMware Solutions | Hosted Globally | Hosted Globally | Hosted Globally | 
-| VMware as a Service - Site |  |  |  | 
-| VMware as a Service - Virtual Data Center |  |  |  | 
+| VMware as a Service - Site |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
+| VMware as a Service - Virtual Data Center |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | VPN for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Private Cloud | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Virtual Private Endpoint for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
