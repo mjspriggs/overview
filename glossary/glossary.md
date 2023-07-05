@@ -23,6 +23,7 @@ The following cross-references are used in this glossary:
 
 - *See* refers you from a nonpreferred term to the preferred term or from an abbreviation to the spelled-out form.
 - *See also* refers you to a related or contrasting term.
+
 ## A
 {: #glossa}
 
@@ -768,11 +769,6 @@ The configuration block that initializes a blockchain network or channel, and al
 {: #x2390455}
 
 An algorithmically determined number that uniquely identifies an entity within a system.
-
-### goal
-{: #x2117978}
-
-The verification of the way in which a control is met through hardware, software, or a service; or by a policy, process, procedure, or compliance artifact.
 
 ### gossip
 {: #x9825999}
