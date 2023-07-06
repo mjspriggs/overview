@@ -1,0 +1,4917 @@
+[
+    {
+        "Lemma": "access control list",
+        "ID": "x2012793",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A list that statelessly manages inbound and outbound traffic for a subnet through the use of rules. An access control list helps provide security at the subnet level."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "access group",
+        "ID": "x2160811",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A set of users and service IDs organized into a group that is used as the subject of an access policy for assigning all group members the same access."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "access policy",
+        "ID": "x2853407",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A method for granting users, service IDs, and access groups access to account resources. An access policy includes a subject, target, and role."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "access token",
+        "ID": "x2113001",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A value used by the consumer to gain access to the protected resources on behalf of the user, instead of using the user's service provider credentials."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "account",
+        "ID": "x2012863",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A unit within the representation of an organizational structure. It can include resources, such as servers, access controls, and configurations."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "account group",
+        "ID": "x8622525",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An organizational unit for accounts within an enterprise. An account group can contain accounts or other account groups."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "accuracy",
+        "ID": "x3125742",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A measure of the correctness of the decisions and predictions that are made by machine learning models, which are often part of AI systems."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "accuracy analysis",
+        "ID": "x7881108",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "Analyzing machine learning model scores to determine whether changes are needed to improve accuracy."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "action",
+        "ID": "x2012974",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A code snippet that can be explicitly invoked, or run in response to an event."
+                        ]
+                    },
+                    {
+                        "Definitions": [
+                            "A task that is performed in the context of a service. "
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "adjudication",
+        "ID": "x3096333",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An iterative process for resolving annotation conflicts by comparing the annotations added to the same document by different human annotators."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "affinity",
+        "ID": "x2149238",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "Two or more container group instances running on the same network node."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "allowlist",
+        "ID": "x3954001",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A list of items, such as usernames, email addresses, or IP addresses, that are granted access to a certain system or function. When an allowlist is used for access control, all entities are denied access, except for those that are included in the allowlist."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "analysis engine",
+        "ID": "x3461204",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A program that analyzes artifacts, such as documents, and infers information about them, and which implements the UIMA Analysis Engine interface specification. Analysis engines are constructed from building blocks called annotators. An analysis engine can contain a single annotator, which is referred to as a primitive analysis engine, or multiple annotators, which is referred to as an aggregate analysis engine."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "annotation",
+        "ID": "x2013712",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "Information about a span of text. For example, an annotation might indicate that a span of text represents a company name."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "annotation process manager",
+        "ID": "x9825807",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A role that is responsible for managing the full annotation lifecycle activities within a workspace. The project manager that is added to a workspace typically performs the activities of an annotation process manager."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "annotation set",
+        "ID": "x9504010",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "In machine-based annotation, a collection of documents that can be used as blind data, training data, or test data."
+                        ]
+                    },
+                    {
+                        "Definitions": [
+                            "In human annotation, a collection of documents that are extracted from the corpus that allow the workload to be shared by multiple human annotators."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "anti-affinity",
+        "ID": "x8888040",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "Two or more container group instances that run on different network nodes to ensure higher availability for an app."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "API key",
+        "ID": "x8051010",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A unique code that is passed to an API to identify the calling application or user. An API key is used to track and control how the API is being used, for example, to prevent malicious use or abuse of the API."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "API operation",
+        "ID": "x9826953",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A unit of a REST API that can be invoked. An API operation comprises an HTTP verb and a URL path that is subordinate to the context root of the API.\n"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "API resource",
+        "ID": "x7103848",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A unit of a REST API that can be invoked. An API resource comprises an HTTP verb and a unique URL path that is subordinate to the context root of the API."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "app",
+        "ID": "x4281528",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A web or mobile device application."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "artifact",
+        "ID": "x2262995",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An entity that is used or produced by a software or systems development process. Examples of artifacts include designs, requirements, source files, plans, scripts, simulations, models, test plans, and binary executable files. In an HTTP context, artifacts have a URI and are called resources."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "assembly",
+        "ID": "x2260813",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An application programming interface that provides rich functionality for interacting with an application. The assembly  makes side calls to external services and then transforms and aggregates the response before a response is relayed to the calling application."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "asset",
+        "ID": "x2172042",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "Tangible or intangible goods, services, or property represented as an entity that is traded on a blockchain network."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "attachment",
+        "ID": "x2014428",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "In Security and Compliance Center, the connection between a profile and scope."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "attribute",
+        "ID": "x2000252",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A characteristic or trait of an entity that describes the entity; for example, the telephone number of an employee is one of the employee attributes."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "authentication (AuthN)",
+        "ID": "x2014567",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The process of validating the identity of a user or server."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "authorization (AuthZ)",
+        "ID": "x2014653",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "In computer security, the right granted to a user to communicate with or make use of a computer system."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "availability zone",
+        "ID": "x7018171",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A location within a region that IBM Cloud Kubernetes Service runs in."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "bare metal server",
+        "ID": "x6778472",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A dedicated, fully-customizable physical server that can be used for virtualization or web hosting."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "base image",
+        "ID": "x5366487",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An image that has no parent image."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "beta product",
+        "ID": "x10127356",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A product that IBM makes available solely for evaluation and testing purposes. There are no warranties, SLAs or support provided and beta products are not intended for production use."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "bias detection",
+        "ID": "x9721361",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The process of calculating fairness to metrics to detect when AI models are delivering unfair outcomes based on certain attributes."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "billing option",
+        "ID": "x6526863",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The method by which a client is billed for cloud service usage. Examples include paying in advance, such as with subscriptions, and payment in arrears, as in Pay-As-You-Go accounts."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "billing unit",
+        "ID": "x9308099",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The highest level billing entity within an enterprise. Each account or account group is linked to a billing unit, which manages all associated contracts, invoices, orders, and payments. A billing unit can contain one or more credit pools."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "bind",
+        "ID": "x2000361",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "To establish a connection between software components on a network using an agreed-to protocol. In web services, the bind operation occurs when the service requester invokes or initiates an interaction with the service at run time using the binding details in the service description to locate, contact, and invoke the service."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "blind data",
+        "ID": "x7881128",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A set of documents annotated with the ground truth, such as question and answer pairs, semantic annotation, and passage judgment. Blind data is never released or seen by developers and is used to test the system periodically to evaluate performance on unseen data."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "block",
+        "ID": "x2000384",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A unit that contains ordered transactions in a blockchain network. Blocks are immutable and contain the cryptographic hash of the previous block to create a chain of blocks. This iterative process confirms the integrity of the previous block, all the way back to the initial block."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "blocklist",
+        "ID": "x3954055",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A list of items, such as usernames, email addresses, or IP addresses, that are denied access to a certain system or function. When a blocklist is used for access control, all entities are allowed access, except for those that are included in the blocklist."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "BLU Acceleration",
+        "ID": "x7470463",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A collection of IBM Db2 technologies designed to work primarily with read-mostly business intelligence query processing. BLU Acceleration consists of four major database design advances: dynamic in-memory columnar processing, actionable compression, parallel vector processing, and data skipping."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "blue-green deployment",
+        "ID": "x7807335",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A deployment technique that enables continuous delivery and minimizes downtime by running two nearly identical production environments called Blue and Green. While one of the environments (for example, Blue) is the live production environment, the other (for example, Green) can be used for final testing and deployment. After the application is deployed in Green, Green becomes the production environment and Blue becomes idle."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "boilerplate",
+        "ID": "x7233930",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A template that includes one application and its associated runtime environment and predefined services for a particular domain."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "borderless",
+        "ID": "x8439189",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "Pertaining to an open, non-proprietary development platform that includes public cloud, dedicated cloud, and local cloud deployment models."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "bucket",
+        "ID": "x2072079",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A container for storing unstructured data. "
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "buildpack",
+        "ID": "x7233925",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A collection of scripts that provide framework and runtime support for apps."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "business continuity",
+        "ID": "x3026801",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The capability of a business to withstand outages and to operate mission-critical services normally and without interruption in accordance with predefined service-level agreements."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "certificate authority (CA)",
+        "ID": "x2016383",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A trusted third-party organization or company that issues the digital certificates. The certificate authority typically verifies the identity of the individuals who are granted the unique certificate."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "certificate signing request (CSR)",
+        "ID": "x3530521",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An electronic message that an organization sends to a certificate authority (CA) to obtain a certificate. The request includes a public key and is signed with a private key; the CA returns the certificate after signing with its own private key."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "chaincode",
+        "ID": "x9829545",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "Executable code that contains business logic agreed to by a set of organizations on a channel. A chaincode, and the smart contracts it contains, is installed on peers, instantiated on a channel, and governs access to the ledger data that is generated through invocations of the chaincode."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "channel",
+        "ID": "x2016483",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A private subset of a larger  blockchain network with specific rules and a separate ledger that only channel members can access."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "client",
+        "ID": "x2000644",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An entity that acts on behalf of a user by connecting to a peer to communicate with the blockchain."
+                        ]
+                    },
+                    {
+                        "Definitions": [
+                            "A software program or computer that requests services from a server."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "client secret",
+        "ID": "x7024948",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A piece of information that is used with an application key to verify the identity of an application. An API can be configured to require that client applications supply their application secret with their application key. The application secret functions effectively as a password known only to the application. The application secret is passed by the client using an HTTP query parameter."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "cloud computing",
+        "ID": "x3877850",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A computing platform where users can have access to applications or computing resources, as services, from anywhere through their connected devices. A simplified user interface or application programming interface (API), or both, makes the infrastructure supporting such services transparent to users."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "cloud portability",
+        "ID": "x4585297",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The ability to move applications and services across public or private cloud computing environments, or from different cloud providers."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "cloud provider",
+        "ID": "x4585302",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An organization that provides cloud computing resources."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "cloud resource name (CRN)",
+        "ID": "x9494304",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A globally unique identifier for a specific cloud resource. The value is segmented hierarchically by version, instance, type, location, and scope, separated by colons."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "command-line interface (CLI)",
+        "ID": "x2051424",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A computer interface in which the input and output are text based."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "community",
+        "ID": "x3103004",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A collection of consumer organizations. It is used as a grouping construct when publishing APIs. Communities are used to restrict the visibility and accessibility of APIs."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "component",
+        "ID": "x2017871",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "In source control management, a grouping of related artifacts in a stream or repository workspace. A component can contain any number of folders and files."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "compute",
+        "ID": "x3723424",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "Infrastructure or resources that serve as the basis for building apps in the cloud."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "configuration rule (config rule)",
+        "ID": "x3084914",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A JSON document that defines the configuration of resources and validates the compliance based on security requirements when a resource is created or modified."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "confusion matrix",
+        "ID": "x2916277",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A table that provides a detailed numeric breakdown of annotated document sets. The table is used to compare the annotations that were added by a machine learning model to the annotations in the ground truth. The table reports the number of false positives, false negatives, true positives, and true negatives."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "connection",
+        "ID": "x2000863",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "In data communication, an association established between entities for conveying information."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "consensus",
+        "ID": "x8888385",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The process of participants in a blockchain agreeing to a transaction and validating it through the peer network. Consensus ensures that shared ledgers are exact copies, and lowers the risk of fraudulent transactions since tampering would have to occur across many places at the exact same time."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "consumer",
+        "ID": "x2263174",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A member in a blockchain network that uses the network to invoke transactions against the distributed ledger."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "container",
+        "ID": "x2010901",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A system construct that allows users to simultaneously run separate logical operating system instances. Containers use layers of file systems to minimize image sizes and promote reuse."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "context",
+        "ID": "x2018372",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "Environmental or conditional information that can be used to define when rules that restrict access to resources should be applied. A context can be a set of properties or attributes like client IP addresses, office hours, time of day, or multi-factor authentication."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "context-based restriction",
+        "ID": "x10127184",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An access management method that defines and enforces access for resources based on the network location of the access request."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "control",
+        "ID": "x2018434",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A technical, administrative, or physical safeguard designed to meet a set of defined security and privacy requirements. Controls exist to prevent, detect, or lessen the ability of a threat to exploit a vulnerability.\n"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "control assessment",
+        "ID": "x10134907",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The evaluation of a configuration for compliance with applicable standards."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "control library",
+        "ID": "x8454197",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A collection of similar predefined or custom controls."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "control specification",
+        "ID": "x2018576",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A statement that defines the specific security and privacy requirements that a control must meet."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "coreference",
+        "ID": "x9440294",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A relationship between two words or phrases in which both refer to the same person or thing and one stands as a linguistic antecedent of the other. For example, there is a coreference between the two pronouns in the phrase \"She taught herself\" but not in the phrase \"She taught her\". A coreference links two equivalent entities in the same text."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "coreference chain",
+        "ID": "x9504031",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A list of entities that were annotated as coreferences. When a mention is annotated as a coreference, the system creates a coreference chain.  The coreference chain provides a way to view all of the mentions in context and verify that all of the occurrences belong together under the same entity type."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "corpus",
+        "ID": "x3954167",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A collection of source documents that are used to train a machine learning model."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "credential",
+        "ID": "x2018813",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "Information acquired during authentication that describes a user, group associations, or other security-related identity attributes, and that is used to perform services such as authorization, auditing, or delegation. For example, a user ID and password are credentials that allow access to network and system resources."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "credit pool",
+        "ID": "x9796950",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "Within an enterprise billing unit, a consolidation of credit from all sources, including subscriptions and promotions, that is shared among accounts."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "crypto unit",
+        "ID": "x9860404",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A single unit that represents a hardware security module and the corresponding software stack that is dedicated to the hardware security module for cryptography."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "cryptosystem",
+        "ID": "x10293795",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A suite of algorithms that are used to implement a specific security service. Examples include RSA and Ed25519."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "curate",
+        "ID": "x7883684",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "To select, collect, preserve, and maintain content relevant to a specific topic. Curation establishes, maintains, and adds value to data; it transforms data into trusted information and knowledge."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "custom domain",
+        "ID": "x5728384",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The customized portion of the URL selected by the user to direct requests to the application. A custom domain makes up part of the route. A custom domain can be a shared domain, a shared subdomain, or a shared domain and host."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "daemon",
+        "ID": "x2019215",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A program that runs unattended to perform continuous or periodic functions, such as network control."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "dashboard",
+        "ID": "x2363941",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A user interface component that provides a comprehensive summary of pertinent information from various sources to the user."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "data center (DC)",
+        "ID": "x2439906",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The physical location of the servers that provide cloud services."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "data encryption key",
+        "ID": "x4791827",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A cryptographic key used to encrypt data that is stored in an application."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "data store",
+        "ID": "x2052849",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A place, such as a database system, file, or directory, where data is stored."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "dedicated cloud",
+        "ID": "x8439199",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A private cloud computing environment that provides infrastructure with single-tenant hardware."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "deployable architecture",
+        "ID": "x10293733",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "Cloud automation for deploying a common architectural pattern that combines one or more cloud resources that is designed for easy deployment, scalability, and modularity."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "deployment",
+        "ID": "x2104544",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A process that retrieves the output of a build, packages the output with configuration properties, and installs the package in a pre-defined location so that it can be tested or run."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "DevOps",
+        "ID": "x5784896",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A software methodology that integrates application development and IT operations so that teams can deliver code faster to production and iterate continuously based on market feedback."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "DevSecOps",
+        "ID": "x9892260",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A methodology that integrates security practices with the software development and operations lifecycle. The goal of the merge is to prioritize the balance of development speed and security."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "dictionary",
+        "ID": "x2001532",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A collection of words that can be used to pre-annotate documents. A new annotation is created for each word in the document text that matches a term in the dictionary. A machine learning model can be configured with one or more independent dictionaries, which are typically domain-specific, such a dictionary for pharmaceuticals and a dictionary for wealth management."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "dictionary pre-annotator",
+        "ID": "x9825820",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A component that identifies mentions in text that match a specific set of words. By using domain-specific terminology to pre-annotate text, dictionary pre-annotators can accelerate a human annotator's ability to prepare a set of ground truth documents."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "disaster recovery (DR)",
+        "ID": "x2113280",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The ability of IT services to recover from rare but major incidents and non-transient, wide-scale failures, such as service disruption that affects an entire geographical area. The impact of such an incident exceeds the ability of the high availability design to handle it. See also high availability, recovery time objective, recovery point objective."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "Dockerfile",
+        "ID": "x9860414",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A text file that contains instructions to build a Docker image."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "document set",
+        "ID": "x9825825",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A collection of documents. Documents that are imported together become a document set. Annotated documents that are grouped together for training purposes are generated as document sets."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "domain",
+        "ID": "x2021210",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "Part of a naming hierarchy that specifies the route. For example, example.com. In IBM Cloud, domains are associated with orgs. Domain objects are not directly bound to apps."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "dynamic secret",
+        "ID": "x9968958",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A unique value, such as a password or an API key, that is created dynamically and leased to an application that requires access to a protected resource. After a dynamic secret reaches the end of its lease, access to the protected resource is revoked and the secret is deleted automatically."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "endorse",
+        "ID": "x2455719",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "To validate a chaincode transaction that was made by another member of a blockchain network."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "endorsement",
+        "ID": "x3450292",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A collection of digital signatures from endorsing peers that establish that a transaction satisfies an endorsement policy."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "endorsement policy",
+        "ID": "x8911635",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A policy that defines the peer nodes on a channel that must execute transactions that are attached to a specific chaincode application, and the required combination of endorsements. For example, a policy could require that a transaction be endorsed by a minimum number of endorsing peers, a minimum percentage of endorsing peers, or by all endorsing peers that are assigned to a specific chaincode application."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "endpoint",
+        "ID": "x2026820",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The address of an API or service in an environment. An API exposes an endpoint and at the same time invokes the endpoints of other services."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "enterprise",
+        "ID": "x2026915",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A hierarchical structure of accounts with centralized account and billing management in a cloud environment."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "enterprise account",
+        "ID": "x9863395",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A unique account within an enterprise that manages users and access for account organization and enterprise billing."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "entitlement",
+        "ID": "x2213075",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "In software licensing, the maximum allowed allocation of capacity as determined by a license agreement."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "entity",
+        "ID": "x2026945",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A set of details that are held about a real-world object such as a person, location, or bank account. An entity is a kind of item."
+                        ]
+                    },
+                    {
+                        "Definitions": [
+                            "A person, object, or concept about which information is stored."
+                        ]
+                    },
+                    {
+                        "Definitions": [
+                            "A mention that is annotated by an entity type."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "entity type",
+        "ID": "x2760649",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The type of entity that a mention represents without consideration for context. For example, the mention IBM might be annotated by the entity type ORGANIZATION. In an entity-relationship model, an entity type is the thing that is being modeled or the thing that a mention refers to, such as the name of a person or place. Different entity types have different sets of attributes such as \"surname\" or \"home town\", and are connected through relationships like \"lives in\". An entity type exists independently and can be uniquely identified."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "envelope encryption",
+        "ID": "x9860393",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The process of encrypting data with a data encryption key and then encrypting the key with a root key that can be fully managed."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "evidence",
+        "ID": "x5633626",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The collected raw data to support an assessment for auditing purposes."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "experimental product",
+        "ID": "x10127361",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A product that IBM makes available solely for evaluation and testing purposes, and might be unstable or not compatible with previous versions. An experimental product can be discontinued with short notice. There are no warranties, SLAs or support provided, and experimental products are not intended for production use."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "explainability",
+        "ID": "x9758663",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The ability of human users to trace, audit, and understand predictions that are made in applications that use AI systems."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "F1 score",
+        "ID": "x9825839",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A measure of a test's accuracy that considers both precision and recall to compute the score. The F1 score can be interpreted as a weighted average of the precision and recall values. An F1 score reaches its best value at 1 and worst value at 0."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "false negative",
+        "ID": "x2208339",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An answer or annotation that is correct, but was predicted to be incorrect."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "false positive",
+        "ID": "x8979862",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An answer or annotation that is incorrect, but was predicted to be correct."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "feature",
+        "ID": "x2022596",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A data member or attribute of a type."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "feature code",
+        "ID": "x2210744",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A code that is applied to free accounts to unlock extra product resources and capabilities."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "Federal Risk and Authorization Management Program (FedRAMP)",
+        "ID": "x10109081",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A United States government program that provides a standardized, risk-based approach for the adoption and use of cloud services by the US federal government. FedRAMP empowers agencies to use modern cloud technologies with an emphasis on security and protection of federal information, and helps accelerate the adoption of secure cloud solutions."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "federate",
+        "ID": "x2763229",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "To merge two or more entities. For example, a company's registered domain could be federated with an IBMid."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "feed",
+        "ID": "x3129185",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A piece of code that configures an external event source to fire trigger events."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "file share",
+        "ID": "x2022902",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "In the IBM Cloud environment, a persistent storage system where users store and share files. In IBM Cloud Kubernetes Service, users can mount Docker volumes on file shares."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "fire",
+        "ID": "x2239904",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "To activate a trigger."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "Fleiss Kappa score",
+        "ID": "x9825844",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A measure of how consistently the same annotation was applied by multiple human annotators across overlapping documents. The Fleiss Kappa score reaches its best value at 1 and worst value at 0."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "floating IP address",
+        "ID": "x6326428",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A public, routable IP address that makes use of 1-to-1 network address translation (NAT) so that a server can communicate with the public internet and private subnet within a cloud environment. Floating IP addresses are associated to an instance, for example, a virtual server instance, a load balancer, or a VPN gateway, by means of a virtual network interface card (vNIC)."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "framework",
+        "ID": "x2023472",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An architecture for an application that provides a standard structure for an application, and general, extensible functionality.  A framework enables and simplifies consistent implementation of complex technologies for application development."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "functional identifier",
+        "ID": "x5951030",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An ID created through a federated identity provider that represents a program, application, or service that is assigned the minimum level of access required to complete the function for which it is created."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "GB-hour",
+        "ID": "x7470477",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The cumulative amount of memory (in gigabytes) that is running for all application instances for a particular buildpack per hour."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "general availability (GA)",
+        "ID": "x2117947",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "Date when a product is widely available for sale and delivery to customers or channels, usually across multiple geographies."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "genesis block",
+        "ID": "x9076628",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The configuration block that initializes a blockchain network or channel, and also serves as the first block on a chain."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "globally unique identifier (GUID)",
+        "ID": "x2390455",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An algorithmically determined number that uniquely identifies an entity within a system."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "gossip",
+        "ID": "x9825999",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "\nA method of sharing network information among peers in which each peer forwards messages to a random selection of the current peers in the network."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "Gossip Data Dissemination Protocol",
+        "ID": "x9829550",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A protocol for secure, reliable, and scalable communication of information in an network by passing messages among peers."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "ground truth",
+        "ID": "x7736823",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The set of vetted data, consisting of annotations added by human annotators, that is used to adapt a machine learning model to a particular domain. Ground truth is used to train machine learning models, measure model performance (precision and recall), and calculate headroom to decide where to focus development efforts for improving performance. Accuracy of ground truth is essential since inaccuracies in the ground truth will correlate to inaccuracies in the components that use it."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "hardware security module (HSM)",
+        "ID": "x6704988",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A physical appliance that provides on-demand encryption, key management, and key storage as a managed service."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "hardware virtual machine mode (HVM)",
+        "ID": "x9736811",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "Hardware-assisted full virtualization. A virtual machine uses resources from the host computer to operate as a complete hardware environment. The host operating system is unaware of the virtual client."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "Hash-Based Message Authentication Code (HMAC)",
+        "ID": "x6652268",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A cryptographic code that uses a cryptic hash function and a secret key."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "headroom analysis",
+        "ID": "x7881218",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The process of determining how much improvement in accuracy, precision, or recall can be expected by addressing some class of problems that are identified while performing accuracy analysis."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "health check",
+        "ID": "x4571658",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A process that monitors system resources and conditions to determine whether the system is running efficiently. The health check can be configured to report potential problems and to display warnings and fail levels before the integrity of the system is compromised."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "heavy API call",
+        "ID": "x7690468",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A client operation that writes, deletes, or inserts data. Heavy API calls consume more resources than light API calls because they are affecting the data."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "high availability (HA)",
+        "ID": "x2284708",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The ability of IT services to withstand all outages and continue providing processing capability according to some predefined service level. Covered outages include both planned events, such as maintenance and backups, and unplanned events, such as software failures, hardware failures, power failures, and disasters."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "host",
+        "ID": "x2002243",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A computer that is connected to a network and that provides an access point to that network. The host can be a client, a server, or both a client and server simultaneously."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "HTTP method",
+        "ID": "x2024674",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An action that is used by the Hypertext Transfer Protocol. HTTP methods include GET, POST, and PUT."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "human annotator",
+        "ID": "x9504052",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A subject matter expert who reviews, modifies, and augments the results of pre-annotation by identifying mentions, entity type relationships, and mention coreferences. By examining text in context, a human annotator helps determine ground truth and improve the accuracy of the machine learning model."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "hybrid cloud",
+        "ID": "x4585327",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A cloud computing environment that consists of multiple public and private resources."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "Hyperledger fabric",
+        "ID": "x8889858",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The implementation of the Linux Hyperledger project."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "Hypertext Transfer Protocol Secure (HTTPS)",
+        "ID": "x2237225",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An Internet protocol that is used by web servers and web browsers to transfer and display hypermedia documents securely across the Internet."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "IBM Cloud",
+        "ID": "x7301758",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An open-standards, cloud-based platform for building, managing, and running apps of all types, such as web, mobile, big data, and smart devices. Capabilities include Java, mobile back-end development, and application monitoring, as well as features from ecosystem partners and open source&mdash;all provided as-a-service in the cloud."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "identity and access management (IAM)",
+        "ID": "x7547040",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The process of controlling access of authorized users to data and applications,  while helping companies comply with various regulatory requirements."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "identity provider (IdP)",
+        "ID": "x2714740",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A service that creates, maintains, and manages identity information, account authentication and credential management services for one or more systems. For example, a user registry for one or more hosts; or a built-in user registry for an application."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "image",
+        "ID": "x2024928",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A file system and its execution parameters that are used within a container runtime to create a container. The file system consists of a series of layers, combined at runtime, that are created as the image is built by successive updates. The image does not retain state as the container executes."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "imprint mode",
+        "ID": "x9860399",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An operational mode in which crypto units are assigned to a user."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "infrastructure as a service (IaaS)",
+        "ID": "x4585332",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The delivery of a computer infrastructure, including server functionality, networking functionality, data center functionality, and storage functionality as an outsourced service."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "input/output operations per second (IOPS)",
+        "ID": "x3858854",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A standard computing benchmark used to determine the best configuration settings for servers."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "instance",
+        "ID": "x2002531",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An entity that consists of resources that are reserved for a particular application or a service."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "instantiate",
+        "ID": "x2056692",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The process of starting and initializing a smart contract on a blockchain channel. After instantiation, peers on the channel that have the smart contract installed can accept smart contract invocations."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "inter-annotator agreement",
+        "ID": "x9721455",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A measure of how similarly a document in two or more document sets is annotated."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "intermediate certificate",
+        "ID": "x3753781",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A subordinate certificate that is issued by the trusted root certificate authority (CA) specifically to issue end-entity server certificates. The result is a certificate chain that begins at the trusted root CA, passes through the intermediate certificate, and ends with the SSL certificate issued to the organization."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "Internet of Things (IoT)",
+        "ID": "x6714341",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The global network of endpoints that can capture or generate data. For example, a smartphone, smart watch and back-end server might all communicate with each other, sending data back and forth, or even to additional devices within the network."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "Internet Small Computer System Interface (iSCSI)",
+        "ID": "x2119615",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An IP-based standard for linking data storage devices over a network and transferring data by carrying SCSI commands over IP networks."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "invoke",
+        "ID": "x2057232",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "To activate an action."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "JAR file",
+        "ID": "x2406009",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A Java archive file."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "JavaScript Object Notation (JSON)",
+        "ID": "x3292165",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A lightweight data-interchange format that is based on the object-literal notation of JavaScript. JSON is programming-language neutral but uses conventions from various languages."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "knowledge graph",
+        "ID": "x7904177",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A model that consolidates typed entities, their relationships, their properties, and hierarchical taxonomies to represent an organization of concepts for a given domain. After the knowledge graph store is loaded with inputs from structured and unstructured data sources, users and applications can access the knowledge graph to explore key elements of knowledge for a specific domain, explore interactions, and discover additional relationships."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "label",
+        "ID": "x2028176",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A user-defined identifier attached to a grouping of resources that are contained in an instance. Labels are visible only at an instance."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "layer",
+        "ID": "x2028320",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A changed version of a parent image. Images consist of layers, where the changed version is layered on top of the parent image to create the new image."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "lemma",
+        "ID": "x2763345",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The normalized or canonical form of a word. Typically, the lemma is the underived and uninflected form of a noun or a verb. For example, the lemma of the terms 'organizing' and 'organized' is 'organize'"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "light API call",
+        "ID": "x7690463",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A client operation that only reads data. Light API calls use fewer resources than heavy API calls because they are performing a single function."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "Lightweight Directory Access Protocol (LDAP)",
+        "ID": "x2028538",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An open protocol that uses TCP/IP to provide access to directories that support an X.500 model and that does not incur the resource requirements of the more complex X.500 Directory Access Protocol (DAP). For example, LDAP can be used to locate people, organizations, and other resources in an Internet or intranet directory."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "Linux Hyperledger project",
+        "ID": "x8888396",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An open source, collaborative effort to advance blockchain technology by identifying and addressing important features for a cross-industry open standard for distributed ledgers that can transform the way business transactions are conducted globally. Hyperledger serves as the foundation code for the IBM Blockchain products, services, and solutions."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "load balancer",
+        "ID": "x2788902",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "Software or hardware that distributes workload across a set of servers to ensure that servers are not overloaded. The load balancer also directs users to another server if the initial server fails."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "load balancer as a service (LBaaS)",
+        "ID": "x9829528",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A service that provides the ability to distribute traffic among instances in a virtual private cloud."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "local cloud",
+        "ID": "x8439194",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A cloud computing environment within the client's data center. The local cloud is on-premises, providing improved latency and security."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "logical unit number (LUN)",
+        "ID": "x2163327",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "In the Small Computer System Interface (SCSI) standard, a unique identifier used to differentiate devices, each of which is a logical unit (LU)."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "LoopBack data source",
+        "ID": "x9826958",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A JavaScript object that represents a back-end service such as a database, REST API (to be consumed), or SOAP web service. Data sources are backed by connectors that then communicate directly with the database or other back-end services."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "LoopBack model",
+        "ID": "x8940739",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A model that provides a remote (REST) API that clients use to perform operations and interact with backend systems. The model consists of application data, validation rules, data access capabilities, and business logic. Every LoopBack application by default has a set of built-in models: user, application, email, and several models for access control."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "machine learning (ML)",
+        "ID": "x8397498",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A method of data analysis that iteratively learns from past data and independently adapts when exposed to new data. The mathematical model at the core of machine learning is built from ground truth inputs. Through training and refinement of example input data, the model can deliver accurate, repeatable results when it analyzes new data."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "machine learning model",
+        "ID": "x7579194",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A component that identifies entities and entity relationships according to a statistical model that is based on ground truth. The model applies past experience, such as training data, to determine or predict the correct outcome of future experiences based on characteristics of the data. These past experiences are captured in the form of a model by calculating feature scores for each candidate answer or evidence and combining that with known outcomes."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "Managed Service Provider (MSP)",
+        "ID": "x6418711",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An IBM Business Partner that provides IT services on a contractual basis to maintain clients' computers, networks or software. They manage services on-site at the clients' data center, remotely in the clients’ data center, or in a third-party data center."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "master key",
+        "ID": "x2908413",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An encryption key that is used to protect a crypto unit. The master key provides full control of the hardware security module and ownership of the root of trust that encrypts the chain keys, including the root key and standard key."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "member",
+        "ID": "x2003073",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A participant that is enrolled in a blockchain network. A member can be as large as a multi-national corporation or as small as an individual."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "membership service provider",
+        "ID": "x10127293",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A component that defines the organizations that can transact on a blockchain network. The membership service provider turns identities into permissions by defining them as administrators of an organization. It also contains the public certificate for the root of trust of the organization.\ncontext: Typically, a single membership service provider is used to represent a single blockchain organization."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "mention",
+        "ID": "x6834461",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A span of text that is considered relevant ina domain data. For example, in a type system about automotive vehicles, occurrences of terms such as \"airbag\", \"Ford Explorer\", and \"child restraint system\" might be relevant mentions."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "microservice",
+        "ID": "x8379238",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A set of small, independent architectural components, each with a single purpose, that communicate over a common lightweight API."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "mobile application (mobile app)",
+        "ID": "x4258535",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An application that has been designed for a mobile platform. Similar to web applications, mobile apps provide some function beyond static display of information, for example, allowing the user to filter news in near real-time."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "mobile backend as a service (MBaaS)",
+        "ID": "x7044858",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A computing model that connects mobile applications to cloud computing services and provides features such as user management, push notifications, and integration with social networks through a unified API and SDK."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "mobile cloud",
+        "ID": "x4585344",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An infrastructure in which the storage and processing of data for applications is offloaded from a mobile device into the cloud. With mobile cloud computing, applications are not limited to a specific carrier, but are accessed through the Web."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "module",
+        "ID": "x2030595",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A stand-alone unit of automation code that can be reused and shared in a larger system."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "multizone region (MZR)",
+        "ID": "x9774820",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A region that is spread across data centers in multiple zones to increase fault tolerance."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "named entity",
+        "ID": "x3271173",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A concept in a domain that falls in to a well defined category, such as names of organizations, locations, authors, or diseases."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "namespace",
+        "ID": "x2031005",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A collection of repositories that store images in a registry. A namespace is associated with an IBM Cloud account, which can include multiple namespaces."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "natural language processing (NLP)",
+        "ID": "x2031058",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A field of artificial intelligence and linguistics that studies the problems inherent in the processing and manipulation of natural language, with an aim to increase the ability of computers to understand human languages."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "network address translation (NAT)",
+        "ID": "x2031199",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An addressing method that is used to enable one IP address to communicate with several other IP addresses, such as those on a private subnet, by means of a lookup table. Network address translation has two main types: 1-to-1 and many-to-1."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "Network File System (NFS)",
+        "ID": "x2031282",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A protocol that allows a computer to access files over a network as if they were on its local disks."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "node",
+        "ID": "x2003286",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A member of a cluster that runs as a container or virtual machine on shared hardware."
+                        ]
+                    },
+                    {
+                        "Definitions": [
+                            "A physical component of the blockchain network infrastructure, namely a peer, Certificate Authority (CA), or ordering node.\n"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "OAuth",
+        "ID": "x6013335",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An HTTP-based authorization protocol that gives applications scoped access to a protected resource on behalf of the resource owner, by creating an approval interaction between the resource owner, client, and resource server."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "OCI container image",
+        "ID": "x9860419",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A container image that is compliant with the OCI Image Format Specification"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "on-premises (on-prem)",
+        "ID": "x4561212",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "Pertaining to software that is installed and run on the local computers of a user or organization."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "ontology",
+        "ID": "x3069177",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An explicit formal specification of the representation of the objects, concepts, and other entities that can exist in some area of interest and the relationships among them."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "ordering node",
+        "ID": "x9884023",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A node that collects transactions from network members, orders the transactions and bundles them into blocks."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "ordering service",
+        "ID": "x9826021",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A service that provides a shared communication channel to clients and peers for the broadcast of messages that contain transactions."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "organization (org)",
+        "ID": "x2032585",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The grouping methodology for users in IBM Cloud. Orgs are used to manage quotas. Users in an org share memory and service instance quotas."
+                        ]
+                    },
+                    {
+                        "Definitions": [
+                            "The entity that owns APIs or applications that use APIs.    A provider organization owns APIs and associated plans, and can additionally own applications. A consumer organization owns only applications. An organization has at least one owner. An organization can be a project team, department, or division."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "origin server",
+        "ID": "x2210603",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A server that processes and responds to incoming requests from clients, and is typically used with a caching server."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "out-of-band",
+        "ID": "x2032717",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "Pertaining to data transferred through a stream that is independent from the main data stream."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "paravirtualized mode",
+        "ID": "x9736806",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A lightweight virtualization technique. While in paravirtualized mode, a virtual machine does not require virtualization extensions from the host computer, thus allowing virtualization on hardware systems that do not support hardware-assisted virtualization."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "parent image",
+        "ID": "x8439210",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An image that provides a base for another image. For example, Ubuntu Linux is the parent image of the IBM Liberty image."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "part of speech (POS)",
+        "ID": "x3271709",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A grammatical category, such as noun or verb, based on the syntactic function of a lexical item."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "path",
+        "ID": "x2011343",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The route through which users access REST APIs. A path consists of one or more HTTP operations such as GET or POST."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "payload logging",
+        "ID": "x9758658",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The capture of payload data and deployment output to monitor ongoing health of AI in business applications."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "payment method",
+        "ID": "x2281605",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The method by which a client pays an invoice, such as credit card, check, or wire transfer."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "peer",
+        "ID": "x2033450",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A blockchain network entity that maintains a ledger with an installed chaincode for performing read and write operations on the ledger. A peer is owned and maintained by an organization."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "performance",
+        "ID": "x2033492",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The measurement of a Watson system in terms of accuracy, precision, and recall, for example, when answering questions, discovering relationships, or annotating text."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "plan",
+        "ID": "x2283517",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The packaging construct by which APIs are made available to consumers. A plan makes available a collection of resources or operations from one or more APIs, and is published to communities of application developers."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "platform as a service (PaaS)",
+        "ID": "x2029786",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The delivery of a computing platform, including applications, optimized middleware, development tools, and Java and Web 2.0 runtime environments, in a cloud-based environment."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "pod",
+        "ID": "x8461823",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A group of containers that are running on a Kubernetes cluster. A pod is a runnable unit of work, which can be a either a stand-alone application or a microservice."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "point of presence (PoP)",
+        "ID": "x5458832",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A physical location that stores servers and routers in a network cloud."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "policy",
+        "ID": "x2011359",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A piece of configuration that controls some aspect of processing in the gateway during the handling of an API invocation. Policies are the building blocks of assembly flows and provide the means to configure capability, such as security, logging, caching, routing of requests to target services, and transformation of data from one format to another. Policies can be configured in the context of an API or in the context of a plan."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "pre-annotation",
+        "ID": "x9825866",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The process of annotating a set of documents prior to human annotation. Documents can be pre-annotated by using a rule-based model, a machine-learning model, IBM Watson Natural Language Understanding, or a dictionary. Pre-annotation can help human annotators more quickly prepare a set of ground truth documents."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "precision",
+        "ID": "x2003831",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A measurement that specifies the proportion of results that are relevant. Precision, which is a positive predictive value, is determined by the number of correct positive results divided by the number of all positive results. Accuracy is best measured by using both precision and recall."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "private cloud",
+        "ID": "x4585362",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A cloud computing environment in which access is limited to members of an enterprise and partner networks."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "private image repository",
+        "ID": "x8439215",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The combination of an organization's IBM Cloud registry and its namespace. The private image repository is used when referencing an image in a command."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "private key",
+        "ID": "x2034701",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An algorithmic pattern used to encrypt messages that only the corresponding public key can decrypt. The private key is also used to decrypt messages that were encrypted by the corresponding public key. The private key is kept on the user system and is protected by a password."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "private resource",
+        "ID": "x9439035",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An entry that is visible only to account owners and their included accounts. When resources are created, they are private by default."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "private service",
+        "ID": "x7690456",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A service that is visible only to members of a specified IBM Cloud organization."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "processing engine archive (PEAR)",
+        "ID": "x2959092",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A .pear archive file that includes an Unstructured Information Management Architecture (UIMA) analysis engine and all of the resources that are required to use it for custom analysis."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "profile",
+        "ID": "x2034950",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A specification of a resource's capacities and capabilities. Different profiles are optimized for different workloads and use cases. A resource's pricing model might depend on its profile."
+                        ]
+                    },
+                    {
+                        "Definitions": [
+                            "In Security and Compliance Center, a grouping of similar controls that can be used to evaluate resource configuration for compliance.A profile can be customized to fit specific use cases by editing the default parameters.\n"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "project",
+        "ID": "x2035151",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A collection of artifacts that define and manage resources and Infrastructure as Code deployments. "
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "promo code",
+        "ID": "x8440874",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A code used to apply limited time credits to Pay-As-You-Go and Subscription accounts."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "proxy",
+        "ID": "x2267627",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An application programming interface that forwards requests to a user-defined backend resource and relays responses back to the calling application."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "public cloud",
+        "ID": "x4585370",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A cloud computing environment in which access to standardized resources, such as infrastructure, multi-tenant hardware, and services, is available to subscribers on a pay-per-use basis."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "public gateway",
+        "ID": "x9594389",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The connection of a subnet, with all virtual server instances attached, to the internet. A public gateway uses a many-to-1 network address translation (NAT), which means that thousands of virtual server instances with private addresses can use one public IP address to talk to the public internet."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "public resource",
+        "ID": "x9439040",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An entry that is visible to everyone in the IBM Cloud catalog. Public resources can be built by any provider (IBM or third party providers)."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "publish",
+        "ID": "x2116130",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The process of moving an application or product from staging so that the plans and APIs included within it are available for application developers to access and use."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "push",
+        "ID": "x2035465",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "To send information from a server to a client. When a server pushes content, it is the server that initiates the transaction, not a request from the client."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "push notification",
+        "ID": "x5599582",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An alert indicating a change or update on a mobile app icon."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "quota",
+        "ID": "x2437020",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The number of resources that can be consumed at an account or service instance level."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "Raft",
+        "ID": "x10127298",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A crash fault tolerant ordering service implementation based on the etcd library of the Raft protocol. Raft follows a leader-and-follower model, where a leader node is elected per channel, and its decisions are replicated by the followers."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "read-mostly",
+        "ID": "x7470468",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "Pertaining to data that changes dynamically."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "recall",
+        "ID": "x2154357",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A measurement that specifies the percentage of relevant results returned, out of all available relevant results. Recall, which is a measure of sensitivity, is determined by the number of correct positive results divided by the number of positive results that should have been returned. Accuracy is best measured by using both precision and recall."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "recovery point objective (RPO)",
+        "ID": "x3429911",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "In disaster recovery planning, the point at which data is restored to in the event of a disaster."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "recovery time objective (RTO)",
+        "ID": "x3167918",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The maximum duration of time within which an application should be restored after any type of disaster."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "red-black deployment",
+        "ID": "x8439181",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A deployment technique that drives continuous delivery by enabling synchronized test, development, and deployment. Initially, development is done on an inactive environment (black) while the active environment continues to take traffic (red). Once deployment starts, both environments go live (red-red) until routing is disabled on the formerly active, previous version environment, then subsequently removed (black) while the new environment serves as the only active environment."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "reference architecture",
+        "ID": "x4471533",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An opinionated pattern of technologies that work together that includes a summary, an architecture diagram, and a list of modules."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "region",
+        "ID": "x2091391",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A defined geographic territory. A region could be a specific postal code area, a town, a city, a state, a group of states, or even a group of countries. Each region can itself be a set of other regions or a set of postal codes that form the region."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "registry",
+        "ID": "x2064940",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A storage and distribution service that contains public or private images that are used to create containers."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "relation",
+        "ID": "x2064959",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "Typically a verb that reflects how entities are related to one another. For example, \"lives in\" is a relation between a person and a town. A relation links two different entities in the same sentence."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "relation type",
+        "ID": "x3157818",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A binary, unidirectional relationship between two entities. For example, Mary employedBy IBM is a valid relationship; IBM employedBy Mary is not."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "Representational State Transfer (REST)",
+        "ID": "x3220976",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A software architectural style that guides the design and development of the architecture for the web. REST defines a set of constraints for  the architecture of  Internet-scale distributed hypermedia systems, such as the web."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "resource",
+        "ID": "x2004267",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A physical or logical component that can be provisioned or reserved for an application or service instance. Examples of resources can include storage, processors, memory, clusters, and VMs."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "resource group",
+        "ID": "x2161955",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The environment, and constraints, in which contained resource instances adhere to. A user can be associated with a resource group to enable collaboration."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "role",
+        "ID": "x2065412",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An attribute that provides a context-sensitive meaning of a mention. For example, in the phrase \"I went to IBM today\", IBM is the mention, Organization is the entity type, and Facility is the role of the entity type."
+                        ]
+                    },
+                    {
+                        "Definitions": [
+                            "A set of permissions or access rights."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "root key",
+        "ID": "x6946961",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A symmetric wrapping key that is used for encrypting and decrypting other keys that are stored in a data service."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "route",
+        "ID": "x2037338",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The URL that is used to direct requests to an application. A route is made up of an optional host (or subdomain) and a domain that are specified when an application is pushed. For example, in the route myapp.example.com, myapp is the host and example.com is the domain. A route can be associated with one or more applications. Unless a custom domain is specified, IBM Cloud uses a default shared domain in the route to an application."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "rule",
+        "ID": "x2037526",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The set of allowed contexts that are associated with an IBM Cloud resource. The defined contexts dictate a user's or service's access to that resource."
+                        ]
+                    },
+                    {
+                        "Definitions": [
+                            "A set of conditional statements that are used to determine whether a build can be promoted."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "rule set",
+        "ID": "x2065665",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A set of rules that define patterns for annotating text. If a pattern applies, then the actions of the rule are performed on the matched annotations. A rule typically specifies the condition that must match, an optional quantifier, a list of additional constraints that the matched text must fulfill, and the actions to be taken when a match occurs, such as creating a new annotation or modifying an existing annotation."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "runtime",
+        "ID": "x2391929",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The set of resources used to run the application."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "sandbox catalog",
+        "ID": "x9826969",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A catalog in which approvals for publishing and lifecycle actions are bypassed so that it can be used for testing APIs under development."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "scale",
+        "ID": "x2004442",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "To increase platform (or system) capacity by adding more application or service instances"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "scope",
+        "ID": "x2037763",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A grouping of resources that can be validated or evaluated for security and compliance."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "secret",
+        "ID": "x2789492",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A type of sensitive information, such as a password or an API key, that is used by an application to access a protected resource."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "secret group",
+        "ID": "x9968962",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The environment and constraints that contained secrets in an instance must adhere to. A user can be associated with a secret group to enable access and collaboration.\n"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "secrets engine",
+        "ID": "x9968967",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A component that serves as a back end for a specific type of secret, such as a password or an API key, within a secrets management service. Depending on its type, a secrets engine can store data, generate secrets on demand, and more."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "Secure Shell (SSH)",
+        "ID": "x3574365",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A network protocol for secure data exchange between two networked devices. The client can use public-key and private-key authentication, or password authentication, to access the remote server."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "Secure Sockets Layer (SSL)",
+        "ID": "x2038004",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A security protocol that provides communication privacy. With SSL, client/server applications can communicate in a way that is designed to prevent eavesdropping, tampering, and message forgery."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "security definition",
+        "ID": "x2135207",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A specification of the settings for a particular aspect of API security; for example, the user registry that authenticates access to the API."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "security group",
+        "ID": "x2066040",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A resource that provides rules to filter IP traffic to resources in a virtual private cloud. Rules are stateful, such that packets in response to allowed packets are automatically permitted. "
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "select availability",
+        "ID": "x9773835",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A production-ready product that is available for sale and accessible to select customers."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "service",
+        "ID": "x2038343",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A cloud extension that provides ready-for-use functionality, such as database, messaging, and web software for running code, or application management or monitoring capabilities. Services usually do not require installation or maintenance and can be combined to create applications."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "service binding",
+        "ID": "x5333865",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An association between an application and a service instance that contains the application credentials that are used to communicate with the service instance."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "service endpoint",
+        "ID": "x2871419",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The physical address of a service that implements one or more interfaces."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "service ID",
+        "ID": "x9148163",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An identity that authenticates a service or an application to a cloud environment and other services. A service ID can be assigned access policies and used to enable an application that is deployed to a cloud environment access to cloud services."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "session",
+        "ID": "x2004539",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The period of time after an app is started on a mobile device and the quality assurance product is notified to begin collecting app behavior, issues, and problems."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "signature key",
+        "ID": "x8250375",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An encryption key that is used by the crypto unit administrator to sign commands that are issued to the crypto unit."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "signCert",
+        "ID": "x9826026",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A certificate that any entity, such as an organization or admin, attaches to their proposals or proposal responses. These signCerts are unique to an entity and are checked by the ordering service to make sure they match the signCert on file for that entity."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "single sign-on (SSO)",
+        "ID": "x2213318",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An authentication process in which a user can access more than one system or application by entering a single user ID and password."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "single-campus multizone region (single-campus MZR)",
+        "ID": "x10127487",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A region that consists of multiple zones that are hosted on data centers that are located within a single building or campus. Dependencies such as power, cooling, networking, and physical security might overlap but are not identical between any two zones to increase fault tolerance."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "single-page application (SPA)",
+        "ID": "x9829514",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An application that works inside a browser and does not require page reloading during use."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "smart contract",
+        "ID": "x8888420",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A set of business terms that are embedded into a blockchain and executed with transactions. A smart contract can also include a digital representation of a set of business rules and defines conditions under which transfers occur. A smart contract is implemented using chaincode."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "software as a service (SaaS)",
+        "ID": "x4585386",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A model of software deployment whereby software including business processes, enterprise applications, and collaboration tools, are provided as a service to customers through the cloud."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "SOLO",
+        "ID": "x9825888",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A consensus plugin implementation for Hyperledger Fabric that results in a single ordering service node in the blockchain network."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "source control management (SCM)",
+        "ID": "x3579285",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An aspect of software configuration management that involves managing changes to collections of files."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "space",
+        "ID": "x2039442",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A sub-group within an IBM Cloud org. Users who are members of an org are given access to one or more of its spaces, with permissions associated with a particular role (such as developer, manager, or auditor). Any member of the space can view apps, but only members with the developer role can create apps and add service instances to the space. Apps and service instances are associated with spaces."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "stage",
+        "ID": "x2067189",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "To deploy an application, service, or instance to a pre-defined location  for running or testing before deployment to a production environment."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "stanza",
+        "ID": "x2094743",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A section of a software package that defines either a specific action to be performed on that the software package or a set of conditions under which actions are to be performed on the software package. The complete software package is a stanza that contains a hierarchy of many different stanzas."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "state database",
+        "ID": "x9826031",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A database that contains the current values for all keys on a blockchain ledger for a channel."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "subdomain",
+        "ID": "x2040080",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A domain that makes up a part of a larger domain."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "subject",
+        "ID": "x2380043",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The user, service ID, or access group that is granted access by an access policy."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "subnetwork (subnet)",
+        "ID": "x2040149",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A network that is divided into smaller independent subgroups, which still are interconnected."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "subscription code",
+        "ID": "x9888956",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A code used to apply credits to an account after a subscription is purchased."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "subtype",
+        "ID": "x2040253",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A type that extends or implements another type; the supertype."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "surface form",
+        "ID": "x3271760",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The form of a word or multiword unit as it is found in the corpus. For example, some surface forms of the lemma 'organize' are the terms 'organizing' and 'organized'."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "system of engagement (SoE)",
+        "ID": "x6528306",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An information technology (IT) system that incorporates technologies that encourage user interaction through email, collaboration systems, and networking.  A system of engagement often uses cloud technologies to extend the usefulness of systems of record."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "system of record (SOR)",
+        "ID": "x6735061",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An information storage system (such as a database or application) that stores business records and automates standard processes."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "tag",
+        "ID": "x2040924",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A user-defined identifier attached to a grouping of resources that are contained in an account. Tags are visible account-wide."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "target",
+        "ID": "x2262507",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The resource or set of resources to provide a subject access to in an access policy. The set of resources is defined by one or more attributes. For example, a target could be all resources in a resource group, all resources of a certain resource type, or the resource with a certain resource ID."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "template",
+        "ID": "x2041200",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A predefined structure for an artifact."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "testing data",
+        "ID": "x7736833",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A set of annotated documents that can be used to evaluate system metrics after ingestion and training."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "third-party",
+        "ID": "x2877945",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "Pertaining to a product or service that is provided by a company other than IBM."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "tile",
+        "ID": "x2092493",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A visual representation of a running application that provides status on a dashboard."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "train",
+        "ID": "x6076689",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "To set up a Watson instance with components that enable the system to function in a particular domain (for example: corpus content, training data that generates machine learning models, programmatic algorithms, annotators, or other ground truth components) and then making improvements and updates to these components based on accuracy analysis."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "training data",
+        "ID": "x2860199",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A set of annotated documents that can be used to train machine learning models."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "transaction",
+        "ID": "x2005321",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The mechanism that participants on the blockchain network use to interact with assets. A transaction either creates new chaincode or invokes an operation in an existing chaincode."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "trigger",
+        "ID": "x2005384",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A mechanism that initiates actions. Triggers can be explicitly fired by a user or fired on behalf of a user by an external event source."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "true negative",
+        "ID": "x7881314",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An answer or annotation that is actually incorrect and is predicted to be incorrect."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "true positive",
+        "ID": "x7881319",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An answer or annotation that is actually correct and is predicted to be correct."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "trusted profile",
+        "ID": "x10127466",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            " A grouping of federated users, compute resources, or both, that are granted the same IAM access. When an identity applies a trusted profile, temporary security credentials are provided for the duration of a session. All identities that are allowed to apply a single profile inherit the same access."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "trusted root",
+        "ID": "x2042234",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A certificate signed by a trusted certificate authority (CA)."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "type system",
+        "ID": "x2959182",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The set of objects that may be discovered by a text analysis engine in a document. The type system defines all possible feature structures in terms of types and features. Any number of different types can be defined in a type system. A type system is domain and application specific."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "Uniform Resource Identifier (URI)",
+        "ID": "x2116436",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A unique address that is used to identify content on the web. The most common form of URI is the web page address, which is a particular form or subset of URI called a Uniform Resource Locator (URL). A URI typically describes how to access the resource, the computer that contains the resource, and the location of the resource on that computer."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "Uniform Resource Locator (URL)",
+        "ID": "x2042491",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "The unique address of an information resource that is accessible in a network such as the Internet. The URL includes the abbreviated name of the protocol used to access the information resource and the information used by the protocol to locate the information resource."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "unit of measure (UOM)",
+        "ID": "x4259569",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A standardized unit that is used to measure a specified property of something."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "user",
+        "ID": "x2069659",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An IBMid or SoftLayer ID that is used as a person's identity in an account."
+                        ]
+                    },
+                    {
+                        "Definitions": [
+                            "A participant in a blockchain network that has indirect access to the ledger through a trust relationship to an existing member."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "user registry",
+        "ID": "x2042894",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A collection of user information, such as user IDs and passwords, that is used as the basis for security control by a system such as a web application server."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "virtual",
+        "ID": "x2043123",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "Pertaining to not physically existing as such but made by software to appear to do so."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "virtual local area network (VLAN)",
+        "ID": "x2438470",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A logical association of switch ports based upon a set of rules or criteria, such as Medium Access Control (MAC) addresses, protocols, network address, or multicast address. This concept permits the LAN to be segmented again without requiring physical rearrangement."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "virtual machine (VM)",
+        "ID": "x2043165",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A software implementation of a machine that executes programs like a real machine."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "virtual private cloud (VPC)",
+        "ID": "x4585403",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A virtual network that is tied to a private user account and isolated from other networks in a public cloud. Only authorized users can access virtual private cloud resources, which include virtual servers, storage, and subnets."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "virtual private network (VPN)",
+        "ID": "x2043188",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A private connection between two endpoints, even when the data is transferred across a public network. Usually, a VPN is used in combination with security methods, such as authentication and encryption, to provide maximum data security and privacy."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "virtual server",
+        "ID": "x2455638",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A server that shares its resources with other servers to support applications."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "volume",
+        "ID": "x2043272",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A fixed amount of physical or virtual storage on a data storage medium."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "VPN as a service",
+        "ID": "x9829539",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A private connection between two endpoints, which remains private and can be encrypted even when the data is transferred across a public network."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "web application (web app)",
+        "ID": "x2116500",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An application that is accessible by a web browser and that provides some function beyond static display of information, for instance by allowing the user to query a database. Common components of a web application include HTML pages, JSP pages, and servlets."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "web archive (WAR)",
+        "ID": "x2116506",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A compressed file format, defined by the Java EE standard, for storing all the resources required to install and run a web application in a single file."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "workload",
+        "ID": "x2012537",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A set of customer applications, services, or capabilities that consumes compute, network, storage, or other cloud resources."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "workspace",
+        "ID": "x2096037",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "A context that contains a collection of artifacts that a user with appropriate permission can modify."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Lemma": "zone",
+        "ID": "x2070723",
+        "Homonyms": [
+            {
+                "Senses": [
+                    {
+                        "Definitions": [
+                            "An independent fault domain. A zone is an abstraction designed to assist with improved fault tolerance and decreased latency."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
