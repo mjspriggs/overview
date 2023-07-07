@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2023
-lastupdated: "2023-07-06"
+lastupdated: "2023-07-07"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -152,6 +152,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Watson Query | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Watson Studio | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Workspace for Power Systems Virtual Server | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| watsonx.data | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 {: row-headers}
 {: caption="Table 1. Service availability - Americas" caption-side="top"}
 {: #paas-table1}
@@ -278,6 +279,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Watson Query | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Watson Studio | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Workspace for Power Systems Virtual Server | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
+| watsonx.data |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 {: row-headers}
 {: caption="Table 2. Service availability - Europe" caption-side="top"}
 {: #paas-table2}
@@ -404,6 +406,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Watson Query |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Watson Studio |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Workspace for Power Systems Virtual Server | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
+| watsonx.data |  |  |  |  | 
 {: row-headers}
 {: caption="Table 3. Service availability - Asia Pacific" caption-side="top"}
 {: #paas-table3}
