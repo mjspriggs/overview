@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2023
 
-lastupdated: "2023-06-26"
+lastupdated: "2023-07-11"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -19,6 +19,16 @@ content-type: release-note
 
 Stay up-to-date with the new features that are available on the {{site.data.keyword.Bluemix}} platform so that you get the most out of your {{site.data.keyword.Bluemix_notm}} experience.
 {: shortdesc}
+
+## July 2023
+{: #july-2023}
+
+### 11 July 2023
+{: #overview-jul1123}
+{: release-note}
+
+New multizone region (MZR) available in Madrid
+:   Resources can be deployed to a new MZR in Madrid, Spain. There are three data centers available in the `eu-es` region: MAD02, MAD04, and MAD05. For more information about location availability, see [Locations for resource deployment](/docs/overview?topic=overview-locations).
 
 ## June 2023
 {: #june-2023}
