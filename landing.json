@@ -1,6 +1,6 @@
 {
   "title": "IBM Cloud overview docs",
-  "lastupdated": "2023-04-25",
+  "lastupdated": "2023-07-14",
   "introduction": "The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model. Leverage the docs, API & SDK reference, architecture references, and more to support your app development needs.",
   "section_devtools": {
     "api": "/docs?tab=api-docs&category=platform_services",
@@ -41,19 +41,19 @@
     "view_more": "/docs/overview?topic=overview-whatsnew",
     "tiles": [
       {
-        "date": "25 April 2023",
-        "title": "Customized compliance validation",
-        "description": "In addition to using default controls, you can specify a Security and Compliance Center attachment to validate deployable architectures that you're configuring in a project."
+        "date": "11 July 2023",
+        "title": "New multizone region (MZR) available in Madrid",
+        "description": "Resources can be deployed to a new MZR in Madrid, Spain. There are three data centers available in the eu-es region: MAD02, MAD04, and MAD05."
       },
       {
-        "date": "25 April 2023",
-        "title": "Support for deployable architectures onboarded from private or public GitHub repositories",
-        "description": "You can now deploy architectures that are onboarded to the catalog from either a private or public GitHub repository. Previously, only deployable architectures onboarded from a public GitHub repository were supported."
+        "date": "2 June 2023",
+        "title": "New event notifications for projects",
+        "description": "You can now send out notifications when a deployment is complete or when resources are successfully destroyed."
       },
       {
-        "date": "17 April 2023",
-        "title": "Check out the new deployable architectures in the catalog",
-        "description": "IBM Cloud provides deployable architectures in the IBM Cloud Catalog, which are products that provide automation for the deployment of common architectural patterns that combine one or more cloud resources and are designed for scalability and modularity. Go to the catalog, and filter by Deployable architectures to review the growing catalog of options."
+        "date": "2 June 2023",
+        "title": "Support for access management tags in the projects UI",
+        "description": "You can now add, edit, and delete access management tags directly in the projects UI. Previously, you could manage these tags only by using the command-line interface (CLI) or API."
       }
     ]
   }
