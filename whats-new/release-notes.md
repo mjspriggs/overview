@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2023
 
-lastupdated: "2023-07-11"
+lastupdated: "2023-07-25"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -23,12 +23,27 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 ## July 2023
 {: #july-2023}
 
+### 25 July 2023
+{: #overview-jul2523}
+{: release-note}
+
+Projects integration with {{site.data.keyword.bpshort}} and general improvements
+:   Projects are integrated more seamlessly with {{site.data.keyword.bpshort}}, as users can now view the {{site.data.keyword.bpshort}} logs directly from their project during validation and deployment. Today's release also includes system improvements to deleting a project. A recent update to the Code Risk Analyzer might result in fewer validation errors for deployable architectures that include {{site.data.keyword.messagehub}} resources.
+
 ### 11 July 2023
 {: #overview-jul1123}
 {: release-note}
 
 New multizone region (MZR) available in Madrid
 :   Resources can be deployed to a new MZR in Madrid, Spain. There are three data centers available in the `eu-es` region: MAD02, MAD04, and MAD05. For more information about location availability, see [Locations for resource deployment](/docs/overview?topic=overview-locations).
+
+### 6 July 2023
+{: #overview-jul0623}
+{: release-note}
+
+Projects API response models update
+:   The response models for all methods now enforce a lower snake case format in state values. This format needs to be expected in the response when you are calling the project and configuration endpoints. This update is a breaking change. For more information, see the [change log](/docs/secure-enterprise?topic=secure-enterprise-projects-api-change-log#06-jul-2023).
+
 
 ## June 2023
 {: #june-2023}
