@@ -4,7 +4,7 @@ copyright:
 
 lastupdated: "2023-07-25"
 
-keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
+keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes, new
 
 subcollection: overview
 
