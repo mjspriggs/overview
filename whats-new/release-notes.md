@@ -27,8 +27,8 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 {: #overview-jul2523}
 {: release-note}
 
-Projects integration with {{site.data.keyword.bpshort}} and general improvements
-:   Projects are integrated more seamlessly with {{site.data.keyword.bpshort}}, as users can now view the {{site.data.keyword.bpshort}} logs directly from their project during validation and deployment. Today's release also includes system improvements to deleting a project. A recent update to the Code Risk Analyzer might result in fewer validation errors for deployable architectures that include {{site.data.keyword.messagehub}} resources.
+Projects integration with {{site.data.keyword.bplong_notm}} and general improvements
+:   Projects are integrated more seamlessly with {{site.data.keyword.bpshort}}, as users can now view the {{site.data.keyword.bpshort}} logs directly from their project during validation and deployment. This release also includes system improvements to deleting a project. A recent update to the Code Risk Analyzer might result in fewer validation errors for deployable architectures that include {{site.data.keyword.messagehub}} resources.
 
 ### 11 July 2023
 {: #overview-jul1123}
