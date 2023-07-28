@@ -67,7 +67,6 @@ toc:
               - bcdr-plan.md
               - bcdr-networking.md
               - bcdr-testing.md
-              - bcdr-orchestrator.md
           - slo.md
       - shared-responsibility.md
       - peering_policy.md
