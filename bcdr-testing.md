@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2021
-lastupdated: "2021-11-17"
+  years: 2021, 2023
+lastupdated: "2023-07-31"
 
 keywords: DR testing, disaster recovery test, testing for a disaster scenario, dry test, switch over, DR simulation
 
@@ -73,4 +73,3 @@ How dynamic is your production environment
 How dynamic is your infrastructure
 :   As an example, if you have chosen to provision some of the DR resources on demand, you should consider that you have no control on the type of resources or technologies that you will find at the time of a disaster. In fact, changes in the underlying technologies (for example, the servers), configurations (for example, network topologies), or service levels (for example, time to provision new resources) from your last test. So, it is recommended to increase the testing frequency in such a case, especially if you believe that your applications might be sensitive to the underlying infrastructure technology.
 
-Each test carries costs that are associated, such as use of the DR site, people time, and so on. So, leveraging automation, tools, and software products like [{{site.data.keyword.cloud_notm}} Resiliency Orchestrator](/docs/overview?topic=overview-cloud-resiliency-orchestrator), which helps you in automating most of the operations that are required to run a DR test, provides you a way to contain associated costs and effort and test more frequently.
