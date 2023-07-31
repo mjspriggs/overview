@@ -2,7 +2,7 @@
 
 copyright:
   years: 2021, 2023
-lastupdated: "2023-06-01"
+lastupdated: "2023-07-31"
 
 keywords: disaster recovery, DR, what is disaster recovery, DR strategy, disaster recovery options, disaster recovery strategy
 
@@ -21,8 +21,6 @@ When dealing with improved resilience, it important to make some distinctions be
 HA is mainly about keeping the service available to the users when ordinary activities are performed on the system like deploying updates, rebooting the hosting virtual machines, applying security patches to the hosting OS, and so on. For our purposes, high availability within a single cloud region ([MZR](#x9774820){: term}) can be achieved by eliminating single points of failure. For more information on HA, see [Considerations for high availability](/docs/overview?topic=overview-ha-considerations).
 
 HA usually doesn’t deal with major unplanned or planned issues, such as complete site loss because of major power outages, earthquakes, severe hardware failures, full site connectivity loss, and more. In such cases, if the service must meet strict Service Level Objectives (SLO), you should make the whole application stack (infrastructure, services, and application components) redundant by deploying it in at least two different cloud regions. This is typically defined as a DR architecture.
-
-The benefits of using a [DR orchestrator](/docs/overview?topic=overview-cloud-resiliency-orchestrator) are covered in the context of a cloud environment and its fast changing behavior. You might require several integrations with management tools and services in {{site.data.keyword.cloud}}. Examples throughout these best practices are provided to demonstrate the native capabilities and documentation currently available to implement DR for {{site.data.keyword.cloud_notm}} services and suggest additional services that are often required to implement an enterprise-level resiliency solution.
 
 The best practices in this section are based on the services and features currently available and might change over time. We recommend that you verify possible changes or additional features that might apply to your environment.
 {: note}
