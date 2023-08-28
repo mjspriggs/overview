@@ -2,7 +2,7 @@
 
 copyright:
   years: 2018, 2023
-lastupdated: "2023-08-24"
+lastupdated: "2023-08-28"
 
 keywords: load balancing, global load balancing, HA, DR, high availability, disaster recovery, HA for the platform, high availability for platform, disaster recovery plan, disaster event, zero downtime, workloads, failover, failover design, network resiliency, recovery time objective, recovery point objective
 
@@ -40,11 +40,11 @@ For example, the following are all data plane responsibilities:
 - Running and hosting the Virtual Server Instance (VSI)
 - Reading and writing to block storage volumes
 - Getting and setting objects into Cloud Object Storage Buckets
-- Running, processing queries and updates to IBM Cloud Databases PostegreSQL database 
+- Running, processing queries and updates to IBM Cloud Databases PostegreSQL database
 
-The control plane components of a service are responsible to administer and configure the data plane components to do their work. They process the request from administrators to manage the data plane lifecycle through the resource creation, configuration, upgrade, decommission phases of service instances. 
+The control plane components of a service are responsible to administer and configure the data plane components to do their work. They process the request from administrators to manage the data plane lifecycle through the resource creation, configuration, upgrade, decommission phases of service instances.
 
-For example, the following are all control plane responsibilities: 
+For example, the following are all control plane responsibilities:
 
 - Listing the Virtual Server Instance instances (VSI) in the account and provisioning a new the Virtual Server Instance (VSI) orchestrating the creation of virtual machines from an OS image, block storage creation, attachment and configuration of the network endpoints
 - Configuring, resizing, and mounting block storage volumes
@@ -74,7 +74,7 @@ Even in the exceptional cases that the control plane is a globally deployed, it 
 For more information about the specific options for deploying your workloads that use zonal service, see [Locations for resource deployment](/docs/overview?topic=overview-locations) and [Considerations for high availability](/docs/overview?topic=overview-ha-considerations).
 
 
-### Regional service redundancy 
+### Regional service redundancy
 {: #regional-service}
 
 Regional services are the services that enable to request instances of the service to be deployed in a specific region as a whole without specifying a single target zone or data center.
@@ -94,7 +94,7 @@ Even in the exceptional cases that the control plane is a globally deployed, it 
 For more information about the specific options for deploying your workloads that use regional service, see [Locations for resource deployment](/docs/overview?topic=overview-locations) and [Considerations for high availability](/docs/overview?topic=overview-ha-considerations).
 
 
-### Global service redundancy 
+### Global service redundancy
 {: #global-service}
 
 A subset of {{site.data.keyword.cloud_notm}} services uses a global deployment model with components that are not located in each region but deployed across multiple regions in different locations and geography. They are typically services that provide common functions that other zonal or regional services depend upon or specific control plane components within a service that provide functions with a global scope.
@@ -118,18 +118,18 @@ The following are global platform services, their control plane location in the 
 
 | Service | Management function | Location | High availability |
 | -------------- | -------------- | -------------- | -------------- |
-| Console  \n [Navigating the {{site.data.keyword.cloud_notm}} console](/docs/overview?topic=overview-ui) | The IBM Cloud console provides the user interface that enables administrators to manage all {{site.data.keyword.cloud_notm}} resources and accounts, order new services instances, view pricing and billing information, get support, or check the status  | - us-south \n - us-east \n - eu-uk \n - eu-de \n - jp-tok \n - au-syd | Active/Active |
-| Catalogs  \n [Catalog Management API](/apidocs/resource-catalog/private-catalog) | The Catalog management service enables to interact with the {{site.data.keyword.cloud_notm}} catalog to order provisioning of {{site.data.keyword.cloud_notm}} service instance and to manage the visibility of the {{site.data.keyword.cloud_notm}} catalog and controlling access to products in the public catalog and private catalogs for users in your account. | - us-south \n - eu-de \n - au-syd | Active/Active |
-| Global search and tagging  \n [Global Search API](/apidocs/search), [Global Tagging API](/apidocs/tagging) | The search and tagging service enables to  \n - search cloud resource based on their attributes. \n - create, delete, search, attach, or detach tags to resources. | - us-south \n - eu-uk \n - eu-de \n - au-syd | Active/Active |
-| Identity and Access management  \n [IAM Identity Services API](/apidocs/iam-identity-token-api) | The IAM control plane enables to  \n - authenticate and authorize the users log on and other action requests. \n - manage service identifiers, trusted profiles, and API key identities. \n - create, update, view, and delete IAM policies. An IAM policy enables a subject to access a resource. \n - create, update, view, and delete access groups allow for the assignment of policies to Users, service IDs and trusted profiles  | - us-south \n - us-east \n - eu-gb \n - eu-de \n - jp-tok \n - au-syd | Active/Active |
-| User and Account management  \n [User Management API](/apidocs/user-management) | The User and Account management service enables to  \n - manage accounts, enterprises, and users. \n - manage the users within account, such as inviting, retrieving, updating, or removing users. \n - update user profiles and settings.  | - us-south  | Active/Active |
-| Cloud projects  \n [Projects API](/apidocs/projects) | The Project service enables to  \n - create, update, view, and delete projects. \n - deployment by using projects  | - us-south \n - eu-gb \n - jp-tok  | Active/Active |
+| Console  \n [Navigating the {{site.data.keyword.cloud_notm}} console](/docs/overview?topic=overview-ui) | The IBM Cloud console provides the user interface that enables administrators to manage all {{site.data.keyword.cloud_notm}} resources and accounts, order new services instances, view pricing and billing information, get support, or check the status  | * us-south \n * us-east \n * eu-uk \n * eu-de \n * jp-tok \n * au-syd | Active/Active |
+| Catalogs  \n [Catalog Management API](/apidocs/resource-catalog/private-catalog) | The Catalog management service enables to interact with the {{site.data.keyword.cloud_notm}} catalog to order provisioning of {{site.data.keyword.cloud_notm}} service instance and to manage the visibility of the {{site.data.keyword.cloud_notm}} catalog and controlling access to products in the public catalog and private catalogs for users in your account. | * us-south \n * eu-de \n * au-syd | Active/Active |
+| Global search and tagging  \n [Global Search API](/apidocs/search), [Global Tagging API](/apidocs/tagging) | The search and tagging service enables to  \n * search cloud resource based on their attributes. \n * create, delete, search, attach, or detach tags to resources. | * us-south \n * eu-uk \n * eu-de \n * au-syd | Active/Active |
+| Identity and Access management  \n [IAM Identity Services API](/apidocs/iam-identity-token-api) | The IAM control plane enables to  \n * authenticate and authorize the users log on and other action requests. \n * manage service identifiers, trusted profiles, and API key identities. \n * create, update, view, and delete IAM policies. An IAM policy enables a subject to access a resource. \n * create, update, view, and delete access groups allow for the assignment of policies to Users, service IDs and trusted profiles  | * us-south \n * us-east \n * eu-gb \n * eu-de \n * jp-tok \n * au-syd | Active/Active |
+| User and Account management  \n [User Management API](/apidocs/user-management) | The User and Account management service enables to  \n * manage accounts, enterprises, and users. \n * manage the users within account, such as inviting, retrieving, updating, or removing users. \n * update user profiles and settings.  | * us-south  | Active/Active |
+| Cloud projects  \n [Projects API](/apidocs/projects) | The Project service enables to  \n * create, update, view, and delete projects. \n * deployment by using projects  | * us-south \n * eu-gb \n * jp-tok  | Active/Active |
 {: caption="Table 1. Global platform services" caption-side="bottom"}
 
 #### Services with global control planes
 {: #service-global-control-plane}
 
-Services with global control planes components within a service that provide functions with a global scope, not entire services like the previous categories. 
+Services with global control planes components within a service that provide functions with a global scope, not entire services like the previous categories.
 
 While you interact with zonal and regional services in the region you specify, certain operations have an underlying dependency on a single region that is different from where the resource is located.
 
@@ -139,14 +139,14 @@ The following are services with global control planes, their control plane locat
 
 | Service | Control plane management functions | Location | High availability |
 | -------------- | -------------- | -------------- | -------------- |
-| Classic infrastructure resource management | The infrastructure resource management service control plane enables to:  \n - create, update, view, and delete Classic virtual and bare metal servers resources on Classic networks/VLANs \n - create, update, and delete Classic networks/VLANs and Classic network routes or spans between those networks  | - us-south \n - us-east | Primary/Secondary |
-| Public IP address management | Assign new public IP addresses or subnets for Internet/public load balancers, elastic IPs or virtual and bare metal servers resources with public addresses.  | - us-south \n - us-east | Primary/Secondary |
-| IBMid  \n [My IBM](https://www.ibm.com/account/ca/en/){: external} | IBMid service control plane enables to \n - authenticate and authorize the IBMid users log on and other action requests. \n - create, update, view, and delete IBMid user identities.  | - us-south \n - us-east | Primary/Secondary |
-| Private DNS  \n [Private DNS API](/apidocs/dns-svcs#introduction-to-dns-services-api) | IBM Cloud DNS Services allow you to:  \n - create, update, view, and delete e zones that are collections for holding domain names \n - create, update, view, and delete DNS resource records under these zones \n - create, update, view, and delete global load balancers to resolve hostnames to different IP addresses based on location policies.  | - us-south \n - eu-de | Primary/Secondary |
-| Transit Gateway  \n [Transit Gateway API](/apidocs/transit-gateway) | Transit Gateway service control plane enables to  \n - create, update, view, and delete transit gateways to connect VPCs together or with classic infrastructure networks. \n - attach, detach connections to VPCs or classic infrastructure networks to multiple local gateways and a single global gateway. | - us-south \n - eu-de | Primary/Secondary |
-| Direct Link  \n [Direct Link API](/apidocs/direct_link) | Direct Link service control plane enables to  \n - create, update, view, and delete direct links to connect VPCs or classic infrastructure networks with on-premises networks. \n - attach, detach connections to on-premises networks to direct links. \n - configure import and export filters for a direct link. | - us-south \n - eu-de | Primary/Secondary |
-| Load Balancer for VPC  \n [Virtual Private Cloud API](/apidocs/vpc/latest) | Load Balancer for VPC control plane enables to  \n - create, update, view, and delete Load Balancer for VPC instances. | - us-south \n - eu-de | Primary/Secondary |
-| Cloud Object Storage Provisioning | Cloud Object Storage service control plane enables to  \n - create or delete a new Cloud Object Storage bucket with a unique global name in a region.  \n NOTE: All other control plane APIs on Cloud Object Storage buckets are hosted in the same region or geography as the chose region or geography for each Cloud Object Storage bucket. | - us-south \n - us-east | Primary/Secondary |
+| Classic infrastructure resource management | The infrastructure resource management service control plane enables to:  \n * create, update, view, and delete Classic virtual and bare metal servers resources on Classic networks/VLANs \n * create, update, and delete Classic networks/VLANs and Classic network routes or spans between those networks  | * us-south \n * us-east | Primary/Secondary |
+| Public IP address management | Assign new public IP addresses or subnets for Internet/public load balancers, elastic IPs or virtual and bare metal servers resources with public addresses.  | * us-south \n * us-east | Primary/Secondary |
+| IBMid  \n [My IBM](https://www.ibm.com/account/ca/en/){: external} | IBMid service control plane enables to \n * authenticate and authorize the IBMid users log on and other action requests. \n * create, update, view, and delete IBMid user identities.  | * us-south \n * us-east | Primary/Secondary |
+| Private DNS  \n [Private DNS API](/apidocs/dns-svcs#introduction-to-dns-services-api) | IBM Cloud DNS Services allow you to:  \n * create, update, view, and delete e zones that are collections for holding domain names \n * create, update, view, and delete DNS resource records under these zones \n * create, update, view, and delete global load balancers to resolve hostnames to different IP addresses based on location policies.  | * us-south \n * eu-de | Primary/Secondary |
+| Transit Gateway  \n [Transit Gateway API](/apidocs/transit-gateway) | Transit Gateway service control plane enables to  \n * create, update, view, and delete transit gateways to connect VPCs together or with classic infrastructure networks. \n * attach, detach connections to VPCs or classic infrastructure networks to multiple local gateways and a single global gateway. | * us-south \n * eu-de | Primary/Secondary |
+| Direct Link  \n [Direct Link API](/apidocs/direct_link) | Direct Link service control plane enables to  \n * create, update, view, and delete direct links to connect VPCs or classic infrastructure networks with on-premises networks. \n * attach, detach connections to on-premises networks to direct links. \n * configure import and export filters for a direct link. | * us-south \n * eu-de | Primary/Secondary |
+| Load Balancer for VPC  \n [Virtual Private Cloud API](/apidocs/vpc/latest) | Load Balancer for VPC control plane enables to  \n * create, update, view, and delete Load Balancer for VPC instances. | * us-south \n * eu-de | Primary/Secondary |
+| Cloud Object Storage Provisioning | Cloud Object Storage service control plane enables to  \n * create or delete a new Cloud Object Storage bucket with a unique global name in a region.  \n NOTE: All other control plane APIs on Cloud Object Storage buckets are hosted in the same region or geography as the chose region or geography for each Cloud Object Storage bucket. | * us-south \n * us-east | Primary/Secondary |
  {: caption="Table 2. Services with global control planes" caption-side="bottom"}
 
 For more information about the specific options for best practices when you use platform services for high availability, refer to the following documentation.
@@ -173,12 +173,12 @@ Diverse dark fiber providers are used to connect every edge site to all of the r
 
 No single event should ever result in a service disruption that is noticed by our customers.
 
-### Zonal and regional service isolation from cross region dependencies 
+### Zonal and regional service isolation from cross region dependencies
 {: #zone-region-service-isolation}
 
 In general, if there is an availability-impacting event in one region, only zonal and regional services in that region are impacted. Services in other regions are not impacted.
 
-In particular, the data planes of zonal and regional services that are located in a region that depend on other regional services for base functions like: infostructure resources, container orchestration, databases, security, and so on, are architected to depend only on instances located in the same region. 
+In particular, the data planes of zonal and regional services that are located in a region that depend on other regional services for base functions like: infostructure resources, container orchestration, databases, security, and so on, are architected to depend only on instances located in the same region.
 
 Data plane of a service located in a region depends also on service instances that are provided by the user to support the following service-to-service functions:
 
