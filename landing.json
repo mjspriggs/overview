@@ -29,6 +29,11 @@
       "title": "Learn how to navigate through the IBM Cloud console",
       "href": "/docs/overview?topic=overview-ui#video-ui",
       "thumbnail": "/images/welcome-thumbnail.png"
+    },
+    {
+      "title": "Accelerating and maintaining regulated standards at scale",
+      "href": "/docs/overview?topic=overview-secure-enterprise",
+      "thumbnail": "/images/enterprise.png"
     }
   ],
   "section_learn": {
