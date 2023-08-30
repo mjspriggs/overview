@@ -25,6 +25,7 @@ toc:
       - checklist-get-started-cloud.md
       - secure-enterprise.md
       - compliance.md
+      - data-residency.md
       - security.md
       - csm.md
       - topic: whats-new/release-notes.md
