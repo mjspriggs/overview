@@ -83,6 +83,7 @@ toc:
           - terms-of-use/ip_address_policy.md
           - slas.md
           - services_availability.md
+          - pricing-adjustments.md
   - navgroup:
       id: help
       topics:
