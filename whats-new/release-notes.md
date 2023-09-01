@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2023
 
-lastupdated: "2023-07-25"
+lastupdated: "2023-09-01"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes, new
 
@@ -19,6 +19,16 @@ content-type: release-note
 
 Stay up-to-date with the new features that are available on the {{site.data.keyword.Bluemix}} platform so that you get the most out of your {{site.data.keyword.Bluemix_notm}} experience.
 {: shortdesc}
+
+## September 2023
+{: #sept-2023}
+
+### 1 September 2023
+{: #overview-sep0123}
+{: release-note}
+
+{{site.data.keyword.cloud_notm}} January 2024 price changes
+:   Effective 1 January 2024, prices for some services will be increasing. For more information, see [January 2024 price changes](/docs/overview?topic=overview-price-adjustments).
 
 ## July 2023
 {: #july-2023}

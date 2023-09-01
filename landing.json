@@ -1,6 +1,6 @@
 {
   "title": "IBM Cloud overview docs",
-  "lastupdated": "2023-07-14",
+  "lastupdated": "2023-09-01",
   "introduction": "The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model. Leverage the docs, API & SDK reference, architecture references, and more to support your app development needs.",
   "section_devtools": {
     "api": "/docs?tab=api-docs&category=platform_services",
@@ -46,6 +46,11 @@
     "view_more": "/docs/overview?topic=overview-whatsnew",
     "tiles": [
       {
+        "date": "1 September 2023",
+        "title": "IBM Cloud January 2024 price changes",
+        "description": "Effective 1 January 2024, prices for some services will be increasing."
+      },
+      {
         "date": "11 July 2023",
         "title": "New multizone region (MZR) available in Madrid",
         "description": "Resources can be deployed to a new MZR in Madrid, Spain. There are three data centers available in the eu-es region: MAD02, MAD04, and MAD05."
@@ -54,11 +59,6 @@
         "date": "2 June 2023",
         "title": "New event notifications for projects",
         "description": "You can now send out notifications when a deployment is complete or when resources are successfully destroyed."
-      },
-      {
-        "date": "2 June 2023",
-        "title": "Support for access management tags in the projects UI",
-        "description": "You can now add, edit, and delete access management tags directly in the projects UI. Previously, you could manage these tags only by using the command-line interface (CLI) or API."
       }
     ]
   }

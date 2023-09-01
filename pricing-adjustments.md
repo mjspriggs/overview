@@ -16,7 +16,7 @@ subcollection: overview
 # January 2024 price changes
 {: #price-adjustments}
 
-Effective 1st January 2024, {{site.data.keyword.cloud}} is making the following price changes for IaaS and PaaS service.
+Effective 1 January 2024, {{site.data.keyword.cloud}} is making the following price changes for IaaS and PaaS service.
 
 ## IaaS data center uplift changes
 {: #iaas-adjustments}
