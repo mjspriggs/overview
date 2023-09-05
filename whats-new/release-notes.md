@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2023
 
-lastupdated: "2023-09-01"
+lastupdated: "2023-09-05"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes, new
 
@@ -22,6 +22,13 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 
 ## September 2023
 {: #sept-2023}
+
+### 5 September 2023
+{: #overview-sep0523}
+{: release-note}
+
+Centrally administer your multi-account environment
+:   {{site.data.keyword.cloud_notm}} is excited to announce that you can now centrally administer access and security settings in your organization with Enterprise-managed IAM. By using enterprise IAM templates, you can quickly create and manage access groups and trusted profiles across accounts and easily ensure that all new accounts inherit the same settings. Leveraging Enterprise-managed IAM can help your organization save time and effort, reduce the risk of unauthorized access, stay compliant with industry regulations and better protect your data.  For more information, see [Best practices for assigning access in an enterprise](https://cloud.ibm.com/docs/secure-enterprise?topic=secure-enterprise-access-enterprises).
 
 ### 1 September 2023
 {: #overview-sep0123}
