@@ -3,7 +3,9 @@
 
 copyright:
   years: 2023
-lastupdated: "2023-09-01"
+lastupdated: "2023-09-06"
+
+published-location: https://cloud.ibm.com/docs/overview?topic=overview-price-adjustments
 
 keywords:
 
@@ -40,7 +42,7 @@ Additionally, {{site.data.keyword.cos_full}} will increase prices globally by 25
 
 There will be no changes to the existing uplifts for Power Systems Virtual Server, third-party software, or network bandwidth.
 
-## PaaS Global Price Uplift
+## PaaS global price uplift
 {: #paas-adjustments}
 
 Effective 1 January 2024, all prices for {{site.data.keyword.cloud_notm}} service will increase by 3% globally. This increase covers:
