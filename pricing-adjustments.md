@@ -67,9 +67,9 @@ Effective 1 January 2024, all prices for {{site.data.keyword.cloud_notm}} servic
 - {{site.data.keyword.messages-for-rabbitmq_full}}
 - {{site.data.keyword.monitoringlong}}
 - {{site.data.keyword.satellitelong}}
+- {{site.data.keyword.secrets-manager_full}}
 - {{site.data.keyword.compliance_full}}
 - {{site.data.keyword.sysdigsecure_full}}
-- {{site.data.keyword.secrets-manager_full}}
 - {{site.data.keyword.cloudantfull}}
 - {{site.data.keyword.messagehub_full}}
 - {{site.data.keyword.keymanagementservicefull}}
