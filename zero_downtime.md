@@ -2,7 +2,7 @@
 
 copyright:
   years: 2018, 2023
-lastupdated: "2023-08-28"
+lastupdated: "2023-09-11"
 
 keywords: load balancing, global load balancing, HA, DR, high availability, disaster recovery, HA for the platform, high availability for platform, disaster recovery plan, disaster event, zero downtime, workloads, failover, failover design, network resiliency, recovery time objective, recovery point objective
 
@@ -118,9 +118,9 @@ The following are global platform services, their control plane location in the 
 
 | Service | Management function | Location | High availability |
 | -------------- | -------------- | -------------- | -------------- |
-| Console  \n [Navigating the {{site.data.keyword.cloud_notm}} console](/docs/overview?topic=overview-ui) | The IBM Cloud console provides the user interface that enables administrators to manage all {{site.data.keyword.cloud_notm}} resources and accounts, order new services instances, view pricing and billing information, get support, or check the status  | * us-south \n * us-east \n * eu-uk \n * eu-de \n * jp-tok \n * au-syd | Active/Active |
+| Console  \n [Navigating the {{site.data.keyword.cloud_notm}} console](/docs/overview?topic=overview-ui) | The IBM Cloud console provides the user interface that enables administrators to manage all {{site.data.keyword.cloud_notm}} resources and accounts, order new services instances, view pricing and billing information, get support, or check the status  | * us-south \n * us-east \n * eu-gb \n * eu-de \n * jp-tok \n * au-syd | Active/Active |
 | Catalogs  \n [Catalog Management API](/apidocs/resource-catalog/private-catalog) | The Catalog management service enables to interact with the {{site.data.keyword.cloud_notm}} catalog to order provisioning of {{site.data.keyword.cloud_notm}} service instance and to manage the visibility of the {{site.data.keyword.cloud_notm}} catalog and controlling access to products in the public catalog and private catalogs for users in your account. | * us-south \n * eu-de \n * au-syd | Active/Active |
-| Global search and tagging  \n [Global Search API](/apidocs/search), [Global Tagging API](/apidocs/tagging) | The search and tagging service enables to  \n * search cloud resource based on their attributes. \n * create, delete, search, attach, or detach tags to resources. | * us-south \n * eu-uk \n * eu-de \n * au-syd | Active/Active |
+| Global search and tagging  \n [Global Search API](/apidocs/search), [Global Tagging API](/apidocs/tagging) | The search and tagging service enables to  \n * search cloud resource based on their attributes. \n * create, delete, search, attach, or detach tags to resources. | * us-south \n * eu-gb \n * eu-de \n * au-syd | Active/Active |
 | Identity and Access management  \n [IAM Identity Services API](/apidocs/iam-identity-token-api) | The IAM control plane enables to  \n * authenticate and authorize the users log on and other action requests. \n * manage service identifiers, trusted profiles, and API key identities. \n * create, update, view, and delete IAM policies. An IAM policy enables a subject to access a resource. \n * create, update, view, and delete access groups allow for the assignment of policies to Users, service IDs and trusted profiles  | * us-south \n * us-east \n * eu-gb \n * eu-de \n * jp-tok \n * au-syd | Active/Active |
 | User and Account management  \n [User Management API](/apidocs/user-management) | The User and Account management service enables to  \n * manage accounts, enterprises, and users. \n * manage the users within account, such as inviting, retrieving, updating, or removing users. \n * update user profiles and settings.  | * us-south  | Active/Active |
 | Cloud projects  \n [Projects API](/apidocs/projects) | The Project service enables to  \n * create, update, view, and delete projects. \n * deployment by using projects  | * us-south \n * eu-gb \n * jp-tok  | Active/Active |
