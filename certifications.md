@@ -1,7 +1,7 @@
 ---
 copyright:
-  years: 2019, 2022
-lastupdated: "2022-05-04"
+  years: 2019, 2023
+lastupdated: "2023-09-11"
 
 keywords: cloud certifications, certifications
 
@@ -21,12 +21,12 @@ Are you looking to get certified in {{site.data.keyword.cloud}}? Whether your jo
 ## {{site.data.keyword.cloud_notm}} Advocate
 {: #cloud-advocate}
 
-Complete your [IBM Certified Advocate - Cloud v1](https://www.ibm.com/training/path/ibmcloudadvocate2022){: external} training and gain a foundational knowledge of cloud computing, from core concepts, definition, and history to emerging trends. Areas of learning include cloud service and deployment models as well as key elements of cloud architecture.  
+Complete your [IBM Certified Advocate - Cloud v2](https://www.ibm.com/training/path/ibmcloudadvocate2022){: external} training and gain a foundational knowledge of cloud computing, from core concepts, definition, and history to emerging trends. Areas of learning include cloud service and deployment models as well as key elements of cloud architecture.  
 
 ## {{site.data.keyword.cloud_notm}} Technical Advocate
 {: #cloud-technical-advocate}
 
-Training for all technical roles starts with [IBM Certified Technical Advocate - Cloud v3](https://www.ibm.com/training/path/ibmcloudtechnicaladvocate-q12022){: external}. Learn how to discuss and use {{site.data.keyword.cloud_notm}} to solve business and technology transformation challenges. This learning path is recommended for all technical job roles and features practice exercises in a virtual lab environment.  
+Training for all technical roles starts with [IBM Certified Technical Advocate - Cloud v4](https://www.ibm.com/training/path/ibmcloudtechnicaladvocate-q12022){: external}. Learn how to discuss and use {{site.data.keyword.cloud_notm}} to solve business and technology transformation challenges. This learning path is recommended for all technical job roles and features practice exercises in a virtual lab environment.  
 
 ## {{site.data.keyword.cloud_notm}} Professional Architect
 {: #cloud-professional-architect}
@@ -41,22 +41,17 @@ Designed for professionals with three or more years of experience working as clo
 ## {{site.data.keyword.cloud_notm}} Professional Developer
 {: #cloud-professional-developer}
 
-Gain the skills and knowledge that is required to build cloud services and large-scale business applications as an [IBM Certified Professional Developer - Cloud](https://www.ibm.com/training/path/ibmcloudprofessionaldeveloper){: external} technical professional. Learn cloud development and operations (DevOps) functions by using {{site.data.keyword.cloud_notm}} services and APIs, including AI, cloud databases, and cloud security.  
+Gain the skills and knowledge that is required to build cloud services and large-scale business applications as an [IBM Certified Professional Developer - Cloud v6](https://www.ibm.com/training/path/ibmcloudprofessionaldeveloper2023){: external} technical professional. Learn cloud development and operations (DevOps) functions by using {{site.data.keyword.cloud_notm}} services and APIs, including AI, cloud databases, and cloud security.  
 
 ## {{site.data.keyword.cloud_notm}} Associate Site Reliability Engineer (SRE)
 {: #cloud-associate-sre}
 
-As an [IBM Certified Associate SRE - Cloud v1](https://www.ibm.com/training/path/ibmcloudassociatesitereliabilityengineer(sre)){: external} technical professional, you are able to manage enterprise workloads in {{site.data.keyword.cloud_notm}} environments. You also develop skills and knowledge around incident management, monitoring, troubleshooting, operations, deployments, and security and compliance.
+As an [IBM Certified Associate SRE - Cloud v2](https://www.ibm.com/training/path/ibmcloudassociatesitereliabilityengineer2023){: external} technical professional, you are able to manage enterprise workloads in {{site.data.keyword.cloud_notm}} environments. You also develop skills and knowledge around incident management, monitoring, troubleshooting, operations, deployments, and security and compliance.
 
 ## {{site.data.keyword.cloud_notm}} Professional Site Reliability Engineer
 {: #cloud-professional-sre}
 
 Advance your skills with [IBM Certified Professional SRE - Cloud v2](https://www.ibm.com/training/path/ibmcloudprofessionalsitereliabilityengineer(sre)v2){: external} professional-level training. Renew your understanding of operations, software engineering, and systems administration. And learn the monitoring and incident management tools that are needed to manage enterprise workloads in {{site.data.keyword.cloud_notm}} environments. 
-
-## {{site.data.keyword.cloud_notm}} Professional Sales Engineer
-{: #cloud-professional-sales}
-
-Engage technical skills and strategic vision to co-create with your client as their technical consultant with the [IBM Certified Professional Sales Engineer v1](https://www.ibm.com/training/certification/C0010200){: external}. Use public, hybrid, and multicloud solutions to get the technical win. {{site.data.keyword.cloud_notm}} Sales Engineers possess a breadth of architecture experience, technical leadership skills, and knowledge in multiple technologies, industries, and platforms, with depth in {{site.data.keyword.cloud_notm}} technologies and offerings.
 
 ## {{site.data.keyword.cloud_notm}} Security Engineer Specialty
 {: #cloud-security-engineer}
@@ -71,9 +66,20 @@ As an [{{site.data.keyword.cloud_notm}} Satellite Specialty v1](https://www.ibm.
 ## {{site.data.keyword.cloud_notm}} for Financial Services Specialty
 {: #cloud-financial-services}
 
-An [{{site.data.keyword.cloud_notm}} for Financial Services v1 Specialty](https://www.ibm.com/training/path/ibmcloudforfinancialservices){: external} certification teaches you the business drivers, differentiators, and components of {{site.data.keyword.cloud_notm}} for Financial Services. Learn how to deliver operational criteria and compliance controls for confidential compute environments.   
+An [{{site.data.keyword.cloud_notm}} for Financial Services Specialty v1](https://www.ibm.com/training/path/ibmcloudforfinancialservices){: external} certification teaches you the business drivers, differentiators, and components of {{site.data.keyword.cloud_notm}} for Financial Services. Learn how to deliver operational criteria and compliance controls for confidential compute environments.   
 
 ## {{site.data.keyword.cloud_notm}} DevSecOps Specialty
 {: #cloud-devsecops}
 
-With an [{{site.data.keyword.cloud_notm}} DevSecOps Specialty](https://www.ibm.com/training/path/ibmclouddevsecopsspecialty){: external} certification, you are able to integrate security in a continuous delivery pipeline and understand how to deploy apps faster and more securely.
+With an [{{site.data.keyword.cloud_notm}} DevSecOps Specialty v1](https://www.ibm.com/training/path/ibmclouddevsecopsspecialty){: external} certification, you are able to integrate security in a continuous delivery pipeline and understand how to deploy apps faster and more securely.
+
+## {{site.data.keyword.cloud_notm}} IBM Cloud for VMware Solutions Specialty
+{: #cloud-vmware}
+
+The IBM Cloud for VMware Solutions Specialty prepares a cloud professional to design and implement IBM Cloud for VMware solutions.
+See [{{site.data.keyword.cloud_notm}} IBM Cloud for VMware Solutions Specialty v1](https://www.ibm.com/training/path/ibmcloudvmwarespecialty){: external}.
+
+## {{site.data.keyword.cloud_notm}} IBM Cloud for SAP Specialty
+{: #cloud-sap}
+
+The IBM Cloud for SAP Specialty learning plan is an extension to professional-level, role-based IBM Cloud learning paths. It prepares cloud professionals to recommend IBM Cloud architectures meeting SAP application requirements and assist in migrating SAP workloads to the IBM Cloud. Check out [{{site.data.keyword.cloud_notm}} IBM Cloud for SAP Specialty v1](https://www.ibm.com/training/path/ibmcloudforsapspecialty){: external}.
