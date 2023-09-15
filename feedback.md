@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2022
-lastupdated: "2022-10-11"
+lastupdated: "2023-09-15"
 
 keywords: feedback button, comments, requirements, product improvements, submit feedback, documentation, console, feedback
 
@@ -41,7 +41,7 @@ You can open an issue for the content team to address from any documentation pag
 To open an issue from a documentation page, complete the following steps:
 
 1. Click the **Open doc issue** link.
-2. Enter a title and fill out the template.
+2. Enter a title and complete the template.
 3. Click **Submit new issue**.
 
 The content team works to address the issues that you open. You can monitor the issue by saving the link after you click **Submit new issue**. As the issue gets resolved, the content team provides status updates as a comment on the issue.
@@ -62,7 +62,7 @@ When you are reading docs, you can also leave a comment through our feedback for
 ### Leaving feedback in the console
 {: #feedback-console}
 
-When you are completing a task within the console, you can find a feedback form from the console menu bar to submit a rave review, a suggestion, or identify an error.
+When you're completing a task in the console, you can find a feedback form from the console menu bar to submit a rave review, a suggestion, or identify an error.
 
 1. Click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Send feedback** from the console menu bar.
 1. Enter a description about what you want to share with the {{site.data.keyword.Bluemix_notm}} team.
