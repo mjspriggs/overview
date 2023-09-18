@@ -48,7 +48,7 @@
       {
         "date": "06 September 2023",
         "title": "New pre-release version for software",
-        "description": "Versions of a product that are in the pre-release state can help you test your product with a larger audience, gather feedback, and identify and resolve issues before your product is released to the general public. You can now publish an unvalidated version that is in a pre-release state and make it available as part of a product.  Users with access to the product will be able to access a pre-released version."
+        "description": "Versions of a product that are in the pre-release state can help you test your product with a larger audience, gather feedback, and identify and resolve issues before your product is released to the general public. You can now publish an unvalidated version that is in a pre-release state and make it available as part of a product. Users with access to the product will be able to access a pre-released version."
       },
       {
         "date": "06 September 2023",
@@ -58,7 +58,7 @@
       {
         "date": "06 September 2023",
         "title": "New CLI commands for cross-account product sharing",
-        "description": "New `ibmcloud catalog account` commands are available for cross-account product sharing."
+        "description": "New ibmcloud catalog account commands are available for cross-account product sharing."
       }
     ]
   }
