@@ -3,7 +3,7 @@
 
 copyright:
   years: 2023
-lastupdated: "2023-09-08"
+lastupdated: "2023-09-18"
 
 published-location: https://cloud.ibm.com/docs/overview?topic=overview-price-adjustments
 
@@ -28,7 +28,7 @@ Prices for {{site.data.keyword.cloud_notm}} infrastructure services vary from lo
 | Location| Current Premium | New Premium | Effective Increase |
 |-------|-------|-------|-------|
 | Dallas \n San Jose \n Washington DC | 0% | 0% | No Change |
-| Amsterdam \n Montreal \n Toronto | 3% | 6% | +2.9% |  
+| Amsterdam \n Montreal \n Toronto | 3% | 6% | +2.9% |
 | London | 7% | 13% | +5.6% |
 | Frankfurt \n Madrid \n Milan \n Paris | 10% | 16% | +5.5% |
 | Osaka \n Singapore \n Tokyo | 13% | 20% | +6.2% |
@@ -62,6 +62,7 @@ Effective 1 January 2024, all prices for {{site.data.keyword.cloud_notm}} servic
 - {{site.data.keyword.databases-for-postgresql_full}}
 - {{site.data.keyword.databases-for-redis_full}}
 - {{site.data.keyword.en_full}}
+- {{site.data.keyword.cis_full}}
 - {{site.data.keyword.containerlong}} and {{site.data.keyword.openshiftlong}}
 - {{site.data.keyword.loganalysislong}}
 - {{site.data.keyword.messages-for-rabbitmq_full}}
@@ -73,9 +74,3 @@ Effective 1 January 2024, all prices for {{site.data.keyword.cloud_notm}} servic
 - {{site.data.keyword.cloudantfull}}
 - {{site.data.keyword.messagehub_full}}
 - {{site.data.keyword.keymanagementservicefull}}
-
-
-
-
-
-
