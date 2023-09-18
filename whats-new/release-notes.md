@@ -28,7 +28,7 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 {: release-note}
 
 New pre-release version for software
-:   Versions of a product that are in the pre-release state can help you test your product with a larger audience, gather feedback, and identify and resolve issues before your product is released to the general public. You can now publish an unvalidated version that is in a pre-release state and make it available as part of a product.  Users with access to the product will be able to access a pre-released version. For more information, see [Sharing private catalog offerings](/docs/account?topic=account-catalog-share&interface=ui).
+:   Versions of a product that are in the pre-release state can help you test your product with a larger audience, gather feedback, and identify and resolve issues before your product is released to the general public. You can now publish an unvalidated version that is in a pre-release state and make it available as part of a product. Users with access to the product will be able to access a pre-released version. For more information, see [Sharing private catalog offerings](/docs/account?topic=account-catalog-share&interface=ui).
 
 Cross-account product sharing
 :   You can now share products from your private catalog with other accounts without publishing them to the {{site.data.keyword.cloud_notm}} catalog. For more information, see [Sharing private catalog offerings](/docs/account?topic=account-catalog-share&interface=ui). The administrator of the account that you want to share your product with must accept the share request to opt in to accessing the offerings that you share. For more information, see [Accepting share requests for private catalog offerings](/docs/account?topic=account-catalog-share-accept&interface=ui).
@@ -40,7 +40,7 @@ Expanded integration between catalogs and projects
 :   You can now link a catalog with a project. A successful validation of a linked project will validate the associated version as well. For more information, see the new section [Setting up a target account](/docs/account?topic=account-catalog-cross-validation) in the docs.
 
 Catalog and onboarding support for {{site.data.keyword.IBMz}} when deploying VSI images
-:   ISV Partners and {{site.data.keyword.cloud_notm}} users can now onboard Virtual Server Images with {{site.data.keyword.IBMz_notm}} deployment support. Navigate to your private catalog to get started adding this image. For more information, see [Onboarding software to your account](/docs/account?topic=account-create-private-catalog&interface=ui).
+:   Partners and {{site.data.keyword.cloud_notm}} users can now onboard Virtual Server Images with {{site.data.keyword.IBMz_notm}} deployment support. Navigate to your private catalog to get started adding this image. For more information, see [Onboarding software to your account](/docs/account?topic=account-create-private-catalog&interface=ui).
 
 ### 5 September 2023
 {: #overview-sep0523}
