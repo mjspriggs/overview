@@ -1,6 +1,6 @@
 {
   "title": "IBM Cloud overview docs",
-  "lastupdated": "2023-09-05",
+  "lastupdated": "2023-09-06",
   "introduction": "The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model. Leverage the docs, API & SDK reference, architecture references, and more to support your app development needs.",
   "section_devtools": {
     "api": "/docs?tab=api-docs&category=platform_services",
@@ -46,19 +46,19 @@
     "view_more": "/docs/overview?topic=overview-whatsnew",
     "tiles": [
       {
-        "date": "05 September 2023",
-        "title": "Centrally administer your multi-account environment",
-        "description": "IBM Cloud is excited to announce that you can now centrally administer access and security settings in your organization with Enterprise-managed IAM. By using enterprise IAM templates, you can quickly create and manage access groups and trusted profiles across accounts and easily ensure that all new accounts inherit the same settings. Leveraging Enterprise-managed IAM can help your organization save time and effort, reduce the risk of unauthorized access, stay compliant with industry regulations and better protect your data."
+        "date": "06 September 2023",
+        "title": "New pre-release version for software",
+        "description": "Versions of a product that are in the pre-release state can help you test your product with a larger audience, gather feedback, and identify and resolve issues before your product is released to the general public. You can now publish an unvalidated version that is in a pre-release state and make it available as part of a product. Users with access to the product will be able to access a pre-released version."
       },
       {
-        "date": "1 September 2023",
-        "title": "IBM Cloud January 2024 price changes",
-        "description": "Effective 1 January 2024, prices for some services will be increasing."
+        "date": "06 September 2023",
+        "title": "Cross-account product sharing",
+        "description": "You can now share products from your private catalog with other accounts without publishing them to the IBM Cloud catalog."
       },
       {
-        "date": "11 July 2023",
-        "title": "New multizone region (MZR) available in Madrid",
-        "description": "Resources can be deployed to a new MZR in Madrid, Spain. There are three data centers available in the eu-es region: MAD02, MAD04, and MAD05."
+        "date": "06 September 2023",
+        "title": "New CLI commands for cross-account product sharing",
+        "description": "New ibmcloud catalog account commands are available for cross-account product sharing."
       }
     ]
   }
