@@ -30,6 +30,10 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 Support for onboarding third-party deployable architectures in Partner Center
 :   You can now onboard deployable architectures in Partner Center and publish them to the {{site.data.keyword.cloud_notm}} catalog. A deployable architecture is cloud automation for deploying a common architectural pattern that combines one or more cloud resources that are designed for easy deployment, scalability, and modularity that solves a customer-defined problem. For more information, see [Getting set up to sell deployable architectures](/docs/sell?topic=sell-da-getting-started).
 
+### 6 September 2023
+{: #overview-sep0623}
+{: release-note}
+
 Cross-account product sharing
 :   You can now share products from your private catalog with other accounts without publishing them to the {{site.data.keyword.cloud_notm}} catalog. For more information, see [Sharing private catalog offerings](/docs/account?topic=account-catalog-share&interface=ui). The administrator of the account that you want to share your product with must accept the share request to opt in to accessing the offerings that you share. For more information, see [Accepting share requests for private catalog offerings](/docs/account?topic=account-catalog-share-accept&interface=ui).
 
