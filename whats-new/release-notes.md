@@ -2,9 +2,9 @@
 copyright:
   years: 2015, 2023
 
-lastupdated: "2023-09-06"
+lastupdated: "2023-09-20"
 
-keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes, new
+keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
 subcollection: overview
 
@@ -17,18 +17,18 @@ content-type: release-note
 # Release notes for the {{site.data.keyword.cloud_notm}} platform
 {: #whatsnew}
 
-Stay up-to-date with the new features that are available on the {{site.data.keyword.Bluemix}} platform so that you get the most out of your {{site.data.keyword.Bluemix_notm}} experience.
+Stay up-to-date with the new features that are available on the {{site.data.keyword.Bluemix}} platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience.
 {: shortdesc}
 
 ## September 2023
 {: #sept-2023}
 
-### 6 September 2023
-{: #overview-sep0623}
+### 20 September 2023
+{: #overview-sep2023}
 {: release-note}
 
-New pre-release version for software
-:   Versions of a product that are in the pre-release state can help you test your product with a larger audience, gather feedback, and identify and resolve issues before your product is released to the general public. You can now publish an unvalidated version that is in a pre-release state and make it available as part of a product. Users with access to the product will be able to access a pre-released version. For more information, see [Sharing private catalog offerings](/docs/account?topic=account-catalog-share&interface=ui).
+Support for onboarding third-party deployable architectures in Partner Center
+:   You can now onboard deployable architectures in Partner Center and publish them to the {{site.data.keyword.cloud_notm}} catalog. A deployable architecture is cloud automation for deploying a common architectural pattern that combines one or more cloud resources that are designed for easy deployment, scalability, and modularity that solves a customer-defined problem. For more information, see [Getting set up to sell deployable architectures](/docs/sell?topic=sell-da-getting-started).
 
 Cross-account product sharing
 :   You can now share products from your private catalog with other accounts without publishing them to the {{site.data.keyword.cloud_notm}} catalog. For more information, see [Sharing private catalog offerings](/docs/account?topic=account-catalog-share&interface=ui). The administrator of the account that you want to share your product with must accept the share request to opt in to accessing the offerings that you share. For more information, see [Accepting share requests for private catalog offerings](/docs/account?topic=account-catalog-share-accept&interface=ui).

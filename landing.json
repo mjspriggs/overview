@@ -1,6 +1,6 @@
 {
   "title": "IBM Cloud overview docs",
-  "lastupdated": "2023-09-06",
+  "lastupdated": "2023-09-20",
   "introduction": "The platform is built to support your needs whether it's working only in the public cloud or taking advantage of a multicloud deployment model. Leverage the docs, API & SDK reference, architecture references, and more to support your app development needs.",
   "section_devtools": {
     "api": "/docs?tab=api-docs&category=platform_services",
@@ -46,19 +46,19 @@
     "view_more": "/docs/overview?topic=overview-whatsnew",
     "tiles": [
       {
+        "date": "20 September 2023",
+        "title": "Support for onboarding third-party deployable architectures in Partner Center",
+        "description": "You can now onboard deployable architectures in Partner Center and publish them to the IBM Cloud catalog. A deployable architecture is cloud automation for deploying a common architectural pattern that combines one or more cloud resources that are designed for easy deployment, scalability, and modularity that solves a customer-defined problem."
+      },
+      {
         "date": "06 September 2023",
         "title": "New pre-release version for software",
-        "description": "Versions of a product that are in the pre-release state can help you test your product with a larger audience, gather feedback, and identify and resolve issues before your product is released to the general public. You can now publish an unvalidated version that is in a pre-release state and make it available as part of a product. Users with access to the product will be able to access a pre-released version."
+        "description": "Versions of a product that are in the pre-release state can help you test your product with a larger audience, gather feedback, and identify and resolve issues before your product is released to the general public. You can now publish an unvalidated version that is in a pre-release state and make it available as part of a product. Users with access to the product are able to access a pre-released version."
       },
       {
         "date": "06 September 2023",
         "title": "Cross-account product sharing",
         "description": "You can now share products from your private catalog with other accounts without publishing them to the IBM Cloud catalog."
-      },
-      {
-        "date": "06 September 2023",
-        "title": "New CLI commands for cross-account product sharing",
-        "description": "New ibmcloud catalog account commands are available for cross-account product sharing."
       }
     ]
   }
