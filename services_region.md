@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2023
-lastupdated: "2023-09-21"
+lastupdated: "2023-09-22"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -208,7 +208,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Flow Logs for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Functions | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Historical Instrument Analytics |  |  |  | 
-| Hyper Protect Crypto Services | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
+| Hyper Protect Crypto Services | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Hyper Protect DBaaS for MongoDB |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Hyper Protect DBaaS for PostgreSQL |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Hyper Protect Virtual Server for Classic |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
