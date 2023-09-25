@@ -3,7 +3,7 @@
 
 copyright:
   years: 2023
-lastupdated: "2023-09-18"
+lastupdated: "2023-09-25"
 
 published-location: https://cloud.ibm.com/docs/overview?topic=overview-price-adjustments
 
@@ -36,9 +36,9 @@ Prices for {{site.data.keyword.cloud_notm}} infrastructure services vary from lo
 | Sao Paulo | 20% | 29% | +7.5% |
 {: caption="Table 1. IaaS pricing changes" caption-side="top"}
 
-These new premiums will apply to Bare Metal Servers, Virtual Server Instances, File and Block Storage, and Networking infrastructure, for both Classic and VPC offerings, and, in Sao Paulo only, {{site.data.keyword.cos_full}}.
+These new premiums will apply to Bare Metal Servers, Virtual Server Instances, File and Block Storage, and Networking infrastructure, for both Classic and VPC offerings.
 
-Additionally, {{site.data.keyword.cos_short}} will increase prices globally by 25% for Accelerated Archive storage and 26% for Deep Archive storage.
+For {{site.data.keyword.cos_full}}, the premiums that are mentioned in the previous table will affect the {{site.data.keyword.cos_short}} service only in the Sao Paulo region. Furthermore, there will be a global increase of 25% in **Archive** prices and a 26% increase for **Accelerated Archive** storage.
 
 There will be no changes to the existing premiums for {{site.data.keyword.powerSysFull}}, third-party software, or network bandwidth.
 
