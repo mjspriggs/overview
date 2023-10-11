@@ -283,7 +283,7 @@ You can also scope your view of the catalog by using the **Provider** filter to 
 ### Searching the catalog for deployable architectures
 {: #deployable-arch-search}
 
-You can search our growing catalog of deployable architectures to find preassmbled cloud auotmation solutions that solve common enterprise business needs, for example a secure infrastructure layer for highly regulated industries, such as financial services.
+You can search our growing catalog of deployable architectures to find preassmbled cloud automation solutions that solve common enterprise business needs, for example a secure infrastructure layer for highly regulated industries, such as financial services.
 
 The following table lists the filter options that you can use when searching the catalog for deployable architectures.
 
